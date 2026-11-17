@@ -1,0 +1,21 @@
+{% load campus_ui %}
+<section class="security-card db-health-panel">
+  <div class="db-health-heading"><div><p class="eyebrow">DATABASE / VERIFIED EVIDENCE</p><h2>{% tr '数据库健康检查' %}</h2><p>{% tr '完整检查结构、索引与外键关联，仅记录汇总结果。' %}</p></div>
+    <form method="post" action="{% url 'security-database-inspect' %}" data-busy-form>{% csrf_token %}<button class="security-primary">{% tr '执行完整检查' %} ↻</button></form>
+  </div>
+  {% if database_inspection %}
+  {% with report=database_inspection.report %}
+  <p><span class="security-state {% if database_inspection.healthy %}verified{% else %}failed{% endif %}">{% if database_inspection.healthy %}{% tr '检查通过' %}{% else %}{% tr '需复查' %}{% endif %}</span> · {{ database_inspection.created_at|date:'Y-m-d H:i:s' }} · {{ report.duration_ms }} ms</p>
+  <dl class="db-health-grid">
+    <div><dt>{% tr '完整性检查' %}</dt><dd>{% if report.completed %}{% if report.integrity_ok %}{% tr '通过' %}{% else %}{% tr '需复查' %}{% endif %}{% else %}{% tr '未完成' %}{% endif %}</dd></div>
+    <div><dt>{% tr '外键异常' %}</dt><dd>{{ report.foreign_key_errors|default_if_none:'—' }}</dd></div>
+    <div><dt>{% tr '数据表 / 索引' %}</dt><dd>{{ report.table_count|default:0 }} / {{ report.index_count|default:0 }}</dd></div>
+    <div><dt>{% tr '日志模式' %}</dt><dd>{{ report.journal_mode|default:'—'|upper }}</dd></div>
+    <div><dt>{% tr '数据库 / WAL' %}</dt><dd>{{ report.size|filesizeformat }} / {{ report.wal_size|filesizeformat }}</dd></div>
+    <div><dt>{% tr '可复用空闲页' %}</dt><dd>{{ report.free_pages|default:0 }}</dd></div>
+  </dl>
+  {% endwith %}
+  <details><summary>{% tr '最近检查记录' %}</summary><ul class="db-check-history">{% for row in database_checks %}<li><time>{{ row.created_at|date:'m-d H:i:s' }}</time><span>{% if row.healthy %}{% tr '检查通过' %}{% else %}{% tr '需复查' %}{% endif %}</span><small>{{ row.report.duration_ms }} ms</small></li>{% endfor %}</ul></details>
+  {% else %}<p>{% tr '尚未执行完整检查，点击按钮生成真实检查记录。' %}</p>{% endif %}
+  <p class="chart-note">{% tr '结果是检查时的快照；空闲页可由后续写入复用，无需立即清理。' %}</p>
+</section>

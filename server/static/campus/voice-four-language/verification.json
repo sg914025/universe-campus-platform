@@ -1,0 +1,459 @@
+{
+  "source": "用户提供的四语模型.zip",
+  "engines": {
+    "zh": "GPT-SoVITS v2 e4",
+    "en": "GPT-SoVITS v2 e4",
+    "ja": "GPT-SoVITS v2 e4",
+    "ru": "XTTS-v2 + supplied voice conditioning"
+  },
+  "records": [
+    {
+      "language": "zh",
+      "key": "home_morning",
+      "sample_rate": 32000,
+      "seconds": 5.2,
+      "rms": 0.04443,
+      "sha256": "e3ac715d17f3da0a9cc043e9e1f55cf74161703b564872b3785be27a45d8cadf"
+    },
+    {
+      "language": "zh",
+      "key": "home_noon",
+      "sample_rate": 32000,
+      "seconds": 5.62,
+      "rms": 0.04303,
+      "sha256": "c5063c18fb447675b41df6cb9d3fb458d4eccd974d910628ff4e077ac50c7375"
+    },
+    {
+      "language": "zh",
+      "key": "home_afternoon",
+      "sample_rate": 32000,
+      "seconds": 4.68,
+      "rms": 0.04146,
+      "sha256": "72277d192df8bac228342055fca31215bd3cb54f92e54154b109132b7b73cde7"
+    },
+    {
+      "language": "zh",
+      "key": "home_evening",
+      "sample_rate": 32000,
+      "seconds": 4.82,
+      "rms": 0.04416,
+      "sha256": "621e714a09960114f1be67aa06efc8d5e8941bf69773f9276e5da2471bbf8b7d"
+    },
+    {
+      "language": "zh",
+      "key": "home_night",
+      "sample_rate": 32000,
+      "seconds": 6.08,
+      "rms": 0.05022,
+      "sha256": "090f0183ed50f913ed2adc7cb0dc51ea616610c94391bbc3921a508dd5aab333"
+    },
+    {
+      "language": "zh",
+      "key": "forum_hello",
+      "sample_rate": 32000,
+      "seconds": 5.16,
+      "rms": 0.04052,
+      "sha256": "fbe650a4f7d6eb28e4829515e1b93ebb494922569527a44e451139a265be6fa3"
+    },
+    {
+      "language": "zh",
+      "key": "forum_extra",
+      "sample_rate": 32000,
+      "seconds": 6.1,
+      "rms": 0.05126,
+      "sha256": "90af19df23013fa3c3e97cb75d26c01f90a187e8491f952f8bb7b9bc59c1e1c9"
+    },
+    {
+      "language": "zh",
+      "key": "errands_hello",
+      "sample_rate": 32000,
+      "seconds": 5.8,
+      "rms": 0.04506,
+      "sha256": "d705df7a82b461863ee498c8e0d5f71c67c4665913a94fe95fddacbc209c7e74"
+    },
+    {
+      "language": "zh",
+      "key": "errands_extra",
+      "sample_rate": 32000,
+      "seconds": 5.38,
+      "rms": 0.04243,
+      "sha256": "5c3ba2c86569ba8b300ac0ca39f7041f61ba24ed0d6a773702a82546b6919944"
+    },
+    {
+      "language": "zh",
+      "key": "guide_hello",
+      "sample_rate": 32000,
+      "seconds": 7.3,
+      "rms": 0.04941,
+      "sha256": "385ed142dc2ae23a216fa7a8f02395e5ba2c49711c80928075e851388d78bcb1"
+    },
+    {
+      "language": "zh",
+      "key": "guide_extra",
+      "sample_rate": 32000,
+      "seconds": 8.24,
+      "rms": 0.04867,
+      "sha256": "cc1d2c1a1c9ea0fcec46647df6415448931b9842b2669b2d4f3c0586db091e6b"
+    },
+    {
+      "language": "zh",
+      "key": "booking_hello",
+      "sample_rate": 32000,
+      "seconds": 6.12,
+      "rms": 0.04581,
+      "sha256": "d5c5c19688d2343fb6a95efda042f7a846dd446800fbcee87de193b7185dd81e"
+    },
+    {
+      "language": "zh",
+      "key": "booking_extra",
+      "sample_rate": 32000,
+      "seconds": 6.72,
+      "rms": 0.04632,
+      "sha256": "cf93f0b62294011fb9d5dbf4742576e1bb02570ad290bdda6e7f6451b17c5fa9"
+    },
+    {
+      "language": "zh",
+      "key": "home_plan",
+      "sample_rate": 32000,
+      "seconds": 5.96,
+      "rms": 0.04466,
+      "sha256": "0b9dc2e1dbf35e77fb67648dd8f619424cd535287482165c75b8761765831a4e"
+    },
+    {
+      "language": "en",
+      "key": "home_morning",
+      "sample_rate": 32000,
+      "seconds": 6.22,
+      "rms": 0.04287,
+      "sha256": "ed30389394afe050fa61fdb7e99f544a1efaf4eef3bffc67b686417aaa1ea20d"
+    },
+    {
+      "language": "en",
+      "key": "home_noon",
+      "sample_rate": 32000,
+      "seconds": 5.24,
+      "rms": 0.03996,
+      "sha256": "657c9b9c456021cd35b9a3a28b45b2973f4f64ec2337513214da379ffe20cea6"
+    },
+    {
+      "language": "en",
+      "key": "home_afternoon",
+      "sample_rate": 32000,
+      "seconds": 4.36,
+      "rms": 0.04135,
+      "sha256": "a23f92567830fd859418bc7696abbc6545ef53dffa0fd0371789466f3a984d0c"
+    },
+    {
+      "language": "en",
+      "key": "home_evening",
+      "sample_rate": 32000,
+      "seconds": 5.56,
+      "rms": 0.03738,
+      "sha256": "bbb95874eb13b3c4722620d9b7c3b64c787ab5686751d925f44fc26416f6fbbc"
+    },
+    {
+      "language": "en",
+      "key": "home_night",
+      "sample_rate": 32000,
+      "seconds": 5.2,
+      "rms": 0.03798,
+      "sha256": "c08a403604d6ec75d55f191194d8a7c3c5e2d6d5446e893f7356dd4293d983df"
+    },
+    {
+      "language": "en",
+      "key": "forum_hello",
+      "sample_rate": 32000,
+      "seconds": 4.54,
+      "rms": 0.04166,
+      "sha256": "e56ccacfdf5c06078fd7b2a81b4d6c5b210965ef6ca030c1f17484005c4b6ef7"
+    },
+    {
+      "language": "en",
+      "key": "forum_extra",
+      "sample_rate": 32000,
+      "seconds": 5.06,
+      "rms": 0.04795,
+      "sha256": "1a5b4380f0adb36dd05d1b6f95b7773217f0c1abff4990ec7fa06e5458a05438"
+    },
+    {
+      "language": "en",
+      "key": "errands_hello",
+      "sample_rate": 32000,
+      "seconds": 5.46,
+      "rms": 0.04725,
+      "sha256": "f5ad5b36697ace319d613ae33e1e7addba8d2c0e96c24313c009ef2aeb382a9e"
+    },
+    {
+      "language": "en",
+      "key": "errands_extra",
+      "sample_rate": 32000,
+      "seconds": 5.86,
+      "rms": 0.04035,
+      "sha256": "ebf27da0cab1d53dff1a70fbcf5dae4e5ad11e130308d026664bcdaf5d8f64a0"
+    },
+    {
+      "language": "en",
+      "key": "guide_hello",
+      "sample_rate": 32000,
+      "seconds": 5.46,
+      "rms": 0.0452,
+      "sha256": "fd73050e5fe7f995df512dd8dfc21d0d6038060e05169d152bab32ec9df5b71a"
+    },
+    {
+      "language": "en",
+      "key": "guide_extra",
+      "sample_rate": 32000,
+      "seconds": 6.7,
+      "rms": 0.04714,
+      "sha256": "e51a0dc993f3d243e2fbbda365667570cd5be6cc794d7e1d03821baf3a39d5c9"
+    },
+    {
+      "language": "en",
+      "key": "booking_hello",
+      "sample_rate": 32000,
+      "seconds": 5.64,
+      "rms": 0.03667,
+      "sha256": "9f0d4efbb847dde9e331ba4dc06d7f4db738a340749c6ed9a8b900abf6462c6f"
+    },
+    {
+      "language": "en",
+      "key": "booking_extra",
+      "sample_rate": 32000,
+      "seconds": 5.78,
+      "rms": 0.03954,
+      "sha256": "eb3d21c3b08ebad70a8957b34bd623b376061e6bd219b7422de8c220111b3d56"
+    },
+    {
+      "language": "en",
+      "key": "home_plan",
+      "sample_rate": 32000,
+      "seconds": 8.64,
+      "rms": 0.03535,
+      "sha256": "f79073fd066fb24973d141ebf07c4b61464aaa0c5ac5a538e942fa3746b87aaf"
+    },
+    {
+      "language": "ja",
+      "key": "home_morning",
+      "sample_rate": 32000,
+      "seconds": 5.52,
+      "rms": 0.05746,
+      "sha256": "8df58eac6fae2d056af23eb229f16a4cd98dc7b0ae836fd853e196ea34198fbe"
+    },
+    {
+      "language": "ja",
+      "key": "home_noon",
+      "sample_rate": 32000,
+      "seconds": 5.04,
+      "rms": 0.05065,
+      "sha256": "b63bfbf6b698fd234351c5e74160aed05196d89621cf81cae18defc4b1c9fc1c"
+    },
+    {
+      "language": "ja",
+      "key": "home_afternoon",
+      "sample_rate": 32000,
+      "seconds": 4.64,
+      "rms": 0.05886,
+      "sha256": "ef6217f3c755fdf1b5cdc54171bb9f07a5e6f3ffe088fafd88fb1e442cfe55ba"
+    },
+    {
+      "language": "ja",
+      "key": "home_evening",
+      "sample_rate": 32000,
+      "seconds": 7.44,
+      "rms": 0.05219,
+      "sha256": "a34f382f00d255e8f19763cc8d7ff0039fb1bdc7d24642aca71eec49b64fe803"
+    },
+    {
+      "language": "ja",
+      "key": "home_night",
+      "sample_rate": 32000,
+      "seconds": 5.44,
+      "rms": 0.05839,
+      "sha256": "5d382e80041965f75384a3ed5d234a915ca87eda8efd0b0232951bb1c9e3c3f6"
+    },
+    {
+      "language": "ja",
+      "key": "forum_hello",
+      "sample_rate": 32000,
+      "seconds": 5.06,
+      "rms": 0.05857,
+      "sha256": "b85708773dfe16a3e78720f691ab3c5ef256dea90c9eab973dd066fda690e2ca"
+    },
+    {
+      "language": "ja",
+      "key": "forum_extra",
+      "sample_rate": 32000,
+      "seconds": 6.12,
+      "rms": 0.05546,
+      "sha256": "a3ee780035a273876bb1a533b01896b7720218af9dccc04e44812b0bf4cee265"
+    },
+    {
+      "language": "ja",
+      "key": "errands_hello",
+      "sample_rate": 32000,
+      "seconds": 5.46,
+      "rms": 0.05787,
+      "sha256": "ce345250e0e7f6fedc2d2466f72ff43565faada50b51f6f3fa45167314e06da1"
+    },
+    {
+      "language": "ja",
+      "key": "errands_extra",
+      "sample_rate": 32000,
+      "seconds": 5.06,
+      "rms": 0.06044,
+      "sha256": "2a928b013faf278e7380deaee257f980b83e4485c8c35e4b63039c817cc855f4"
+    },
+    {
+      "language": "ja",
+      "key": "guide_hello",
+      "sample_rate": 32000,
+      "seconds": 7.28,
+      "rms": 0.05668,
+      "sha256": "64ee7a69317a72945616e1d2bb2de0409013db1747436739b6bb20ae534b98bf"
+    },
+    {
+      "language": "ja",
+      "key": "guide_extra",
+      "sample_rate": 32000,
+      "seconds": 7.16,
+      "rms": 0.05443,
+      "sha256": "f528b99736c0db9f326d7c10f5e02598c38a381a9d025d8bbe7db25df5672342"
+    },
+    {
+      "language": "ja",
+      "key": "booking_hello",
+      "sample_rate": 32000,
+      "seconds": 5.24,
+      "rms": 0.05487,
+      "sha256": "4259e1e5550e142d1f2c50d9f56e7d64cdad34d559b62a7118216087824e43cf"
+    },
+    {
+      "language": "ja",
+      "key": "booking_extra",
+      "sample_rate": 32000,
+      "seconds": 5.96,
+      "rms": 0.05688,
+      "sha256": "38bad2071e731cff4b55423ff069beb48a535694b92e8d950052e63eeab37eea"
+    },
+    {
+      "language": "ja",
+      "key": "home_plan",
+      "sample_rate": 32000,
+      "seconds": 6.22,
+      "rms": 0.05329,
+      "sha256": "06c7e57427b30f0a65f0abda9b316da0b88be7dd786f3afa5a15bdd1579e4c31"
+    },
+    {
+      "language": "ru",
+      "key": "home_morning",
+      "sample_rate": 24000,
+      "seconds": 9.26,
+      "rms": 0.06692,
+      "sha256": "8163c02a3db078b11c749ebf566eb66297347e457636f0f6936307b60065b953"
+    },
+    {
+      "language": "ru",
+      "key": "home_noon",
+      "sample_rate": 24000,
+      "seconds": 7.14,
+      "rms": 0.04573,
+      "sha256": "9a68d7edd1108cb45567913a29867c0efd8414f4eb554f291b065b5ef257622a"
+    },
+    {
+      "language": "ru",
+      "key": "home_afternoon",
+      "sample_rate": 24000,
+      "seconds": 4.43,
+      "rms": 0.05102,
+      "sha256": "d17db0426decaa238d7e243a31af4ef40447635e05a69480a24e3eec7b6545be"
+    },
+    {
+      "language": "ru",
+      "key": "home_evening",
+      "sample_rate": 24000,
+      "seconds": 7.21,
+      "rms": 0.08732,
+      "sha256": "96c062487cb3a2d01deebecdbe0212fa1e0e87e7b13ddbf8442665849430008a"
+    },
+    {
+      "language": "ru",
+      "key": "home_night",
+      "sample_rate": 24000,
+      "seconds": 5.78,
+      "rms": 0.05861,
+      "sha256": "7084fbfa3df128f157066a1bbffb08aa4b11f83d96d5284e6df2755948e00066"
+    },
+    {
+      "language": "ru",
+      "key": "forum_hello",
+      "sample_rate": 24000,
+      "seconds": 7.14,
+      "rms": 0.05794,
+      "sha256": "afef0bcc68aad703cfeb5eb800023e253f880ccfc099f41a4da88732d949ff56"
+    },
+    {
+      "language": "ru",
+      "key": "forum_extra",
+      "sample_rate": 24000,
+      "seconds": 7.1,
+      "rms": 0.06686,
+      "sha256": "fe332169e0e02042c45a6c767339f3a10b68b9e3c36acead1298a03de411d8bb"
+    },
+    {
+      "language": "ru",
+      "key": "errands_hello",
+      "sample_rate": 24000,
+      "seconds": 6.23,
+      "rms": 0.07956,
+      "sha256": "ceabb1fabbad1d206f767b7242764f74df90c6538da9e2418ed18dc6c54ae9d0"
+    },
+    {
+      "language": "ru",
+      "key": "errands_extra",
+      "sample_rate": 24000,
+      "seconds": 7.69,
+      "rms": 0.05811,
+      "sha256": "ac4740eceb17b35169d09c0831936ed86525f1ef7de276b1306234f4fc53c65f"
+    },
+    {
+      "language": "ru",
+      "key": "guide_hello",
+      "sample_rate": 24000,
+      "seconds": 7.69,
+      "rms": 0.06889,
+      "sha256": "5c06a9f3cfc2170a68fd9883897fe2f4cf71bb98a4175504f249f5e1c62a8a1b"
+    },
+    {
+      "language": "ru",
+      "key": "guide_extra",
+      "sample_rate": 24000,
+      "seconds": 5.82,
+      "rms": 0.07015,
+      "sha256": "d0ef97e9feb7597f467ebaea0a2b2b1a06cb39bf0e79e5a5759f6e5b509ea6bc"
+    },
+    {
+      "language": "ru",
+      "key": "booking_hello",
+      "sample_rate": 24000,
+      "seconds": 5.21,
+      "rms": 0.0728,
+      "sha256": "62f7cd446ef7f5cbf025fc90fd67aa72db5da2be6ec586c45b31c81f40ee3b68"
+    },
+    {
+      "language": "ru",
+      "key": "booking_extra",
+      "sample_rate": 24000,
+      "seconds": 7.0,
+      "rms": 0.05846,
+      "sha256": "628c4869a0ebff71f5db8e07090aabf8e52d49ca3cb6c20f237ccf4b2ccc38bb"
+    },
+    {
+      "language": "ru",
+      "key": "home_plan",
+      "sample_rate": 24000,
+      "seconds": 5.93,
+      "rms": 0.08314,
+      "sha256": "2b57c22782907252a9128cdd4a7a834e83e1d9dd600e9d329cf83f4d61e01ffe"
+    }
+  ]
+}

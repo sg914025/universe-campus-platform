@@ -1,0 +1,90 @@
+/* Shared controls use native device preferences until the visitor chooses. */
+.uv-theme-toggle{display:inline-flex;align-items:center;justify-content:center;gap:5px;white-space:nowrap;border:1px solid #cddfdb!important;background:#edf5f1!important;color:#315f54!important;padding:7px 11px!important;font:12px/1.5 "Segoe UI","Microsoft YaHei",sans-serif!important;border-radius:9px!important;cursor:pointer;box-shadow:none!important}
+.uv-theme-toggle:focus-visible{outline:3px solid #78bba1;outline-offset:3px}
+.uv-theme-floating{position:fixed;right:20px;top:17px;z-index:90}
+.auth-language{display:flex;align-items:center;gap:10px}
+.sun-corner .uv-moon{display:none;animation:uv-moon-float 5s ease-in-out infinite}
+.sun-corner.celestial-night>svg:not(.uv-moon){display:none}
+.sun-corner.celestial-night>.uv-moon{display:block;filter:drop-shadow(0 7px 20px #afc2e22a)!important}
+@keyframes uv-moon-float{50%{transform:translateY(-5px) rotate(-3deg)}}
+.uv-voice{padding:12px 22px 18px;border-top:1px solid #e1e9e7;background:#f8fbfa;border-radius:0 0 20px 20px}
+.uv-voice-tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.uv-voice-tools button{padding:7px 11px!important;background:#eef5f2!important;border:1px solid #d6e5dd!important;color:#356b5d!important;border-radius:8px!important;font-size:12px!important;box-shadow:none!important;cursor:pointer}
+.uv-voice-tools button:disabled{opacity:.45;cursor:not-allowed}
+.uv-voice-tools .is-listening,.uv-voice-tools.is-listening .uv-voice-mic{background:#9e4a45!important;color:#fff!important;border-color:#9e4a45!important}
+.uv-voice .uv-voice-auto{display:flex;align-items:center;gap:6px;margin:0 0 0 auto;font-size:12px}
+.uv-voice-auto input{width:15px!important;height:15px;accent-color:#287865}
+.uv-voice-note,.uv-voice-status{margin:8px 0 0;color:#798b85;font-size:10px;line-height:1.7}
+.uv-voice-status:empty{display:none}
+body[data-design="guide"] .sidebar .nav a{color:#bddbd0}
+body[data-design="guide"] .sidebar .nav a:hover{color:#fff}
+/* The theme applies to every document shell; semantic warnings keep their hues. */
+html[data-theme="dark"]{color-scheme:dark;--uv-paper:#101c25;--uv-card:#192a35;--uv-ink:#e1ecee;--uv-muted:#a2b5bc;--uv-line:#304550;--uv-accent:#74c9b2;--uv-soft:#253f3e;--uv-shadow:0 10px 32px #00000015}
+html[data-theme="dark"] body[data-design]{background-color:#101c25;background-image:radial-gradient(#668a9b16 .7px,transparent .7px);color:#deeaed;--green:#81cdbb;--ink:#deeaed;--muted:#9eb1b8;--line:#304550;--uv-accent:#85cbb6}
+html[data-theme="dark"] body[data-design="forum"]{--uv-accent:#abc697}
+html[data-theme="dark"] body[data-design="errands"]{--uv-accent:#d4ae82}
+html[data-theme="dark"] body[data-design="booking"]{--uv-accent:#b8a6d7}
+html[data-theme="dark"] body[data-design="staff"]{--uv-accent:#a1c4e4}
+html[data-theme="dark"] body[data-design] :is(h1,h2,h3,h4){color:#e6f0f2}
+html[data-theme="dark"] body[data-design] a{color:#a6d0c5}
+html[data-theme="dark"] body[data-design] :is(p,.muted,.hint,.help,.helptext,.meta,.intro,.input-footer,.field label,footer,.list-heading>span,.guide p){color:#a4b9bd}
+html[data-theme="dark"] body[data-design] :is(.header,.service-header,.manage-header,.run-header,.admin-topbar,.topbar,header,.auth-panel,.resource-nav){background:#172832;border-color:#304550;color:#dce9ed;box-shadow:0 7px 25px #00000010}
+html[data-theme="dark"] body[data-design] :is(.brand,.brand strong,.service-brand,.run-brand,.identity strong){color:#e0efee}
+html[data-theme="dark"] body[data-design] :is(.brand small,.run-brand small,.account a,.header nav a){color:#a5c1bd}
+html[data-theme="dark"] body[data-design] :is(.panel,.card,.sheet,.account-sheet,.postcard,.task-card,.venue-card,.booking-card,.room-card,.department-card,.profile-card,.stat,.role-card,.login-shell,.auth-layout,.journey-panel,.assistant-work,.assistant-stage,.attention,.notice-list,.service-list,.notification,.case-link,.management-section){background:#192c37;border-color:#304751;color:#dae9ed;box-shadow:0 9px 30px #00000012}
+html[data-theme="dark"] body[data-design] :is(input:not([type=checkbox]):not([type=radio]):not([type=hidden]),select,textarea){background:#13242f;color:#dce9ed;border-color:#38515c}
+html[data-theme="dark"] body[data-design] :is(input,textarea)::placeholder{color:#829ba5}
+html[data-theme="dark"] body[data-design="assistant"] .assistant-chat-form #assistant-input:focus{background:#152b35;color:#deebef;box-shadow:0 0 0 2px #75bda244}
+html[data-theme="dark"] body[data-design] :is(th){background:#223943;color:#bbd3d8}
+html[data-theme="dark"] body[data-design] :is(th,td){border-color:#314852}
+html[data-theme="dark"] body[data-design] :is(.filters,.quickbar,.home-welcome,.section-tabs,.run-steps,.tabs,.assistant-steps,.assistant-chat-form,.composer-area,.chat-top,.uv-voice){background:#192e38;border-color:#314952;color:#bed3d7}
+html[data-theme="dark"] body[data-design] :is(.home-welcome strong,.stat strong,.price,.task-card h3 a,.postcard h3 a,.venue-card h2,.page-heading h1,.heading h1){color:#d4e6df}
+html[data-theme="dark"] body[data-design] :is(.hero-summary,.private-tip,.wallet,.private-box,.disclosure,.profile-account,.announcements){background:#223a3b;border-color:#3b5351;color:#b9d4ca}
+html[data-theme="dark"] body[data-design="errands"] .hero-summary :is(strong,span,p){color:#e2c49e}
+html[data-theme="dark"] body[data-design="home"] .entry.forum{background:linear-gradient(145deg,#2b3e30,#20322d);border-color:#3f5541;color:#bdd2a8}
+html[data-theme="dark"] body[data-design="home"] .entry.errands{background:linear-gradient(145deg,#47392e,#332f2c);border-color:#63503e;color:#e0c295}
+html[data-theme="dark"] body[data-design="home"] .entry.guide{background:linear-gradient(145deg,#24433d,#203532);border-color:#385e51;color:#a9d6c5}
+html[data-theme="dark"] body[data-design="home"] .entry.booking{background:linear-gradient(145deg,#3a354d,#2d2b40);border-color:#514664;color:#c6b9df}
+html[data-theme="dark"] body[data-design="home"] .entry h2{color:inherit}
+html[data-theme="dark"] body[data-design="home"] .entry :is(p,.entry-number){color:#b1c2bf}
+html[data-theme="dark"] body[data-design="home"] .entry-arrow{background:#ffffff0a;border-color:#ffffff10;color:inherit}
+html[data-theme="dark"] body[data-design="home"] .entry-bottom{border-color:#ffffff18}
+html[data-theme="dark"] body[data-design="home"] .chat-paper{color:#526748}
+html[data-theme="dark"] body[data-design="home"] .mini-calendar{color:#75618f}
+html[data-theme="dark"] body[data-design="home"] .home-weather{background:#18333c;border-color:#38616a;color:#c6dbd5}
+html[data-theme="dark"] body[data-design="home"] .home-weather :is(.weather-location,.weather-now strong){color:#d1ece0}
+html[data-theme="dark"] body[data-design="home"] .home-weather :is(p,small,button,a){color:#b2c9c0}
+html[data-theme="dark"] body[data-design="home"] .home-weather button{background:#254a49;border-color:#426a60}
+html[data-theme="dark"] body[data-design="home"] .home-welcome>a{color:#d2ebe0;background:#234b45;border-color:#366257}
+html[data-theme="dark"] body[data-design="booking"] .page-head{background:linear-gradient(115deg,#302c45,#222e3e);border-color:#4c4260}
+html[data-theme="dark"] body[data-design="booking"] .page-head h1{color:#e2d7ef}
+html[data-theme="dark"] body[data-design="booking"] .venue-icon{background:#2c2c43}
+html[data-theme="dark"] body[data-design="booking"] .type-label{background:#37324a;border-color:#534965;color:#c8badd}
+html[data-theme="dark"] body[data-design] :is(.assistant-message,.message.assistant .bubble,.suggestion,.suggestion-card,.result-card,.faq-item,.dept-card){background:#233f40;border-color:#365955;color:#d0e7dd}
+html[data-theme="dark"] body[data-design] :is(.assistant-message.user,.message.user .bubble){background:#2c3b50;border-color:#3a4c63;color:#d7e4f1}
+html[data-theme="dark"] body[data-design] :is(.assistant-venue,.assistant-receipt,.assistant-confirm,.journey-step,.journey-step[aria-pressed=true]){background:#203a3b;border-color:#43645c;color:#d4e6df}
+html[data-theme="dark"] body[data-design] :is(.quiet,.secondary,.tabs a,.assistant-choices button,.reply-chips button){background:#29443f;color:#c6e0d6;border-color:#42645a}
+html[data-theme="dark"] body[data-design] :is(.submit,.join,.journey-primary,.primary){color:#0b2c29}
+html[data-theme="dark"] body[data-design] .mascot-dialog{background:#172c35f5;color:#d7e9e6;border-color:#3b5158;box-shadow:0 10px 30px #0003}
+html[data-theme="dark"] body[data-design] .mascot-dialog :is(p,small,label,a){color:#bed7cf}
+html[data-theme="dark"] body[data-design] .mascot-controls :is(button,select){background:#283d46;color:#d1dbdf;border-color:#4a5d65}
+html[data-theme="dark"] .uv-theme-toggle,html[data-theme="dark"] .uv-voice-tools button{background:#284740!important;color:#c4e4d6!important;border-color:#42675a!important}
+html[data-theme="dark"] .uv-voice :is(p,label){color:#aac7bd}
+html[data-theme="dark"] body[data-design="guide"] :is(.support-card,.support-note,.tips-card,.info-card,.welcome .suggestions button){background:#1d343d;border-color:#3b535b;color:#d0e1df}
+html[data-theme="dark"] body[data-design="guide"] .tip{background:#293c2f;border-color:#47604a;color:#c5d8bd}
+html[data-theme="dark"] body[data-design="guide"] .urgent{background:#422f28;border-color:#73503b;color:#f1cfb0}
+html[data-theme="dark"] body[data-design="guide"] :is(.starter,.composer,.quick-links a,.faq-question,.faq-answer){background:#1e3740;border-color:#3b535b;color:#d0e1df}
+html[data-theme="dark"] body[data-design="guide"] .starter strong{color:#daebeb}
+html[data-theme="dark"] body[data-design="guide"] .composer:focus-within{box-shadow:0 0 0 2px #75bda244}
+html[data-theme="dark"] body[data-design="guide"] .tips{background:#2a402f;border-color:#45624b}
+html[data-theme="dark"] body[data-design="guide"] .tips :is(p,strong){color:#bbd2b5}
+html[data-theme="dark"] body[data-design="guide"] :is(.emergency-card,.emergency-link){background:#3d3028;border-color:#705641;color:#f0c9a6}
+html[data-theme="dark"] body[data-design="guide"] .emergency-card :is(p,.aside-title){color:#e2bd9b}
+html[data-theme="dark"] body[data-design="guide"] .crumb strong{color:#bfd3cd}
+html[data-theme="dark"] body[data-design="staff"] .login-story{background:linear-gradient(145deg,#1d3941,#274a49)}
+html[data-theme="dark"] body[data-design="staff"] .session-note{background:#253d3e;color:#bdd6cd}
+html[data-theme="dark"] body[data-design] .errorlist{color:#f4a7a0}
+@media(max-width:760px){.uv-voice{padding:12px 16px}.uv-voice .uv-voice-auto{margin-left:0;width:100%;margin-top:4px}.uv-theme-toggle{font-size:11px!important;padding:6px 9px!important}.uv-theme-floating{right:12px;top:12px}}
+@media(max-width:430px){body[data-design="assistant"] main .assistant-chat-form>div:not(.assistant-mode-row){flex-direction:column}body[data-design="assistant"] main .assistant-chat-form #assistant-send{align-self:flex-end;min-height:40px;min-width:105px}}
+@media(prefers-reduced-motion:reduce){.sun-corner .uv-moon{animation:none}}
+@media print{.uv-theme-toggle,.uv-voice{display:none!important}}

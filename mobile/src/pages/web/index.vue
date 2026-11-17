@@ -1,0 +1,1 @@
+<template><web-view v-if="url" :src="url" /></template><script setup>import {ref} from 'vue';import {onLoad} from '@dcloudio/uni-app';import {webBase} from '../../lib/api';const url=ref('');onLoad(options=>{const path=decodeURIComponent(options.path||'');if(path.startsWith('/')&&!path.startsWith('//'))url.value=webBase()+path});</script>

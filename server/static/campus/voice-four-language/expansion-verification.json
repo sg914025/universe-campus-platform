@@ -1,0 +1,736 @@
+{
+  "method": "Existing supplied voice models; new fixed-line inference, no weight retraining",
+  "new_groups": 20,
+  "new_recordings": 80,
+  "total_groups": 34,
+  "total_recordings": 136,
+  "old_recordings_preserved": 56,
+  "engines": {
+    "zh": "GPT-SoVITS v2",
+    "en": "GPT-SoVITS v2",
+    "ja": "GPT-SoVITS v2",
+    "ru": "XTTS-v2 with existing speaker conditioning"
+  },
+  "records": [
+    {
+      "language": "zh",
+      "key": "home_morning_extra",
+      "sample_rate": 32000,
+      "seconds": 3.64,
+      "rms": 0.046502,
+      "clipped": 0.0,
+      "sha256": "99ac8a01955c7d58d6cbfe2931fefea07237bfaa520e46562c70402ccba4a403"
+    },
+    {
+      "language": "zh",
+      "key": "home_noon_extra",
+      "sample_rate": 32000,
+      "seconds": 3.98,
+      "rms": 0.044694,
+      "clipped": 0.0,
+      "sha256": "426340809131e16a3f118553fe54322de5b37aaf6ce3bfebd1e78591546f14af"
+    },
+    {
+      "language": "zh",
+      "key": "home_afternoon_extra",
+      "sample_rate": 32000,
+      "seconds": 4.42,
+      "rms": 0.041889,
+      "clipped": 0.0,
+      "sha256": "4c7d012be1b2416e501bb948fad5b54e887cbe6e8aa0a58b91924a9412a8ff0b"
+    },
+    {
+      "language": "zh",
+      "key": "home_evening_extra",
+      "sample_rate": 32000,
+      "seconds": 4.92,
+      "rms": 0.050858,
+      "clipped": 0.0,
+      "sha256": "3a4666c4dc70fac9fa3f9b0aea5536d1ccbeb89dc25ba39a6c9f99bd8f4f851f"
+    },
+    {
+      "language": "zh",
+      "key": "home_night_extra",
+      "sample_rate": 32000,
+      "seconds": 5.14,
+      "rms": 0.043294,
+      "clipped": 0.0,
+      "sha256": "04ee08d53c25cf09ddb7f0ad5e628cebb89c108ae2e0542c77d4c2de544790bf"
+    },
+    {
+      "language": "zh",
+      "key": "home_plan_extra",
+      "sample_rate": 32000,
+      "seconds": 4.86,
+      "rms": 0.046631,
+      "clipped": 0.0,
+      "sha256": "73fb180ac9806f32b46e57d93e3f2ea51b10d7531c99394fbaaea9dd5960252b"
+    },
+    {
+      "language": "zh",
+      "key": "forum_share",
+      "sample_rate": 32000,
+      "seconds": 7.34,
+      "rms": 0.039483,
+      "clipped": 0.0,
+      "sha256": "ab3fe648e2b5c4e2e4ca3ffcc25394ec3d847d8d5def60d663d7106e4ada0e57"
+    },
+    {
+      "language": "zh",
+      "key": "forum_welcome",
+      "sample_rate": 32000,
+      "seconds": 5.7,
+      "rms": 0.049727,
+      "clipped": 0.0,
+      "sha256": "99b14a104c348d04bf65d2846ad8803a6b05c009bd08f4de753a0266cab8a8c2"
+    },
+    {
+      "language": "zh",
+      "key": "forum_kind",
+      "sample_rate": 32000,
+      "seconds": 5.92,
+      "rms": 0.046253,
+      "clipped": 0.0,
+      "sha256": "a5e5afecb1397f4a59e2c3a62f66f6012e257bef3137dd51cfe21baffd271e27"
+    },
+    {
+      "language": "zh",
+      "key": "forum_discover",
+      "sample_rate": 32000,
+      "seconds": 5.88,
+      "rms": 0.04206,
+      "clipped": 0.0,
+      "sha256": "af3ba136e8e7e0f71094d3b4e22a6e9335127d71939c044a466882fc507d90a6"
+    },
+    {
+      "language": "zh",
+      "key": "errands_pickup",
+      "sample_rate": 32000,
+      "seconds": 4.66,
+      "rms": 0.048566,
+      "clipped": 0.0,
+      "sha256": "239765ad6cff676e01c22f28859f4ecb1f699e5662b7eae83b97cbdfdbd8b4c4"
+    },
+    {
+      "language": "zh",
+      "key": "errands_check",
+      "sample_rate": 32000,
+      "seconds": 5.86,
+      "rms": 0.051296,
+      "clipped": 0.0,
+      "sha256": "4d713819637f51504947cc3a2ec606caa04791faa35c3459123e2241a5109a13"
+    },
+    {
+      "language": "zh",
+      "key": "errands_thanks",
+      "sample_rate": 32000,
+      "seconds": 4.9,
+      "rms": 0.048139,
+      "clipped": 0.0,
+      "sha256": "c8b549c968fa613ecf4644f0668d94dd8dea96e309052993918e6f451df86d12"
+    },
+    {
+      "language": "zh",
+      "key": "errands_safety",
+      "sample_rate": 32000,
+      "seconds": 6.02,
+      "rms": 0.044697,
+      "clipped": 0.0,
+      "sha256": "1f323c118c52b96881e8ad5a554cfbe902cb1070ff8231120c8978de86ee38bd"
+    },
+    {
+      "language": "zh",
+      "key": "guide_prepare",
+      "sample_rate": 32000,
+      "seconds": 5.94,
+      "rms": 0.042444,
+      "clipped": 0.0,
+      "sha256": "001efeabfd1dfe1454c3f0c6272d05901ead72f277b88e0889e3020acb938d59"
+    },
+    {
+      "language": "zh",
+      "key": "guide_wait",
+      "sample_rate": 32000,
+      "seconds": 7.32,
+      "rms": 0.044748,
+      "clipped": 0.0,
+      "sha256": "5f00504c546bd8f78d116ca608005124d7c2c61211089a99b92270a428d98268"
+    },
+    {
+      "language": "zh",
+      "key": "guide_care",
+      "sample_rate": 32000,
+      "seconds": 6.16,
+      "rms": 0.038581,
+      "clipped": 0.0,
+      "sha256": "dee37b5e1849039e17ba433326740e740c899b344abf94aea4a5150b7c0bbc89"
+    },
+    {
+      "language": "zh",
+      "key": "booking_study",
+      "sample_rate": 32000,
+      "seconds": 5.46,
+      "rms": 0.045985,
+      "clipped": 0.0,
+      "sha256": "98e0b8062887d7e70ef9e55c3957366542226f0a057eed66c29c1d76125d66b3"
+    },
+    {
+      "language": "zh",
+      "key": "booking_sport",
+      "sample_rate": 32000,
+      "seconds": 4.74,
+      "rms": 0.042757,
+      "clipped": 0.0,
+      "sha256": "b748de6b1f4e7afad364dac9f19df6be91a3a55bc96c8c2d0c4b2618d12040c2"
+    },
+    {
+      "language": "zh",
+      "key": "booking_check",
+      "sample_rate": 32000,
+      "seconds": 6.26,
+      "rms": 0.039028,
+      "clipped": 0.0,
+      "sha256": "9227644890b4219747546fbdf15d6494bb53cbdc2616f5c3a0c138f198503ed0"
+    },
+    {
+      "language": "en",
+      "key": "home_morning_extra",
+      "sample_rate": 32000,
+      "seconds": 4.88,
+      "rms": 0.036758,
+      "clipped": 0.0,
+      "sha256": "e40474fa3e03706d8b688398bfbd74caeb872d90c1d409d7a97740e7911a7e85"
+    },
+    {
+      "language": "en",
+      "key": "home_noon_extra",
+      "sample_rate": 32000,
+      "seconds": 4.84,
+      "rms": 0.0416,
+      "clipped": 0.0,
+      "sha256": "aef15c91867818ed195d21312ca5a5fba804b977b53d5980b19d3d789cd1d2a4"
+    },
+    {
+      "language": "en",
+      "key": "home_afternoon_extra",
+      "sample_rate": 32000,
+      "seconds": 4.62,
+      "rms": 0.045833,
+      "clipped": 0.0,
+      "sha256": "29d19451b3c767c078484bc4de5bda1ef284151b79f0a1bffeaf8e52cf4c16f5"
+    },
+    {
+      "language": "en",
+      "key": "home_evening_extra",
+      "sample_rate": 32000,
+      "seconds": 4.4,
+      "rms": 0.04353,
+      "clipped": 0.0,
+      "sha256": "df0f0fe24efc2f35b6814b65479e6b5cf83bda70ad6a2888e2e44577608aa985"
+    },
+    {
+      "language": "en",
+      "key": "home_night_extra",
+      "sample_rate": 32000,
+      "seconds": 6.0,
+      "rms": 0.037977,
+      "clipped": 0.0,
+      "sha256": "491fff17aa239506a5085393fb0a20e0ce649e27289a2f8535466daa058da286"
+    },
+    {
+      "language": "en",
+      "key": "home_plan_extra",
+      "sample_rate": 32000,
+      "seconds": 4.8,
+      "rms": 0.041899,
+      "clipped": 0.0,
+      "sha256": "0b7a391cdb209690c78c5d8301531734512dc48f5471fddeaad4bdd1feed5936"
+    },
+    {
+      "language": "en",
+      "key": "forum_share",
+      "sample_rate": 32000,
+      "seconds": 7.02,
+      "rms": 0.044565,
+      "clipped": 0.0,
+      "sha256": "05186c4a5496af857f281bd408299b1ebc64b05da33c883fd598ac12d346f0fb"
+    },
+    {
+      "language": "en",
+      "key": "forum_welcome",
+      "sample_rate": 32000,
+      "seconds": 5.3,
+      "rms": 0.042852,
+      "clipped": 0.0,
+      "sha256": "5962bf5d3fdc8f99250d73fb6ea072299698aa9570b01ec96bd0e1b8e30c6292"
+    },
+    {
+      "language": "en",
+      "key": "forum_kind",
+      "sample_rate": 32000,
+      "seconds": 6.94,
+      "rms": 0.04786,
+      "clipped": 0.0,
+      "sha256": "dd10156b4f1dba3ebe14f33ee4f50f66db992b2b2733e99bd448c2c38902c816"
+    },
+    {
+      "language": "en",
+      "key": "forum_discover",
+      "sample_rate": 32000,
+      "seconds": 4.58,
+      "rms": 0.041933,
+      "clipped": 0.0,
+      "sha256": "77406720cdab6162a140ef3160edaf6eb72e8ddaaf7902205539ea46f4aa29c0"
+    },
+    {
+      "language": "en",
+      "key": "errands_pickup",
+      "sample_rate": 32000,
+      "seconds": 5.82,
+      "rms": 0.041104,
+      "clipped": 0.0,
+      "sha256": "f2ede77e20e7668a03df092d6903d3d40271d8b4347001ddbc438a75b5a39c3e"
+    },
+    {
+      "language": "en",
+      "key": "errands_check",
+      "sample_rate": 32000,
+      "seconds": 5.96,
+      "rms": 0.041389,
+      "clipped": 0.0,
+      "sha256": "fa6ed69e8028e2c41f5867c22322edc301c7230b42bd73e010b9366e646ead0f"
+    },
+    {
+      "language": "en",
+      "key": "errands_thanks",
+      "sample_rate": 32000,
+      "seconds": 6.22,
+      "rms": 0.047518,
+      "clipped": 0.0,
+      "sha256": "43aa68ce4422b98a8b360fcfeca4d9c5c99803039a760cbf2f5b15daa75240a7"
+    },
+    {
+      "language": "en",
+      "key": "errands_safety",
+      "sample_rate": 32000,
+      "seconds": 5.02,
+      "rms": 0.039582,
+      "clipped": 0.0,
+      "sha256": "274a6829288e8b5d6d2fee30959b7965a65e1288c4c32b40f363a7dc6da07b04"
+    },
+    {
+      "language": "en",
+      "key": "guide_prepare",
+      "sample_rate": 32000,
+      "seconds": 7.02,
+      "rms": 0.042802,
+      "clipped": 0.0,
+      "sha256": "4d823be7994a2e1db8b1eb4560588eeaa38b1b125d40f7a01a4f59d847afd7be"
+    },
+    {
+      "language": "en",
+      "key": "guide_wait",
+      "sample_rate": 32000,
+      "seconds": 9.08,
+      "rms": 0.036204,
+      "clipped": 0.0,
+      "sha256": "61cb3fcba2f595919ae224575aa2f8a998027a8aa42071dc417edf4c413dabac"
+    },
+    {
+      "language": "en",
+      "key": "guide_care",
+      "sample_rate": 32000,
+      "seconds": 6.94,
+      "rms": 0.039212,
+      "clipped": 0.0,
+      "sha256": "178deb115943bac694ccba41cf386f6f48ccd44da9e3ba0938f10e1a6ab442f4"
+    },
+    {
+      "language": "en",
+      "key": "booking_study",
+      "sample_rate": 32000,
+      "seconds": 5.72,
+      "rms": 0.039721,
+      "clipped": 0.0,
+      "sha256": "297de6bdcd077cd1d0942d0102e6ddf29323a8db873661291a9865768ace0394"
+    },
+    {
+      "language": "en",
+      "key": "booking_sport",
+      "sample_rate": 32000,
+      "seconds": 5.06,
+      "rms": 0.043043,
+      "clipped": 0.0,
+      "sha256": "9493d02ce814d68c7faedb58615486968650e44a92ab97f4392102df5c9f1645"
+    },
+    {
+      "language": "en",
+      "key": "booking_check",
+      "sample_rate": 32000,
+      "seconds": 7.64,
+      "rms": 0.042137,
+      "clipped": 0.0,
+      "sha256": "3908c25fd2236282ae47f8fcaab1a229f4d5d6e90e37f2e24e9e52f75fcff66d"
+    },
+    {
+      "language": "ja",
+      "key": "home_morning_extra",
+      "sample_rate": 32000,
+      "seconds": 3.54,
+      "rms": 0.045537,
+      "clipped": 0.0,
+      "sha256": "3b704e72944d18257565cd727b2f21f9bd9b954d3e6b00fbc8ecf1452ce7183a"
+    },
+    {
+      "language": "ja",
+      "key": "home_noon_extra",
+      "sample_rate": 32000,
+      "seconds": 4.26,
+      "rms": 0.051235,
+      "clipped": 0.0,
+      "sha256": "0c6970602aa5abf74dd371874c6eb7d93471ae835112065210b3594f52ef9bde"
+    },
+    {
+      "language": "ja",
+      "key": "home_afternoon_extra",
+      "sample_rate": 32000,
+      "seconds": 4.74,
+      "rms": 0.055207,
+      "clipped": 0.0,
+      "sha256": "56e7042c426512824e6fc4652527b28d2ff6f4854d95d798d86785ff61ff2795"
+    },
+    {
+      "language": "ja",
+      "key": "home_evening_extra",
+      "sample_rate": 32000,
+      "seconds": 5.58,
+      "rms": 0.049466,
+      "clipped": 0.0,
+      "sha256": "bfacde58f2ee37c62469428628d24b7a327550f01288bf58f62f0e47be671446"
+    },
+    {
+      "language": "ja",
+      "key": "home_night_extra",
+      "sample_rate": 32000,
+      "seconds": 4.96,
+      "rms": 0.053177,
+      "clipped": 0.0,
+      "sha256": "dba9e3fd54dfa5094e7cefce5acb5b33331882046b7f4729fd800b11cef37cfb"
+    },
+    {
+      "language": "ja",
+      "key": "home_plan_extra",
+      "sample_rate": 32000,
+      "seconds": 4.7,
+      "rms": 0.057211,
+      "clipped": 0.0,
+      "sha256": "d272a78a55f40df196849e7160f46746feaaacd984e8094f749ab9c7a82f007b"
+    },
+    {
+      "language": "ja",
+      "key": "forum_share",
+      "sample_rate": 32000,
+      "seconds": 6.56,
+      "rms": 0.05743,
+      "clipped": 0.0,
+      "sha256": "e7edce0c208786a4adde396a33136bf20e4b2d3ddc4c5bf1203401db4e670101"
+    },
+    {
+      "language": "ja",
+      "key": "forum_welcome",
+      "sample_rate": 32000,
+      "seconds": 5.86,
+      "rms": 0.063734,
+      "clipped": 0.0,
+      "sha256": "7085b33853322489ba6b2a9938286cdf23bcfd3ed8e3bc77bce49314bc16bb75"
+    },
+    {
+      "language": "ja",
+      "key": "forum_kind",
+      "sample_rate": 32000,
+      "seconds": 6.46,
+      "rms": 0.060109,
+      "clipped": 0.0,
+      "sha256": "11bab8e80cd99daf084451d4da8dba9fedb0931df4a34c5b2897338308cc315e"
+    },
+    {
+      "language": "ja",
+      "key": "forum_discover",
+      "sample_rate": 32000,
+      "seconds": 5.26,
+      "rms": 0.056418,
+      "clipped": 0.0,
+      "sha256": "5d04fc7e801d8d80ca5473df5b7722a09854a81d18028cb97e05d94fbe8447a1"
+    },
+    {
+      "language": "ja",
+      "key": "errands_pickup",
+      "sample_rate": 32000,
+      "seconds": 5.94,
+      "rms": 0.058667,
+      "clipped": 0.0,
+      "sha256": "961e62e11cee554054e43f23feeaa1b960b15e0a8821a8986be23c96d4e35aa0"
+    },
+    {
+      "language": "ja",
+      "key": "errands_check",
+      "sample_rate": 32000,
+      "seconds": 6.14,
+      "rms": 0.056391,
+      "clipped": 0.0,
+      "sha256": "86062c963ff749c4d9805e4833769aa28ca386f2132159096e197dfcc0e576a0"
+    },
+    {
+      "language": "ja",
+      "key": "errands_thanks",
+      "sample_rate": 32000,
+      "seconds": 5.94,
+      "rms": 0.058797,
+      "clipped": 0.0,
+      "sha256": "96b5b17213ae9cd78b2ae07c02827f88902a191a76321325cb1cce62214bd25c"
+    },
+    {
+      "language": "ja",
+      "key": "errands_safety",
+      "sample_rate": 32000,
+      "seconds": 6.36,
+      "rms": 0.056183,
+      "clipped": 0.0,
+      "sha256": "c23ce2bd87006f2dc96bcee1f9b4c28f159e5f940e1381615a41bcca0c677ec2"
+    },
+    {
+      "language": "ja",
+      "key": "guide_prepare",
+      "sample_rate": 32000,
+      "seconds": 6.68,
+      "rms": 0.053825,
+      "clipped": 0.0,
+      "sha256": "41ed514bfddafeb8295f999874546244c9544490fb23d73fbda5cd88ab9df377"
+    },
+    {
+      "language": "ja",
+      "key": "guide_wait",
+      "sample_rate": 32000,
+      "seconds": 7.74,
+      "rms": 0.056324,
+      "clipped": 0.0,
+      "sha256": "c712797b037b3fea32acb154a965366614eedbb6a67f387b69dea5f283078147"
+    },
+    {
+      "language": "ja",
+      "key": "guide_care",
+      "sample_rate": 32000,
+      "seconds": 6.96,
+      "rms": 0.057552,
+      "clipped": 0.0,
+      "sha256": "c3c6bc2f74dedd756a5822ef792dd0b56ea907761e422d0adf8a4d3fe2b2af03"
+    },
+    {
+      "language": "ja",
+      "key": "booking_study",
+      "sample_rate": 32000,
+      "seconds": 5.1,
+      "rms": 0.055396,
+      "clipped": 0.0,
+      "sha256": "22b12f356f1ea36e231bbc34b97ba23ab35c177d27782745372285f38eb68b81"
+    },
+    {
+      "language": "ja",
+      "key": "booking_sport",
+      "sample_rate": 32000,
+      "seconds": 6.1,
+      "rms": 0.062671,
+      "clipped": 0.0,
+      "sha256": "53af4557db6dd6d5e718f698ba4217258ac46723ff7080ca55ade1b66c414334"
+    },
+    {
+      "language": "ja",
+      "key": "booking_check",
+      "sample_rate": 32000,
+      "seconds": 7.84,
+      "rms": 0.058268,
+      "clipped": 0.0,
+      "sha256": "c7a15a6988d51185b6be4427cc07fa126cc2d55391c6064092db748a732a3510"
+    },
+    {
+      "language": "ru",
+      "key": "home_morning_extra",
+      "sample_rate": 24000,
+      "seconds": 5.133,
+      "rms": 0.07057,
+      "clipped": 0.0,
+      "sha256": "39bf147a22f435559359fbb2a2d9a2e4d1ac058375400075a1313cd7d253f217"
+    },
+    {
+      "language": "ru",
+      "key": "home_noon_extra",
+      "sample_rate": 24000,
+      "seconds": 5.915,
+      "rms": 0.072778,
+      "clipped": 0.0,
+      "sha256": "ccfc658d0f3a791082b706d5e57037fbc9bfb1602944139f5c873c3358830a8e"
+    },
+    {
+      "language": "ru",
+      "key": "home_afternoon_extra",
+      "sample_rate": 24000,
+      "seconds": 5.456,
+      "rms": 0.077749,
+      "clipped": 0.0,
+      "sha256": "2058f232e9d9af99ee0f777c7780f5f4ca3d0b82794e03be0a49d87f136b4230"
+    },
+    {
+      "language": "ru",
+      "key": "home_evening_extra",
+      "sample_rate": 24000,
+      "seconds": 6.339,
+      "rms": 0.072044,
+      "clipped": 0.0,
+      "sha256": "ecdd7130c23375353cefcb7dcd1decb8a656fb4b8cd23584dc3e01cc3748a12a"
+    },
+    {
+      "language": "ru",
+      "key": "home_night_extra",
+      "sample_rate": 24000,
+      "seconds": 5.411,
+      "rms": 0.084813,
+      "clipped": 0.0,
+      "sha256": "8cd24c193509ae806790c0f3864c51723a4b8be9a7e40cee461cb1abe842dd44"
+    },
+    {
+      "language": "ru",
+      "key": "home_plan_extra",
+      "sample_rate": 24000,
+      "seconds": 6.285,
+      "rms": 0.05972,
+      "clipped": 0.0,
+      "sha256": "f33141f738aed1818e2ae60ca41a2049a885bf0f868ff52a83ad3cd5a1988039"
+    },
+    {
+      "language": "ru",
+      "key": "forum_share",
+      "sample_rate": 24000,
+      "seconds": 6.808,
+      "rms": 0.069445,
+      "clipped": 0.0,
+      "sha256": "36f9791241c082062d7d29ae86ccab13030d9a93c19cb1a6045cf25d0b82119c"
+    },
+    {
+      "language": "ru",
+      "key": "forum_welcome",
+      "sample_rate": 24000,
+      "seconds": 6.573,
+      "rms": 0.084237,
+      "clipped": 0.0,
+      "sha256": "1d41d25a30120e302c6c6325ad5e172fc7f72cb76f788c918af7127f4cc18ecd"
+    },
+    {
+      "language": "ru",
+      "key": "forum_kind",
+      "sample_rate": 24000,
+      "seconds": 6.288,
+      "rms": 0.083424,
+      "clipped": 0.0,
+      "sha256": "e80899d32ddb4a33737c13eae6f205b04bb8cb542fe1cefe66b27e44d3613dd8"
+    },
+    {
+      "language": "ru",
+      "key": "forum_discover",
+      "sample_rate": 24000,
+      "seconds": 7.131,
+      "rms": 0.100668,
+      "clipped": 0.0,
+      "sha256": "12dc107c2e0b2a431a9ceb79d313a72cde8fc5fd1ad0589f4181452025a4f744"
+    },
+    {
+      "language": "ru",
+      "key": "errands_pickup",
+      "sample_rate": 24000,
+      "seconds": 6.373,
+      "rms": 0.087976,
+      "clipped": 0.0,
+      "sha256": "75d9032da8a615e9edaf4cf2557d81757225512b62a27588db616c6bd47656b9"
+    },
+    {
+      "language": "ru",
+      "key": "errands_check",
+      "sample_rate": 24000,
+      "seconds": 7.867,
+      "rms": 0.075431,
+      "clipped": 0.0,
+      "sha256": "92f8a594bfe9b19738e93e089c43a0a9ee6ba12db5b2ce33b6e4d720eaa02937"
+    },
+    {
+      "language": "ru",
+      "key": "errands_thanks",
+      "sample_rate": 24000,
+      "seconds": 5.595,
+      "rms": 0.0801,
+      "clipped": 0.0,
+      "sha256": "995784250e93b41cda6e7ed54de59b490b832f076b43617e46f8d072cb551a6b"
+    },
+    {
+      "language": "ru",
+      "key": "errands_safety",
+      "sample_rate": 24000,
+      "seconds": 7.12,
+      "rms": 0.049388,
+      "clipped": 0.0,
+      "sha256": "be7fd7aadb62da50dd9621d65d1f6c05ce3534efa95f903738e88cadedb18f6b"
+    },
+    {
+      "language": "ru",
+      "key": "guide_prepare",
+      "sample_rate": 24000,
+      "seconds": 7.373,
+      "rms": 0.074773,
+      "clipped": 0.0,
+      "sha256": "fd0ed2b49fe2d36ce9923efbb2c7f6af1a03c0f56011b12f67d58131148dd389"
+    },
+    {
+      "language": "ru",
+      "key": "guide_wait",
+      "sample_rate": 24000,
+      "seconds": 9.037,
+      "rms": 0.077411,
+      "clipped": 0.0,
+      "sha256": "81b34d72759d5a5f49183a6c1cb8334cef3868f99e1e7208c07960f21c0c8c7b"
+    },
+    {
+      "language": "ru",
+      "key": "guide_care",
+      "sample_rate": 24000,
+      "seconds": 7.451,
+      "rms": 0.073473,
+      "clipped": 0.0,
+      "sha256": "a19fa53c2330a1897d9776c82bad0c33686048ee9dee336fecaa61b2c641d40b"
+    },
+    {
+      "language": "ru",
+      "key": "booking_study",
+      "sample_rate": 24000,
+      "seconds": 6.192,
+      "rms": 0.092748,
+      "clipped": 0.0,
+      "sha256": "5ff3fe05d1c4db0f9651188529ea1e8d44829464577791c05fd462d140478387"
+    },
+    {
+      "language": "ru",
+      "key": "booking_sport",
+      "sample_rate": 24000,
+      "seconds": 4.944,
+      "rms": 0.070399,
+      "clipped": 0.0,
+      "sha256": "f9d73f626db5f1ee2d9ba94d8b3d9bbb797f673ab00f1a2b71c1089c6145c280"
+    },
+    {
+      "language": "ru",
+      "key": "booking_check",
+      "sample_rate": 24000,
+      "seconds": 7.077,
+      "rms": 0.089614,
+      "clipped": 0.0,
+      "sha256": "a0ffdd03b139524fefb1918b4764954ab3b74b9bcd2ae8a5c4d4a6dfb68d7c4e"
+    }
+  ]
+}

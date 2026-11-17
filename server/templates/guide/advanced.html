@@ -1,0 +1,44 @@
+{% load static campus_ui %}
+<section class="panel subpage hidden advanced-page" id="page-advanced" data-assess-url="{% url 'advanced-assess' %}" data-followup-url="{% url 'advanced-followup' %}" data-ai-status-url="{% url 'advanced-status' %}">
+  <div class="advanced-heading"><div><h2>{% ui '5934fc9ce05b542e' %}</h2><p class="lead">{% ui '6d2610052e10953b' %}</p></div><button class="plain-button" id="reviewNotice">{% ui '8751778a09541710' %}</button></div>
+  <div class="advanced-grid">
+    <div class="body-panel">
+      <div class="body-heading"><span>{% ui '5234c0da4b6a5159' %}</span><span class="body-label" id="bodySelectedLabel">{% ui '1182c5454f113db5' %}</span></div>
+      <div class="body-tools"><button type="button" id="wholeBody">{% ui '10a57ba9a188dfad' %}</button><button type="button" id="zoomBody" disabled>{% ui 'af8741a39f0f1981' %}</button><button type="button" id="backPart" class="hidden">{% ui 'd35cacb91516c173' %}</button><button type="button" id="flipBody">{% ui '616acb61de438a8d' %}</button></div>
+      <div class="body-layers" role="group" aria-label="{% ui '3ccd83ab0fcf236c' %}"><button type="button" data-body-layer="surface" aria-pressed="false">{% ui 'f013be6bbae17e07' %}</button><button type="button" data-body-layer="organs" class="selected" aria-pressed="true">{% ui '2c85c90da1c09da7' %}</button><button type="button" data-body-layer="skeleton" aria-pressed="false">{% ui '7fbaf824780274db' %}</button><span>{% ui '02496fe6b73db904' %}</span></div>
+      <div class="body-stage" id="bodyStage" data-view="front" data-layer="organs" data-front-surface="{% static 'guide/body/front-surface.png' %}" data-front-organs="{% static 'guide/body/front-organs.png' %}" data-front-skeleton="{% static 'guide/body/front-skeleton.png' %}" data-back-surface="{% static 'guide/body/back-surface.png' %}" data-back-organs="{% static 'guide/body/back-organs.png' %}" data-back-skeleton="{% static 'guide/body/back-skeleton.png' %}">
+        <span class="body-side" id="bodySideLabel">{% ui '8a90729efc0d1b9b' %}</span>
+        {% include "guide/body.html" %}
+        <div class="body-caption" id="bodyZoomCaption">{% ui '8abf018e6408b752' %}</div>
+      </div>
+      <p class="body-foot">{% ui 'fc0ab19c45ce15ea' %}</p>
+    </div>
+    <div class="advanced-form-column">
+      <div class="advanced-step"><span class="step-dot">1</span><strong>{% ui '89df54e0cf22c3a3' %}</strong><span id="partSource">{% ui '480f4ba32fd6bd73' %}</span></div>
+      <div class="part-buttons" id="partButtons"></div>
+      <div class="part-summary"><div><small>{% ui 'd6e24f51430881eb' %}</small><strong id="chosenPart">{% ui '4a138d38ef5a1f24' %}</strong></div><button type="button" class="plain-button" id="resetPart">{% ui '5288519d856dff73' %}</button></div>
+      <div id="partDetailArea" class="hidden"><label class="advanced-label">{% ui 'cf77f4a51c05e0a1' %} <small>{% ui '537352400c495fb8' %}</small></label><div class="detail-buttons" id="detailButtons"></div></div>
+      <form id="advancedForm">
+        <div class="advanced-step"><span class="step-dot">2</span><strong>{% ui '1626b847bbcc6614' %}</strong></div>
+        <label class="advanced-label" for="advancedDescription">{% ui 'c92c1811d537d946' %}</label>
+        <textarea id="advancedDescription" maxlength="2000" rows="4" required placeholder="{% ui 'fdd6bff1549d0922' %}"></textarea>
+        <div class="description-options"><label><input type="checkbox" id="autoLocate" checked>{% ui 'ddb18f5b807d0690' %}</label><span id="advancedCount">0 / 2000</span></div>
+        <p id="locateHint" class="locate-hint" aria-live="polite">{% ui 'bfcd59f96b73a0a5' %}</p>
+        <div class="advanced-extra"><div><label for="advancedDuration" class="advanced-label">{% ui '68c56987247d59ab' %} <small>{% ui '537352400c495fb8' %}</small></label><input id="advancedDuration" maxlength="60" placeholder="{% ui 'd2b1613bbcd31653' %}"></div><div><label for="advancedFeeling" class="advanced-label">{% ui '362ea8895247fd5c' %}</label><select id="advancedFeeling"><option value="mild">{% ui '7d7089495a88e928' %}</option><option value="moderate">{% ui '60611921310fc66a' %}</option><option value="severe">{% ui '5d0bd5a24e837e8e' %}</option></select></div></div>
+        <button class="advanced-submit" type="submit" id="advancedSubmit">{% ui '79c231759af60f77' %}</button>
+        <p class="advanced-note" id="aiEngineStatus">{% ui 'ea67dfd69f047afe' %}</p><p class="advanced-note">{% ui '849494e1f62aa92e' %}</p>
+      </form>
+      <section id="interviewPanel" class="interview-panel hidden" aria-labelledby="interviewTitle">
+        <div class="interview-heading"><strong id="interviewTitle">{% ui '5aa44558b52d2e97' %}</strong><button type="button" class="plain-button" id="restartInterview">{% ui 'c92ff5ffda8c7c9e' %}</button></div>
+        <div class="interview-progress" id="interviewProgress"></div>
+        <div id="interviewHistory" class="interview-history"></div>
+        <div id="interviewQuestion" aria-live="polite"></div>
+        <div class="interview-sources" id="interviewSources"></div>
+        <p class="advanced-note">{% ui 'fe3e2a3c22ce6355' %}</p>
+      </section>
+      <div id="advancedResult" class="advanced-result hidden" role="status" aria-live="polite"></div>
+    </div>
+  </div>
+</section>
+<section class="panel subpage hidden" id="page-inbox" data-inbox-url="{% url 'inbox' %}" data-read-url="{% url 'read-reply' 0 %}"><div class="advanced-heading"><div><h2>{% ui 'dca690bcd720d418' %}</h2><p class="lead">{% ui '66996fb5ddba8583' %}</p></div><button class="plain-button" id="refreshInbox">{% ui 'e3c12e90e116faa7' %}</button></div><div id="inboxList" aria-live="polite"></div><p class="advanced-note">{% ui 'ab918634c3f0e4dd' %}</p></section>
+<dialog id="advancedNotice" aria-labelledby="noticeTitle"><div class="dialog-head"><h2 id="noticeTitle">{% ui '2481992eb7d8c5a7' %}</h2></div><p>{% tr '导诊完成后可选择线上咨询或现场诊室。选择线上咨询时，症状、既往病史、所选部位、注册资料与AI整理结果才会提交给医生。导诊结果会在本机临时缓存15分钟，医生回复后请留意' %}<strong>{% ui '923d1f23712dcefe' %}</strong>。</p><p>{% ui 'ef2451d49399ed82' %}</p><div class="notice-emergency">{% ui 'baec9a8547540cf4' %}</div><label class="notice-check"><input type="checkbox" id="noticeCheck">{% ui '4f54ecac26c9f0e5' %}</label><div class="notice-actions"><button type="button" class="plain-button" id="cancelAdvanced">{% ui '2e41d28ae17dad17' %}</button><button type="button" class="advanced-submit" id="acceptAdvanced" disabled>{% ui '06fd9c73dcdd9c33' %}</button></div></dialog>

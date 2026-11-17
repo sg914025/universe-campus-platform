@@ -1,0 +1,12 @@
+{% extends 'base.html' %}{% load campus_ui %}
+{% block content %}
+<section class="panel formpanel">
+    <h1>{% ui '529f92bede397a97' %}</h1>
+    {% include '个人信息/avatar.html' %}
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button>{% ui '08a85f4ab4bab9ca' %}</button>
+    </form>
+</section>
+{% endblock %}

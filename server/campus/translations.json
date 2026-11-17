@@ -1,0 +1,6178 @@
+{
+  "查看待答咨询，或与其他科室一起讨论。": {
+    "en": "View unanswered consultations or discuss with other departments",
+    "ru": "Посмотреть непрочитанные консультации или обсудить с другими отделами"
+  },
+  "条常用药标签 · 查看资料 →": {
+    "en": "Common drugs (X) · View resources →",
+    "ru": "Общие лекарства (X) · Просмотреть ресурсы →"
+  },
+  "条健康与疾病资料 · 查看来源 →": {
+    "en": "Health & disease resources (X) · View sources →",
+    "ru": "Ресурсы по здоровью и болезням (X) · Просмотреть источники →"
+  },
+  "收到的会诊邀请": {
+    "en": "Received consultations",
+    "ru": "Полученные консультации"
+  },
+  "接受邀请后，仅开放这条咨询的资料。": {
+    "en": "After accepting, only this consultation's resources will be available.",
+    "ru": "После принятия, доступны только ресурсы этой консультации."
+  },
+  "接受并查看": {
+    "en": "Accept and view",
+    "ru": "Принять и просмотреть"
+  },
+  "拒绝": {
+    "en": "Decline",
+    "ru": "Отклонить"
+  },
+  "本科室咨询": {
+    "en": "Consultations in this department",
+    "ru": "Консультации в этом отделе"
+  },
+  "我参与的会诊": {
+    "en": "Consultations I participate in",
+    "ru": "Консультации, в которых я участвую"
+  },
+  "处理状态": {
+    "en": "Status",
+    "ru": "Статус"
+  },
+  "全部": {
+    "en": "All",
+    "ru": "Все"
+  },
+  "待回答": {
+    "en": "Pending",
+    "ru": "Ожидаемые"
+  },
+  "已回复": {
+    "en": "Responded",
+    "ru": "Ответленные"
+  },
+  "筛选": {
+    "en": "Filter",
+    "ru": "Фильтр"
+  },
+  "紧急提示": {
+    "en": "Urgent alert",
+    "ru": "Срочный уведомление"
+  },
+  "这里暂时没有咨询。其他科室的咨询不会出现在本科室列表中。": {
+    "en": "No consultations available here. Consultations from other departments won't appear in this department list.",
+    "ru": "Здесь нет консультаций. Консультации из других отделов не отображаются в этом списке."
+  },
+  "资料": {
+    "en": "Resources",
+    "ru": "Ресурсы"
+  },
+  "← 返回常用药资料库": {
+    "en": "← Return to common drug resources",
+    "ru": "← Вернуться к ресурсам общих лекарств"
+  },
+  "打开完整原文 ↗": {
+    "en": "Open full text ↗",
+    "ru": "Открыть полный текст ↗"
+  },
+  "原标签通用名：": {
+    "en": "Generic name:",
+    "ru": "Общее название:"
+  },
+  "只是资料查询，不是处方。原文节选可能省略关键内容；实际用药须核对完整标签、相关检查及当地批准说明书。标签时间：": {
+    "en": "This is just a resource query, not a prescription. The excerpt may omit critical information; actual medication must be verified against the full label, relevant tests, and local approval documentation.",
+    "ru": "Это только запрос на ресурсы, а не рецепт. Экстракт может не включать критическую информацию; реальное лекарство должно быть проверено по полному метку, связанным тестам и местным документам."
+  },
+  "已匹配": {
+    "en": "Matched",
+    "ru": "Соответствует"
+  },
+  "条官方人用药标签。中文药名检索，原文供医生核对。": {
+    "en": "Official drug labels (X). Chinese drug names for search, original text for doctors to verify.",
+    "ru": "Официальные лекарственные метки (X). Китайские названия лекарств для поиска, оригинальный текст для врачей для проверки."
+  },
+  "搜索药品": {
+    "en": "Search drugs",
+    "ru": "Искать лекарства"
+  },
+  "类别": {
+    "en": "Category",
+    "ru": "Категория"
+  },
+  "全部类别": {
+    "en": "All categories",
+    "ru": "Все категории"
+  },
+  "搜索": {
+    "en": "Search",
+    "ru": "Поиск"
+  },
+  "当前显示": {
+    "en": "Current display",
+    "ru": "Текущее отображение"
+  },
+  "条。资料为部分常用西药的美国标签，不代表国内上市或适用于患者；处方以医生评估及当地批准说明书为准。": {
+    "en": "Drug labels (X) from the US for common Western medicines. Not approved for domestic use or applicable to patients; prescriptions require doctor evaluation and local approval documentation.",
+    "ru": "Лекарственные метки (X) из США для распространенных западных лекарств. Не одобрены для внутреннего использования или применимы к пациентам; рецепты требуют оценки врачом и местных документов."
+  },
+  "· 标签时间": {
+    "en": "· Label time",
+    "ru": "· Время метки"
+  },
+  "· 查看适应证、禁忌和风险 →": {
+    "en": "· View indications, contraindications, and risks →",
+    "ru": "· Просмотреть показания, противопоказания и риски →"
+  },
+  "没有匹配资料。未匹配的药不会编造说明。": {
+    "en": "No matching resources. Unmatched drugs won't generate explanations.",
+    "ru": "Нет совпадающих ресурсов. Не соответствующие лекарства не генерируют объяснений."
+  },
+  "目录中待补资料（": {
+    "en": "Pending resources to complete (",
+    "ru": "Ожидаемые ресурсы для завершения ("
+  },
+  "项）": {
+    "en": "items)",
+    "ru": "пунктов)"
+  },
+  "尚未找到可靠匹配的药品标签，暂不用于 AI 筛选。": {
+    "en": "No reliable drug label match found. Not used for AI filtering.",
+    "ru": "Не найдено надежное совпадение лекарственного метки. Не используется для фильтрации ИИ."
+  },
+  "本地导入": {
+    "en": "Local import",
+    "ru": "Локальная импорт"
+  },
+  "· 来源：openFDA 药品标签开放数据。": {
+    "en": "· Source: openFDA drug label open data",
+    "ru": "· Источник: открытые данные openFDA по лекарственным меткам"
+  },
+  "例如：阿莫西林、二甲双胍、amlodipine": {
+    "en": "Examples: Amoxicillin, Metformin, amlodipine",
+    "ru": "Примеры: Амоксиклин, Метформин, amlodipine"
+  },
+  "条健康主题 +": {
+    "en": "Health topics (X)",
+    "ru": "Здоровье темы (X)"
+  },
+  "条遗传病描述及遗传模式，共": {
+    "en": "Genetic disorders descriptions and inheritance patterns (X)",
+    "ru": "Описания наследственных заболеваний и наследственные паттерны (X)"
+  },
+  "条。": {
+    "en": "items",
+    "ru": "пунктов"
+  },
+  "检索资料": {
+    "en": "Search resources",
+    "ru": "Искать ресурсы"
+  },
+  "资料范围": {
+    "en": "Resource scope",
+    "ru": "Область ресурсов"
+  },
+  "健康主题": {
+    "en": "Health topics",
+    "ru": "Здоровье темы"
+  },
+  "遗传病资料": {
+    "en": "Genetic disorder resources",
+    "ru": "Ресурсы наследственных заболеваний"
+  },
+  "✦ AI分析": {
+    "en": "✦ AI Analysis",
+    "ru": "✦ AI анализ"
+  },
+  "校园论坛 · 交流学习，分享生活": {
+    "en": "Campus Forum · Exchange Learning, Share Life",
+    "ru": "Кампус Форум · Обмен знаниями, обмен жизнью"
+  },
+  "☰ 好友": {
+    "en": "☰ Friends",
+    "ru": "☰ Друзья"
+  },
+  "我的好友": {
+    "en": "My Friends",
+    "ru": "Мои друзья"
+  },
+  "互相关注后会出现在这里。": {
+    "en": "Users who follow each other will appear here.",
+    "ru": "Пользователи, которые друг другу, будут отображаться здесь."
+  },
+  "搜索用户": {
+    "en": "Search User",
+    "ru": "Искать пользователя"
+  },
+  "好友": {
+    "en": "Friend",
+    "ru": "Друг"
+  },
+  "还没有好友，点击帖子作者可以关注。": {
+    "en": "No friends yet. Click the post author to follow.",
+    "ru": "Друзей еще нет. Нажмите на автора поста, чтобы подписаться."
+  },
+  "查看我的关注": {
+    "en": "View My Follows",
+    "ru": "Посмотреть мои подписки"
+  },
+  "关闭好友栏": {
+    "en": "Close Friends Panel",
+    "ru": "Закрыть панель друзей"
+  },
+  "搜索账号或昵称": {
+    "en": "Search Account or Nickname",
+    "ru": "Искать аккаунт или никнейм"
+  },
+  "头像": {
+    "en": "Avatar",
+    "ru": "Аватар"
+  },
+  "关闭聊天": {
+    "en": "Close Chat",
+    "ru": "Закрыть чат"
+  },
+  "个人资料": {
+    "en": "Profile",
+    "ru": "Профиль"
+  },
+  "· 寰校通 UniVerse": {
+    "en": "· 寰校通 UniVerse",
+    "ru": "· 寰校通 UniVerse"
+  },
+  "寰校通 UniVerse / 多语校园智慧生活服务平台": {
+    "en": "寰校通 UniVerse / 多语校园智慧生活服务平台",
+    "ru": "寰校通 UniVerse / 多语校园智慧生活服务平台"
+  },
+  "一起讨论，": {
+    "en": "Discuss together",
+    "ru": "Обсуждайте вместе"
+  },
+  "让": {
+    "en": "Let",
+    "ru": "Позвольте"
+  },
+  "回答更清楚": {
+    "en": "Answers be clearer",
+    "ru": "Ответы будут яснее"
+  },
+  "整理患者描述与既往病史，": {
+    "en": "Organize patient descriptions and medical history, ",
+    "ru": "Организовать описание пациента и историю болезни, "
+  },
+  "核实 AI 推测，与其他科室一起讨论。": {
+    "en": "Verify AI predictions, and discuss with other departments.",
+    "ru": "Проверить прогнозы ИИ и обсудить с другими отделами."
+  },
+  "医生账号登录": {
+    "en": "Doctor Account Login",
+    "ru": "Авторизация через врачский аккаунт"
+  },
+  "注册与登录": {
+    "en": "Register & Login",
+    "ru": "Регистрация и вход"
+  },
+  "查看咨询与病史": {
+    "en": "View Consultations & Medical History",
+    "ru": "Посмотреть консультации и медицинскую историю"
+  },
+  "核实并回复患者": {
+    "en": "Verify and Reply to Patient",
+    "ru": "Проверить и ответить пациенту"
+  },
+  "新用户注册": {
+    "en": "New User Registration",
+    "ru": "Регистрация нового пользователя"
+  },
+  "MY ACCOUNT · 个人资料": {
+    "en": "MY ACCOUNT · Profile",
+    "ru": "МОЙ АККАУНТ · Профиль"
+  },
+  "当前账号：": {
+    "en": "Current Account: ",
+    "ru": "Текущий аккаунт: "
+  },
+  "· 账号不可修改": {
+    "en": "Account cannot be modified",
+    "ru": "Аккаунт не может быть изменен"
+  },
+  "选填": {
+    "en": "Optional",
+    "ru": "Опционально"
+  },
+  "已经注册过了？": {
+    "en": "Already registered?",
+    "ru": "Уже зарегистрирован?"
+  },
+  "登录已有账号": {
+    "en": "Log in with existing account",
+    "ru": "Войти с существующим аккаунтом"
+  },
+  "医生账号由管理员分配。患者请使用患者登录入口。": {
+    "en": "Doctor accounts are assigned by administrators. Patients should use the patient login portal.",
+    "ru": "Докторские аккаунты назначаются администраторами. Пациенты должны использовать портал входа для пациентов."
+  },
+  "第一次使用？": {
+    "en": "First time using?",
+    "ru": "Первый раз используете?"
+  },
+  "注册并完善个人信息": {
+    "en": "Register and complete personal information",
+    "ru": "Регистрация и заполнение личной информации"
+  },
+  "退出当前账号": {
+    "en": "Log out of current account",
+    "ru": "Выйти из текущего аккаунта"
+  },
+  "医生账号由管理员分配；AI 整理结果须由医生核实。": {
+    "en": "Doctor accounts are assigned by administrators; AI-generated results must be verified by doctors.",
+    "ru": "Докторские аккаунты назначаются администраторами; результаты, сгенерированные ИИ, должны быть проверены врачами."
+  },
+  "首次使用须注册；已有校园账号可直接登录。": {
+    "en": "First-time users must register; existing campus accounts can log in directly.",
+    "ru": "Пользователи впервые должны зарегистрироваться; существующие аккаунты университета могут войти напрямую."
+  },
+  "紧急情况无需等待注册或登录，请及时拨打": {
+    "en": "In emergencies, no registration or login is required—please call",
+    "ru": "В экстренных ситуациях регистрация или вход не требуется—пожалуйста, позвоните"
+  },
+  "或寻求急诊帮助。": {
+    "en": "or seek emergency assistance.",
+    "ru": "или обратитесь за экстренной помощью."
+  },
+  "账号入口": {
+    "en": "Account entry point",
+    "ru": "Точка входа в аккаунт"
+  },
+  "必填": {
+    "en": "Required",
+    "ru": "Обязательное"
+  },
+  "校园导航": {
+    "en": "Campus navigation",
+    "ru": "Навигация по кампусу"
+  },
+  "四个校园入口": {
+    "en": "Four campus entry points",
+    "ru": "Четыре точки входа кампуса"
+  },
+  "快捷入口": {
+    "en": "Quick entry points",
+    "ru": "Быстрые точки входа"
+  },
+  "Language / 语言 / Язык": {
+    "en": "Language / Language / Язык",
+    "ru": "Язык / Language / Язык"
+  },
+  "你好呀，今天想做些什么？": {
+    "en": "Hello! What would you like to do today?",
+    "ru": "Привет! Что вы хотите сделать сегодня?"
+  },
+  "听她说": {
+    "en": "Listen to her",
+    "ru": "Слушать её"
+  },
+  "换一句": {
+    "en": "Change sentence",
+    "ru": "Изменить предложение"
+  },
+  "中文": {
+    "en": "Chinese",
+    "ru": "Китайский"
+  },
+  "日本語": {
+    "en": "Japanese",
+    "ru": "Японский"
+  },
+  "动作预览": {
+    "en": "Action preview",
+    "ru": "Превью действий"
+  },
+  "挥手问好": {
+    "en": "Wave hello",
+    "ru": "Приветствие рукой"
+  },
+  "开心轻摆": {
+    "en": "Happy wave",
+    "ru": "Счастливый волной"
+  },
+  "点头加油": {
+    "en": "Nod to encourage",
+    "ru": "Нод для поддержки"
+  },
+  "侧头倾听": {
+    "en": "Turn head to listen",
+    "ru": "Повернуть голову, чтобы послушать"
+  },
+  "邀请示意": {
+    "en": "Invitation gesture",
+    "ru": "Гesture приглашения"
+  },
+  "进入页面时语音问候": {
+    "en": "Voice greeting upon page entry",
+    "ru": "Голосовое приветствие при входе в страницу"
+  },
+  "展开伙伴": {
+    "en": "Expand partner",
+    "ru": "Расширить партнера"
+  },
+  "校园动态伙伴": {
+    "en": "Campus dynamic partner",
+    "ru": "Партнер динамики кампуса"
+  },
+  "校园动态角色": {
+    "en": "Campus dynamic role",
+    "ru": "Роль динамики кампуса"
+  },
+  "换一句话": {
+    "en": "Change sentence",
+    "ru": "Изменить предложение"
+  },
+  "语音语言": {
+    "en": "Voice language",
+    "ru": "Голосовой язык"
+  },
+  "收起伙伴": {
+    "en": "Collapse partner",
+    "ru": "Сократить партнера"
+  },
+  "· 安心导诊": {
+    "en": "· Secure Consultation",
+    "ru": "· Безопасная консультация"
+  },
+  "✚ 安心导诊": {
+    "en": "✚ Secure Consultation",
+    "ru": "✚ Безопасная консультация"
+  },
+  "演示医生账号仅供项目测试。AI 内容供核实，诊断和就医安排以实际医护意见为准。": {
+    "en": "Demo doctor account for project testing. AI content for verification; diagnosis and medical appointments are subject to actual medical advice.",
+    "ru": "Демонстрационный аккаунт врача для тестирования проекта. AI-контент для проверки; диагноз и назначение медицинских услуг подлежат действительным медицинским рекомендациям."
+  },
+  "医生工具": {
+    "en": "Doctor Tools",
+    "ru": "Инструменты врача"
+  },
+  "咨询详情": {
+    "en": "View Details",
+    "ru": "Посмотреть детали"
+  },
+  "← 返回工作台": {
+    "en": "← Return to Workbench",
+    "ru": "← Вернуться к рабочей станции"
+  },
+  "紧急提示 · 不能等待线上回复": {
+    "en": "Urgent Alert · Cannot Wait for Online Response",
+    "ru": "Срочный уведомление · Нельзя ждать онлайн-ответа"
+  },
+  "患者描述": {
+    "en": "Patient Description",
+    "ru": "Описание пациента"
+  },
+  "岁": {
+    "en": "years",
+    "ru": "лет"
+  },
+  "年龄未填": {
+    "en": "Age not filled",
+    "ru": "Возраст не заполнен"
+  },
+  "持续时间": {
+    "en": "Duration",
+    "ru": "Продолжительность"
+  },
+  "回复患者": {
+    "en": "Reply to Patient",
+    "ru": "Ответить пациенту"
+  },
+  "回复会显示在患者信箱中；会诊讨论单独保存在下方。": {
+    "en": "Your reply will be displayed in the patient's mailbox; consultation discussions are saved separately below.",
+    "ru": "Ваш ответ будет отображаться в почте пациента; обсуждения консультации сохраняются отдельно ниже."
+  },
+  "上次回复：": {
+    "en": "Last Reply:",
+    "ru": "Последний ответ:"
+  },
+  "发送回复到患者信箱 →": {
+    "en": "Send Reply to Patient Mailbox →",
+    "ru": "Отправить ответ в почту пациента →"
+  },
+  "申请其他科室会诊": {
+    "en": "Apply for Consultation in Another Department",
+    "ru": "Запросить консультацию в другой отдел"
+  },
+  "发送会诊邀请": {
+    "en": "Send Consultation Invitation",
+    "ru": "Отправить приглашение на консультацию"
+  },
+  "你正在参与会诊。进一步邀请其他科室由接诊科室发起。": {
+    "en": "You are participating in the consultation. Further invitations from other departments are initiated by the receiving department.",
+    "ru": "Вы участвуете в консультации. Дополнительные приглашения от других отделов инициирует принимающий отдел."
+  },
+  "参与": {
+    "en": "Join",
+    "ru": "Присоединиться"
+  },
+  "撤回会诊": {
+    "en": "Withdraw Consultation",
+    "ru": "Отменить консультацию"
+  },
+  "尚未申请会诊。": {
+    "en": "No consultation application yet.",
+    "ru": "Консультация еще не запрашивалась."
+  },
+  "会诊讨论": {
+    "en": "Consultation Discussion",
+    "ru": "Обсуждение консультации"
+  },
+  "仅接诊科室和已接受邀请的医生可见，不发给患者。": {
+    "en": "Visible only to the receiving department and accepted doctors; not sent to patients.",
+    "ru": "Доступен только для принимающего отдела и врачей, принявших приглашение; не отправляется пациентам."
+  },
+  "暂无讨论，可以先说说你的判断。": {
+    "en": "No discussion yet. Start by sharing your assessment.",
+    "ru": "Обсуждения отсутствуют. Начните с описания вашего вывода."
+  },
+  "添加内部讨论": {
+    "en": "Add Internal Discussion",
+    "ru": "Добавить внутреннее обсуждение"
+  },
+  "你好，": {
+    "en": "Hello,",
+    "ru": "Привет,"
+  },
+  "找到": {
+    "en": "Found",
+    "ru": "Найдено"
+  },
+  "条。AI 可检索这些资料并标明来源；遗传病资料只能用于相应疾病参考，不能据此推断患者存在遗传病。资料增加不等于经过临床训练或验证。": {
+    "en": "items. AI can search these materials and cite sources; genetic disease information is only for reference to specific diseases and cannot be used to infer that a patient has a genetic disease. Adding materials does not equate to clinical training or validation.",
+    "ru": "предметов. AI может искать эти материалы и указывать источники; информация о наследственных заболеваниях предназначена только для справочного использования по конкретным заболеваниям и не может использоваться для вывода о наличии наследственного заболевания у пациента. Добавление материалов не означает клиническую подготовку или проверку."
+  },
+  "遗传病描述与遗传模式": {
+    "en": "Genetic Disease Description and Inheritance Pattern",
+    "ru": "Описание наследственных заболеваний и паттерн наследования"
+  },
+  "查看原文 ↗": {
+    "en": "View Original ↗",
+    "ru": "Посмотреть оригинал ↗"
+  },
+  "· 原文审核": {
+    "en": "· Original Review",
+    "ru": "· Оригинальная проверка"
+  },
+  "没有匹配资料，请尝试中文疾病名或英文名称。": {
+    "en": "No matching materials. Try Chinese disease name or English name.",
+    "ru": "Нет совпадающих материалов. Попробуйте китайское название заболевания или английское имя."
+  },
+  "← 上一页": {
+    "en": "← Previous Page",
+    "ru": "← Предыдущая страница"
+  },
+  "下一页 →": {
+    "en": "Next Page →",
+    "ru": "Следующая страница →"
+  },
+  "例如：糖尿病、偏头痛、马凡、asthma": {
+    "en": "e.g., diabetes, migraines, Marfan syndrome, asthma",
+    "ru": "например: диабет, мигрень, синдром Марфана, астма"
+  },
+  "资料分页": {
+    "en": "Page of data",
+    "ru": "Страница данных"
+  },
+  "AI 用药参考 · 医生核对": {
+    "en": "AI Medication Reference · Doctor Verification",
+    "ru": "AI Медикаменты · Проверка врача"
+  },
+  "结合当前判断、既往病史和已核对的用药信息，查看可供评估的药品方向。": {
+    "en": "View medication directions based on current assessment, medical history, and verified medication information.",
+    "ru": "Посмотреть направления лекарств на основе текущего оценки, медицинской истории и проверенных данных о лекарствах."
+  },
+  "本次参考结果": {
+    "en": "Current reference result",
+    "ru": "Текущий результат проверки"
+  },
+  "本地 AI": {
+    "en": "Local AI",
+    "ru": "Локальный AI"
+  },
+  "暂不推荐": {
+    "en": "Not recommended",
+    "ru": "Не рекомендуется"
+  },
+  "可供医生评估：": {
+    "en": "Medications for doctor evaluation:",
+    "ru": "Лекарства для оценки врачом:"
+  },
+  "· 原文途径：": {
+    "en": "· Original source:",
+    "ru": "· Источник оригинала:"
+  },
+  "该标签含重要警告，务必核对完整原文。": {
+    "en": "This tag contains important warnings; please verify the full original text.",
+    "ru": "Этот тег содержит важные предупреждения; пожалуйста, проверьте полный оригинальный текст."
+  },
+  "需要核对：": {
+    "en": "To verify:",
+    "ru": "Проверить:"
+  },
+  "核对英文标签节选": {
+    "en": "Select English tag excerpt",
+    "ru": "Выбрать отрывок английского тега"
+  },
+  "DailyMed 药品资料 ↗": {
+    "en": "DailyMed Drug Information ↗",
+    "ru": "Данные о лекарствах DailyMed ↗"
+  },
+  "整理医生：": {
+    "en": "Doctor's notes:",
+    "ru": "Заметки врача:"
+  },
+  "· 本结果仅医生可见": {
+    "en": "· This result is only visible to doctors",
+    "ru": "· Этот результат виден только врачам"
+  },
+  "补充信息并生成参考": {
+    "en": "Add information and generate reference",
+    "ru": "Добавить информацию и сгенерировать ссылку"
+  },
+  "让 AI 整理用药参考": {
+    "en": "Let AI organize medication reference",
+    "ru": "Позвольте AI организовать ссылку на лекарства"
+  },
+  "可从常用药资料库检索或限定参考药品；AI 不生成剂量或疗程，不会自动发送到患者信箱。实际用药由医生结合诊断、当地批准说明书和完整相互作用检查决定。": {
+    "en": "You can search or limit reference medications from common medication databases; AI does not generate dosages or treatment durations, and will not automatically send to patient email. Actual medication use is determined by doctors based on diagnosis, approved product information, and comprehensive interaction checks.",
+    "ru": "Вы можете искать или ограничивать лекарства из базы данных; AI не генерирует дозы или длительность лечения, и не автоматически отправляет на почту пациента. Реальное применение лекарств определяется врачами на основе диагноза, утвержденной информации о продукте и полного проверки взаимодействий."
+  },
+  "AI 初步推测 · 待医生核实": {
+    "en": "AI Initial Guess · Doctor to Verify",
+    "ru": "AI Первый предположение · Проверка врачом"
+  },
+  "基础分诊": {
+    "en": "Basic triage",
+    "ru": "Базовая дифференциация"
+  },
+  "建议科室：": {
+    "en": "Suggested department:",
+    "ru": "Рекомендуемый отдел:"
+  },
+  "可能原因：": {
+    "en": "Possible causes:",
+    "ru": "Возможные причины:"
+  },
+  "资料不足或 AI 未完成分析，暂不列出病因。": {
+    "en": "Insufficient data or AI analysis incomplete; no causes listed temporarily.",
+    "ru": "Недостаточно данных или анализ AI не завершен; причины не перечислены на данный момент."
+  },
+  "帮助医生继续确认": {
+    "en": "Help doctor confirm",
+    "ru": "Помочь врачу подтвердить"
+  },
+  "高级导诊": {
+    "en": "Advanced triage",
+    "ru": "Расширенная дифференциация"
+  },
+  "先选部位，再通过一问一答逐步说清楚。": {
+    "en": "First select body part, then answer step by step to clarify.",
+    "ru": "Сначала выберите часть тела, затем пошагово уточните."
+  },
+  "查看免责声明": {
+    "en": "View disclaimer",
+    "ru": "Посмотреть отказ"
+  },
+  "身体部位": {
+    "en": "Body part",
+    "ru": "Часть тела"
+  },
+  "未选择": {
+    "en": "Not selected",
+    "ru": "Не выбрано"
+  },
+  "全身视图": {
+    "en": "Full view",
+    "ru": "Полный обзор"
+  },
+  "局部放大": {
+    "en": "Local zoom",
+    "ru": "Локальная увеличение"
+  },
+  "返回大部位": {
+    "en": "Return to full view",
+    "ru": "Вернуться к полному виду"
+  },
+  "查看背面": {
+    "en": "View back",
+    "ru": "Посмотреть обратную сторону"
+  },
+  "外形": {
+    "en": "Shape",
+    "ru": "Форма"
+  },
+  "器官": {
+    "en": "Organ",
+    "ru": "Орган"
+  },
+  "骨骼": {
+    "en": "Bone",
+    "ru": "Кость"
+  },
+  "结构示意": {
+    "en": "Structural diagram",
+    "ru": "Структурная схема"
+  },
+  "正面示意": {
+    "en": "Front view",
+    "ru": "Передняя позиция"
+  },
+  "点击部位，或在右侧描述不适": {
+    "en": "Click the area or describe discomfort on the right",
+    "ru": "Нажмите на область или опишите дискомфорт справа"
+  },
+  "选择大部位后会平滑放大，再点具体位置。图像为 AI 生成的结构示意，左右按人体自身标注。": {
+    "en": "After selecting a larger area, it will smoothly zoom in and then click the specific location. The image is an AI-generated structural diagram, with left and right aligned according to the human body.",
+    "ru": "После выбора большей области будет плавно увеличиваться и затем нажимать на конкретную точку. Изображение — структурная схема, созданная ИИ, с левой и правой стороной, соответствующей человеческому телу."
+  },
+  "选择不适部位": {
+    "en": "Select discomfort area",
+    "ru": "Выбрать область дискомфорта"
+  },
+  "支持手动选择": {
+    "en": "Support manual selection",
+    "ru": "Поддержка ручного выбора"
+  },
+  "当前部位": {
+    "en": "Current area",
+    "ru": "Текущая область"
+  },
+  "还没有选择": {
+    "en": "No selection yet",
+    "ru": "Ещё нет выбора"
+  },
+  "清除选择": {
+    "en": "Clear selection",
+    "ru": "Очистить выбор"
+  },
+  "放大后，选择具体位置": {
+    "en": "After zooming, select specific location",
+    "ru": "После увеличения выберите конкретную точку"
+  },
+  "可选": {
+    "en": "Optional",
+    "ru": "Опционально"
+  },
+  "描述你的不适": {
+    "en": "Describe your discomfort",
+    "ru": "Опишите дискомфорт"
+  },
+  "哪里不舒服，是什么感觉？": {
+    "en": "Where are you uncomfortable and what does it feel like?",
+    "ru": "Где вы чувствуете дискомфорт и как это ощущается?"
+  },
+  "根据描述自动选中并放大部位": {
+    "en": "Automatically select and zoom in based on description",
+    "ru": "Автоматически выбрать и увеличить область по описанию"
+  },
+  "没有识别到的位置，可以直接手动选择。": {
+    "en": "If no location is recognized, you can manually select.",
+    "ru": "Если не определилась область, вы можете выбрать вручную."
+  },
+  "持续多久了？": {
+    "en": "How long has it been?",
+    "ru": "Сколько времени уже?"
+  },
+  "你感觉不适程度如何？": {
+    "en": "How severe is your discomfort?",
+    "ru": "Какова степень дискомфорта?"
+  },
+  "一般，还能接受": {
+    "en": "Mild, still tolerable",
+    "ru": "Мягкий, еще допустимый"
+  },
+  "比较明显": {
+    "en": "Moderate",
+    "ru": "Умеренный"
+  },
+  "很明显，想请医生确认": {
+    "en": "Severe, need doctor confirmation",
+    "ru": "Серьезный, требуется подтверждение врача"
+  },
+  "分析并继续　→": {
+    "en": "Analyze and continue →",
+    "ru": "Анализ и продолжить →"
+  },
+  "正在检查本地 AI…": {
+    "en": "Checking local AI...",
+    "ru": "Проверка локального ИИ..."
+  },
+  "点击后逐步追问，每次只问一个问题。回答用于整理信息，不能确定病因。": {
+    "en": "Click to proceed step by step, asking one question at a time. Responses help organize information but do not determine the cause of the issue.",
+    "ru": "Нажмите, чтобы постепенно задавать вопросы, один вопрос за раз. Ответы помогают организовать информацию, но не определяют причину проблемы."
+  },
+  "进一步了解": {
+    "en": "Learn more",
+    "ru": "Узнать больше"
+  },
+  "重新开始追问": {
+    "en": "Restart questioning",
+    "ru": "Перезапустить вопросы"
+  },
+  "位置按你的回答标注，不代表身体内部病灶。追问期间不入库；确认后自动分诊并保存，供对应科室及受邀会诊医生查看。": {
+    "en": "Positions are marked based on your answers, not internal body issues. Questions are not stored during the process; after confirmation, it will be automatically triaged and saved for the relevant department and invited doctors to view.",
+    "ru": "Позиции отмечены на основе ваших ответов, а не внутренних проблем тела. Вопросы не сохраняются во время процесса; после подтверждения автоматически распределяются и сохраняются для соответствующего отделения и врачей, приглашенных для консультации."
+  },
+  "我的信箱": {
+    "en": "My Inbox",
+    "ru": "Моя почта"
+  },
+  "查看已提交的咨询和后台医生回复。": {
+    "en": "View submitted inquiries and backend doctor responses.",
+    "ru": "Посмотреть отправленные запросы и ответы врачей в бэкенде."
+  },
+  "刷新信箱": {
+    "en": "Refresh Inbox",
+    "ru": "Обновить почту"
+  },
+  "这里是站内信箱，不发送邮件。待回复表示已保存到后台，不代表医生已经接诊；紧急情况请及时就医。": {
+    "en": "This is the internal mailbox. No emails are sent. 'Pending' indicates the message has been saved to the backend and does not mean the doctor has attended to it. In case of emergencies, please seek medical help immediately.",
+    "ru": "Это внутренняя почта. Письма не отправляются. Статус «Ожидает» означает, что сообщение сохранено в бэкенде и не означает, что врач его обработал. В случае экстренных ситуаций, пожалуйста, немедленно обратитесь за медицинской помощью."
+  },
+  "高级导诊 · 免责声明": {
+    "en": "Advanced Triage · Disclaimer",
+    "ru": "Расширенная классификация · Оговорка"
+  },
+  "本功能根据你的描述，对不适程度作初步整理。确认整理结果后，无论自述程度如何，症状描述、既往病史、所选部位、注册资料和 AI 初步推测都会自动提交到建议科室医生待答列表，医生回复后，请留意": {
+    "en": "This feature analyzes your symptoms to create a preliminary summary. After confirming the summary, your symptoms, medical history, selected body parts, registration details, and AI's initial assessment will be automatically submitted to the doctor's pending list. Once the doctor responds, please check.",
+    "ru": "Эта функция проводит предварительный анализ ваших симптомов и создает краткое описание. После подтверждения описания ваш симптомы, медицинская история, выбранные области тела, данные регистрации и первоначальное предположение ИИ будут автоматически отправлены в список ожидания врача. После ответа врача, пожалуйста, проверьте."
+  },
+  "站内信箱": {
+    "en": "Inbox",
+    "ru": "Почта"
+  },
+  "本功能使用本机 Ollama 模型和 MedlinePlus 摘要知识库，逐步收集你的描述。追问期间不保存到数据库，症状和既往病史会发送至本机模型处理；姓名、账号和密码不会发送给模型。模型不可用时会明确切换为基础追问。AI 仅提供可能原因和科室建议，尚未经过临床验证；医生核实后在信箱回答。对应科室医生可邀请其他科室医生会诊，受邀医生接受后可查看该条资料。结果仅供参考，不能代替医生诊断，也不能排除危险情况。": {
+    "en": "This feature uses the local Ollama model and MedlinePlus summary knowledge base to gradually collect your description. During follow-up questions, data is not saved to the database. Symptoms and medical history are processed by the local model; your name, account, and password are not sent to the model. When the model is unavailable, it switches to basic follow-up. AI provides possible causes and department suggestions, which have not been clinically validated. After doctors verify, they respond in the mailbox. Doctors in the corresponding department can invite other department doctors for consultation. Invited doctors can view the details after accepting. Results are for reference only and cannot replace a doctor's diagnosis or rule out dangerous conditions.",
+    "ru": "Эта функция использует локальный модель Ollama и краткую базу знаний MedlinePlus для постепенного сбора описания. Во время дополнительных вопросов данные не сохраняются в базе. Симптомы и медицинская история обрабатываются локальной моделью; имя, учетная запись и пароль не отправляются модели. При недоступности модели переключается на базовый режим вопросов. ИИ предоставляет возможные причины и рекомендации по отделению, которые не прошли клиническую проверку. После проверки врачами они отвечают в почте. Врачи соответствующего отделения могут пригласить врачей других отделений на консультацию. Приглашенные врачи могут просмотреть данные после принятия. Результаты предназначены только для справки и не заменяют диагноз врача, не исключают опасные состояния."
+  },
+  "若出现胸痛、呼吸困难、意识异常等紧急表现，请及时拨打 120 或寻求急诊帮助，不要等待 AI 分析或信箱回复。": {
+    "en": "If you experience chest pain, difficulty breathing, or altered consciousness, please call 120 or seek emergency help immediately. Do not wait for AI analysis or mailbox responses.",
+    "ru": "Если вы испытываете грудную боль, трудности дыхания или нарушение сознания, пожалуйста, немедленно позвоните 120 или обратитесь за экстренной помощью. Не ждите анализа ИИ или ответа в почте."
+  },
+  "我已阅读并了解上述说明及资料提交方式": {
+    "en": "I have read and understood the above explanations and data submission method",
+    "ru": "Я прочитал и понял вышеуказанное объяснение и способ отправки данных"
+  },
+  "暂不进入": {
+    "en": "Do not enter",
+    "ru": "Не вступать"
+  },
+  "继续选择部位 →": {
+    "en": "Continue selecting body parts →",
+    "ru": "Продолжить выбор частей тела →"
+  },
+  "人体显示方式": {
+    "en": "Body display mode",
+    "ru": "Режим отображения тела"
+  },
+  "例如：左膝盖疼了两天，走路时比较明显。": {
+    "en": "Example: Left knee pain for two days, more noticeable when walking.",
+    "ru": "Пример: Левая коленная боль уже два дня, более заметна при ходьбе."
+  },
+  "例如：两天 / 一周": {
+    "en": "Example: 2 days / 1 week",
+    "ru": "Пример: 2 дня / 1 неделя"
+  },
+  "可选择部位的人体结构示意图": {
+    "en": "Body schematic diagram for selecting body parts",
+    "ru": "Схема тела для выбора частей тела"
+  },
+  "选择头部": {
+    "en": "Select head",
+    "ru": "Выбрать голову"
+  },
+  "选择颈部": {
+    "en": "Select neck",
+    "ru": "Выбрать шею"
+  },
+  "选择胸部": {
+    "en": "Select chest",
+    "ru": "Выбрать грудь"
+  },
+  "选择腹部": {
+    "en": "Select abdomen",
+    "ru": "Выбрать живот"
+  },
+  "选择腰背部": {
+    "en": "Select back and lower back",
+    "ru": "Выбрать спину и нижнюю часть спины"
+  },
+  "选择骨盆和臀部": {
+    "en": "Select pelvis and buttocks",
+    "ru": "Выбрать таз и заднюю часть"
+  },
+  "选择右上肢": {
+    "en": "Select right upper limb",
+    "ru": "Выбрать правую верхнюю конечность"
+  },
+  "选择左上肢": {
+    "en": "Select left upper limb",
+    "ru": "Выбрать левую верхнюю конечность"
+  },
+  "选择右手": {
+    "en": "Select right hand",
+    "ru": "Выбрать правую руку"
+  },
+  "选择左手": {
+    "en": "Select left hand",
+    "ru": "Выбрать левую руку"
+  },
+  "选择右下肢": {
+    "en": "Select right lower limb",
+    "ru": "Выбрать правую нижнюю конечность"
+  },
+  "选择左下肢": {
+    "en": "Select left lower limb",
+    "ru": "Выбрать левую нижнюю конечность"
+  },
+  "细分部位": {
+    "en": "Subdivide body parts",
+    "ru": "Разделить части тела"
+  },
+  "安心导诊 · AI简单导诊助手": {
+    "en": "Safe Triage · AI Simple Triage Assistant",
+    "ru": "Безопасная классификация · Простой помощник ИИ"
+  },
+  "安心导诊": {
+    "en": "Safe Triage",
+    "ru": "Безопасная классификация"
+  },
+  "开始新咨询": {
+    "en": "Start new consultation",
+    "ru": "Начать новую консультацию"
+  },
+  "就 医 服 务": {
+    "en": "Medical Services",
+    "ru": "Медицинские услуги"
+  },
+  "校园论坛 ↗": {
+    "en": "Campus Forum ↗",
+    "ru": "Кампус форум ↗"
+  },
+  "AI简单导诊": {
+    "en": "AI Simple Triage",
+    "ru": "AI Простая первичная диагностика"
+  },
+  "科室导航": {
+    "en": "Department Navigation",
+    "ru": "Навигация по отделениям"
+  },
+  "就诊指南": {
+    "en": "Visit Guidelines",
+    "ru": "Руководство по визиту"
+  },
+  "常见问题": {
+    "en": "Frequently Asked Questions",
+    "ru": "Часто задаваемые вопросы"
+  },
+  "让每一次就医更安心": {
+    "en": "Make every medical visit more secure",
+    "ru": "Сделайте каждый медицинский визит более безопасным"
+  },
+  "从不知道挂什么科，": {
+    "en": "Don't know which department to visit",
+    "ru": "Не знаете, в какой отделение обратиться"
+  },
+  "到清晰了解下一步。": {
+    "en": "to understand the next steps clearly.",
+    "ru": "чтобы понять следующие шаги."
+  },
+  "我们陪你一起梳理。": {
+    "en": "We help you sort it out together.",
+    "ru": "Мы поможем вам разобраться вместе."
+  },
+  "已登录 ·": {
+    "en": "Logged in ·",
+    "ru": "Войден ·"
+  },
+  "就医服务": {
+    "en": "Medical Services",
+    "ru": "Медицинские услуги"
+  },
+  "演示模式": {
+    "en": "Demo Mode",
+    "ru": "Демонстрационный режим"
+  },
+  "使用帮助": {
+    "en": "Help",
+    "ru": "Помощь"
+  },
+  "不知道挂什么科？从一次简单的对话开始。": {
+    "en": "Don't know which department to visit? Start with a simple conversation.",
+    "ru": "Не знаете, в какой отделение обратиться? Начните с простого разговора."
+  },
+  "简单导诊对话仅在本页内存中处理": {
+    "en": "Simple triage conversation is processed only in this page's memory",
+    "ru": "Простой разговор по первичной диагностике обрабатывается только в памяти этой страницы"
+  },
+  "安心 · 导诊助手": {
+    "en": "Secure · Triage Assistant",
+    "ru": "Безопасность · Помощник по первичной диагностике"
+  },
+  "听你描述，帮你梳理就医方向": {
+    "en": "Based on your description, we help you find the right medical direction",
+    "ru": "На основе вашего описания, мы поможем определить правильное направление для медицинской помощи"
+  },
+  "我是你的": {
+    "en": "I am your",
+    "ru": "Я ваш"
+  },
+  "AI 导诊助手": {
+    "en": "AI Triage Assistant",
+    "ru": "AI Помощник по первичной диагностике"
+  },
+  "把你的不舒服告诉我，我们一起梳理。": {
+    "en": "Tell me about your discomfort, and we'll sort it out together.",
+    "ru": "Расскажите о своих неудобствах, и мы разберемся вместе."
+  },
+  "描述症状、持续时间和年龄，可以帮助对话更清晰。": {
+    "en": "Describe symptoms, duration, and age to make the conversation clearer.",
+    "ru": "Опишите симптомы, продолжительность и возраст, чтобы разговор был более четким."
+  },
+  "你可以试着这样问": {
+    "en": "You can try asking like this",
+    "ru": "Вы можете попробовать задать вопрос так"
+  },
+  "头痛、头晕": {
+    "en": "Headache, dizziness",
+    "ru": "Головная боль, головокружение"
+  },
+  "最近有些头痛，挂什么科？": {
+    "en": "I've had headaches recently. Which department should I visit?",
+    "ru": "У меня最近 головная боль. В какой отделение я должен обратиться?"
+  },
+  "咳嗽、呼吸不适": {
+    "en": "Cough, breathing discomfort",
+    "ru": "Кашель, дискомфорт дыхания"
+  },
+  "咳嗽好几天了，该去哪看？": {
+    "en": "I've had a cough for several days. Where should I go?",
+    "ru": "У меня кашель уже несколько дней. В какой отделение я должен обратиться?"
+  },
+  "肠胃、消化不适": {
+    "en": "Gastrointestinal, digestive discomfort",
+    "ru": "Желудочно-кишечные проблемы, дискомфорт пищеварения"
+  },
+  "吃完饭肚子不舒服怎么办？": {
+    "en": "What should I do after eating if I feel uncomfortable?",
+    "ru": "Что делать после еды, если чувствуете дискомфорт?"
+  },
+  "皮肤、过敏问题": {
+    "en": "Skin, allergies",
+    "ru": "Кожа, аллергии"
+  },
+  "皮肤红疹发痒，挂什么科？": {
+    "en": "I have itchy red rashes. Which department should I visit?",
+    "ru": "У меня покраснелая и зудящая кожа. В какой отделение я должен обратиться?"
+  },
+  "当前为规则对话演示，导诊内容仅供展示，不能代替医生诊断。": {
+    "en": "Current mode is rule-based demo. Triage content is for demonstration only and cannot replace medical diagnosis.",
+    "ru": "Текущий режим — демонстрация по правилам. Содержимое по первичной диагностике предназначено только для демонстрации и не заменяет медицинскую диагностику."
+  },
+  "重新开始": {
+    "en": "Start Over",
+    "ru": "Начать сначала"
+  },
+  "查看科室": {
+    "en": "View Departments",
+    "ru": "Посмотреть отделения"
+  },
+  "描述示例": {
+    "en": "Example Description",
+    "ru": "Пример описания"
+  },
+  "描述你的症状": {
+    "en": "Describe Your Symptoms",
+    "ru": "Опишите симптомы"
+  },
+  "Enter 发送 · Shift + Enter 换行": {
+    "en": "Enter to send · Shift + Enter to newline",
+    "ru": "Enter для отправки · Shift + Enter для переноса строки"
+  },
+  "找到适合的科室": {
+    "en": "Find the Right Department",
+    "ru": "Найти подходящее отделение"
+  },
+  "了解科室服务范围，让就医更有方向。以下位置与科室资料均为示例。": {
+    "en": "Learn about department services to guide your healthcare. The locations and department details below are examples.",
+    "ru": "Узнайте о услугах отделений, чтобы направить вашу медицинскую помощь. Ниже приведены примеры расположений и деталей отделений."
+  },
+  "全部科室": {
+    "en": "All Departments",
+    "ru": "Все отделения"
+  },
+  "内科": {
+    "en": "Internal Medicine",
+    "ru": "Внутренние болезни"
+  },
+  "外科": {
+    "en": "Surgery",
+    "ru": "Хирургия"
+  },
+  "其他专科": {
+    "en": "Other Specialties",
+    "ru": "Другие специальности"
+  },
+  "第一次来，也能从容就诊": {
+    "en": "First-Time Visitors Can Also Feel at Ease",
+    "ru": "Первые посетители также могут чувствовать себя уверенно"
+  },
+  "一份简单的就医清单，陪你走好每一步。具体安排请以实际医院公告为准。": {
+    "en": "A simple healthcare checklist to guide you through each step. Specific arrangements may vary based on hospital announcements.",
+    "ru": "Простой список для медицинской помощи, который поможет вам пройти каждый шаг. Конкретные распоряжения могут отличаться в зависимости от объявления больницы."
+  },
+  "确认科室": {
+    "en": "Confirm Department",
+    "ru": "Подтвердить отделение"
+  },
+  "先了解科室范围；拿不准时，可向医院人工导诊台咨询。": {
+    "en": "First, understand the department's scope; if unsure, consult the hospital's manual desk.",
+    "ru": "Сначала определите область отделения; если не уверены, обратитесь к ручному столу больницы."
+  },
+  "预约或挂号": {
+    "en": "Schedule or Register",
+    "ru": "Расписание или регистрация"
+  },
+  "通过医院官方渠道查看号源，确认就诊日期、医生与院区。": {
+    "en": "Check available slots through official hospital channels to confirm your appointment date, doctor, and facility.",
+    "ru": "Проверьте доступные места через официальные каналы больницы для подтверждения даты приема, врача и заведения."
+  },
+  "报到与候诊": {
+    "en": "Check-in and Waiting",
+    "ru": "Проверка и ожидание"
+  },
+  "按预约要求到院报到，留意叫号信息，并准备好病历资料。": {
+    "en": "Arrive at the hospital as per your appointment, check your call number, and prepare medical records.",
+    "ru": "Прибыть в больницу согласно записи, проверьте номер вызова и подготовьте медицинские документы."
+  },
+  "就诊与后续": {
+    "en": "Visit and Follow-up",
+    "ru": "Визит и последующие действия"
+  },
+  "向医生描述症状，按医嘱检查；离院前确认复诊与取药安排。": {
+    "en": "Describe your symptoms to the doctor, follow medical instructions for tests; confirm follow-up and medication pickup before leaving.",
+    "ru": "Опишите симптомы врачу, следуйте медицинским инструкциям для тестов; подтвердите повторное посещение и получение лекарств перед уходом."
+  },
+  "出发前，记得带上": {
+    "en": "Before leaving, remember to bring",
+    "ru": "Перед отъездом, помните, что нужно взять"
+  },
+  "身份证 / 就诊卡": {
+    "en": "ID Card / Visit Card",
+    "ru": "ID / Карты посещения"
+  },
+  "医保相关凭证": {
+    "en": "Health Insurance Documents",
+    "ru": "Документы медицинского страхования"
+  },
+  "既往病历及检查报告": {
+    "en": "Past Medical Records and Test Reports",
+    "ru": "Прошлые медицинские записи и результаты тестов"
+  },
+  "正在使用的药物清单": {
+    "en": "Current Medication List",
+    "ru": "Список текущих лекарств"
+  },
+  "门诊楼层示意": {
+    "en": "Floor Map",
+    "ru": "Схема этажей"
+  },
+  "（演示信息）": {
+    "en": "(Demo Information)",
+    "ru": "(Демонстрационная информация)"
+  },
+  "你可能想了解": {
+    "en": "You Might Be Interested In",
+    "ru": "Вы, возможно, заинтересованы в"
+  },
+  "关于智能导诊与就医准备的常见问题。": {
+    "en": "Common Questions About Smart Triage and Healthcare Preparation",
+    "ru": "Частые вопросы о умном распределении и подготовке медицинской помощи"
+  },
+  "首次使用为什么要注册？": {
+    "en": "Why Register for the First Time?",
+    "ru": "Почему нужно зарегистрироваться впервые?"
+  },
+  "使用导诊前须创建账号并填写姓名、性别、账号、密码和确认密码；年龄可选填。已有账号可以直接登录。右上角点击姓名可以管理个人资料，点击退出可结束本次登录。": {
+    "en": "Before using the triage system, you must create an account, fill in your name, gender, account, password, and confirm password; age is optional. If you already have an account, log in directly. Click your name in the top right to manage your profile, or click logout to end the session.",
+    "ru": "Перед использованием системы распределения необходимо создать аккаунт, заполнить имя, пол, аккаунт, пароль и подтвердить пароль; возраст можно указать по желанию. Если у вас уже есть аккаунт, войдите напрямую. Нажмите имя в правом верхнем углу для управления профилем или выйти для окончания сессии."
+  },
+  "这个页面已经接入真实 AI 了吗？": {
+    "en": "Has this page been integrated with real AI?",
+    "ru": "Этот раздел уже интегрирован с реальным ИИ?"
+  },
+  "AI简单导诊使用基础规则；高级导诊接入本机 Ollama 模型并参考 MedlinePlus 摘要，逐步追问、整理可能原因和建议科室。项目尚未经过临床验证，AI 推测需要医生核实。": {
+    "en": "Basic triage uses simple rules; advanced triage integrates with the local Ollama model and references MedlinePlus summaries to progressively ask questions, organize potential causes, and suggest departments. The project has not undergone clinical validation, so AI recommendations require verification by a doctor.",
+    "ru": "Базовый триггер использует простые правила; продвинутый триггер интегрируется с локальным моделью Ollama и ссылается на обобщения MedlinePlus для постепенного задания вопросов, организации возможных причин и предложений отделений. Проект не прошел клиническую валидацию, поэтому рекомендации ИИ требуют проверки врачом."
+  },
+  "导诊建议能代替医生诊断吗？": {
+    "en": "Can triage suggestions replace a doctor's diagnosis?",
+    "ru": "Можно ли рекомендации триггера заменить диагноз врача?"
+  },
+  "不能。高级导诊会显示可能原因，不作确诊，也不提供药物或治疗方案。症状可能由多种原因引起，实际科室选择请咨询医院导诊人员，就医与诊断请以医生意见为准。": {
+    "en": "No. Advanced triage shows potential causes but does not confirm diagnoses or provide medications/treatment plans. Symptoms can arise from multiple causes; please consult hospital triage staff for department selection and seek medical advice from a doctor.",
+    "ru": "Нет. Продвинутый триггер показывает возможные причины, но не подтверждает диагнозы и не предлагает лекарства или планы лечения. Симптомы могут быть вызваны различными причинами; для выбора отделения пожалуйста, обратитесь к персоналу триггера больницы и получите медицинскую консультацию от врача."
+  },
+  "怎样描述症状更清楚？": {
+    "en": "How to describe symptoms more clearly?",
+    "ru": "Как лучше описать симптомы?"
+  },
+  "可以说明年龄、主要不适部位、持续时间、变化情况，以及是否伴有其他不适。不要在页面里输入姓名、身份证号、联系方式等个人身份信息。": {
+    "en": "Specify age, primary discomfort area, duration, changes, and any accompanying symptoms. Do not input personal information such as name, ID number, or contact details.",
+    "ru": "Укажите возраст, основная область дискомфорта, продолжительность, изменения и любые сопутствующие симптомы. Не вводите персональную информацию, например, имя, номер ID или контактные данные."
+  },
+  "我的账号资料与咨询内容会被保存吗？": {
+    "en": "Will my account information and consultation content be saved?",
+    "ru": "Сохраняются ли мои данные аккаунта и содержание консультации?"
+  },
+  "姓名、性别、账号及选填年龄存入本系统数据库，密码以哈希形式保存。AI简单导诊的演示咨询仅在浏览器页面内存中处理。高级导诊追问期间不入库，确认后会将描述、既往病史和 AI 初步推测自动保存并分诊。仅对应科室和接受该条会诊邀请的医生可查看；内部讨论不显示给患者，正式回复进入患者信箱。": {
+    "en": "Name, gender, account, and optional age are stored in the system database; passwords are hashed. Simple triage consultations are processed in browser memory only. Advanced triage questions are not stored during the session; after confirmation, descriptions, medical history, and AI preliminary suggestions are saved and routed to the appropriate department. Only the relevant department and doctors who accept the consultation invitation can view this information; internal discussions are not visible to patients, and formal responses go to the patient's mailbox.",
+    "ru": "Имя, пол, аккаунт и опциональный возраст хранятся в базе данных системы; пароли хранятся в виде хеша. Простые консультации триггера обрабатываются только в памяти браузера. Вопросы продвинутого триггера не сохраняются во время сессии; после подтверждения описания, медицинская история и предварительные рекомендации ИИ сохраняются и направляются в соответствующее отделение. Только соответствующее отделение и врачи, которые принимают консультацию, могут видеть эту информацию; внутренние обсуждения не отображаются пациентам, а официальные ответы поступают в почтовый ящик пациента."
+  },
+  "能直接在这里挂号吗？": {
+    "en": "Can I book an appointment directly here?",
+    "ru": "Можно ли здесь забронировать прием?"
+  },
+  "当前页面没有对接医院预约系统。请通过实际医院的官网、公众号、官方应用或挂号窗口预约。科室、位置及门诊时间均为示例，不能作为真实到院指引。": {
+    "en": "This page does not integrate with hospital booking systems. Please book through the hospital's official website, WeChat official account, official app, or in-person booking. Department, location, and appointment times are examples only and cannot be used for actual hospital visits.",
+    "ru": "Этот раздел не интегрирован с системой бронирования больницы. Пожалуйста, забронируйте через официальный сайт больницы, официальный WeChat-аккаунт, официальное приложение или в-person booking. Отделение, расположение и время приема являются примерами и не могут использоваться для реальных посещений больницы."
+  },
+  "遇到紧急情况怎么办？": {
+    "en": "What to do in case of emergencies?",
+    "ru": "Что делать в случае экстренных ситуаций?"
+  },
+  "若出现胸痛、呼吸困难、意识异常，或突然口角歪斜、说话不清、肢体无力等危险表现，请及时拨打 120 或寻求急诊帮助，不要等待在线导诊回复。": {
+    "en": "If you experience chest pain, difficulty breathing, altered consciousness, or sudden facial drooping, slurred speech, or limb weakness, call 120 or seek emergency help immediately. Do not wait for online triage responses.",
+    "ru": "Если возникает боль в груди, трудность дыхания, нарушение сознания, или внезапное искривление лица, нарушение речи, слабость в конечностях, немедленно звоните 120 или ищите экстренную помощь. Не ждите ответа от онлайн-триггера."
+  },
+  "让导诊更了解你": {
+    "en": "Make triage more aware of you",
+    "ru": "Сделать триггер более информативным о вас"
+  },
+  "说说主要不适": {
+    "en": "Describe primary discomfort",
+    "ru": "Опишите основной дискомфорт"
+  },
+  "哪里不舒服？": {
+    "en": "Where are you uncomfortable?",
+    "ru": "Где вы чувствуете дискомфорт?"
+  },
+  "有什么明显的症状？": {
+    "en": "What are the obvious symptoms?",
+    "ru": "Какие явные симптомы?"
+  },
+  "补充一些细节": {
+    "en": "Add more details",
+    "ru": "Добавьте дополнительные детали"
+  },
+  "症状持续多久了？": {
+    "en": "How long has the symptom lasted?",
+    "ru": "Сколько времени симптом длится?"
+  },
+  "你的年龄大约是多少？": {
+    "en": "What is your approximate age?",
+    "ru": "Какой примерный возраст у вас?"
+  },
+  "了解就诊方向": {
+    "en": "Determine the direction of care",
+    "ru": "Определить направление медицинской помощи"
+  },
+  "梳理需要补充的信息，": {
+    "en": "Gather additional information",
+    "ru": "Соберите дополнительную информацию"
+  },
+  "查看相关科室的介绍。": {
+    "en": "View department introductions",
+    "ru": "Посмотреть введения по отделениям"
+  },
+  "温馨提醒": {
+    "en": "Friendly reminder",
+    "ru": "Дружеское напоминание"
+  },
+  "咨询中请勿输入身份证等信息。": {
+    "en": "Do not input ID information during consultation.",
+    "ru": "Не вводите информацию о номере ID во время консультации."
+  },
+  "账号资料可在个人资料中管理。": {
+    "en": "Account information can be managed in your profile.",
+    "ru": "Данные аккаунта можно управлять в профиле."
+  },
+  "紧急情况，及时求助": {
+    "en": "Emergency: Seek help immediately",
+    "ru": "Экстренный случай: немедленно обратитесь за помощью"
+  },
+  "出现胸痛、呼吸困难、意识异常，或突然说话不清、肢体无力等表现，请立即寻求急救帮助。": {
+    "en": "If you experience chest pain, difficulty breathing, altered consciousness, or sudden speech difficulties and limb weakness, seek emergency medical help immediately.",
+    "ru": "Если вы испытываете грудную боль, трудности дыхания, нарушение сознания или внезапные нарушения речи и слабость в мышцах, немедленно обратитесь за экстренной помощью."
+  },
+  "急救电话": {
+    "en": "Emergency number",
+    "ru": "Экстренный номер"
+  },
+  "参考：国家卫生健康委员会 ↗": {
+    "en": "Reference: National Health Commission ↗",
+    "ru": "Ссылка: Национальный комитет здравоохранения ↗"
+  },
+  "就医小帮手": {
+    "en": "Healthcare Assistant",
+    "ru": "Медицинский помощник"
+  },
+  "就诊流程与准备": {
+    "en": "Visit Process and Preparation",
+    "ru": "Процесс посещения и подготовка"
+  },
+  "科室及楼层示例": {
+    "en": "Department and Floor Examples",
+    "ru": "Примеры отделений и этажей"
+  },
+  "安心导诊 · 用心陪伴每一次就医　｜　界面与数据为演示用途": {
+    "en": "Guided Consultation · Carefully Accompanying Every Visit | Interface and data are for demonstration purposes",
+    "ru": "Сопровождение консультации · Тщательное сопровождение каждого визита | Интерфейс и данные для демонстрационных целей"
+  },
+  "资料为演示信息。实际科室位置、门诊安排与预约方式请以医院公告为准。": {
+    "en": "Information is for demonstration. Actual department locations, outpatient schedules, and booking methods are subject to hospital announcements.",
+    "ru": "Информация для демонстрации. Фактические расположения отделений, расписание приемов и способы бронирования регулируются объявлениями больницы."
+  },
+  "回到导诊咨询": {
+    "en": "Return to Consultation",
+    "ru": "Вернуться к консультации"
+  },
+  "请启用 JavaScript 以使用对话和科室筛选。紧急情况请拨打 120。": {
+    "en": "Enable JavaScript to use chat and department filtering. In emergencies, call 120.",
+    "ru": "Включите JavaScript для использования чата и фильтрации отделений. В экстренных ситуациях звоните 120."
+  },
+  "主导航": {
+    "en": "Main Navigation",
+    "ru": "Основное навигация"
+  },
+  "管理个人资料": {
+    "en": "Manage Personal Profile",
+    "ru": "Управление личным профилем"
+  },
+  "导诊对话": {
+    "en": "Consultation Chat",
+    "ru": "Чат консультации"
+  },
+  "咨询记录": {
+    "en": "Consultation Records",
+    "ru": "Записи консультаций"
+  },
+  "例如：我 28 岁，最近两天经常头痛，想知道应该挂什么科…": {
+    "en": "Example: I am 28 years old, have had headaches for the past two days, and want to know which department to visit...",
+    "ru": "Пример: Я 28 лет, у меня есть головные боли последние два дня, и я хочу знать, в какой отделение обратиться..."
+  },
+  "发送消息": {
+    "en": "Send Message",
+    "ru": "Отправить сообщение"
+  },
+  "搜索科室名称或服务范围": {
+    "en": "Search by department name or service scope",
+    "ru": "Поиск по названию отделения или сфере услуг"
+  },
+  "搜索科室": {
+    "en": "Search Department",
+    "ru": "Поиск отделения"
+  },
+  "关闭科室详情": {
+    "en": "Close Department Details",
+    "ru": "Закрыть детали отделения"
+  },
+  "✳ 寰校通 UniVerse": {
+    "en": "✳ Clear Campus",
+    "ru": "✳ Чистый кампус"
+  },
+  "当前为项目预约功能；记录保存在本系统，尚未对接学校预约系统。请以学校实际安排为准。": {
+    "en": "Currently project booking feature; records saved in this system, not yet connected to school booking system. Please follow school arrangements.",
+    "ru": "Текущая функция бронирования проекта; записи сохраняются в этой системе, не подключены к системе бронирования школы. Пожалуйста, следуйте школьным расписаниям."
+  },
+  "预约导航": {
+    "en": "Booking Navigation",
+    "ru": "Навигация бронирования"
+  },
+  "← 返回场地列表": {
+    "en": "← Return to Venue List",
+    "ru": "← Вернуться к списку мест"
+  },
+  "· 示例资源": {
+    "en": "· Example Resources",
+    "ru": "· Примеры ресурсов"
+  },
+  "选择日期": {
+    "en": "Select Date",
+    "ru": "Выбрать дату"
+  },
+  "查看时段": {
+    "en": "View Time Slots",
+    "ru": "Посмотреть временные слоты"
+  },
+  "· 选择一个时段": {
+    "en": "· Select a time slot",
+    "ru": "· Выбрать временной слот"
+  },
+  "确认预约 →": {
+    "en": "Confirm Booking →",
+    "ru": "Подтвердить бронирование →"
+  },
+  "登录／注册后预约 →": {
+    "en": "Log in / Register to Book →",
+    "ru": "Войти / Зарегистрироваться для бронирования →"
+  },
+  "预约小提示": {
+    "en": "Booking Tips",
+    "ru": "Советы по бронированию"
+  },
+  "每个座位或场地，同一时段只能有一条预约。": {
+    "en": "Only one booking per seat or venue per time slot.",
+    "ru": "Только один бронированный слот на место или площадку за один временной интервал."
+  },
+  "同学在同一时段只能预约一个地点；未来 14 天内可以选择。": {
+    "en": "Students can book only one location per time slot; available for the next 14 days.",
+    "ru": "Студенты могут бронировать только одно место за один временной слот; доступно в течение следующих 14 дней."
+  },
+  "临时改变计划，可以在开始前到“我的预约”取消。": {
+    "en": "Temporarily change your plan: you can cancel your reservation before starting.",
+    "ru": "Временно измените план: вы можете отменить запись до начала."
+  },
+  "这里是项目示例，没有完成实际学校场地的登记或占用。": {
+    "en": "This is a project example with no actual school facilities registration or occupation.",
+    "ru": "Это пример проекта, в котором нет реестра или занятия школьными помещениями."
+  },
+  "← 返回预约管理": {
+    "en": "← Return to reservation management",
+    "ru": "← Вернуться к управлению бронированием"
+  },
+  "设置场地": {
+    "en": "Set up space",
+    "ru": "Настроить пространство"
+  },
+  "暂停开放后不再接受新预约，已有记录仍可查看和取消。": {
+    "en": "After pausing, new reservations are no longer accepted; existing records can still be viewed and canceled.",
+    "ru": "После паузы новые бронирования не принимаются; существующие записи можно посмотреть и отменить."
+  },
+  "保存设置": {
+    "en": "Save settings",
+    "ru": "Сохранить настройки"
+  },
+  "CAMPUS SPACES / 计划你的校园时光": {
+    "en": "CAMPUS SPACES / Plan Your Campus Time",
+    "ru": "ОБРАЗОВАТЕЛЬНЫЕ ПРОСТРАНСТВА / Планируйте ваше время на кампусе"
+  },
+  "留一个位置，": {
+    "en": "Reserve a spot",
+    "ru": "Забронируйте место"
+  },
+  "给接下来的": {
+    "en": "for the next",
+    "ru": "для следующего"
+  },
+  "好时光。": {
+    "en": "great time.",
+    "ru": "прекрасного времени."
+  },
+  "选个日期，看看哪里还有空位。自习室按座位预约，球场按场地预约。": {
+    "en": "Choose a date to see available spots. Study rooms are booked by seat, sports fields by area.",
+    "ru": "Выберите дату, чтобы увидеть свободные места. Аудитории бронируются по местам, спортивные площадки — по зонам."
+  },
+  "预约日期": {
+    "en": "Reservation date",
+    "ru": "Дата бронирования"
+  },
+  "全部类型": {
+    "en": "All types",
+    "ru": "Все типы"
+  },
+  "查看场地": {
+    "en": "View spaces",
+    "ru": "Посмотреть пространства"
+  },
+  "我的预约 →": {
+    "en": "My reservations →",
+    "ru": "Мои бронирования →"
+  },
+  "找到适合你的空间": {
+    "en": "Find the right space for you",
+    "ru": "Найдите подходящее пространство для вас"
+  },
+  "自习室座位 · 运动场地": {
+    "en": "Study room seats · Sports fields",
+    "ru": "Места в учебных залах · Спортивные площадки"
+  },
+  "示例": {
+    "en": "Example",
+    "ru": "Пример"
+  },
+  "个时段可预约": {
+    "en": "available time slots",
+    "ru": "доступные временные интервалы"
+  },
+  "所选日期暂无时段": {
+    "en": "No time slots available for selected date",
+    "ru": "Для выбранной даты временные интервалы недоступны"
+  },
+  "选择时段 ↗": {
+    "en": "Choose time slot ↗",
+    "ru": "Выбрать временной интервал ↗"
+  },
+  "暂时没有开放的场地，可以换个类型看看。": {
+    "en": "No open spaces available; try another type.",
+    "ru": "Нет открытых пространств; попробуйте другой тип."
+  },
+  "场地类型": {
+    "en": "Space type",
+    "ru": "Тип пространства"
+  },
+  "校园管理": {
+    "en": "Campus management",
+    "ru": "Управление кампусом"
+  },
+  "场地与预约管理": {
+    "en": "Spaces and reservations management",
+    "ru": "Управление пространствами и бронированием"
+  },
+  "返回校园后台 →": {
+    "en": "Return to campus dashboard →",
+    "ru": "Вернуться в панель управления кампусом →"
+  },
+  "现有场地": {
+    "en": "Existing spaces",
+    "ru": "Существующие пространства"
+  },
+  "开放": {
+    "en": "Open",
+    "ru": "Открыто"
+  },
+  "暂停": {
+    "en": "Paused",
+    "ru": "Пауза"
+  },
+  "设置 →": {
+    "en": "Settings →",
+    "ru": "Настройки →"
+  },
+  "添加场地／座位": {
+    "en": "Add space/seat",
+    "ru": "Добавить пространство/место"
+  },
+  "添加场地": {
+    "en": "Add space",
+    "ru": "Добавить пространство"
+  },
+  "预约记录": {
+    "en": "预约记录",
+    "ru": "Записи бронирования"
+  },
+  "按日期查询": {
+    "en": "按日期查询",
+    "ru": "Поиск по дате"
+  },
+  "查询": {
+    "en": "查询",
+    "ru": "Поиск"
+  },
+  "编号": {
+    "en": "编号",
+    "ru": "Номер"
+  },
+  "预约账号": {
+    "en": "预约账号",
+    "ru": "Бронировочный аккаунт"
+  },
+  "场地": {
+    "en": "场地",
+    "ru": "Место"
+  },
+  "日期／时段": {
+    "en": "日期／时段",
+    "ru": "Дата/Время"
+  },
+  "状态": {
+    "en": "状态",
+    "ru": "Статус"
+  },
+  "暂无预约记录": {
+    "en": "暂无预约记录",
+    "ru": "Нет записей бронирования"
+  },
+  "安排好自己的时间": {
+    "en": "安排好自己的时间",
+    "ru": "Установите свой график"
+  },
+  "这里只显示你自己的预约记录。": {
+    "en": "这里只显示你自己的预约记录。",
+    "ru": "Здесь отображаются только ваши записи бронирования."
+  },
+  "再看看其他场地 ↗": {
+    "en": "再看看其他场地 ↗",
+    "ru": "Посмотрите другие места ↗"
+  },
+  "预约单 #": {
+    "en": "预约单 #",
+    "ru": "Бронирование #"
+  },
+  "取消预约": {
+    "en": "取消预约",
+    "ru": "Отменить бронирование"
+  },
+  "还没有预约": {
+    "en": "还没有预约",
+    "ru": "Ещё нет бронирования"
+  },
+  "给自习或运动留一个时间吧。": {
+    "en": "给自习或运动留一个时间吧。",
+    "ru": "Оставьте время для самостоятельной работы или тренировок."
+  },
+  "选择场地 →": {
+    "en": "选择场地 →",
+    "ru": "Выберите место →"
+  },
+  "上一页": {
+    "en": "上一页",
+    "ru": "Предыдущая страница"
+  },
+  "下一页": {
+    "en": "下一页",
+    "ru": "Следующая страница"
+  },
+  "ai 校园数据舱 · 校园论坛": {
+    "en": "ai 校园数据舱 · 校园论坛",
+    "ru": "AI Кampus Data Hub · Кampus Forum"
+  },
+  "← 返回个人信息": {
+    "en": "← 返回个人信息",
+    "ru": "← Вернуться в личные данные"
+  },
+  "校园数据分析舱": {
+    "en": "校园数据分析舱",
+    "ru": "Кampus аналитика данных"
+  },
+  "把你的阅读、互动与跑腿记录，变成看得见的校园生活轨迹。": {
+    "en": "把你的阅读、互动与跑腿记录，变成看得见的校园生活轨迹。",
+    "ru": "Превратите ваши записи о чтении, взаимодействии и доставках в видимую трассу школьной жизни."
+  },
+  "阅读帖子": {
+    "en": "阅读帖子",
+    "ru": "Читать посты"
+  },
+  "次 · 近 30 天": {
+    "en": "次 · 近 30 天",
+    "ru": "раз · последние 30 дней"
+  },
+  "打开跑腿": {
+    "en": "打开跑腿",
+    "ru": "Открыть доставку"
+  },
+  "发布 / 接单": {
+    "en": "发布 / 接单",
+    "ru": "Опубликовать / Принять заказ"
+  },
+  "完成": {
+    "en": "完成",
+    "ru": "Завершить"
+  },
+  "单": {
+    "en": "单",
+    "ru": "заказ"
+  },
+  "点赞 / 收藏": {
+    "en": "点赞 / 收藏",
+    "ru": "Лайк / Сохранить"
+  },
+  "近 30 天": {
+    "en": "近 30 天",
+    "ru": "Последние 30 дней"
+  },
+  "兴趣类型扫描": {
+    "en": "兴趣类型扫描",
+    "ru": "Сканирование типов интересов"
+  },
+  "你最近常看的帖子": {
+    "en": "What posts do you frequently view",
+    "ru": "Какие посты вы часто просматриваете"
+  },
+  "浏览一些帖子后，这里会显示阅读类型分布。": {
+    "en": "After browsing some posts, this will show the distribution of reading types.",
+    "ru": "После просмотра некоторых постов здесь отобразится распределение типов просмотра."
+  },
+  "最近你看得最多的是「": {
+    "en": "The most you've viewed recently is 「",
+    "ru": "Самые часто просматриваемые в последнее время — «"
+  },
+  "次": {
+    "en": "times",
+    "ru": "раз"
+  },
+  "近 7 天活动轨迹": {
+    "en": "7-day activity trail",
+    "ru": "7-дневный след активности"
+  },
+  "蓝色为阅读 · 青色为跑腿": {
+    "en": "Blue: reading · Cyan: running errands",
+    "ru": "Синий: просмотр · Циан: доставка"
+  },
+  "阅读": {
+    "en": "Reading",
+    "ru": "Просмотр"
+  },
+  "跑腿": {
+    "en": "Running errands",
+    "ru": "Доставка"
+  },
+  "和数据助手聊聊": {
+    "en": "Chat with Data Assistant",
+    "ru": "Разговор с данными"
+  },
+  "你的对话会保存在当前账号会话中": {
+    "en": "Your conversations are saved in the current account session.",
+    "ru": "Ваши диалоги сохраняются в текущей сессии аккаунта."
+  },
+  "清除会话": {
+    "en": "Clear session",
+    "ru": "Очистить сессию"
+  },
+  "你": {
+    "en": "You",
+    "ru": "Вы"
+  },
+  "校园数据助手": {
+    "en": "Campus Data Assistant",
+    "ru": "Кампус-данные"
+  },
+  "已成功调取近期记录": {
+    "en": "Recent records retrieved successfully",
+    "ru": "Недавние записи успешно получены"
+  },
+  "当前周期暂无记录，图表会在你使用后自动更新。": {
+    "en": "No records for the current cycle. Charts will update automatically after use.",
+    "ru": "Для текущего цикла отсутствуют записи. Графики обновятся автоматически после использования."
+  },
+  "你好，我可以帮你看看最近的校园使用数据。": {
+    "en": "Hello, I can check your recent campus usage data.",
+    "ru": "Привет, я могу проверить ваши недавние данные использования кампуса."
+  },
+  "试试问：我最近看什么类型最多？我跑腿接了几单？": {
+    "en": "Try asking: What type of posts did you view the most recently? How many deliveries have you made?",
+    "ru": "Попробуйте задать: Какие посты вы чаще всего просматривали? Сколько доставок вы выполнили?"
+  },
+  "正在整理你的记录": {
+    "en": "Organizing your records...",
+    "ru": "Сбор ваших записей..."
+  },
+  "正在读取你的近期统计": {
+    "en": "Reading recent statistics...",
+    "ru": "Чтение недавних статистик..."
+  },
+  "输入关于校园使用数据的问题": {
+    "en": "Enter a question about campus usage data",
+    "ru": "Введите вопрос о данных использования кампуса"
+  },
+  "发送 ↗": {
+    "en": "Send ↗",
+    "ru": "Отправить ↗"
+  },
+  "免费本地统计 · 回答基于近 30 天记录 · 不调用外部服务": {
+    "en": "Free local statistics · Answers based on the last 30 days of records · No external services called",
+    "ru": "Локальная статистика бесплатно · Ответы основаны на последних 30 днях записей · Не вызывает внешних сервисов"
+  },
+  "清除当前会话": {
+    "en": "Clear current session",
+    "ru": "Очистить текущую сессию"
+  },
+  "输入一个关于你校园数据的问题，例如：我最近点赞了多少次？": {
+    "en": "Enter a question about your campus data, e.g., How many likes did you give recently?",
+    "ru": "Введите вопрос о ваших кампус-данных, например: Сколько лайков вы дали недавно?"
+  },
+  "个人头像": {
+    "en": "Profile picture",
+    "ru": "Профильная фотография"
+  },
+  "默认头像": {
+    "en": "Default profile picture",
+    "ru": "По умолчанию"
+  },
+  "与": {
+    "en": "and",
+    "ru": "и"
+  },
+  "聊天": {
+    "en": "Chat",
+    "ru": "Чат"
+  },
+  "点击“刷新消息”查看新消息。": {
+    "en": "Click 'Refresh messages' to see new messages.",
+    "ru": "Нажмите 'Обновить сообщения', чтобы увидеть новые сообщения."
+  },
+  "刷新消息": {
+    "en": "Refresh messages",
+    "ru": "Обновить сообщения"
+  },
+  "该消息因疑似广告已隐藏，请联系管理员。": {
+    "en": "This message has been hidden due to suspected ad. Please contact the administrator.",
+    "ru": "Это сообщение скрыто из-за подозрения на рекламу. Пожалуйста, свяжитесь с администратором."
+  },
+  "分享帖子：": {
+    "en": "Share post: ",
+    "ru": "Поделиться постом: "
+  },
+  "分享的帖子“": {
+    "en": "Shared post \"",
+    "ru": "Поделенный пост \""
+  },
+  "”已删除或下架": {
+    "en": "has been deleted or taken down",
+    "ru": "был удален или отключен"
+  },
+  "还没有消息，打个招呼吧。": {
+    "en": "No messages yet. Say hello!",
+    "ru": "Еще нет сообщений. Приветствуйте!"
+  },
+  "表情": {
+    "en": "Emojis",
+    "ru": "Эмодзи"
+  },
+  "准备分享：": {
+    "en": "Preparing to share:",
+    "ru": "Подготовка к обмену:"
+  },
+  "取消分享": {
+    "en": "Cancel sharing",
+    "ru": "Отменить обмен"
+  },
+  "发送": {
+    "en": "Send",
+    "ru": "Отправить"
+  },
+  "和好友聊两句": {
+    "en": "Chat with friends",
+    "ru": "Чат с друзьями"
+  },
+  "常用表情": {
+    "en": "Common emojis",
+    "ru": "Частые эмодзи"
+  },
+  "修改个人资料": {
+    "en": "Edit profile",
+    "ru": "Редактировать профиль"
+  },
+  "提交": {
+    "en": "Submit",
+    "ru": "Отправить"
+  },
+  "✦ 免费 AI 数据分析": {
+    "en": "✦ Free AI Data Analysis",
+    "ru": "✦ Бесплатный AI-анализ данных"
+  },
+  "查看自己最近阅读和校园跑腿的使用情况。": {
+    "en": "View your recent reading and campus delivery usage.",
+    "ru": "Посмотреть последние чтения и использование сервиса доставки на кампусе."
+  },
+  "账号：": {
+    "en": "Account:",
+    "ru": "Аккаунт:"
+  },
+  "我的跑腿订单": {
+    "en": "My delivery orders",
+    "ru": "Мои заказы доставки"
+  },
+  "剩余余额": {
+    "en": "Remaining balance",
+    "ru": "Оставшийся баланс"
+  },
+  "充值": {
+    "en": "Recharge",
+    "ru": "Пополнить"
+  },
+  "学院：": {
+    "en": "College:",
+    "ru": "Колледж:"
+  },
+  "· 专业：": {
+    "en": "· Major:",
+    "ru": "· Направление:"
+  },
+  "修改资料": {
+    "en": "Edit profile",
+    "ru": "Редактировать профиль"
+  },
+  "校园成长等级": {
+    "en": "Campus growth level",
+    "ru": "Уровень роста кампуса"
+  },
+  "· 校园探索者": {
+    "en": "· Campus Explorer",
+    "ru": "· Кампус-Экспериментатор"
+  },
+  "当前经验": {
+    "en": "Current experience",
+    "ru": "Текущий опыт"
+  },
+  "xp · 距离升级还差": {
+    "en": "xp · Distance to next level",
+    "ru": "xp · Расстояние до следующего уровня"
+  },
+  "发帖 +10 · 评论 +5 · 点赞或收藏 +2 · 完成跑腿 +15": {
+    "en": "Post +10 · Comment +5 · Like or save +2 · Complete delivery +15",
+    "ru": "Пост +10 · Комментарий +5 · Лайк или сохранение +2 · Завершение доставки +15"
+  },
+  "我的帖子": {
+    "en": "My posts",
+    "ru": "Мои посты"
+  },
+  "观看历史": {
+    "en": "View history",
+    "ru": "Посмотреть историю"
+  },
+  "我的收藏": {
+    "en": "My favorites",
+    "ru": "Мои избранное"
+  },
+  "我的关注": {
+    "en": "My follows",
+    "ru": "Мои подписки"
+  },
+  "我的帖子（": {
+    "en": "My posts (",
+    "ru": "Мои посты ("
+  },
+  "（已下架）": {
+    "en": " (archived)",
+    "ru": " (архивированный)"
+  },
+  "你还没有发过帖子。": {
+    "en": "You haven't posted anything yet.",
+    "ru": "Вы еще не опубликовали ничего."
+  },
+  "最近浏览：": {
+    "en": "Recently viewed",
+    "ru": "Последние просмотренные"
+  },
+  "还没有观看记录，浏览帖子后会自动记录。": {
+    "en": "No viewing history. View posts to record automatically.",
+    "ru": "Нет истории просмотра. Просмотр постов автоматически записывает."
+  },
+  "收藏于": {
+    "en": "Bookmarked",
+    "ru": "Закладки"
+  },
+  "还没有收藏，打开帖子可以收藏。": {
+    "en": "No bookmarks. Bookmark posts when opened.",
+    "ru": "Нет закладок. Закладывайте посты при открытии."
+  },
+  "已关注": {
+    "en": "Following",
+    "ru": "Подписанные"
+  },
+  "还没有关注，点击帖子作者可以关注同学。": {
+    "en": "No follows. Click the post author to follow classmates.",
+    "ru": "Нет подписей. Нажмите автора поста, чтобы подписаться на одноклассников."
+  },
+  "取消关注": {
+    "en": "Unfollow",
+    "ru": "Отменить подписку"
+  },
+  "关注": {
+    "en": "Follow",
+    "ru": "Подписаться"
+  },
+  "登录后关注": {
+    "en": "Follow after login",
+    "ru": "Подписаться после входа"
+  },
+  "发布的帖子": {
+    "en": "Posted posts",
+    "ru": "Опубликованные посты"
+  },
+  "暂无帖子。": {
+    "en": "No posts available.",
+    "ru": "Постов нет."
+  },
+  "我的消息": {
+    "en": "Messages",
+    "ru": "Сообщения"
+  },
+  "管理员联系 · 疑惑解答": {
+    "en": "Admin contact · Help & FAQs",
+    "ru": "Контакт администратора · Помощь и Часто задаваемые вопросы"
+  },
+  "新回复": {
+    "en": "New replies",
+    "ru": "Новые ответы"
+  },
+  "暂无消息，可以从好友栏开始聊天。": {
+    "en": "No messages. Start chatting from the friend list.",
+    "ru": "Сообщений нет. Начните чат из списка друзей."
+  },
+  "余额充值": {
+    "en": "Balance recharge",
+    "ru": "Повышение баланса"
+  },
+  "剩余余额：": {
+    "en": "Remaining balance:",
+    "ru": "Остаток баланса:"
+  },
+  "填写充值代码，等待后台管理员审核并确认金额后到账。": {
+    "en": "Enter recharge code. Wait for admin approval and confirmation to receive funds.",
+    "ru": "Введите код пополнения. Ожидайте одобрения администратора и подтверждения для получения средств."
+  },
+  "提交审核": {
+    "en": "Submit for review",
+    "ru": "Отправить на проверку"
+  },
+  "我的充值记录": {
+    "en": "Recharge history",
+    "ru": "История пополнений"
+  },
+  "代码：": {
+    "en": "Code:",
+    "ru": "Код:"
+  },
+  "到账金额：¥": {
+    "en": "Amount received: ¥",
+    "ru": "Сумма получена: ¥"
+  },
+  "提交时间：": {
+    "en": "Submission time:",
+    "ru": "Время отправки:"
+  },
+  "· 审核时间：": {
+    "en": "· Review time:",
+    "ru": "· Время проверки:"
+  },
+  "审核备注：": {
+    "en": "Review notes:",
+    "ru": "Примечания к проверке:"
+  },
+  "暂无充值记录。": {
+    "en": "No recharge records.",
+    "ru": "Нет записей пополнений."
+  },
+  "没有找到相关用户。": {
+    "en": "No relevant users found.",
+    "ru": "Пользователей не найдено."
+  },
+  "第": {
+    "en": "Page",
+    "ru": "Страница"
+  },
+  "页": {
+    "en": "of",
+    "ru": "из"
+  },
+  "输入账号或昵称查找同学。": {
+    "en": "Search for classmates by account or nickname.",
+    "ru": "Поиск одноклассников по аккаунту или никнейму."
+  },
+  "输入账号或昵称": {
+    "en": "Account or nickname",
+    "ru": "Аккаунт или никнейм"
+  },
+  "校园公告": {
+    "en": "Campus announcements",
+    "ru": "Объявления университета"
+  },
+  "管理员置顶 ·": {
+    "en": "Admin pinned",
+    "ru": "Администратор помечен как важный"
+  },
+  "条": {
+    "en": "post",
+    "ru": "пост"
+  },
+  "· 校园管理组": {
+    "en": "Campus Management Group",
+    "ru": "Группа управления университетом"
+  },
+  "日常": {
+    "en": "Daily",
+    "ru": "Ежедневные"
+  },
+  "求助": {
+    "en": "Help",
+    "ru": "Помощь"
+  },
+  "交友": {
+    "en": "Make Friends",
+    "ru": "Дружба"
+  },
+  "我们的校园，我们的故事": {
+    "en": "Our Campus, Our Story",
+    "ru": "Наш университет, наша история"
+  },
+  "发布新帖 ＋": {
+    "en": "Post New Topic +",
+    "ru": "Создать новую тему +"
+  },
+  "热门": {
+    "en": "Popular",
+    "ru": "Популярные"
+  },
+  "发布时间": {
+    "en": "Post Time",
+    "ru": "Время публикации"
+  },
+  "最近回复": {
+    "en": "Last Reply",
+    "ru": "Последнее ответ"
+  },
+  "全部分类": {
+    "en": "All Categories",
+    "ru": "Все категории"
+  },
+  "标签筛选：#": {
+    "en": "Tag Filter: #",
+    "ru": "Фильтр тегов: #"
+  },
+  "清除": {
+    "en": "Clear",
+    "ru": "Очистить"
+  },
+  "引用帖子": {
+    "en": "Quote Post",
+    "ru": "Цитировать пост"
+  },
+  "· 阅读": {
+    "en": "· Read",
+    "ru": "· Прочитано"
+  },
+  "· 得分": {
+    "en": "· Points",
+    "ru": "· Баллы"
+  },
+  "暂时没有帖子，来发布第一条吧。": {
+    "en": "No posts yet. Create your first post.",
+    "ru": "Постов еще нет. Создайте свой первый пост."
+  },
+  "前": {
+    "en": "Previous",
+    "ru": "Предыдущие"
+  },
+  "暂无回复。": {
+    "en": "No replies yet.",
+    "ru": "Ответов еще нет."
+  },
+  "欢迎来到校园论坛": {
+    "en": "Welcome to Campus Forum",
+    "ru": "Добро пожаловать в университетский форум"
+  },
+  "面向在校学生的交流空间。": {
+    "en": "A space for communication among current students.",
+    "ru": "Пространство для общения среди текущих студентов."
+  },
+  "日常 / 求助 / 交友": {
+    "en": "Daily / Help / Make Friends",
+    "ru": "Ежедневные / Помощь / Дружба"
+  },
+  "学习交流 / 失物招领 / 二手交易": {
+    "en": "Study Exchange / Lost & Found / Second-hand Trading",
+    "ru": "Обмен знаниями / Потеря и нахождение / Вторичная торговля"
+  },
+  "交流小提示": {
+    "en": "Post Tips",
+    "ru": "Советы по публикации"
+  },
+  "标题写清楚，问题描述完整，讨论时相互尊重。": {
+    "en": "Be clear with your title, provide complete descriptions, and respect each other during discussions.",
+    "ru": "Будьте четкими в заголовке, предоставьте полные описания и уважайте друг друга во время обсуждений."
+  },
+  "论坛板块": {
+    "en": "Forum Sections",
+    "ru": "Секции форума"
+  },
+  "搜索帖子标题或内容": {
+    "en": "Search by post title or content",
+    "ru": "Искать по заголовку или содержанию поста"
+  },
+  "帖子排序": {
+    "en": "Sort Posts",
+    "ru": "Сортировать посты"
+  },
+  "管理控制台 · 校园论坛": {
+    "en": "Admin Console · Campus Forum",
+    "ru": "Админ-панель · Университетский форум"
+  },
+  "管理控制台 / CONTROL CENTER": {
+    "en": "Admin Console / CONTROL CENTER",
+    "ru": "Админ-панель / CONTROL CENTER"
+  },
+  "管理员 AI 控制台 · 校园论坛": {
+    "en": "AI Admin Console · Campus Forum",
+    "ru": "AI-админ-панель · Университетский форум"
+  },
+  "← 返回管理后台": {
+    "en": "← Return to Management Dashboard",
+    "ru": "← Возврат в панель управления"
+  },
+  "社区内容智能巡查": {
+    "en": "Community Content Smart Inspection",
+    "ru": "Умная проверка контента сообщества"
+  },
+  "本地规则筛查疑似广告与风险内容，管理员复核后处理。": {
+    "en": "Local rule screening for suspected ads and risky content; admin review and processing after confirmation.",
+    "ru": "Локальные правила для проверки подозрительных рекламы и рискованного контента; после подтверждения администратор проверяет и обрабатывает."
+  },
+  "本地规则引擎运行中": {
+    "en": "Local rule engine running",
+    "ru": "Локальный движок правил работает"
+  },
+  "外部模型未接入": {
+    "en": "External model not connected",
+    "ru": "Внешний модель не подключена"
+  },
+  "巡查运行概览": {
+    "en": "Inspection Run Overview",
+    "ru": "Обзор выполнения проверки"
+  },
+  "近 30 天实际记录 · 页面访问不计作调用": {
+    "en": "Actual records in the last 30 days · Page visits do not count as calls",
+    "ru": "Фактические записи за последние 30 дней · Посещения страниц не учитываются как вызовы"
+  },
+  "风险记录": {
+    "en": "Risk Records",
+    "ru": "Записи рисков"
+  },
+  "待人工复核": {
+    "en": "Pending manual review",
+    "ru": "Ожидает ручной проверки"
+  },
+  "已复核": {
+    "en": "Reviewed",
+    "ru": "Проверено"
+  },
+  "已隐藏内容": {
+    "en": "Hidden content",
+    "ru": "Скрытое содержание"
+  },
+  "人工复核覆盖率": {
+    "en": "Manual review coverage",
+    "ru": "Коэффициент ручной проверки"
+  },
+  "规则匹配平均分": {
+    "en": "Average rule match score",
+    "ru": "Средний балл совпадения правил"
+  },
+  "分数仅用于排序线索": {
+    "en": "Score only for sorting leads",
+    "ru": "Балл только для сортировки записей"
+  },
+  "引擎类型": {
+    "en": "Engine type",
+    "ru": "Тип движка"
+  },
+  "本地规则": {
+    "en": "Local rules",
+    "ru": "Локальные правила"
+  },
+  "免费运行 · 无外部 API": {
+    "en": "Free operation · No external API",
+    "ru": "Бесплатная работа · Нет внешних API"
+  },
+  "审核状态": {
+    "en": "Review status",
+    "ru": "Статус проверки"
+  },
+  "需要关注": {
+    "en": "Need attention",
+    "ru": "Нуждаются в внимании"
+  },
+  "运行平稳": {
+    "en": "Stable operation",
+    "ru": "Стабильная работа"
+  },
+  "待复核": {
+    "en": "Pending review",
+    "ru": "Ожидает проверки"
+  },
+  "风险内容来源": {
+    "en": "Source of risky content",
+    "ru": "Источник рискованного контента"
+  },
+  "近 30 天命中规则的内容类型": {
+    "en": "Content types that triggered local rules in the last 30 days",
+    "ru": "Типы контента, которые активировали локальные правила за последние 30 дней"
+  },
+  "目前没有命中记录。新内容会按本地规则持续筛查。": {
+    "en": "No hit records currently. New content will be continuously screened by local rules.",
+    "ru": "Нет текущих записей попаданий. Новый контент будет проверяться локальными правилами."
+  },
+  "审核工作台": {
+    "en": "Review Workbench",
+    "ru": "Платформа проверки"
+  },
+  "每条提示都由管理员判断": {
+    "en": "Each prompt is judged by an administrator",
+    "ru": "Каждый запрос оценивается администратором"
+  },
+  "规则可能误判正常交流，也可能漏掉隐晦表达。请结合上下文查看。": {
+    "en": "Rules may misidentify normal conversations or miss subtle expressions. Please check the context.",
+    "ru": "Правила могут неправильно определить нормальные разговоры или пропустить скрытые выражения. Пожалуйста, проверьте контекст."
+  },
+  "打开风险复核队列 ↗": {
+    "en": "Open risk review queue ↗",
+    "ru": "Открыть очередь рисковой проверки ↗"
+  },
+  "未连接外部大模型；没有真实测量的调用量、响应时间或准确率。": {
+    "en": "No external large model connected; no real measurement of call volume, response time, or accuracy.",
+    "ru": "Внешний большой модель не подключена; нет реальных показателей количества вызовов, времени отклика или точности."
+  },
+  "最近命中记录": {
+    "en": "Recent hit records",
+    "ru": "Недавние записи попаданий"
+  },
+  "只展示需要关注的内容片段": {
+    "en": "Only show content fragments that need attention",
+    "ru": "Показывать только фрагменты контента, требующие внимания"
+  },
+  "查看全部": {
+    "en": "View all",
+    "ru": "Показать все"
+  },
+  "· 分数": {
+    "en": "Score",
+    "ru": "Баллы"
+  },
+  "查看": {
+    "en": "View",
+    "ru": "Посмотреть"
+  },
+  "暂无风险记录。": {
+    "en": "No risk records.",
+    "ru": "Нет записей рисков."
+  },
+  "公告置顶管理": {
+    "en": "Announcement Top Management",
+    "ru": "Управление верхним объявлением"
+  },
+  "发布的启用公告会固定显示在校园广场首页。": {
+    "en": "Published announcements will be fixedly displayed on the campus square homepage.",
+    "ru": "Опубликованные объявления будут постоянно отображаться на главной странице квартала."
+  },
+  "公告模块": {
+    "en": "Announcement Module",
+    "ru": "Модуль объявлений"
+  },
+  "发布新公告": {
+    "en": "Publish New Announcement",
+    "ru": "Опубликовать новое объявление"
+  },
+  "发布并置顶": {
+    "en": "Publish and Top",
+    "ru": "Опубликовать и поместить на верх"
+  },
+  "公告列表": {
+    "en": "Announcement List",
+    "ru": "Список объявлений"
+  },
+  "正在置顶": {
+    "en": "Topping",
+    "ru": "Помещение на верх"
+  },
+  "已暂停": {
+    "en": "Paused",
+    "ru": "Пауза"
+  },
+  "重新置顶": {
+    "en": "Re-top",
+    "ru": "Перепоместить на верх"
+  },
+  "删除": {
+    "en": "Delete",
+    "ru": "Удалить"
+  },
+  "还没有公告。": {
+    "en": "No announcements.",
+    "ru": "Нет объявлений."
+  },
+  "校园论坛管理": {
+    "en": "Campus Forum Management",
+    "ru": "Управление кампус-форумом"
+  },
+  "数据仪表盘": {
+    "en": "Data Dashboard",
+    "ru": "Дашборд данных"
+  },
+  "✦ 管理员 AI 控制台": {
+    "en": "✦ Administrator AI Console",
+    "ru": "✦ Консоль AI администратора"
+  },
+  "内容风险复核（待复核": {
+    "en": "Content Risk Review (Pending Review",
+    "ru": "Ревью рисков содержания (Ожидает проверки"
+  },
+  "跑腿订单（": {
+    "en": "Delivery Orders (",
+    "ru": "Заказы доставки ("
+  },
+  "疑惑解答（待联系": {
+    "en": "FAQ (Pending Contact",
+    "ru": "Часто задаваемые вопросы (Ожидает связь"
+  },
+  "已完成跑腿": {
+    "en": "Completed Delivery",
+    "ru": "Завершенные доставки"
+  },
+  "单，全部订单和收支记录持续保留。": {
+    "en": "All orders and financial records are retained.",
+    "ru": "Все заказы и финансовые записи сохраняются."
+  },
+  "充值审核（待审核": {
+    "en": "Recharge Review (Pending Review",
+    "ru": "Проверка пополнения (Ожидает проверки"
+  },
+  "已审核到账总额：¥": {
+    "en": "Approved Recharge Total: ¥",
+    "ru": "Общая сумма подтвержденных пополнений: ¥"
+  },
+  "注册人数": {
+    "en": "Registered Users",
+    "ru": "Регистрированные пользователи"
+  },
+  "今日新增": {
+    "en": "Today's New Registrations",
+    "ru": "Сегодня новые регистрации"
+  },
+  "帖子总数": {
+    "en": "Total Posts",
+    "ru": "Общее количество постов"
+  },
+  "已下架": {
+    "en": "Disabled",
+    "ru": "Отключенные"
+  },
+  "点赞总量": {
+    "en": "Total Likes",
+    "ru": "Общее количество лайков"
+  },
+  "当前有效点赞": {
+    "en": "Current Valid Likes",
+    "ru": "Текущие действительные лайки"
+  },
+  "待审核举报": {
+    "en": "Pending Reports",
+    "ru": "Ожидаемые жалобы"
+  },
+  "累计举报": {
+    "en": "Total Reports",
+    "ru": "Общее количество жалоб"
+  },
+  "· 评论": {
+    "en": "· Comments",
+    "ru": "· Комментарии"
+  },
+  "近 7 天注册与点赞": {
+    "en": "Recent 7-day registrations and likes",
+    "ru": "Последние 7 дней регистрации и лайков"
+  },
+  "深蓝：注册 · 浅蓝：点赞（取消点赞后不计入）": {
+    "en": "Deep blue: registration · Light blue: likes (not counted after cancellation)",
+    "ru": "Глубокий синий: регистрация · Светло-синий: лайки (не учитываются после отмены)"
+  },
+  "点赞": {
+    "en": "Like",
+    "ru": "Лайк"
+  },
+  "后台快捷入口": {
+    "en": "Backend quick access",
+    "ru": "Быстрый доступ к бэкенду"
+  },
+  "发布或管理校园公告 →": {
+    "en": "Post or manage campus announcements →",
+    "ru": "Опубликовать или управлять сообщениями университета →"
+  },
+  "查看社区内容风险概览 →": {
+    "en": "View community content risk overview →",
+    "ru": "Посмотреть обзор рисков сообщества →"
+  },
+  "处理待复核内容 →": {
+    "en": "Process pending content reviews →",
+    "ru": "Обработать ожидающие проверки →"
+  },
+  "待审核": {
+    "en": "Pending",
+    "ru": "Ожидаемые"
+  },
+  "已保留": {
+    "en": "Retained",
+    "ru": "Сохраненные"
+  },
+  "举报人": {
+    "en": "Reporter",
+    "ru": "Отчетчик"
+  },
+  "审核": {
+    "en": "Review",
+    "ru": "Проверка"
+  },
+  "当前没有举报记录。": {
+    "en": "No reports found.",
+    "ru": "Отчеты не найдены."
+  },
+  "← 订单记录": {
+    "en": "← Order records",
+    "ru": "← Записи заказов"
+  },
+  "状态：": {
+    "en": "Status:",
+    "ru": "Статус:"
+  },
+  "· 悬赏 ¥": {
+    "en": "· Reward ¥",
+    "ru": "· Награда ¥"
+  },
+  "发布者": {
+    "en": "Poster",
+    "ru": "Автор"
+  },
+  "· 接单者": {
+    "en": "· Taker",
+    "ru": "· Получатель"
+  },
+  "送达照片": {
+    "en": "Delivery photo",
+    "ru": "Фото доставки"
+  },
+  "操作记录": {
+    "en": "Action records",
+    "ru": "Записи действий"
+  },
+  "收支记录": {
+    "en": "Financial records",
+    "ru": "Финансовые записи"
+  },
+  "相关反馈": {
+    "en": "Related feedback",
+    "ru": "Связанные отзывы"
+  },
+  "暂无反馈。": {
+    "en": "No feedback found.",
+    "ru": "Отзывы не найдены."
+  },
+  "送达凭证": {
+    "en": "Delivery proof",
+    "ru": "Доказательство доставки"
+  },
+  "← 仪表盘": {
+    "en": "← Dashboard",
+    "ru": "← Дашборд"
+  },
+  "跑腿订单记录": {
+    "en": "Delivery order records",
+    "ru": "Записи доставочных заказов"
+  },
+  "全部状态": {
+    "en": "All statuses",
+    "ru": "Все статусы"
+  },
+  "待接单": {
+    "en": "Pending",
+    "ru": "Ожидаемые"
+  },
+  "已接单": {
+    "en": "Accepted",
+    "ru": "Принятые"
+  },
+  "等待确认": {
+    "en": "Waiting for confirmation",
+    "ru": "Ожидает подтверждения"
+  },
+  "已完成": {
+    "en": "Completed",
+    "ru": "Завершено"
+  },
+  "已取消": {
+    "en": "Cancelled",
+    "ru": "Отменено"
+  },
+  "发布": {
+    "en": "Publish",
+    "ru": "Опубликовать"
+  },
+  "· 接单": {
+    "en": "Take Order",
+    "ru": "Принять заказ"
+  },
+  "查看记录": {
+    "en": "View Records",
+    "ru": "Просмотр записей"
+  },
+  "暂无订单。": {
+    "en": "No orders available.",
+    "ru": "Заказы отсутствуют."
+  },
+  "搜索标题、发布者、接单者": {
+    "en": "Search by title, publisher, or taker",
+    "ru": "Искать по заголовку, автору или получателю"
+  },
+  "← 咨询列表": {
+    "en": "← Consultation list",
+    "ru": "← Список консультаций"
+  },
+  "联系用户：": {
+    "en": "Contact user:",
+    "ru": "Контакт пользователь:"
+  },
+  "查看关联订单 #": {
+    "en": "View related orders #",
+    "ru": "Просмотр связанных заказов #"
+  },
+  "（管理员）": {
+    "en": "(Admin)",
+    "ru": "(Админ)"
+  },
+  "回复并联系用户": {
+    "en": "Reply and contact user",
+    "ru": "Ответить и связаться с пользователем"
+  },
+  "用户疑惑解答": {
+    "en": "User Q&A",
+    "ru": "Вопросы и ответы пользователя"
+  },
+  "待联系": {
+    "en": "Pending",
+    "ru": "Ожидает"
+  },
+  "已解决": {
+    "en": "Resolved",
+    "ru": "Решено"
+  },
+  "· 订单 #": {
+    "en": "Order #",
+    "ru": "Заказ #"
+  },
+  "联系用户": {
+    "en": "Contact user",
+    "ru": "Связаться с пользователем"
+  },
+  "暂无咨询。": {
+    "en": "No consultations available.",
+    "ru": "Консультации отсутствуют."
+  },
+  "← 返回仪表盘": {
+    "en": "← Return to dashboard",
+    "ru": "← Вернуться в панель управления"
+  },
+  "充值成功": {
+    "en": "Recharge successful",
+    "ru": "Пополнение прошло успешно"
+  },
+  "已拒绝": {
+    "en": "Rejected",
+    "ru": "отклонено"
+  },
+  "暂无申请。": {
+    "en": "No applications available.",
+    "ru": "Заявки отсутствуют."
+  },
+  "← 返回充值审核": {
+    "en": "← Return to recharge review",
+    "ru": "← Вернуться к проверке пополнения"
+  },
+  "审核充值申请": {
+    "en": "Review recharge application",
+    "ru": "Проверить заявку на пополнение"
+  },
+  "用户：": {
+    "en": "User:",
+    "ru": "Пользователь:"
+  },
+  "充值代码：": {
+    "en": "Recharge code:",
+    "ru": "Код пополнения:"
+  },
+  "请核对代码，审核通过时填写到账金额。": {
+    "en": "Please verify the code. Enter the amount upon approval.",
+    "ru": "Пожалуйста, проверьте код. Укажите сумму при одобрении."
+  },
+  "充值金额": {
+    "en": "Recharge amount",
+    "ru": "Сумма пополнения"
+  },
+  "审核备注": {
+    "en": "Review notes",
+    "ru": "Примечания к проверке"
+  },
+  "审核通过并充值": {
+    "en": "Approve and recharge",
+    "ru": "Одобрить и пополнить"
+  },
+  "审核人：": {
+    "en": "Reviewer:",
+    "ru": "Проверяющий:"
+  },
+  "备注：": {
+    "en": "Notes:",
+    "ru": "Примечания:"
+  },
+  "举报审核：": {
+    "en": "Report review:",
+    "ru": "Отчет о проверке:"
+  },
+  "举报人：": {
+    "en": "Reporter:",
+    "ru": "Отчетчик:"
+  },
+  "· 状态：": {
+    "en": "· Status:",
+    "ru": "· Статус:"
+  },
+  "举报原因": {
+    "en": "Report Reason",
+    "ru": "Причина жалобы"
+  },
+  "被举报内容（提交时记录）": {
+    "en": "Reported Content (recorded at submission)",
+    "ru": "Отмеченное содержимое (записывается при отправке)"
+  },
+  "查看当前帖子": {
+    "en": "View Current Post",
+    "ru": "Посмотреть текущий пост"
+  },
+  "原帖子已删除，举报记录仍保留。": {
+    "en": "The original post has been deleted, but the report record remains.",
+    "ru": "Оригинальный пост был удален, но запись жалобы сохранена."
+  },
+  "审核备注（可选）": {
+    "en": "Review Notes (optional)",
+    "ru": "Примечания к проверке (опционально)"
+  },
+  "保留帖子": {
+    "en": "Keep Post",
+    "ru": "Сохранить пост"
+  },
+  "下架帖子": {
+    "en": "Remove Post",
+    "ru": "Удалить пост"
+  },
+  "本地规则初筛 · 管理员人工判断": {
+    "en": "Local Rule Initial Screening · Administrator Manual Review",
+    "ru": "Локальная проверка правил · Ручной анализ администратора"
+  },
+  "内容风险复核": {
+    "en": "Content Risk Recheck",
+    "ru": "Повторная проверка рисков содержания"
+  },
+  "已确认正常": {
+    "en": "Confirmed Normal",
+    "ru": "Подтверждено как нормальное"
+  },
+  "已隐藏": {
+    "en": "Hidden",
+    "ru": "Скрытый"
+  },
+  "· 匹配分": {
+    "en": "· Match Score",
+    "ru": "· Балл совпадения"
+  },
+  "复核": {
+    "en": "Recheck",
+    "ru": "Повторная проверка"
+  },
+  "这个筛选下没有内容。": {
+    "en": "No content found in this filter.",
+    "ru": "В этом фильтре ничего не найдено."
+  },
+  "← 返回风险复核": {
+    "en": "← Return to Risk Recheck",
+    "ru": "← Вернуться к повторной проверке рисков"
+  },
+  "管理员人工复核": {
+    "en": "Administrator Manual Recheck",
+    "ru": "Ручная повторная проверка администратора"
+  },
+  "内容": {
+    "en": "Content",
+    "ru": "Содержание"
+  },
+  "作者：": {
+    "en": "Author:",
+    "ru": "Автор:"
+  },
+  "初筛原因：": {
+    "en": "Initial Screening Reason:",
+    "ru": "Причина первичной проверки:"
+  },
+  "（匹配分": {
+    "en": "(Match Score",
+    "ru": "(Балл совпадения"
+  },
+  "提交于": {
+    "en": "Submitted at",
+    "ru": "Отправлено в"
+  },
+  "确认正常": {
+    "en": "Confirm Normal",
+    "ru": "Подтвердить как нормальное"
+  },
+  "隐藏内容": {
+    "en": "Hide Content",
+    "ru": "Скрыть содержание"
+  },
+  "此类记录只做复核，不会自动隐藏跑腿订单或咨询。": {
+    "en": "These records are only for recheck and will not automatically hide delivery orders or consultations.",
+    "ru": "Эти записи только для повторной проверки и не будут автоматически скрывать доставку заказов или консультации."
+  },
+  "审核结果：": {
+    "en": "Review Result:",
+    "ru": "Результат проверки:"
+  },
+  "删除帖子": {
+    "en": "Delete Post",
+    "ru": "Удалить пост"
+  },
+  "确定删除“": {
+    "en": "Confirm to delete \"",
+    "ru": "Подтвердить удаление \""
+  },
+  "”吗？帖子的评论也会一起删除。": {
+    "en": "\"? Comments will also be deleted.",
+    "ru": "\"? Комментарии также будут удалены."
+  },
+  "确认删除": {
+    "en": "Confirm Delete",
+    "ru": "Подтвердить удаление"
+  },
+  "取消": {
+    "en": "Cancel",
+    "ru": "Отмена"
+  },
+  "· 校园论坛": {
+    "en": "· Campus Forum",
+    "ru": "· Кampus Forum"
+  },
+  "← 返回主页": {
+    "en": "← Return to homepage",
+    "ru": "← Вернуться на главную"
+  },
+  "引用：": {
+    "en": "Quote:",
+    "ru": "Цитата:"
+  },
+  "原帖子已下架": {
+    "en": "Original post has been removed",
+    "ru": "Оригинальный пост удален"
+  },
+  "修改帖子": {
+    "en": "Edit post",
+    "ru": "Редактировать пост"
+  },
+  "该帖子已下架，当前仅管理员可查看。": {
+    "en": "This post has been removed. Only administrators can view it now.",
+    "ru": "Этот пост удален. Только администраторы могут его просмотреть."
+  },
+  "引用发帖": {
+    "en": "Quote post",
+    "ru": "Цитировать пост"
+  },
+  "举报": {
+    "en": "Report",
+    "ru": "Жалоба"
+  },
+  "分享给好友": {
+    "en": "Share with friends",
+    "ru": "Поделиться с друзьями"
+  },
+  "分享给": {
+    "en": "Share with",
+    "ru": "Поделиться с"
+  },
+  "互相关注后即可分享。": {
+    "en": "You can share after mutual follows.",
+    "ru": "Вы можете поделиться после взаимного подписания."
+  },
+  "评论（": {
+    "en": "Comments (",
+    "ru": "Комментарии ("
+  },
+  "该评论因疑似广告已隐藏。": {
+    "en": "This comment has been hidden due to suspected advertising.",
+    "ru": "Этот комментарий скрыт из-за подозрения в рекламе."
+  },
+  "还没有评论，来聊两句吧。": {
+    "en": "No comments yet. Let's chat!",
+    "ru": "Комментариев еще нет. Давайте поговорим!"
+  },
+  "发布评论": {
+    "en": "Post comment",
+    "ru": "Оставить комментарий"
+  },
+  "登录后参与讨论": {
+    "en": "Log in to participate in discussion",
+    "ru": "Войдите, чтобы участвовать в обсуждении"
+  },
+  "返回主页": {
+    "en": "Return to homepage",
+    "ru": "Вернуться на главную"
+  },
+  "举报帖子": {
+    "en": "Report post",
+    "ru": "Жалоба на пост"
+  },
+  "提交举报": {
+    "en": "Submit report",
+    "ru": "Отправить жалобу"
+  },
+  "请说明帖子存在的问题": {
+    "en": "Please describe the problem with the post",
+    "ru": "Пожалуйста, укажите проблему с постом"
+  },
+  "校园跑腿 · 让校园里的小事更省心": {
+    "en": "Campus Run - Making small campus tasks easier",
+    "ru": "Кампус-Ран - Упрощение малых задач кампуса"
+  },
+  "← 接单广场": {
+    "en": "← Task Square",
+    "ru": "← Зона задач"
+  },
+  "发布任务": {
+    "en": "Post task",
+    "ru": "Опубликовать задачу"
+  },
+  "找位同学帮个忙": {
+    "en": "Find a classmate to help",
+    "ru": "Найти одноклассника для помощи"
+  },
+  "支付悬赏并发布": {
+    "en": "Pay reward and post",
+    "ru": "Оплатить вознаграждение и опубликовать"
+  },
+  "发布前看一眼": {
+    "en": "Preview before posting",
+    "ru": "Предварительный просмотр перед публикацией"
+  },
+  "可用余额": {
+    "en": "Available balance",
+    "ru": "Доступный баланс"
+  },
+  "余额不足？去充值": {
+    "en": "Insufficient balance? Recharge",
+    "ru": "Недостаточный баланс? Зарядить"
+  },
+  "① 填写公开任务说明，详细地址和手机号放在专用输入框。": {
+    "en": "① Fill in public task description, detailed address and phone number in the dedicated input field.",
+    "ru": "① Заполните описание публичной задачи, подробный адрес и номер телефона в специальном поле ввода."
+  },
+  "② 发布立即从余额扣除悬赏，确认完成才给接单者。": {
+    "en": "② Post immediately deducts reward from balance, confirms completion before paying the task recipient.",
+    "ru": "② При публикации сразу списывается вознаграждение с баланса, оплата производится после подтверждения выполнения."
+  },
+  "③ 未被接单可以取消，预付款自动退回。": {
+    "en": "③ Unaccepted tasks can be canceled, prepaid amount is automatically refunded.",
+    "ru": "③ Не принятые задачи можно отменить, предоплаченная сумма автоматически возвращается."
+  },
+  "④ 接单后遇到问题，可在订单里联系管理员。": {
+    "en": "④ If issues arise after taking the task, contact the administrator through the order.",
+    "ru": "④ Если возникают проблемы после выполнения задачи, свяжитесь с администратором через заказ."
+  },
+  "订单 #": {
+    "en": "Order #",
+    "ru": "Заказ #"
+  },
+  "已预付悬赏": {
+    "en": "Prepaid Reward",
+    "ru": "Предоплаченная награда"
+  },
+  "接单者": {
+    "en": "Order Taker",
+    "ru": "Получатель заказа"
+  },
+  "订单联系信息": {
+    "en": "Order Contact Information",
+    "ru": "Контактная информация заказа"
+  },
+  "地址：": {
+    "en": "Address:",
+    "ru": "Адрес:"
+  },
+  "手机号：": {
+    "en": "Phone:",
+    "ru": "Телефон:"
+  },
+  "详细地址和手机号仅发布者及接单者可见。": {
+    "en": "Detailed address and phone number are visible only to the publisher and order taker.",
+    "ru": "Подробный адрес и телефон видны только опубликовавшему и получателю заказа."
+  },
+  "取消订单并退款": {
+    "en": "Cancel Order and Refund",
+    "ru": "Отменить заказ и вернуть деньги"
+  },
+  "接下这个订单": {
+    "en": "Take This Order",
+    "ru": "Принять заказ"
+  },
+  "已完成，确认结算": {
+    "en": "Completed, Confirm Settlement",
+    "ru": "Завершено, подтвердите оплату"
+  },
+  "订单反馈 / 联系管理员": {
+    "en": "Order Feedback / Contact Administrator",
+    "ru": "Обратная связь по заказу / Связаться с администратором"
+  },
+  "登录后接单": {
+    "en": "Take Order After Login",
+    "ru": "Принять заказ после входа"
+  },
+  "已经送达？上传照片": {
+    "en": "Delivered? Upload Photo",
+    "ru": "Доставлено? Загрузите фото"
+  },
+  "提交送达，等待确认": {
+    "en": "Submit Delivery, Wait for Confirmation",
+    "ru": "Подтвердить доставку, ожидание подтверждения"
+  },
+  "送达凭证已提交，等待发布者确认，确认后悬赏自动到账。": {
+    "en": "Delivery proof submitted, waiting for publisher confirmation. Once confirmed, reward is automatically credited.",
+    "ru": "Доставлено, подтверждение отправлено, ожидание подтверждения опубликовавшим. После подтверждения награда автоматически зачисляется."
+  },
+  "订单已完成，悬赏已结算。记录仍可在“我的订单”查看。": {
+    "en": "Order completed, reward settled. Records remain viewable in 'My Orders'.",
+    "ru": "Заказ завершен, награда зачислена. Записи доступны в 'Мои заказы'."
+  },
+  "订单进度": {
+    "en": "Order Status",
+    "ru": "Статус заказа"
+  },
+  "核实送达情况后再确认完成。有疑问请提交订单反馈。": {
+    "en": "Confirm completion after verifying delivery. If you have questions, submit order feedback.",
+    "ru": "Подтвердите завершение после проверки доставки. Если у вас есть вопросы, отправьте обратную связь по заказу."
+  },
+  "CAMPUS EXPRESS / 校园互助站": {
+    "en": "CAMPUS EXPRESS / Campus Mutual Aid Station",
+    "ru": "CAMPUS EXPRESS / Студенческая помощь"
+  },
+  "你的小事，": {
+    "en": "Your small things,",
+    "ru": "Ваши мелочи,"
+  },
+  "我们的": {
+    "en": "Our",
+    "ru": "Наше"
+  },
+  "顺路之旅。": {
+    "en": "Ride Along Journey.",
+    "ru": "Путешествие по пути."
+  },
+  "取快递、代买、送东西。先预付，送达拍照，确认后结算。": {
+    "en": "Pick up, deliver, buy items. Prepay, take photo upon delivery, confirm and settle after delivery.",
+    "ru": "Сбор, доставка, покупка. Предоплата, фото при доставке, подтверждение и оплата после доставки."
+  },
+  "＋ 发布跑腿": {
+    "en": "+ Publish Run",
+    "ru": "+ Опубликовать заказ"
+  },
+  "遇到问题？问管理员 →": {
+    "en": "Having issues? Ask admin →",
+    "ru": "Проблемы? Спросите администратора →"
+  },
+  "● 校园": {
+    "en": "• Campus",
+    "ru": "• Кampus"
+  },
+  "你的身边 ●": {
+    "en": "Your Surroundings •",
+    "ru": "Ваши окружение •"
+  },
+  "等待接单": {
+    "en": "Waiting for Orders",
+    "ru": "Ожидает заказы"
+  },
+  "正在进行": {
+    "en": "In Progress",
+    "ru": "В процессе"
+  },
+  "我的余额": {
+    "en": "My Balance",
+    "ru": "Мой баланс"
+  },
+  "发布需求": {
+    "en": "Publish Request",
+    "ru": "Опубликовать запрос"
+  },
+  "同学接单": {
+    "en": "Classmates Taking Orders",
+    "ru": "Соседи, принимающие заказы"
+  },
+  "送达确认": {
+    "en": "Delivery Confirmation",
+    "ru": "Подтверждение доставки"
+  },
+  "已完成订单自动离开广场": {
+    "en": "Completed orders automatically leave the square",
+    "ru": "Завершенные заказы автоматически уходят из квадрата"
+  },
+  "全部进行中": {
+    "en": "All in progress",
+    "ru": "Все в процессе"
+  },
+  "最新发布": {
+    "en": "Latest releases",
+    "ru": "Новые публикации"
+  },
+  "价格从高到低": {
+    "en": "Price from high to low",
+    "ru": "Цена от высокой к низкой"
+  },
+  "▣ 详细地址及手机号接单后可见": {
+    "en": "Detailed address and phone number visible after accepting the order",
+    "ru": "Подробный адрес и номер телефона видны после принятия заказа"
+  },
+  "查看并接单": {
+    "en": "View and accept order",
+    "ru": "Посмотреть и принять заказ"
+  },
+  "查看进度": {
+    "en": "View progress",
+    "ru": "Посмотреть прогресс"
+  },
+  "暂时没有符合条件的订单，试试发布一个吧。": {
+    "en": "No orders matching your criteria. Try publishing one.",
+    "ru": "Нет заказов, соответствующих вашим критериям. Попробуйте опубликовать один."
+  },
+  "跑腿流程": {
+    "en": "Delivery process",
+    "ru": "Процесс доставки"
+  },
+  "搜索任务": {
+    "en": "Search tasks",
+    "ru": "Искать задачи"
+  },
+  "订单状态": {
+    "en": "Order status",
+    "ru": "Статус заказа"
+  },
+  "跑腿类型": {
+    "en": "Delivery type",
+    "ru": "Тип доставки"
+  },
+  "排序": {
+    "en": "Sort by",
+    "ru": "Сортировать по"
+  },
+  "发布跑腿": {
+    "en": "Publish delivery",
+    "ru": "Опубликовать доставку"
+  },
+  "我发布的": {
+    "en": "I published",
+    "ru": "Я опубликовал"
+  },
+  "我接下的": {
+    "en": "I am accepting",
+    "ru": "Я принимаю"
+  },
+  "最近跑腿收支": {
+    "en": "Recent delivery transactions",
+    "ru": "Недавние транзакции доставки"
+  },
+  "暂无收支记录。": {
+    "en": "No transaction records.",
+    "ru": "Нет записей транзакций."
+  },
+  "← 我的咨询": {
+    "en": "← My inquiries",
+    "ru": "← Мои запросы"
+  },
+  "疑惑解答 #": {
+    "en": "FAQ #",
+    "ru": "Часто задаваемые вопросы #"
+  },
+  "关联订单：": {
+    "en": "Associated orders:",
+    "ru": "Связанные заказы:"
+  },
+  "管理员": {
+    "en": "Admin",
+    "ru": "Админ"
+  },
+  "我": {
+    "en": "Me",
+    "ru": "Меня"
+  },
+  "补充问题": {
+    "en": "Additional questions",
+    "ru": "Дополнительные вопросы"
+  },
+  "问题已解决": {
+    "en": "Question resolved",
+    "ru": "Вопрос решен"
+  },
+  "管理员帮你解答": {
+    "en": "Admin helps you solve it",
+    "ru": "Админ помогает решить"
+  },
+  "遇到问题？在这里问": {
+    "en": "Having trouble? Ask here",
+    "ru": "Проблемы? Задайте здесь"
+  },
+  "关联订单 #": {
+    "en": "Associated order #",
+    "ru": "Связанный заказ #"
+  },
+  "附上订单（可选）": {
+    "en": "Attach order (optional)",
+    "ru": "Привязать заказ (опционально)"
+  },
+  "不附订单": {
+    "en": "Do not attach order",
+    "ru": "Не привязывать заказ"
+  },
+  "可以附上自己发布或接过的订单，包括已完成订单。": {
+    "en": "You can attach orders you published or accepted, including completed orders.",
+    "ru": "Вы можете привязать заказы, которые вы опубликовали или приняли, включая завершенные заказы."
+  },
+  "提交问题，等待联系": {
+    "en": "Submit question, wait for contact",
+    "ru": "Отправить вопрос, ожидайте связи"
+  },
+  "管理员回复后会在顶部消息中提醒。只有你和管理员可以查看问题。": {
+    "en": "After admin reply, you'll be notified in the top message. Only you and admin can view the issue.",
+    "ru": "После ответа администратора вы получите уведомление в верхнем сообщении. Только вы и администратор можете видеть проблему."
+  },
+  "我的咨询": {
+    "en": "My Consultations",
+    "ru": "Мои консультации"
+  },
+  "暂无咨询记录。": {
+    "en": "No consultation records yet.",
+    "ru": "Ещё нет записей консультаций."
+  },
+  "校园跑腿 · 校园论坛": {
+    "en": "Campus Run · Campus Forum",
+    "ru": "Кампус-Ран · Кампус-Форум"
+  },
+  "至少 8 位，不能是纯数字、常见密码或与账号过于相似。": {
+    "en": "At least 8 characters, cannot be pure numbers, common passwords, or too similar to your account.",
+    "ru": "Не менее 8 символов, не может быть чистыми цифрами, распространенными паролями или слишком похожим на аккаунт."
+  },
+  "确认密码": {
+    "en": "Confirm Password",
+    "ru": "Подтвердите пароль"
+  },
+  "生源地省份": {
+    "en": "Hometown Province",
+    "ru": "Профильная область"
+  },
+  "选填，用于推荐家乡非遗；不会公开在论坛中。": {
+    "en": "Optional for recommending hometown intangible cultural heritage; not publicly visible in forums.",
+    "ru": "Опционально для рекомендации национального культурного наследия; не отображается в форумах."
+  },
+  "生源地城市": {
+    "en": "Hometown City",
+    "ru": "Профильный город"
+  },
+  "姓名": {
+    "en": "Name",
+    "ru": "Имя"
+  },
+  "性别": {
+    "en": "Gender",
+    "ru": "Пол"
+  },
+  "年龄": {
+    "en": "Age",
+    "ru": "Возраст"
+  },
+  "选填，用于导诊对话中的年龄信息。": {
+    "en": "Optional for age information in consultation dialogues.",
+    "ru": "Опционально для информации об возрасте в консультационных диалогах."
+  },
+  "4–30 位，以字母开头，可含数字和下划线；大小写不区分。": {
+    "en": "4–30 characters, must start with a letter, may include numbers and underscores; case-insensitive.",
+    "ru": "4–30 символов, должен начинаться с буквы, может содержать цифры и подчеркивания; нечувствителен к регистру."
+  },
+  "账号须以字母开头，仅包含字母、数字或下划线。": {
+    "en": "Account must start with a letter, may contain letters, numbers, or underscores.",
+    "ru": "Аккаунт должен начинаться с буквы, может содержать буквы, цифры или подчеркивания."
+  },
+  "设置登录密码": {
+    "en": "Set Login Password",
+    "ru": "Установить пароль для входа"
+  },
+  "再次输入密码": {
+    "en": "Re-enter Password",
+    "ru": "Повторите пароль"
+  },
+  "该账号已被注册，请更换账号或前往登录。": {
+    "en": "This account is already registered. Please choose a different account or log in.",
+    "ru": "Этот аккаунт уже зарегистрирован. Пожалуйста, выберите другой аккаунт или войдите."
+  },
+  "暂不填写": {
+    "en": "Not filled",
+    "ru": "Не заполнено"
+  },
+  "请选择性别": {
+    "en": "Please select gender",
+    "ru": "Пожалуйста, выберите пол"
+  },
+  "例如：贵阳，不填写详细地址": {
+    "en": "Example: Guiyang (do not fill detailed address)",
+    "ru": "Пример: Гуйянь (не заполняйте подробный адрес)"
+  },
+  "请输入姓名": {
+    "en": "Enter your name",
+    "ru": "Введите имя"
+  },
+  "请输入年龄（选填）": {
+    "en": "Enter age (optional)",
+    "ru": "Введите возраст (опционально)"
+  },
+  "设置你的登录账号": {
+    "en": "Set your login account",
+    "ru": "Установите ваш аккаунт для входа"
+  },
+  "注册时间": {
+    "en": "Registration Time",
+    "ru": "Время регистрации"
+  },
+  "男": {
+    "en": "Male",
+    "ru": "Мужской"
+  },
+  "女": {
+    "en": "Female",
+    "ru": "Женский"
+  },
+  "其他 / 不便透露": {
+    "en": "Other / Not disclosed",
+    "ru": "Другой / Не раскрывать"
+  },
+  "预约时段": {
+    "en": "Appointment Time",
+    "ru": "Время назначения"
+  },
+  "请选择未来 14 天内尚未开始的时段。": {
+    "en": "Please select a time slot that hasn't started within the next 14 days.",
+    "ru": "Пожалуйста, выберите временной интервал, который не начался в течение следующих 14 дней."
+  },
+  "自习室": {
+    "en": "Study Room",
+    "ru": "Кабинет для учебы"
+  },
+  "篮球场": {
+    "en": "Basketball Court",
+    "ru": "Баскетбольная площадка"
+  },
+  "羽毛球场": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "场地／座位名称": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "类型": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "位置说明": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "预约说明": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "开放预约": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "示例资源": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "时段": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "管理校园论坛和跑腿": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "管理校园场地预约": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "已预约": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "给患者的回复": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "内部会诊讨论": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "限定参考药品（选填）": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "医生当前判断": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "已核对的药物过敏": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "目前正在用的药": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "相关用药风险": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "我已核对上述信息，将结合诊断和实际药品说明书决定是否用药。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "邀请科室": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "请选择科室": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "会诊原因": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "该账号没有医生权限，请使用患者登录入口。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "按医生判断检索资料": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "结合患者描述和 AI 初步推测，填写你的回复。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "供参与医生讨论，不会发送到患者信箱。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "例如：已评估为轻度关节疼痛，需要评估短期对症用药。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "写明药名及反应；无过敏请明确填写，未知填“不清楚”。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "包括处方药、非处方药；没有用药请明确填写。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "请核对肝肾、消化道出血、心血管、饮酒、妊娠/哺乳等情况；未知请注明。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "简单说明需要其他科室确认什么。接受邀请后可查看完整资料。": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "科室标识": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "科室名称": {
+    "en": "Department Name",
+    "ru": "Название отделения"
+  },
+  "启用": {
+    "en": "Enable",
+    "ru": "Включить"
+  },
+  "医生姓名": {
+    "en": "Doctor Name",
+    "ru": "Имя врача"
+  },
+  "启用医生入口": {
+    "en": "Enable Doctor Entry",
+    "ru": "Включить доступ для врача"
+  },
+  "部位": {
+    "en": "Area",
+    "ru": "Область"
+  },
+  "具体位置": {
+    "en": "Specific Location",
+    "ru": "Конкретное местоположение"
+  },
+  "症状描述": {
+    "en": "Symptom Description",
+    "ru": "Описание симптомов"
+  },
+  "逐步追问记录": {
+    "en": "Step-by-Step Inquiry Record",
+    "ru": "Запись пошаговых вопросов"
+  },
+  "AI 初步整理": {
+    "en": "AI Initial Summary",
+    "ru": "AI первоначальный обзор"
+  },
+  "医生端用药参考": {
+    "en": "Doctor's Medication Reference",
+    "ru": "Референс по лекарствам врача"
+  },
+  "用户自述程度": {
+    "en": "Self-Reported Severity",
+    "ru": "Собственная оценка серьезности"
+  },
+  "演示分级": {
+    "en": "Demonstration Level",
+    "ru": "Уровень демонстрации"
+  },
+  "出现紧急提示词": {
+    "en": "Emergency Trigger Words",
+    "ru": "Экстренные триггерные слова"
+  },
+  "医生回复": {
+    "en": "Doctor's Response",
+    "ru": "Ответ врача"
+  },
+  "回复时间": {
+    "en": "Response Time",
+    "ru": "Время ответа"
+  },
+  "回复已读": {
+    "en": "Response Read",
+    "ru": "Ответ прочитан"
+  },
+  "提交时间": {
+    "en": "Submission Time",
+    "ru": "Время отправки"
+  },
+  "高级导诊咨询": {
+    "en": "Advanced Triage Consultation",
+    "ru": "Развернутая консультация по распределению"
+  },
+  "内部讨论": {
+    "en": "Internal Discussion",
+    "ru": "Внутренний диалог"
+  },
+  "分诊科室": {
+    "en": "Triage Department",
+    "ru": "Отделение для распределения"
+  },
+  "待医生回答": {
+    "en": "Waiting for Doctor Response",
+    "ru": "Ожидает ответа врача"
+  },
+  "待接受": {
+    "en": "Pending Acceptance",
+    "ru": "Ожидает принятия"
+  },
+  "已接受": {
+    "en": "Accepted",
+    "ru": "Принято"
+  },
+  "已撤回": {
+    "en": "Withdrawn",
+    "ru": "Отозвано"
+  },
+  "人体部位及简单关键词，用于课程演示，不是医学分诊规则。": {
+    "en": "Human body parts and simple keywords for demonstration purposes, not medical triage rules.",
+    "ru": "Части тела и простые ключевые слова для демонстрации, не медицинские правила распределения."
+  },
+  "头部": {
+    "en": "Head",
+    "ru": "Голова"
+  },
+  "颈部": {
+    "en": "Neck",
+    "ru": "Шея"
+  },
+  "胸部": {
+    "en": "Chest",
+    "ru": "Грудь"
+  },
+  "腹部": {
+    "en": "Abdomen",
+    "ru": "Брюшная полость"
+  },
+  "腰背部": {
+    "en": "Back and Lower Back",
+    "ru": "Спина и нижняя часть спины"
+  },
+  "骨盆 / 臀部": {
+    "en": "Pelvis / Buttocks",
+    "ru": "Пояс / Бедра"
+  },
+  "左上肢": {
+    "en": "Left Upper Limb",
+    "ru": "Левая верхняя конечность"
+  },
+  "右上肢": {
+    "en": "Right upper limb",
+    "ru": "Правая верхняя конечность"
+  },
+  "左手": {
+    "en": "Left hand",
+    "ru": "Левая рука"
+  },
+  "右手": {
+    "en": "Right hand",
+    "ru": "Правая рука"
+  },
+  "左下肢": {
+    "en": "Left lower limb",
+    "ru": "Левая нижняя конечность"
+  },
+  "右下肢": {
+    "en": "Right lower limb",
+    "ru": "Правая нижняя конечность"
+  },
+  "上肢（左右待确认）": {
+    "en": "Upper limb (left/right pending confirmation)",
+    "ru": "Верхняя конечность (левая/правая подтверждение требуется)"
+  },
+  "手部（左右待确认）": {
+    "en": "Hand (left/right pending confirmation)",
+    "ru": "Рука (левая/правая подтверждение требуется)"
+  },
+  "下肢（左右待确认）": {
+    "en": "Lower limb (left/right pending confirmation)",
+    "ru": "Нижняя конечность (левая/правая подтверждение требуется)"
+  },
+  "胸痛": {
+    "en": "Chest pain",
+    "ru": "Грудная боль"
+  },
+  "胸口痛": {
+    "en": "Chest pain",
+    "ru": "Грудная боль"
+  },
+  "胸口疼": {
+    "en": "Chest pain",
+    "ru": "Грудная боль"
+  },
+  "呼吸困难": {
+    "en": "Difficulty breathing",
+    "ru": "Сложность дыхания"
+  },
+  "喘不过气": {
+    "en": "Can't breathe",
+    "ru": "Не могу дышать"
+  },
+  "意识不清": {
+    "en": "Unconsciousness",
+    "ru": "Невозможность"
+  },
+  "昏迷": {
+    "en": "Coma",
+    "ru": "Кома"
+  },
+  "说话不清": {
+    "en": "Slurred speech",
+    "ru": "Непонятная речь"
+  },
+  "口角歪": {
+    "en": "Facial droop",
+    "ru": "Нарушение лица"
+  },
+  "肢体无力": {
+    "en": "Limb weakness",
+    "ru": "Слабость в конечностях"
+  },
+  "出血不止": {
+    "en": "Uncontrolled bleeding",
+    "ru": "Непрерывное кровотечение"
+  },
+  "吐血": {
+    "en": "Blood in mouth",
+    "ru": "Кровь в роте"
+  },
+  "便血": {
+    "en": "Blood in stool",
+    "ru": "Кровь в стуле"
+  },
+  "突然剧烈头痛": {
+    "en": "Sudden severe headache",
+    "ru": "Острый сильный головокружение"
+  },
+  "头顶 / 太阳穴": {
+    "en": "Top of head / Temporal area",
+    "ru": "Верхняя часть головы / Задняя область"
+  },
+  "面部": {
+    "en": "Face",
+    "ru": "Голова"
+  },
+  "眼耳鼻口": {
+    "en": "Eyes, ears, nose, mouth",
+    "ru": "Глаза, уши, нос, рот"
+  },
+  "头痛": {
+    "en": "Headache",
+    "ru": "Головная боль"
+  },
+  "头疼": {
+    "en": "Headache",
+    "ru": "Головная боль"
+  },
+  "头晕": {
+    "en": "Dizziness",
+    "ru": "Головокружение"
+  },
+  "太阳穴": {
+    "en": "Temporal area",
+    "ru": "Задняя область"
+  },
+  "眼睛": {
+    "en": "Eyes",
+    "ru": "Глаза"
+  },
+  "耳朵": {
+    "en": "Ears",
+    "ru": "Уши"
+  },
+  "牙": {
+    "en": "Teeth",
+    "ru": "Зубы"
+  },
+  "鼻子": {
+    "en": "鼻子",
+    "ru": "脸"
+  },
+  "脸": {
+    "en": "脸",
+    "ru": "face"
+  },
+  "前颈": {
+    "en": "前颈",
+    "ru": "front neck"
+  },
+  "后颈": {
+    "en": "后颈",
+    "ru": "back neck"
+  },
+  "咽喉": {
+    "en": "咽喉",
+    "ru": "throat"
+  },
+  "脖子": {
+    "en": "脖子",
+    "ru": "neck"
+  },
+  "颈": {
+    "en": "颈",
+    "ru": "neck"
+  },
+  "嗓子": {
+    "en": "嗓子",
+    "ru": "throat"
+  },
+  "左胸": {
+    "en": "左胸",
+    "ru": "left chest"
+  },
+  "右胸": {
+    "en": "右胸",
+    "ru": "right chest"
+  },
+  "胸部中间": {
+    "en": "胸部中间",
+    "ru": "center of chest"
+  },
+  "胸": {
+    "en": "胸",
+    "ru": "chest"
+  },
+  "咳嗽": {
+    "en": "咳嗽",
+    "ru": "cough"
+  },
+  "呼吸": {
+    "en": "呼吸",
+    "ru": "breathing"
+  },
+  "喘": {
+    "en": "喘",
+    "ru": "shortness of breath"
+  },
+  "肺": {
+    "en": "肺",
+    "ru": "lungs"
+  },
+  "心脏": {
+    "en": "心脏",
+    "ru": "heart"
+  },
+  "肋骨": {
+    "en": "肋骨",
+    "ru": "ribs"
+  },
+  "上腹": {
+    "en": "上腹",
+    "ru": "upper abdomen"
+  },
+  "下腹": {
+    "en": "下腹",
+    "ru": "lower abdomen"
+  },
+  "肚脐周围": {
+    "en": "肚脐周围",
+    "ru": "around navel"
+  },
+  "肚子": {
+    "en": "肚子",
+    "ru": "abdomen"
+  },
+  "腹": {
+    "en": "腹",
+    "ru": "abdomen"
+  },
+  "胃": {
+    "en": "胃",
+    "ru": "stomach"
+  },
+  "肠": {
+    "en": "肠",
+    "ru": "intestines"
+  },
+  "腹泻": {
+    "en": "腹泻",
+    "ru": "diarrhea"
+  },
+  "拉肚": {
+    "en": "拉肚",
+    "ru": "diarrhea"
+  },
+  "恶心": {
+    "en": "恶心",
+    "ru": "nausea"
+  },
+  "肝": {
+    "en": "肝",
+    "ru": "liver"
+  },
+  "上背": {
+    "en": "上背",
+    "ru": "upper back"
+  },
+  "下背": {
+    "en": "下背",
+    "ru": "lower back"
+  },
+  "腰部": {
+    "en": "腰部",
+    "ru": "lower back"
+  },
+  "腰": {
+    "en": "腰",
+    "ru": "背"
+  },
+  "背": {
+    "en": "背",
+    "ru": "腰"
+  },
+  "脊柱": {
+    "en": "脊柱",
+    "ru": "спинка"
+  },
+  "脊椎": {
+    "en": "脊椎",
+    "ru": "позвоночник"
+  },
+  "肾": {
+    "en": "肾",
+    "ru": "почки"
+  },
+  "骨盆": {
+    "en": "骨盆",
+    "ru": "пояс"
+  },
+  "臀部": {
+    "en": "臀部",
+    "ru": "пах"
+  },
+  "髋部": {
+    "en": "髋部",
+    "ru": "бедро"
+  },
+  "臀": {
+    "en": "臀",
+    "ru": "пах"
+  },
+  "胯": {
+    "en": "胯",
+    "ru": "пояс"
+  },
+  "髋": {
+    "en": "髋",
+    "ru": "бедро"
+  },
+  "肩部": {
+    "en": "肩部",
+    "ru": "плечо"
+  },
+  "上臂": {
+    "en": "上臂",
+    "ru": "верхняя рука"
+  },
+  "肘部": {
+    "en": "肘部",
+    "ru": "локоть"
+  },
+  "前臂": {
+    "en": "前臂",
+    "ru": "предплечье"
+  },
+  "左肩": {
+    "en": "左肩",
+    "ru": "левое плечо"
+  },
+  "左胳膊": {
+    "en": "左胳膊",
+    "ru": "левая рука"
+  },
+  "左臂": {
+    "en": "左臂",
+    "ru": "левая рука"
+  },
+  "左肘": {
+    "en": "左肘",
+    "ru": "левый локоть"
+  },
+  "右肩": {
+    "en": "右肩",
+    "ru": "правое плечо"
+  },
+  "右胳膊": {
+    "en": "右胳膊",
+    "ru": "правая рука"
+  },
+  "右臂": {
+    "en": "右臂",
+    "ru": "правая рука"
+  },
+  "右肘": {
+    "en": "右肘",
+    "ru": "правый локоть"
+  },
+  "手腕": {
+    "en": "手腕",
+    "ru": "кисть"
+  },
+  "手掌": {
+    "en": "手掌",
+    "ru": "пalm"
+  },
+  "手指": {
+    "en": "手指",
+    "ru": "пальцы"
+  },
+  "大腿": {
+    "en": "大腿",
+    "ru": "бедро"
+  },
+  "膝盖": {
+    "en": "膝盖",
+    "ru": "колено"
+  },
+  "小腿": {
+    "en": "小腿",
+    "ru": "нога"
+  },
+  "脚踝 / 足部": {
+    "en": "脚踝 / 足部",
+    "ru": "анкел / нога"
+  },
+  "左腿": {
+    "en": "左腿",
+    "ru": "левая нога"
+  },
+  "左膝": {
+    "en": "左膝",
+    "ru": "левое колено"
+  },
+  "左脚": {
+    "en": "Left foot",
+    "ru": "Левая нога"
+  },
+  "左踝": {
+    "en": "Left ankle",
+    "ru": "Левая стопа"
+  },
+  "右腿": {
+    "en": "Right leg",
+    "ru": "Правая нога"
+  },
+  "右膝": {
+    "en": "Right knee",
+    "ru": "Правый колене"
+  },
+  "右脚": {
+    "en": "Right foot",
+    "ru": "Правая нога"
+  },
+  "右踝": {
+    "en": "Right ankle",
+    "ru": "Правая стопа"
+  },
+  "肩": {
+    "en": "Shoulder",
+    "ru": "Шея"
+  },
+  "胳膊": {
+    "en": "Arm",
+    "ru": "Рука"
+  },
+  "臂": {
+    "en": "Arm",
+    "ru": "Рука"
+  },
+  "肘": {
+    "en": "Elbow",
+    "ru": "Локоть"
+  },
+  "手": {
+    "en": "Hand",
+    "ru": "Рука"
+  },
+  "腿": {
+    "en": "Leg",
+    "ru": "Нога"
+  },
+  "膝": {
+    "en": "Knee",
+    "ru": "Колено"
+  },
+  "脚": {
+    "en": "Foot",
+    "ru": "Нога"
+  },
+  "踝": {
+    "en": "Ankle",
+    "ru": "Стопа"
+  },
+  "(没有|无|否认|未出现|不伴|不存在|是否|有没有)(明显的?|出现)?$": {
+    "en": "(None|None|Deny|Not present|No|No|No|Is there|Do you have)(明显的?|appears)?$",
+    "ru": "Не указано|Отсутствует|Отрицание|Не присутствует|Нет|Нет|Нет|Есть|Есть ли"
+  },
+  "剧烈": {
+    "en": "Severe",
+    "ru": "Сильный"
+  },
+  "严重": {
+    "en": "Severe",
+    "ru": "Сильный"
+  },
+  "疼得受不了": {
+    "en": "Unbearable pain",
+    "ru": "Не переносимая боль"
+  },
+  "痛得受不了": {
+    "en": "Unbearable pain",
+    "ru": "Не переносимая боль"
+  },
+  "越来越重": {
+    "en": "Worsening",
+    "ru": "Ухудшение"
+  },
+  "持续加重": {
+    "en": "Progressive worsening",
+    "ru": "Продолжающее ухудшение"
+  },
+  "反复": {
+    "en": "Recurrent",
+    "ru": "Рекуррентный"
+  },
+  "一直": {
+    "en": "Persistent",
+    "ru": "Постоянный"
+  },
+  "一周": {
+    "en": "Week",
+    "ru": "Неделя"
+  },
+  "影响睡眠": {
+    "en": "Affects sleep",
+    "ru": "Влияет на сон"
+  },
+  "不引用帖子": {
+    "en": "Do not cite posts",
+    "ru": "Не цитировать посты"
+  },
+  "话题标签": {
+    "en": "Hashtags",
+    "ru": "Хэштеги"
+  },
+  "可写 #求助 #校园生活，新标签会自动加入标签库。": {
+    "en": "You can write #help #campus life, new tags will automatically be added to the tag library.",
+    "ru": "Вы можете писать #помощь #университетская жизнь, новые хэштеги автоматически добавляются в библиотеку тегов."
+  },
+  "标题": {
+    "en": "Title",
+    "ru": "Название"
+  },
+  "分类": {
+    "en": "Category",
+    "ru": "Категория"
+  },
+  "正文": {
+    "en": "Content",
+    "ru": "Содержание"
+  },
+  "上传图片": {
+    "en": "Upload image",
+    "ru": "Загрузить изображение"
+  },
+  "引用帖子（可选）": {
+    "en": "Quote post (optional)",
+    "ru": "Цитировать пост (опционально)"
+  },
+  "写下你的评论": {
+    "en": "Write your comment",
+    "ru": "Напишите комментарий"
+  },
+  "昵称": {
+    "en": "Nickname",
+    "ru": "Никнейм"
+  },
+  "学院": {
+    "en": "School",
+    "ru": "Вуз"
+  },
+  "专业": {
+    "en": "Major",
+    "ru": "Направление"
+  },
+  "个人简介": {
+    "en": "Profile",
+    "ru": "Профиль"
+  },
+  "充值代码": {
+    "en": "Recharge code",
+    "ru": "Код пополнения"
+  },
+  "公告标题": {
+    "en": "Announcement title",
+    "ru": "Заголовок объявления"
+  },
+  "公告内容": {
+    "en": "Announcement content",
+    "ru": "Содержание объявления"
+  },
+  "每个帖子最多添加 10 个标签": {
+    "en": "Each post can have up to 10 tags",
+    "ru": "Каждый пост может содержать до 10 тегов"
+  },
+  "审核通过时请填写充值金额": {
+    "en": "Enter recharge amount when approved",
+    "ru": "Укажите сумму пополнения при одобрении"
+  },
+  "标签只支持文字、数字、下划线和短横线，最多 24 个字符": {
+    "en": "Tags support letters, numbers, underscores, and hyphens (max 24 characters)",
+    "ru": "Теги поддерживают буквы, цифры, подчеркивания и дефисы (макс. 24 символа)"
+  },
+  "通过": {
+    "en": "Approved",
+    "ru": "Одобрено"
+  },
+  "请输入充值代码": {
+    "en": "Enter recharge code",
+    "ru": "Введите код пополнения"
+  },
+  "输入要置顶在校园广场的通知内容": {
+    "en": "Enter content for the notice to be displayed on the campus square",
+    "ru": "Введите содержимое уведомления для отображения на кампус-площадке"
+  },
+  "学习交流": {
+    "en": "Study and exchange",
+    "ru": "Изучение и обмен"
+  },
+  "校园生活": {
+    "en": "Campus life",
+    "ru": "Кампусная жизнь"
+  },
+  "失物招领": {
+    "en": "Lost and found",
+    "ru": "Потеря и нахождение"
+  },
+  "二手交易": {
+    "en": "Second-hand trading",
+    "ru": "Перепродажа"
+  },
+  "接单": {
+    "en": "Take orders",
+    "ru": "Брать заказы"
+  },
+  "完成订单": {
+    "en": "Complete order",
+    "ru": "Завершить заказ"
+  },
+  "收藏": {
+    "en": "Favorites",
+    "ru": "Избранное"
+  },
+  "等待管理员审核": {
+    "en": "Waiting for admin approval",
+    "ru": "Ожидает одобрения администратора"
+  },
+  "审核未通过": {
+    "en": "Approval failed",
+    "ru": "Одобрение не прошло"
+  },
+  "跑腿价格（元）": {
+    "en": "Delivery price (yuan)",
+    "ru": "Стоимость доставки (юань)"
+  },
+  "订单标题": {
+    "en": "Order title",
+    "ru": "Название заказа"
+  },
+  "任务说明（公开）": {
+    "en": "Task description (public)",
+    "ru": "Описание задачи (публично)"
+  },
+  "详细地址（接单后可见）": {
+    "en": "Detailed address (visible after taking orders)",
+    "ru": "Подробный адрес (виден после принятия заказа)"
+  },
+  "手机号（接单后可见）": {
+    "en": "Phone number (visible after taking orders)",
+    "ru": "Номер телефона (виден после принятия заказа)"
+  },
+  "送达说明（可选）": {
+    "en": "Delivery instructions (optional)",
+    "ru": "Инструкции по доставке (опционально)"
+  },
+  "你的问题": {
+    "en": "Your question",
+    "ru": "Ваш вопрос"
+  },
+  "请输入 11 位手机号": {
+    "en": "Enter 11-digit mobile phone number",
+    "ru": "Введите номер мобильного телефона из 11 цифр"
+  },
+  "照片最大 8 mb": {
+    "en": "Photo max 8 MB",
+    "ru": "Фото не более 8 МБ"
+  },
+  "请上传 jpg、png 或 webp 照片": {
+    "en": "Upload JPG, PNG, or WEBP photos",
+    "ru": "Загрузите фотографии в формате JPG, PNG или WEBP"
+  },
+  "取件地点及送达地址": {
+    "en": "Pickup location and delivery address",
+    "ru": "Место сборки и адрес доставки"
+  },
+  "描述问题，管理员会在这里联系你。": {
+    "en": "Describe the issue, the administrator will contact you here.",
+    "ru": "Опишите проблему, администратор свяжется с вами здесь."
+  },
+  "取快递": {
+    "en": "Pick up package",
+    "ru": "Соберите посылку"
+  },
+  "代买东西": {
+    "en": "Buy items on behalf of",
+    "ru": "Купить товары от имени"
+  },
+  "物品送达": {
+    "en": "Package delivered",
+    "ru": "Посылка доставлена"
+  },
+  "其他帮助": {
+    "en": "Other help",
+    "ru": "Другая помощь"
+  },
+  "发布预付": {
+    "en": "Prepay",
+    "ru": "Предоплата"
+  },
+  "取消退款": {
+    "en": "Cancel refund",
+    "ru": "Отмена возврата"
+  },
+  "完成收入": {
+    "en": "Completed income",
+    "ru": "Завершенный доход"
+  },
+  "等待管理员联系": {
+    "en": "Waiting for administrator contact",
+    "ru": "Ожидание связи с администратором"
+  },
+  "管理员已回复": {
+    "en": "Administrator has replied",
+    "ru": "Администратор ответил"
+  },
+  "正在归纳浏览和跑腿记录": {
+    "en": "Processing browsing and delivery records",
+    "ru": "Обработка просмотра и доставки записей"
+  },
+  "正在组织数据回答": {
+    "en": "Organizing data to respond",
+    "ru": "Сбор данных для ответа"
+  },
+  "聊天暂时无法打开": {
+    "en": "Chat temporarily unavailable",
+    "ru": "Чат временно недоступен"
+  },
+  "没有找到聊天内容": {
+    "en": "No chat content found",
+    "ru": "Не найдено чат-сообщений"
+  },
+  "发送失败，请稍后重试": {
+    "en": "Send failed, please try again later",
+    "ru": "Отправка не удалась, попробуйте позже"
+  },
+  "巫净琥珀穿着": {
+    "en": "Wu Jing Amethyst wearing",
+    "ru": "Wu Jing Amethyst в одежде"
+  },
+  "角色原始造型": {
+    "en": "Original character design",
+    "ru": "Оригинальный дизайн персонажа"
+  },
+  "非遗元素创意展示": {
+    "en": "Non-hereditary cultural heritage elements showcase",
+    "ru": "Презентация элементов непрерывного культурного наследия"
+  },
+  "今天也一起加油吧！": {
+    "en": "Let's keep going together today!",
+    "ru": "Давайте вместе продолжим сегодня!"
+  },
+  "问候暂时加载不了，稍后再试。": {
+    "en": "Greeting temporarily unavailable, try again later.",
+    "ru": "Приветствие временно недоступно, попробуйте позже."
+  },
+  "正在准备语音…": {
+    "en": "Preparing voice...",
+    "ru": "Подготовка голоса..."
+  },
+  "停止": {
+    "en": "Stop",
+    "ru": "Стоп"
+  },
+  "AI 合成语音": {
+    "en": "AI-generated voice",
+    "ru": "AI-генерированный голос"
+  },
+  "点一下“听她说”，就能播放语音啦。": {
+    "en": "Tap 'Listen to her' to play the voice.",
+    "ru": "Нажмите 'Слушать её' для воспроизведения голоса."
+  },
+  "语音暂时没能播放，请再试一次。": {
+    "en": "Voice playback failed, please try again.",
+    "ru": "Воспроизведение голоса не удалось, попробуйте снова."
+  },
+  "语音播放失败，请再试一次。": {
+    "en": "Voice playback failed, please try again.",
+    "ru": "Воспроизведение голоса не удалось, попробуйте снова."
+  },
+  "选择": {
+    "en": "Select",
+    "ru": "Выбрать"
+  },
+  "背面示意": {
+    "en": "Back view illustration",
+    "ru": "Иллюстрация обратной стороны"
+  },
+  "查看正面": {
+    "en": "View front",
+    "ru": "Посмотреть спереди"
+  },
+  "正在放大 ": {
+    "en": "Zooming in",
+    "ru": "Увеличение"
+  },
+  " · 请选择具体位置": {
+    "en": "· Please select a specific location",
+    "ru": "· Выберите конкретное место"
+  },
+  "已手动选择：": {
+    "en": "Manual selection: ",
+    "ru": "Ручной выбор: "
+  },
+  "。自动定位已关闭，可以重新勾选。": {
+    "en": "Auto positioning is disabled. You can re-select.",
+    "ru": "Автоматическое определение отключено. Вы можете перейти к выбору."
+  },
+  "已根据描述定位": {
+    "en": "Located based on description",
+    "ru": "Определено по описанию"
+  },
+  "已手动选择": {
+    "en": "Manual selection",
+    "ru": "Ручной выбор"
+  },
+  "已清除选择。可以手动选部位，或重新勾选自动定位。": {
+    "en": "Selection cleared. You can manually select a body part or re-enable auto positioning.",
+    "ru": "Выбор очищен. Вы можете вручную выбрать часть тела или включить автоматическое определение."
+  },
+  "全身视图 · 可以点击其他部位": {
+    "en": "Full view · Click other body parts",
+    "ru": "Полный вид · Нажмите другие части тела"
+  },
+  "全身视图 · ": {
+    "en": "Full view · ",
+    "ru": "Полный вид · "
+  },
+  "背面": {
+    "en": "Back",
+    "ru": "Задняя"
+  },
+  "正面": {
+    "en": "Front",
+    "ru": "Спереди"
+  },
+  "没有识别到明确部位，请手动选择。": {
+    "en": "No clear body part detected. Please select manually.",
+    "ru": "Не обнаружено конкретное место тела. Пожалуйста, выберите вручную."
+  },
+  "腕": {
+    "en": "Wrist",
+    "ru": "Рука"
+  },
+  "掌": {
+    "en": "Palm",
+    "ru": "Пalm"
+  },
+  "指": {
+    "en": "Finger",
+    "ru": "Палец"
+  },
+  "自动定位：": {
+    "en": "Auto positioning: ",
+    "ru": "Автоматическое определение: "
+  },
+  "，已局部放大。你也可以手动改选。": {
+    "en": ", localized zoom. You can manually adjust.",
+    "ru": ", локальное увеличение. Вы можете вручную изменить."
+  },
+  "请再确认一下": {
+    "en": "Please confirm again",
+    "ru": "Пожалуйста, подтвердите снова"
+  },
+  "登录已失效，请重新登录。": {
+    "en": "Login expired. Please log in again.",
+    "ru": "Вход истек. Пожалуйста, войдите снова."
+  },
+  "暂时无法完成操作，请稍后重试。": {
+    "en": "Operation temporarily unavailable. Please try again later.",
+    "ru": "Операция временно недоступна. Пожалуйста, попробуйте позже."
+  },
+  "操作失败，请稍后重试。": {
+    "en": "Operation failed. Please try again later.",
+    "ru": "Операция завершилась неудачно. Пожалуйста, попробуйте позже."
+  },
+  "AI 推测不是确诊，需由医生核实。": {
+    "en": "AI inference is not a diagnosis. It requires verification by a doctor.",
+    "ru": "AI-анализ не является диагнозом. Требуется проверка врачом."
+  },
+  "正在整理描述…": {
+    "en": "Processing description...",
+    "ru": "Обработка описания..."
+  },
+  "信息已提交 · 等待医生核实": {
+    "en": "Submission complete · Waiting for doctor verification",
+    "ru": "Отправка завершена · Ожидание проверки врачом"
+  },
+  "咨询编号：": {
+    "en": "Consultation ID: ",
+    "ru": "ID консультации: "
+  },
+  "去信箱查看 →": {
+    "en": "View mailbox →",
+    "ru": "Посмотреть ящик →"
+  },
+  "AI 推测与自述程度不能确定真实病情，也不能排除危险情况。": {
+    "en": "AI inference cannot determine the true condition or rule out dangerous situations.",
+    "ru": "AI-анализ не может определить реальное состояние или исключить опасные ситуации."
+  },
+  "请求超时了，请重试。": {
+    "en": "Request timed out. Please retry.",
+    "ru": "Требование истекло. Пожалуйста, повторите попытку."
+  },
+  "正在读取信箱…": {
+    "en": "Reading mailbox...",
+    "ru": "Чтение ящика..."
+  },
+  "待分诊": {
+    "en": "Triage pending",
+    "ru": "Ожидает дифференцирования"
+  },
+  "后台医生回复": {
+    "en": "Backend doctor response",
+    "ru": "Ответ врача в бэкенде"
+  },
+  "标记已读": {
+    "en": "Marked as read",
+    "ru": "Отмечено как прочитано"
+  },
+  "未完成，请重试": {
+    "en": "Incomplete, please retry",
+    "ru": "Неполное, повторите попытку"
+  },
+  "已提交后台，正在等待医生回答。请留意信箱；紧急情况不要等待回复。": {
+    "en": "Submitted to backend, waiting for doctor's response. Check your mailbox; do not wait for reply in emergencies.",
+    "ru": "Отправлено в бэкенд, ожидание ответа врача. Проверьте почту; в экстренных случаях не ждите ответа."
+  },
+  "信箱暂时不可用，请稍后重试。": {
+    "en": "Mailbox temporarily unavailable, please retry later.",
+    "ru": "Почта временно недоступна, повторите попытку позже."
+  },
+  "请重新登录。": {
+    "en": "Please re-login.",
+    "ru": "Пожалуйста, повторите вход."
+  },
+  "暂时无法继续，请重试。": {
+    "en": "Temporary inability to continue, please retry.",
+    "ru": "Временная неспособность продолжить, повторите попытку."
+  },
+  "逐步补充 · 已回答 ": {
+    "en": "Step-by-step completion · Answered",
+    "ru": "Шаг за шагом · Ответил"
+  },
+  " 条": {
+    "en": "items",
+    "ru": "пунктов"
+  },
+  "当前部位暂无匹配摘要，将使用基础问题。": {
+    "en": "No matching summary for current area; using basic questions.",
+    "ru": "Нет совпадающих обзоров для текущей области; используется базовый вопрос."
+  },
+  "本轮参考 · MedlinePlus 健康主题摘要": {
+    "en": "Current reference · MedlinePlus Health Topic Summaries",
+    "ru": "Текущая ссылка · Обзоры тем здравоохранения MedlinePlus"
+  },
+  "信息已整理，确认一下": {
+    "en": "Information compiled, confirm?",
+    "ru": "Информация собрана, подтвердите?"
+  },
+  "确认并自动分诊 →": {
+    "en": "Confirm and auto-triage →",
+    "ru": "Подтвердить и автоматическая классификация →"
+  },
+  "AI 正在整理可能原因并分诊…": {
+    "en": "AI is compiling possible causes and triaging...",
+    "ru": "AI собирает возможные причины и классифицирует..."
+  },
+  "修改上一条回答": {
+    "en": "Modify previous answer",
+    "ru": "Изменить предыдущий ответ"
+  },
+  "请先关注紧急情况": {
+    "en": "Please first check for emergencies",
+    "ru": "Сначала проверьте на наличие экстренных ситуаций"
+  },
+  "急救电话 120": {
+    "en": "Emergency number 120",
+    "ru": "Экстренный номер 120"
+  },
+  "同时提交给后台医生": {
+    "en": "Submit to backend doctor simultaneously",
+    "ru": "Отправить одновременно в бэкенд врачу"
+  },
+  "后台待答不能替代急诊，提交后也不要等待信箱回复。": {
+    "en": "Backend pending responses do not replace emergency care; do not wait for mailbox replies after submission.",
+    "ru": "Ожидаемые ответы в бэкенде не заменяют экстренную помощь; после отправки не ждите ответов в почте."
+  },
+  "有老病症，需要补充": {
+    "en": "Has chronic conditions, need to supplement",
+    "ru": "Имеет хронические заболевания, требуется дополнение"
+  },
+  "正在长期用药，需要补充": {
+    "en": "Currently on long-term medication, need to supplement",
+    "ru": "Находится на длительном лечении, требуется дополнение"
+  },
+  "例如：医生诊断过的病症、长期用药、药物过敏…": {
+    "en": "Example: diagnosed conditions, long-term medications, drug allergies...",
+    "ru": "Пример: диагностированные заболевания, длительные лекарства, аллергии на лекарства..."
+  },
+  "不是": {
+    "en": "No",
+    "ru": "Нет"
+  },
+  "不确定": {
+    "en": "Uncertain",
+    "ru": "Неопределенно"
+  },
+  "说不清": {
+    "en": "Cannot specify",
+    "ru": "Не могу указать"
+  },
+  "两侧": {
+    "en": "Both sides",
+    "ru": "Обе стороны"
+  },
+  "范围比较大": {
+    "en": "Large area",
+    "ru": "Широкая область"
+  },
+  "正在逐步了解…": {
+    "en": "Progressively understanding...",
+    "ru": "Постепенно понимаю..."
+  },
+  "正在参考知识库，准备下一问…": {
+    "en": "Referencing knowledge base, preparing next question...",
+    "ru": "Ссылка на базу знаний, готовлю следующий вопрос..."
+  },
+  "本地 AI · ": {
+    "en": "Local AI · ",
+    "ru": "Локальный ИИ · "
+  },
+  " · 知识库 ": {
+    "en": " · Knowledge Base",
+    "ru": " · База знаний"
+  },
+  " 条摘要": {
+    "en": "summaries",
+    "ru": "обзоры"
+  },
+  "已整理描述 · 位置需要你确认": {
+    "en": "Description compiled · Location needs your confirmation",
+    "ru": "Описание собрано · Локация требует подтверждения"
+  },
+  "也可以用自己的话回答…": {
+    "en": "You can also answer in your own words...",
+    "ru": "Вы также можете ответить своими словами..."
+  },
+  "回答当前问题": {
+    "en": "Answer current question",
+    "ru": "Ответить на текущий вопрос"
+  },
+  "回答并继续 →": {
+    "en": "Answer and continue →",
+    "ru": "Ответить и продолжить →"
+  },
+  "本地模型响应超时了，已保留回答。可以重试。": {
+    "en": "Local model response timeout. Answer preserved. Retry available.",
+    "ru": "Таймаут локального модели. Ответ сохранен. Возможна повторная попытка."
+  },
+  "重试这一问": {
+    "en": "Retry this question",
+    "ru": "Повторить этот вопрос"
+  },
+  "重新分析并追问　→": {
+    "en": "Re-analyze and ask again →",
+    "ru": "Переанализировать и задать вопрос снова →"
+  },
+  "请先选择或描述一个身体部位。": {
+    "en": "Please first select or describe a body part.",
+    "ru": "Сначала выберите или опишите часть тела."
+  },
+  "暂时无法检查本地 AI，开始后会再次尝试。": {
+    "en": "Local AI check temporarily unavailable. Will attempt again after starting.",
+    "ru": "Проверка локального ИИ временно недоступна. Попытка будет выполнена после запуска."
+  },
+  "最近有些头痛，应该挂什么科？": {
+    "en": "I have headaches recently. Which department should I visit?",
+    "ru": "У меня недавно головные боли. В какой отделение я должен обратиться?"
+  },
+  "咳嗽好几天了，应该去哪个科室？": {
+    "en": "I've had a cough for several days. Which department should I go to?",
+    "ru": "У меня уже несколько дней кашель. В какой отделение я должен обратиться?"
+  },
+  "吃完饭肚子不舒服，想了解就诊方向。": {
+    "en": "After eating, I feel uncomfortable in my stomach. Can you guide me on where to seek medical help?",
+    "ru": "После еды у меня в животе не舒服. Как мне получить медицинскую помощь?"
+  },
+  "皮肤起了红疹，还很痒，应该挂什么科？": {
+    "en": "My skin has red rashes and is itchy. Which department should I visit?",
+    "ru": "На моей коже появилось красное покровы и зудит. В какой отделение я должен обратиться?"
+  },
+  "专科": {
+    "en": "Specialty",
+    "ru": "Специализация"
+  },
+  "全科医学科": {
+    "en": "General Medicine",
+    "ru": "Общая медицина"
+  },
+  "综合健康问题、初步评估与就医方向咨询。": {
+    "en": "Comprehensive health issues, initial assessment, and guidance on medical consultation.",
+    "ru": "Общие вопросы здоровья, первичная оценка и рекомендации по медицинской консультации."
+  },
+  "门诊楼 1F": {
+    "en": "Outpatient Building 1F",
+    "ru": "Бокс 1F"
+  },
+  "全科": {
+    "en": "General",
+    "ru": "Общее"
+  },
+  "体检": {
+    "en": "Physical Examination",
+    "ru": "Физическое обследование"
+  },
+  "综合": {
+    "en": "Comprehensive",
+    "ru": "Общее"
+  },
+  "神经内科": {
+    "en": "Neurology",
+    "ru": "Нейрология"
+  },
+  "神经系统相关问题的专业评估。": {
+    "en": "Specialized assessment for neurological issues.",
+    "ru": "Специализированная оценка нейрологических проблем."
+  },
+  "门诊楼 2F": {
+    "en": "Outpatient Building 2F",
+    "ru": "Бокс 2F"
+  },
+  "神经": {
+    "en": "Neuro",
+    "ru": "Нейр"
+  },
+  "呼吸内科": {
+    "en": "Pulmonology",
+    "ru": "Пульмонология"
+  },
+  "呼吸系统相关问题的专业评估。": {
+    "en": "Specialized assessment for respiratory issues.",
+    "ru": "Специализированная оценка дыхательной системы."
+  },
+  "咳痰": {
+    "en": "Coughing up phlegm",
+    "ru": "Кашель с мокротой"
+  },
+  "消化内科": {
+    "en": "Gastroenterology",
+    "ru": "Гастроэнтерология"
+  },
+  "消化系统相关问题的专业评估。": {
+    "en": "Specialized assessment for digestive system issues.",
+    "ru": "Специализированная оценка проблем с пищеварительной системой."
+  },
+  "腹痛": {
+    "en": "Abdominal pain",
+    "ru": "Боль в животе"
+  },
+  "消化": {
+    "en": "Digestive",
+    "ru": "Пищеварительная"
+  },
+  "皮肤科": {
+    "en": "Dermatology",
+    "ru": "Дерматология"
+  },
+  "皮肤、毛发、指甲相关问题的专业评估。": {
+    "en": "Specialized assessment for skin, hair, and nail issues.",
+    "ru": "Специализированная оценка проблем с кожей, волосами и ногтями."
+  },
+  "门诊楼 3F": {
+    "en": "Outpatient Building 3F",
+    "ru": "3-й этаж корпуса для outpatient"
+  },
+  "红疹": {
+    "en": "Rash",
+    "ru": "Покраснение"
+  },
+  "疹": {
+    "en": "Pimple",
+    "ru": "Папулез"
+  },
+  "痒": {
+    "en": "Itchy",
+    "ru": "Итчужный"
+  },
+  "皮肤": {
+    "en": "Skin",
+    "ru": "Кожа"
+  },
+  "过敏": {
+    "en": "Allergy",
+    "ru": "Аллергия"
+  },
+  "骨科": {
+    "en": "Orthopedics",
+    "ru": "Ортопедия"
+  },
+  "骨、关节、脊柱相关问题的专业评估。": {
+    "en": "Specialized assessment for bone, joint, and spine-related issues.",
+    "ru": "Специализированная оценка для костей, суставов и позвоночника."
+  },
+  "关节": {
+    "en": "Joint",
+    "ru": "Сустав"
+  },
+  "腰痛": {
+    "en": "Back pain",
+    "ru": "Боль в спине"
+  },
+  "骨": {
+    "en": "Bone",
+    "ru": "Кость"
+  },
+  "颈椎": {
+    "en": "Cervical",
+    "ru": "Шейный"
+  },
+  "耳鼻喉科": {
+    "en": "Otorhinolaryngology",
+    "ru": "Оториноларингология"
+  },
+  "耳、鼻、咽喉相关问题的专业评估。": {
+    "en": "Specialized assessment for ear, nose, and throat-related issues.",
+    "ru": "Специализированная оценка для ушей, носа и горла."
+  },
+  "耳鸣": {
+    "en": "Tinnitus",
+    "ru": "Тinnitus"
+  },
+  "鼻塞": {
+    "en": "Runny nose",
+    "ru": "Заложенность носа"
+  },
+  "眼科": {
+    "en": "Ophthalmology",
+    "ru": "Офтальмология"
+  },
+  "眼部不适与视力问题的专业评估。": {
+    "en": "Specialized assessment for eye discomfort and vision issues.",
+    "ru": "Специализированная оценка для дискомфорта глаз и проблем со зрением."
+  },
+  "视力": {
+    "en": "Vision",
+    "ru": "Зрение"
+  },
+  "儿科": {
+    "en": "Pediatrics",
+    "ru": "Педиатрия"
+  },
+  "儿童相关健康问题的专业评估。": {
+    "en": "Specialized assessment for children's health issues.",
+    "ru": "Специализированная оценка для проблем со здоровьем детей."
+  },
+  "儿童": {
+    "en": "Child",
+    "ru": "Дети"
+  },
+  "小孩": {
+    "en": "Child",
+    "ru": "Дети"
+  },
+  "宝宝": {
+    "en": "Baby",
+    "ru": "Малыш"
+  },
+  "孩子": {
+    "en": "Child",
+    "ru": "Дети"
+  },
+  "急诊科": {
+    "en": "Emergency Department",
+    "ru": "Экстренная помощь"
+  },
+  "紧急情况请直接寻求实际急诊帮助，不要等待线上回复。": {
+    "en": "For urgent situations, seek immediate emergency assistance—do not wait for online responses.",
+    "ru": "Для экстренных ситуаций, обратитесь за немедленной помощью—не ждите онлайн-ответа."
+  },
+  "急诊区域 · 示例": {
+    "en": "Emergency Area · Example",
+    "ru": "Экстренная зона · Пример"
+  },
+  "急诊": {
+    "en": "Emergency",
+    "ru": "Экстренность"
+  },
+  "急救": {
+    "en": "First Aid",
+    "ru": "Первая помощь"
+  },
+  "导诊与报到大厅": {
+    "en": "Check-in and registration hall",
+    "ru": "Зал для регистрации и приема"
+  },
+  "候诊大厅": {
+    "en": "Waiting hall",
+    "ru": "Ожидание"
+  },
+  "神经 / 呼吸内科": {
+    "en": "Neurology / Respiratory Medicine",
+    "ru": "Нейроология / Дыхательная система"
+  },
+  "骨科 / 皮肤科": {
+    "en": "Orthopedics / Dermatology",
+    "ru": "Ортопедия / Дерматология"
+  },
+  "眼科 / 耳鼻喉科": {
+    "en": "Ophthalmology / ENT",
+    "ru": "Офтальмология / ЛОР"
+  },
+  "选择不适部位，进一步描述你的感受。": {
+    "en": "Select the area of discomfort to describe your symptoms further.",
+    "ru": "Выберите область дискомфорта для более подробного описания симптомов."
+  },
+  "已提交的咨询和后台回复都在这里。": {
+    "en": "View submitted consultations and backend responses here.",
+    "ru": "Посмотреть отправленные консультации и ответы в бэкенде здесь."
+  },
+  "先了解科室，让下一步更清晰。": {
+    "en": "Learn about departments to clarify next steps.",
+    "ru": "Изучите отделения для уточнения следующих шагов."
+  },
+  "提前做好准备，让就医更从容。": {
+    "en": "Prepare in advance for a more composed medical visit.",
+    "ru": "Подготовьтесь заранее, чтобы визит был более спокойным."
+  },
+  "关于导诊，你想了解的都在这里。": {
+    "en": "About triage, all you need is here.",
+    "ru": "Что касается триage, всё, что вам нужно, здесь."
+  },
+  "转交后台的描述会保存，用于医护回复": {
+    "en": "Descriptions sent to the backend will be saved for medical responses.",
+    "ru": "Описания, отправленные в бэкенд, будут сохранены для ответа врачами."
+  },
+  "安心导诊 · ": {
+    "en": "Peaceful Triage · ",
+    "ru": "Покойный триггер · "
+  },
+  "导诊助手": {
+    "en": "Triage Assistant",
+    "ru": "Ассистент триage"
+  },
+  "规则演示": {
+    "en": "Rule Demo",
+    "ru": "Демо правил"
+  },
+  "了解科室 ↗": {
+    "en": "Learn about departments ↗",
+    "ru": "Изучите отделения ↗"
+  },
+  " · 示例": {
+    "en": " · Example",
+    "ru": " · Пример"
+  },
+  "紧急求助优先，请勿等待在线回复。": {
+    "en": "Emergency assistance takes priority; do not wait for online responses.",
+    "ru": "Срочные запросы имеют приоритет; не ждите онлайн-ответов."
+  },
+  "演示内容仅用于展示对话流程，实际就医请咨询专业医护。": {
+    "en": "Demo content is for showing conversation flow; actual medical care requires professional consultation.",
+    "ru": "Демо-контент используется для демонстрации потока разговора; реальное медицинское обслуживание требует консультации профессионалов."
+  },
+  "我想了解就诊准备": {
+    "en": "I want to know about pre-visit preparation",
+    "ru": "Я хочу узнать о подготовке к визиту"
+  },
+  "最近有些头痛": {
+    "en": "I have headaches recently",
+    "ru": "У меня недавно головные боли"
+  },
+  "查看科室介绍": {
+    "en": "View department introduction",
+    "ru": "Посмотреть описание отделения"
+  },
+  "我想重新描述症状": {
+    "en": "I want to re-describe my symptoms",
+    "ru": "Я хочу пересказать свои симптомы"
+  },
+  "已打开科室导航。你可以按分类或名称搜索，点击科室查看示例介绍。": {
+    "en": "Department navigation is open. You can search by category or name, and click a department to view examples.",
+    "ru": "Навигация по отделениям открыта. Вы можете искать по категориям или названиям, и нажать на отделение для просмотра примеров."
+  },
+  "可以，请告诉我你最想咨询的主要不适，以及持续时间。要开始全新的咨询，请点击“重新开始”。": {
+    "en": "Yes, please tell me your main discomfort and how long it has lasted. To start a new consultation, click 'Restart'.",
+    "ru": "Да, скажите, какая у вас основная проблема и сколько времени она длится. Чтобы начать новую консультацию, нажмите 'Перезапустить'."
+  },
+  "不客气。希望这些信息能帮你更从容地准备就医。实际情况请咨询专业医护。": {
+    "en": "You're welcome. Hope this helps you prepare for your visit more smoothly. Actual conditions should be confirmed with professional medical staff.",
+    "ru": "Вы не ошиблись. Надеюсь, это поможет вам лучше подготовиться к визиту. Реальные состояния подтверждают профессиональные медицинские работники."
+  },
+  "你好，很高兴陪你梳理就医方向。请问你主要哪里不舒服？可以描述一下症状。": {
+    "en": "Hello, I'm here to help you with your medical direction. Where are you uncomfortable? Please describe your symptoms.",
+    "ru": "Привет, я помогу вам определить направление в медицине. Где у вас дискомфорт? Опишите симптомы."
+  },
+  "咳嗽好几天了": {
+    "en": "I've had a cough for several days",
+    "ru": "У меня насморк уже несколько дней"
+  },
+  "皮肤红疹发痒": {
+    "en": "Skin rash and itching",
+    "ru": "Покраснение кожи и зуд"
+  },
+  "头痛两天了": {
+    "en": "Headache for two days",
+    "ru": "Головная боль два дня"
+  },
+  "咳嗽三天了": {
+    "en": "Cough for three days",
+    "ru": "Кашель три дня"
+  },
+  "肚子不舒服": {
+    "en": "Abdominal discomfort",
+    "ru": "Неудобство в животе"
+  },
+  "暂不提供年龄": {
+    "en": "Age not provided temporarily",
+    "ru": "Временно не указан возраст"
+  },
+  "可以，我们跳过年龄。以下仅展示按关键词关联的科室介绍，请向医院人工导诊台确认实际就医方向。": {
+    "en": "Yes, we skip age. Below shows department introductions based on keywords; confirm actual medical direction with hospital staff.",
+    "ru": "Да, мы пропускаем возраст. Ниже показаны описания отделений по ключевым словам; уточните реальное направление у персонала больницы."
+  },
+  "收到，你描述了": {
+    "en": "Received, you described... ",
+    "ru": "Получено, вы описали... "
+  },
+  "多个方面的": {
+    "en": "Multiple aspects",
+    "ru": "Множество аспектов"
+  },
+  "一些": {
+    "en": "Some",
+    "ru": "Некоторые"
+  },
+  "我 28 岁": {
+    "en": "I am 28 years old",
+    "ru": "Я 28 лет"
+  },
+  "我 45 岁": {
+    "en": "I am 45 years old",
+    "ru": "Я 4:45 лет"
+  },
+  "孩子 8 岁": {
+    "en": "Child is 8 years old",
+    "ru": "Дети 8 лет"
+  },
+  "年龄看起来可能输入有误，请重新确认。也可以跳过年龄，仅了解科室介绍。": {
+    "en": "Age input may be incorrect. Please reconfirm. You can also skip age and proceed with department information.",
+    "ru": "Возраст может быть введен неправильно. Пожалуйста, уточните. Вы также можете пропустить возраст и перейти к информации о отделении."
+  },
+  "了解，你提到的年龄是 ": {
+    "en": "Understood, you mentioned age ",
+    "ru": "Понятно, вы упомянули возраст "
+  },
+  " 岁。请问主要不适持续多久了？有没有加重或伴随其他症状？": {
+    "en": " years. How long has the main discomfort lasted? Are there any worsening or accompanying symptoms?",
+    "ru": " лет. Сколько длится основной дискомфорт? Есть ли ухудшение или сопутствующие симптомы?"
+  },
+  "持续两天了": {
+    "en": "Lasted two days",
+    "ru": "Продолжается два дня"
+  },
+  "持续一周了": {
+    "en": "Lasted one week",
+    "ru": "Продолжается неделю"
+  },
+  "今天开始的": {
+    "en": "Started today",
+    "ru": "Началось сегодня"
+  },
+  "已记录本次描述：年龄 ": {
+    "en": "Recorded description: Age ",
+    "ru": "Записано описание: Возраст "
+  },
+  " 岁，持续时间约 ": {
+    "en": " years, duration approximately ",
+    "ru": " лет, продолжительность примерно "
+  },
+  "请求失败": {
+    "en": "Request failed",
+    "ru": "Запрос не удался"
+  },
+  "响应格式不正确": {
+    "en": "Response format incorrect",
+    "ru": "Неправильный формат ответа"
+  },
+  "正在整理你的描述…": {
+    "en": "Processing your description...",
+    "ru": "Обрабатываю ваше описание..."
+  },
+  "正在生成演示回复…": {
+    "en": "Generating demo response...",
+    "ru": "Генерирую демонстрационный ответ..."
+  },
+  "暂时无法获取回复，请稍后重试。紧急情况请立即拨打 120，或前往急诊。": {
+    "en": "Temporary unable to retrieve response. Please try again later. In case of emergency, call 120 immediately or go to the emergency department.",
+    "ru": "Временно не могу получить ответ. Пожалуйста, попробуйте позже. В случае экстренной ситуации немедленно звоните 120 или обратитесь в скорую помощь."
+  },
+  "我 28 岁，头痛持续两天了，想了解应该去哪个科室。": {
+    "en": "I am 28 years old, headache lasted two days. I want to know which department to visit.",
+    "ru": "Я 28 лет, головная боль продолжается два дня. Я хочу узнать, в какой отделение обратиться."
+  },
+  "没有找到相关科室，请换个关键词试试。": {
+    "en": "No relevant departments found. Try different keywords.",
+    "ru": "Нет соответствующих отделений. Попробуйте другие ключевые слова."
+  },
+  " · 示例　↗": {
+    "en": " · Example ↗",
+    "ru": " · Пример ↗"
+  },
+  "所属分类：": {
+    "en": "Category:",
+    "ru": "Категория:"
+  },
+  "我想了解": {
+    "en": "I want to know",
+    "ru": "Я хочу узнать"
+  },
+  "的服务范围。": {
+    "en": "service scope",
+    "ru": "область обслуживания"
+  },
+  "校园账号": {
+    "en": "校园账号",
+    "ru": "校园生活，"
+  },
+  "校园生活，": {
+    "en": "从这里连接。",
+    "ru": "分享日常，找到帮手，照顾健康，安排时光。"
+  },
+  "从这里连接。": {
+    "en": "一个账号，四种校园体验",
+    "ru": "选一个入口，开始今天"
+  },
+  "分享日常，找到帮手，照顾健康，安排时光。": {
+    "en": "选择校园服务",
+    "ru": "开始校园日常"
+  },
+  "一个账号，四种校园体验": {
+    "en": "校园广场、跑腿、AI 导诊和场地预约共用一个账号。",
+    "ru": "姓名、性别和账号资料用于本系统账号识别与资料管理，密码以哈希形式保存。各模块按照对应功能保存使用记录。"
+  },
+  "选一个入口，开始今天": {
+    "en": "遇见同学，",
+    "ru": "聊聊新鲜事。"
+  },
+  "选择校园服务": {
+    "en": "校园账号",
+    "ru": "校园生活，"
+  },
+  "开始校园日常": {
+    "en": "从这里连接。",
+    "ru": "分享日常，找到帮手，照顾健康，安排时光。"
+  },
+  "校园广场、跑腿、AI 导诊和场地预约共用一个账号。": {
+    "en": "一个账号，四种校园体验",
+    "ru": "选一个入口，开始今天"
+  },
+  "姓名、性别和账号资料用于本系统账号识别与资料管理，密码以哈希形式保存。各模块按照对应功能保存使用记录。": {
+    "en": "选择校园服务",
+    "ru": "开始校园日常"
+  },
+  "遇见同学，": {
+    "en": "校园广场、跑腿、AI 导诊和场地预约共用一个账号。",
+    "ru": "姓名、性别和账号资料用于本系统账号识别与资料管理，密码以哈希形式保存。各模块按照对应功能保存使用记录。"
+  },
+  "聊聊新鲜事。": {
+    "en": "遇见同学，",
+    "ru": "聊聊新鲜事。"
+  },
+  "分享日常、交流学习，也发现校园里的同好。": {
+    "en": "Share daily life, exchange learning, and find like-minded peers on campus",
+    "ru": "Поделитесь повседневной жизнью, обменивайтесь знаниями и найдите одноклассников на кампусе"
+  },
+  "分享你的校园日常": {
+    "en": "Share your campus daily life",
+    "ru": "Поделитесь вашей повседневной жизнью на кампусе"
+  },
+  "让有趣的想法被看见": {
+    "en": "Make interesting ideas visible",
+    "ru": "Сделайте интересные идеи видимыми"
+  },
+  "发现校园动态": {
+    "en": "Discover campus updates",
+    "ru": "Откройте обновления кампуса"
+  },
+  "发帖与交流": {
+    "en": "Post and interact",
+    "ru": "Опубликовать и взаимодействовать"
+  },
+  "交流时尊重同学，请勿公开他人的联系方式或个人隐私。": {
+    "en": "When communicating, respect your classmates. Please do not publicly share others' contact information or personal privacy.",
+    "ru": "При общения уважайте одноклассников. Пожалуйста, не публично размещайте контактные данные или личную информацию других."
+  },
+  "账号资料用于本系统身份识别。发帖、评论及校园昵称会按论坛功能展示，请避免公开私人信息。密码以哈希形式保存。": {
+    "en": "Account information is used for system identity verification. Posts, comments, and campus nicknames will be displayed according to forum functionality. Please avoid sharing private information. Passwords are stored in hashed form.",
+    "ru": "Информация о учетной записи используется для идентификации в системе. Посты, комментарии и кампус-никнеймы отображаются в соответствии с функциями форума. Пожалуйста, избегайте публичного размещения личной информации. Пароли хранятся в хеш-формате."
+  },
+  "顺路帮个忙，": {
+    "en": "Pick up a run",
+    "ru": "Помощь по пути"
+  },
+  "让小事更轻松。": {
+    "en": "Make small tasks easier",
+    "ru": "Упростите мелкие задачи"
+  },
+  "取快递、代买、送东西，把需求交给顺路的同学。": {
+    "en": "Pick up packages, buy items, deliver things — delegate your needs to classmates who are on the way.",
+    "ru": "Получите посылки, купите товары, доставьте вещи — доверьте свои запросы одноклассникам, которые на пути."
+  },
+  "发布需求，等待同学接单": {
+    "en": "Post a request and wait for classmates to take it",
+    "ru": "Опубликуйте запрос и ожидайте, пока одноклассники примут его"
+  },
+  "送达确认，完成互助": {
+    "en": "Confirm delivery, complete mutual assistance",
+    "ru": "Подтвердите доставку, завершите взаимную помощь"
+  },
+  "发布或接取任务": {
+    "en": "Publish or pick up a task",
+    "ru": "Задачу опубликовать или забрать"
+  },
+  "送达并确认": {
+    "en": "Deliver and confirm",
+    "ru": "Доставить и подтвердить"
+  },
+  "接单前核对任务要求；送达后确认订单，详细地址与手机号按订单权限展示。": {
+    "en": "Check task requirements before picking up; confirm order after delivery, detailed address and phone number are displayed based on order permissions.",
+    "ru": "Проверьте требования к задаче перед забором; после доставки подтвердите заказ, подробный адрес и номер телефона отображаются в зависимости от прав доступа к заказу."
+  },
+  "账号用于订单识别。任务、地址和联系方式按跑腿功能保存，详细地址及手机号仅向有权限的订单参与者展示。密码以哈希形式保存。": {
+    "en": "Account for order identification. Task, address, and contact information are saved via the running leg function, detailed address and phone number are only shown to authorized order participants. Password is stored in hashed form.",
+    "ru": "Аккаунт для идентификации заказа. Информация о задаче, адресе и контактах сохраняется через функцию бега, подробный адрес и номер телефона отображаются только для авторизованных участников заказа. Пароль хранится в хеш-формате."
+  },
+  "说说不舒服，": {
+    "en": "Tell us how you feel",
+    "ru": "Расскажите, как вы чувствуете"
+  },
+  "一起梳理方向。": {
+    "en": "Let's figure it out together",
+    "ru": "Давайте разберемся вместе"
+  },
+  "描述症状与既往病史，逐步了解可能的就诊方向。": {
+    "en": "Describe symptoms and medical history to help identify possible medical directions.",
+    "ru": "Опишите симптомы и медицинскую историю, чтобы определить возможные направления для обращения за медицинской помощью."
+  },
+  "从你的描述开始": {
+    "en": "Start with your description",
+    "ru": "Начните с вашего описания"
+  },
+  "AI 整理，医生核实": {
+    "en": "AI Summary, Doctor Verification",
+    "ru": "AI-анализ, проверка врачом"
+  },
+  "简单导诊为规则演示，高级导诊可使用本地 AI 追问；均不能代替医生诊断。": {
+    "en": "Basic triage is a rule-based demo; advanced triage uses local AI to ask follow-up questions. Neither replaces a doctor's diagnosis.",
+    "ru": "Базовый диспансер — демонстрация на основе правил; продвинутый диспансер использует локальный ИИ для дополнительных вопросов. Ни один из них не заменяет диагноз врача."
+  },
+  "姓名、性别和账号资料用于账号识别与资料管理，密码以哈希形式保存。简单导诊内容不保存；高级导诊提交后台的内容用于医护回复并保存在数据库。": {
+    "en": "Name, gender, and account details are used for account identification and management; password is stored in hashed form. Basic triage content is not saved; advanced triage submissions are sent to the backend for medical staff to respond and save in the database.",
+    "ru": "Имя, пол и данные аккаунта используются для идентификации и управления аккаунтом; пароль хранится в хеш-формате. Содержимое базового диспансера не сохраняется; данные продвинутого диспансера отправляются в бэкенд для ответа медицинскими работниками и сохранения в базе данных."
+  },
+  "安排你的好时光。": {
+    "en": "Plan your perfect time",
+    "ru": "Планируйте свой идеальный день"
+  },
+  "预约自习室座位和运动场地，让学习与运动各有时间。": {
+    "en": "Book study rooms and sports facilities to balance learning and exercise time.",
+    "ru": "Забронируйте учебные комнаты и спортивные площадки, чтобы балансировать учебу и физическую активность."
+  },
+  "选择场地与空闲时段": {
+    "en": "Select location and available time slots",
+    "ru": "Выберите место и доступные временные интервалы"
+  },
+  "我的预约，一目了然": {
+    "en": "My Reservations, Clearly Visible",
+    "ru": "Мои бронирования, ясно видны"
+  },
+  "选择场地与时间": {
+    "en": "Select location and time",
+    "ru": "Выберите место и время"
+  },
+  "确认并查看预约": {
+    "en": "Confirm and View Reservation",
+    "ru": "Подтвердить и просмотреть бронирование"
+  },
+  "预约记录保存在本系统，目前尚未对接学校预约系统，请以学校实际安排为准。": {
+    "en": "Reservation records are stored in this system. Currently, this system has not been integrated with the school's reservation system. Please follow the school's actual schedule.",
+    "ru": "Записи бронирований хранятся в этой системе. На данный момент эта система не интегрирована с системой бронирования школы. Следуйте реальному расписанию школы."
+  },
+  "账号用于预约身份识别，场地、日期、时段和预约状态保存在本系统。个人预约页面只显示本人的记录，管理人员可管理场地预约。密码以哈希形式保存。": {
+    "en": "Account for identity verification during reservations. Location, date, time slots, and reservation status are stored in this system. Personal reservation pages show only the user's records. Administrators can manage facility reservations. Passwords are stored in hashed form.",
+    "ru": "Аккаунт используется для идентификации при бронировании. Место, дата, временные интервалы и статус бронирования хранятся в этой системе. Личные страницы бронирования отображают только записи пользователя. Администраторы могут управлять бронированием помещений. Пароли хранятся в хеш-формате."
+  },
+  "选填，用于完善个人资料。": {
+    "en": "Optional: To complete your personal profile.",
+    "ru": "Опционально: Для дополнения вашей персональной информации."
+  },
+  "首次使用，先创建你的账号": {
+    "en": "First-time users: Create your account",
+    "ru": "Первые пользователи: Создайте свой аккаунт"
+  },
+  "填写基本信息后，即可进入校园生活站。": {
+    "en": "After filling in basic information, you can enter the campus life hub.",
+    "ru": "После заполнения основной информации вы можете войти в центр жизни на кампусе."
+  },
+  "注册并进入校园": {
+    "en": "Register and Enter Campus",
+    "ru": "Регистрация и вход на кампус"
+  },
+  "欢迎回来": {
+    "en": "Welcome Back",
+    "ru": "Добро пожаловать снова"
+  },
+  "登录你的账号，继续校园生活。": {
+    "en": "Log in to your account to continue campus life.",
+    "ru": "Войдите в аккаунт, чтобы продолжить учебу на кампусе."
+  },
+  "登录并进入校园": {
+    "en": "Log in and enter campus",
+    "ru": "Войдите и перейдите на кампус"
+  },
+  "完善个人资料": {
+    "en": "Complete your profile",
+    "ru": "Завершите профиль"
+  },
+  "姓名和性别为必填，完成后才能使用导诊。": {
+    "en": "Name and gender are required to use the clinic.",
+    "ru": "Название и пол являются обязательными для использования клиники."
+  },
+  "保存资料并进入导诊": {
+    "en": "Save profile and enter clinic",
+    "ru": "Сохранить профиль и перейти в клинику"
+  },
+  "。已有校园账号可直接使用。": {
+    "en": "Already have a campus account? You can use it directly.",
+    "ru": "У вас уже есть кампус-аккаунт? Вы можете его использовать сразу."
+  },
+  "登录并进入": {
+    "en": "Log in and enter",
+    "ru": "Войдите и перейдите"
+  },
+  "注册并进入": {
+    "en": "Register and enter",
+    "ru": "Регистрация и вход"
+  },
+  "登录后进入": {
+    "en": "Log in to enter",
+    "ru": "Войдите, чтобы войти"
+  },
+  "填写姓名、性别和账号信息后进入": {
+    "en": "Enter after filling in name, gender, and account information",
+    "ru": "Войдите после заполнения имени, пола и учетной информации"
+  },
+  "已被预约": {
+    "en": "Already booked",
+    "ru": "Уже забронировано"
+  },
+  "预约已取消，该时段可以重新预约。": {
+    "en": "Booking canceled. This time slot can be re-booked.",
+    "ru": "Бронирование отменено. Этот временной интервал можно повторно забронировать."
+  },
+  "该预约已取消或时段已经开始。": {
+    "en": "This appointment has been cancelled or the time slot has started.",
+    "ru": "Этот заказ был отменен или время слота начался."
+  },
+  "场地已添加。": {
+    "en": "The venue has been added.",
+    "ru": "Место добавлено."
+  },
+  "场地设置已保存。": {
+    "en": "Venue settings have been saved.",
+    "ru": "Настройки места сохранены."
+  },
+  "你已有同时段预约": {
+    "en": "You already have appointments in this time slot",
+    "ru": "У вас уже есть бронирование в этом временном слоте"
+  },
+  "已开始／不可预约": {
+    "en": "Started / Not available for booking",
+    "ru": "Начато / Недоступно для бронирования"
+  },
+  "可预约": {
+    "en": "Available for booking",
+    "ru": "Доступно для бронирования"
+  },
+  "该时段刚被预约，或你已有同时段预约，请选择其他时段。": {
+    "en": "This time slot has just been booked, or you already have appointments in this time slot. Please choose another time slot.",
+    "ru": "Этот временной слот был забронирован, или у вас уже есть бронирование в этом слоте. Пожалуйста, выберите другой временной слот."
+  },
+  "当前请求较多，请稍后重试，暂未生成新预约。": {
+    "en": "Too many requests, please try again later. New appointments have not been generated yet.",
+    "ru": "Слишком много запросов, пожалуйста, попробуйте позже. Новые бронирования еще не сгенерированы."
+  },
+  "预约已保存，可在“我的预约”查看或取消。": {
+    "en": "The appointment has been saved. You can view or cancel it in 'My Appointments'.",
+    "ru": "Бронирование сохранено. Вы можете посмотреть или отменить его в 'Мои бронирования'."
+  },
+  "该场地已暂停预约，请选择其他场地。": {
+    "en": "This venue is currently paused for bookings. Please choose another venue.",
+    "ru": "Это место временно недоступно для бронирования. Пожалуйста, выберите другое место."
+  },
+  "后台管理/dashboard.html": {
+    "en": "Backend Management/dashboard.html",
+    "ru": "Бэкенд Менеджмент/dashboard.html"
+  },
+  "后台管理/review.html": {
+    "en": "Backend Management/review.html",
+    "ru": "Бэкенд Менеджмент/review.html"
+  },
+  "后台管理/recharges.html": {
+    "en": "后台管理/recharges.html",
+    "ru": "后台管理/recharges.html"
+  },
+  "后台管理/recharge_review.html": {
+    "en": "后台管理/recharge_review.html",
+    "ru": "后台: проверка платежей"
+  },
+  "后台管理/errands.html": {
+    "en": "后台管理/errands.html",
+    "ru": "后台: задачи"
+  },
+  "后台管理/errand.html": {
+    "en": "后台管理/errand.html",
+    "ru": "后台: задача"
+  },
+  "后台管理/questions.html": {
+    "en": "后台管理/questions.html",
+    "ru": "后台: вопросы"
+  },
+  "后台管理/question.html": {
+    "en": "后台管理/question.html",
+    "ru": "后台: вопрос"
+  },
+  "后台管理/risks.html": {
+    "en": "后台管理/risks.html",
+    "ru": "后台: риски"
+  },
+  "后台管理/risk_review.html": {
+    "en": "后台管理/risk_review.html",
+    "ru": "后台: проверка рисков"
+  },
+  "帖子": {
+    "en": "帖子",
+    "ru": "Посты"
+  },
+  "评论": {
+    "en": "评论",
+    "ru": "Комментарии"
+  },
+  "私信": {
+    "en": "私信",
+    "ru": "Личные сообщения"
+  },
+  "后台管理/ai_console.html": {
+    "en": "后台管理/ai_console.html",
+    "ru": "后台: AI-консоль"
+  },
+  "后台管理/announcements.html": {
+    "en": "后台管理/announcements.html",
+    "ru": "Бэкенд управление/announcements.html"
+  },
+  "已联系用户，回复会在用户消息中提醒": {
+    "en": "User has been contacted; reply will be notified in user messages",
+    "ru": "Пользователь был свяжем; ответ будет уведомлен в сообщениях пользователя"
+  },
+  "其他内容": {
+    "en": "Other content",
+    "ru": "Другой контент"
+  },
+  "请选择审核操作，备注最多 500 字": {
+    "en": "Please select review action, remarks up to 500 characters",
+    "ru": "Пожалуйста, выберите действие проверки, примечания до 50:00 символов"
+  },
+  "请选择审核结果": {
+    "en": "Please select review result",
+    "ru": "Пожалуйста, выберите результат проверки"
+  },
+  "公告已置顶到校园广场": {
+    "en": "Announcement has been pinned to the campus square",
+    "ru": "Объявление было закреплено на площадке университета"
+  },
+  "该举报已经审核过了": {
+    "en": "This report has already been reviewed",
+    "ru": "Этот отчет уже был проверен"
+  },
+  "审核完成": {
+    "en": "Review completed",
+    "ru": "Проверка завершена"
+  },
+  "该申请已审核，不会重复充值": {
+    "en": "The application has been reviewed and will not be recharged",
+    "ru": "Заявка была проверена и не будет перечислена повторно"
+  },
+  "充值后余额超出允许范围": {
+    "en": "Balance exceeds allowed range after recharge",
+    "ru": "Баланс превышает разрешенный диапазон после пополнения"
+  },
+  "这条内容已审核": {
+    "en": "This content has been reviewed",
+    "ru": "Этот контент был проверен"
+  },
+  "公告显示状态已更新": {
+    "en": "Announcement display status has been updated",
+    "ru": "Статус отображения объявления был обновлен"
+  },
+  "公告已删除": {
+    "en": "公告已删除",
+    "ru": "审核通过，余额充值成功"
+  },
+  "审核通过，余额充值成功": {
+    "en": "已拒绝充值申请",
+    "ru": "已确认内容正常"
+  },
+  "已拒绝充值申请": {
+    "en": "跑腿/index.html",
+    "ru": "跑腿/create.html"
+  },
+  "已确认内容正常": {
+    "en": "跑腿/detail.html",
+    "ru": "跑腿/mine.html"
+  },
+  "跑腿/index.html": {
+    "en": "跑腿/questions.html",
+    "ru": "跑腿/question.html"
+  },
+  "跑腿/create.html": {
+    "en": "当前订单不能重复提交送达照片",
+    "ru": "无权查看送达照片"
+  },
+  "跑腿/detail.html": {
+    "en": "当前订单不能重复提交送达照片",
+    "ru": "无权查看送达照片"
+  },
+  "跑腿/mine.html": {
+    "en": "当前订单不能重复提交送达照片",
+    "ru": "无权查看送达照片"
+  },
+  "跑腿/questions.html": {
+    "en": "当前订单不能重复提交送达照片",
+    "ru": "无权查看送达照片"
+  },
+  "跑腿/question.html": {
+    "en": "当前订单不能重复提交送达照片",
+    "ru": "无权查看送达照片"
+  },
+  "当前订单不能重复提交送达照片": {
+    "en": "当前订单不能重复提交送达照片",
+    "ru": "无权查看送达照片"
+  },
+  "无权查看送达照片": {
+    "en": "当前订单不能重复提交送达照片",
+    "ru": "无权查看送达照片"
+  },
+  "问题已提交，等待管理员联系": {
+    "en": "Submission completed, awaiting administrator contact",
+    "ru": "Заявка отправлена, ожидаем связи администратора"
+  },
+  "不能接自己的订单": {
+    "en": "Cannot accept your own order",
+    "ru": "Невозможно принять свой заказ"
+  },
+  "只有未接单的订单可以取消；其他问题请联系管理员": {
+    "en": "Only unaccepted orders can be canceled; other issues please contact administrator",
+    "ru": "Только не принятые заказы можно отменить; другие вопросы — обратитесь в администратора"
+  },
+  "接单者提交送达照片后才能确认完成": {
+    "en": "Order confirmation requires delivery photo submission by the assignee",
+    "ru": "Подтверждение заказа требует отправки фото доставки исполнителем"
+  },
+  "已标记为解决": {
+    "en": "Marked as resolved",
+    "ru": "Отмечен как решённый"
+  },
+  "余额不足，请先充值": {
+    "en": "Insufficient balance, please recharge first",
+    "ru": "Недостаточно средств, пожалуйста, зарегестрируйтесь сначала"
+  },
+  "支付成功，订单已发布，等待接单": {
+    "en": "Payment successful, order published, awaiting acceptance",
+    "ru": "Оплата успешно завершена, заказ опубликован, ожидаем принятия"
+  },
+  "接单成功，现在可以查看地址和手机号": {
+    "en": "Order accepted, now you can view address and phone number",
+    "ru": "Заказ принят, теперь вы можете увидеть адрес и номер телефона"
+  },
+  "订单已被接单或已关闭": {
+    "en": "Order has been accepted or closed",
+    "ru": "Заказ уже принят или закрыт"
+  },
+  "余额超出范围，请联系管理员": {
+    "en": "Balance out of range, please contact administrator",
+    "ru": "Баланс вне диапазона, пожалуйста, свяжитесь с администратором"
+  },
+  "接单者余额超出范围，请联系管理员": {
+    "en": "Assignee balance out of range, please contact administrator",
+    "ru": "Баланс исполнителя вне диапазона, пожалуйста, свяжитесь с администратором"
+  },
+  "发布订单并预付悬赏": {
+    "en": "Publish order and prepay bounty",
+    "ru": "Опубликовать заказ и предоплатить бount"
+  },
+  "接单成功": {
+    "en": "接单成功",
+    "ru": "订单已取消，预付款已退回余额"
+  },
+  "订单已取消，预付款已退回余额": {
+    "en": "照片已提交，等待发布者确认完成",
+    "ru": "订单已完成，悬赏已结算"
+  },
+  "照片已提交，等待发布者确认完成": {
+    "en": "取消未接单订单，已原路退回余额",
+    "ru": "上传送达照片，等待发布:确认"
+  },
+  "订单已完成，悬赏已结算": {
+    "en": "发布者确认完成，悬赏已结算给接单者",
+    "ru": "逐步收集位置和症状；AI 只选择问题，不诊断。"
+  },
+  "取消未接单订单，已原路退回余额": {
+    "en": "逐步收集位置和症状；AI 只选择问题，不诊断。",
+    "ru": "左右"
+  },
+  "上传送达照片，等待发布者确认": {
+    "en": "左右",
+    "ru": "具体部位"
+  },
+  "发布者确认完成，悬赏已结算给接单者": {
+    "en": "具体部位",
+    "ru": "更具体的位置"
+  },
+  "逐步收集位置和症状；AI 只选择问题，不诊断。": {
+    "en": "更具体的位置",
+    "ru": "感受"
+  },
+  "左右": {
+    "en": "感受",
+    "ru": "逐步收集位置和症状；AI 只选择问题，不诊断。"
+  },
+  "具体部位": {
+    "en": "逐步收集位置和症状；AI 只选择问题，不诊断。",
+    "ru": "左右"
+  },
+  "更具体的位置": {
+    "en": "左右",
+    "ru": "具体部位"
+  },
+  "感受": {
+    "en": "具体部位",
+    "ru": "更具体的位置"
+  },
+  "自述程度": {
+    "en": "Self-reported severity",
+    "ru": "Самооценка тяжести"
+  },
+  "其他表现": {
+    "en": "Other symptoms",
+    "ru": "Другие симптомы"
+  },
+  "变化或诱因": {
+    "en": "Changes or triggers",
+    "ru": "Изменения или триггеры"
+  },
+  "既往病史": {
+    "en": "Past medical history",
+    "ru": "Прошлый медицинский историй"
+  },
+  "膝盖内侧": {
+    "en": "Inner knee",
+    "ru": "Внутренняя сторона колена"
+  },
+  "膝盖外侧": {
+    "en": "Outer knee",
+    "ru": "Внешняя сторона колена"
+  },
+  "膝盖前侧": {
+    "en": "Front knee",
+    "ru": "Передняя сторона колена"
+  },
+  "膝盖后侧": {
+    "en": "Back knee",
+    "ru": "Задняя сторона колена"
+  },
+  "右上腹": {
+    "en": "Right upper abdomen",
+    "ru": "Правый верхний живот"
+  },
+  "左上腹": {
+    "en": "Left upper abdomen",
+    "ru": "Левый верхний живот"
+  },
+  "右下腹": {
+    "en": "Right lower abdomen",
+    "ru": "Правый нижний живот"
+  },
+  "左下腹": {
+    "en": "Left lower abdomen",
+    "ru": "Левый нижний живот"
+  },
+  "不确定可以选择“说不清”，也可以用自己的话回答。": {
+    "en": "不确定可以选择‘说不清’，也可以用自己的话回答。",
+    "ru": "不确定时可以选择‘说不清’，也可以用自己的话回答。"
+  },
+  "本地 AI 正在参考资料整理下一问。": {
+    "en": "本地 AI 正在参考资料整理下一问。",
+    "ru": "Локальный ИИ собирает информацию для следующего вопроса, используя справочные материалы."
+  },
+  "内侧": {
+    "en": "内侧",
+    "ru": "Внутренняя сторона"
+  },
+  "里侧": {
+    "en": "里侧",
+    "ru": "Внутренняя сторона"
+  },
+  "内边": {
+    "en": "内边",
+    "ru": "Внутренняя сторона"
+  },
+  "里面": {
+    "en": "里面",
+    "ru": "Внутри"
+  },
+  "外侧": {
+    "en": "外侧",
+    "ru": "Внешняя сторона"
+  },
+  "外边": {
+    "en": ":外边",
+    "ru": "Внешняя сторона"
+  },
+  "前侧": {
+    "en": "前侧",
+    "ru": "Передняя сторона"
+  },
+  "前面": {
+    "en": "前面",
+    "ru": "Передняя часть"
+  },
+  "后侧": {
+    "en": "后侧",
+    "ru": "Задняя сторона"
+  },
+  "后面": {
+    "en": "后面",
+    "ru": "Позади"
+  },
+  "右上边": {
+    "en": "右上边",
+    "ru": "左上边"
+  },
+  "左上边": {
+    "en": "左上边",
+    "ru": "右上边"
+  },
+  "右下边": {
+    "en": "右下边",
+    "ru": "左下边"
+  },
+  "左下边": {
+    "en": "左下边",
+    "ru": "右下边"
+  },
+  "追问记录格式不正确。": {
+    "en": "追问记录格式不正确。",
+    "ru": "Запись вопросов не соответствует формату."
+  },
+  "每条回答请控制在 200 字以内。": {
+    "en": "每条回答请控制在 : 200 字以内。",
+    "ru": "Каждый ответ должен быть не более 200 символов."
+  },
+  "我们再靠近一点：不舒服的位置更接近哪里？": {
+    "en": "我们再靠近一点：不舒服的位置更接近哪里？",
+    "ru": "Давайте приблизимся еще: где больше чувствуется дискомфорт?"
+  },
+  "隐痛 / 酸痛": {
+    "en": "隐痛 / 酸痛",
+    "ru": "Тупой / тянущий дискомфорт"
+  },
+  "刺痛": {
+    "en": "刺痛",
+    "ru": "Острый прокол"
+  },
+  "胀痛": {
+    "en": "胀痛",
+    "ru": "Болезненное расширение"
+  },
+  "麻木": {
+    "en": "麻木",
+    "ru": "Потеря чувствительности"
+  },
+  "肿胀": {
+    "en": "肿胀",
+    "ru": "Воспаление"
+  },
+  "其他 / 说不清": {
+    "en": "Other / Unclear",
+    "ru": "Другое / Неясно"
+  },
+  "描述涉及紧急表现。若正在发生，请立即寻求急诊或拨打 120，不要等待追问或医生信箱。": {
+    "en": "Description involves urgent symptoms. If occurring now, seek emergency care or call 120 immediately; do not wait for further questions or doctor's mailbox.",
+    "ru": "Описание включает симптомы, требующие срочного обращения. Если симптомы возникают сейчас, немедленно обратитесь за экстренной помощью или позвоните 120; не ждите дополнительных вопросов или почты врача."
+  },
+  "信息已整理，请确认后继续。定位是你描述的位置，不代表病灶或诊断。": {
+    "en": "Information has been compiled; please confirm before proceeding. Your location is where you described, not the actual lesion or diagnosis.",
+    "ru": "Информация собрана; подтвердите перед продолжением. Ваше местоположение — то, что вы описали, а не определенная патология или диагноз."
+  },
+  "左侧": {
+    "en": "Left",
+    "ru": "Лево"
+  },
+  "中间": {
+    "en": "Middle",
+    "ru": "Средина"
+  },
+  "右侧": {
+    "en": "Right",
+    "ru": "Право"
+  },
+  "正中": {
+    "en": "Midline",
+    "ru": "Средина"
+  },
+  "先确认一下，是身体左侧还是右侧？": {
+    "en": "Please confirm: is this on the left or right side of the body?",
+    "ru": "Пожалуйста, уточните: левая или правая сторона тела?"
+  },
+  "隐痛": {
+    "en": "Pain",
+    "ru": "Боль"
+  },
+  "胀 / 堵的感觉": {
+    "en": "Pressure / Block sensation",
+    "ru": "Давление / Закупорка"
+  },
+  "灼热感": {
+    "en": "Scorching sensation",
+    "ru": "Ожог"
+  },
+  "这个位置主要是什么感觉？": {
+    "en": "What sensation is primarily felt at this location?",
+    "ru": "Какой основной симптом чувствуется в этой области?"
+  },
+  "这种不适大概持续多久了？": {
+    "en": "How long has this discomfort lasted?",
+    "ru": "Сколько примерно длится это неудобство?"
+  },
+  "现在不适对活动或休息的影响怎样？": {
+    "en": "How does the current discomfort affect your activities or rest?",
+    "ru": "Как текущее неудобство влияет на ваши активности или отдых?"
+  },
+  "附近有没有肿胀、发红、麻木或活动困难？": {
+    "en": "Are there any swelling, redness, numbness, or difficulty moving nearby?",
+    "ru": "Есть ли отек, покраснение, онемение или трудности в движении вблизи?"
+  },
+  "开始不舒服之前，有没有摔倒、碰撞或扭伤？": {
+    "en": "Did you fall, collide, or twist before feeling discomfort started?",
+    "ru": "Прежде чем начало возникать дискомфорт, было ли у вас падение, столкновение или травма?"
+  },
+  "什么情况下会更明显，比如活动、按压或休息时？": {
+    "en": "When does the discomfort become more noticeable, such as during activity, pressure, or rest?",
+    "ru": "Когда дискомфорт становится более заметным, например, при активности, давлении или отдыхе?"
+  },
+  "这段时间不适有没有变化？": {
+    "en": "Has the discomfort changed during this period?",
+    "ru": "Изменяется ли дискомфорт в этот период?"
+  },
+  "以前有过什么老病症，或者正在长期吃药吗？": {
+    "en": "Do you have any chronic conditions or are you currently on long-term medication?",
+    "ru": "У вас есть хронические заболевания или вы принимаете долгосрочную терапию?"
+  },
+  "左": {
+    "en": "Left",
+    "ru": "Лево"
+  },
+  "右": {
+    "en": "Right",
+    "ru": "Право"
+  },
+  "主要描述": {
+    "en": "Primary description",
+    "ru": "Основное описание"
+  },
+  "两侧都有": {
+    "en": "Both sides",
+    "ru": "Обе стороны"
+  },
+  "中，具体哪里不舒服？": {
+    "en": "Center, where exactly is the discomfort?",
+    "ru": "Центр, в какой точке именно дискомфорт?"
+  },
+  "刚出现": {
+    "en": "刚出现",
+    "ru": "1"
+  },
+  "不到一天": {
+    "en": "不到一天",
+    "ru": "2"
+  },
+  "两三天": {
+    "en": "两三天",
+    "ru": "3"
+  },
+  "一周左右": {
+    "en": "一周左右",
+    "ru": "4"
+  },
+  "更久 / 反复出现": {
+    "en": "更久 / 反复出现",
+    "ru": "5"
+  },
+  "还能正常活动": {
+    "en": "还能正常活动",
+    "ru": "6"
+  },
+  "活动或睡眠受到影响": {
+    "en": "活动或睡眠受到影响",
+    "ru": "7"
+  },
+  "感受轻重不能单独判断病情是否危险。": {
+    "en": "感受轻重不能单独判断病情是否危险。",
+    "ru": "8"
+  },
+  "除了这个位置不舒服，还有恶心、呕吐或排便变化吗？": {
+    "en": "除了这个位置不舒服，还有恶心、呕吐或排便变化吗？",
+    "ru": "9"
+  },
+  "同时还有发热、咳嗽、头晕或其他不适吗？": {
+    "en": "同时还有发热、咳嗽、头晕或其他不适吗？",
+    "ru": "10"
+  },
+  "没有明显其他表现": {
+    "en": "没有明显其他表现",
+    "ru": "11"
+  },
+  "肿胀 / 发红": {
+    "en": "肿胀 / 发红",
+    "ru": "12"
+  },
+  "活动困难": {
+    "en": "Difficulty in activity",
+    "ru": "Сложность в движении"
+  },
+  "有其他表现": {
+    "en": "Other symptoms",
+    "ru": "Другие симптомы"
+  },
+  "没有明显外伤": {
+    "en": "No obvious injury",
+    "ru": "Нет очевидных травм"
+  },
+  "摔倒 / 碰撞": {
+    "en": "Fall / Collision",
+    "ru": "Падение / Удар"
+  },
+  "扭伤": {
+    "en": "Sprain",
+    "ru": "Перелом"
+  },
+  "活动时更明显": {
+    "en": "Worsens with activity",
+    "ru": "Ухудшается при движении"
+  },
+  "按压时更明显": {
+    "en": "Worsens with pressure",
+    "ru": "Ухудшается при давлении"
+  },
+  "休息时也不舒服": {
+    "en": "Uncomfortable even at rest",
+    "ru": "Неприятно даже в покое"
+  },
+  "没有明显规律": {
+    "en": "No clear pattern",
+    "ru": "Нет четкой закономерности"
+  },
+  "差不多": {
+    "en": "About the same",
+    "ru": "Приблизительно одинаково"
+  },
+  "时好时坏": {
+    "en": "Intermittent",
+    "ru": "Интермиттирующий"
+  },
+  "越来越明显": {
+    "en": "Worsens over time",
+    "ru": "Ухудшается со временем"
+  },
+  "有所减轻": {
+    "en": "有所减轻",
+    "ru": "有所减轻"
+  },
+  "没有已知既往病史": {
+    "en": "没有已知既往病史",
+    "ru": "Нет известных прошлых заболеваний"
+  },
+  "不清楚": {
+    "en": "不清楚",
+    "ru": "Неизвестно"
+  },
+  "请用自己的话说明医生诊断过的病症、长期用药或药物过敏；不要填写姓名或证件号码。": {
+    "en": "请用自己的话说明医生诊断过的病症、长期用药或药物过敏；不要填写姓名或证件号码。",
+    "ru": "Опишите своими словами диагнозы, длительные лекарства или аллергии, которые у вас есть; не заполняйте имя или номер документа."
+  },
+  "靠近锁骨": {
+    "en": "靠近锁骨",
+    "ru": "Близко к ключице"
+  },
+  "胸部中段": {
+    "en": "胸部中段",
+    "ru": "Средняя часть грудной клетки"
+  },
+  "靠近下缘": {
+    "en": "靠近下缘",
+    "ru": "Близко к нижней границе"
+  },
+  "靠上侧": {
+    "en": "靠上侧",
+    "ru": "Вверху"
+  },
+  "靠中间": {
+    "en": "靠中间",
+    "ru": "В центре"
+  },
+  "靠下侧": {
+    "en": "靠下侧",
+    "ru": "Внизу"
+  },
+  "靠拇指一侧": {
+    "en": "靠拇指一侧",
+    "ru": "Близко к большому пальцу"
+  },
+  "靠小指一侧": {
+    "en": "靠小指一侧",
+    "ru": "Близко к мизинцу"
+  },
+  "在": {
+    "en": "在",
+    "ru": "в"
+  },
+  "恶心 / 呕吐": {
+    "en": "恶心 / 呕吐",
+    "ru": "Воспаление / Рвота"
+  },
+  "腹泻 / 排便变化": {
+    "en": "腹泻 / 排便变化",
+    "ru": "Диарея / Изменения в стуле"
+  },
+  "发热 / 咳嗽": {
+    "en": "发热 / 咳嗽",
+    "ru": "Высокая температура / Кашель"
+  },
+  "肚脐右侧": {
+    "en": "肚脐右侧",
+    "ru": "Право от пупка"
+  },
+  "肚脐左侧": {
+    "en": "肚脐左侧",
+    "ru": "Лево от пупка"
+  },
+  "上腹正中": {
+    "en": "上腹正中",
+    "ru": "Центр верхней части живота"
+  },
+  "下腹正中": {
+    "en": "下腹正: 中",
+    "ru": "Центр нижней части живота"
+  },
+  "校园账号注册": {
+    "en": "校园账号注册",
+    "ru": "Регистрация школьного аккаунта"
+  },
+  "登录后进入校园账号。已有校园账号可直接使用。": {
+    "en": "登录后进入校园账号。已有校园账号可直接使用。",
+    "ru": "Войдите в школьный аккаунт после входа. Уже имеющие школьный аккаунт могут использовать его напрямую."
+  },
+  "填写姓名、性别和账号信息后进入校园账号。已有校园账号可直接使用。": {
+    "en": "填写姓名、性别和账号信息后进入校园账号。已有校园账号可直接使用。",
+    "ru": "После заполнения имени, пола и данных аккаунта войдите в школьный аккаунт. Уже имеющие школьный аккаунт могут использовать его напрямую."
+  },
+  "登录并进入校园账号": {
+    "en": "登录并进入校园账号",
+    "ru": "Войдите и войдите в школьный аккаунт"
+  },
+  "注册并进入校园账号": {
+    "en": "Register and enter campus account",
+    "ru": "Регистрация и вход в аккаунт университета"
+  },
+  "校园广场登录": {
+    "en": "Campus Plaza Login",
+    "ru": "Вход в кампус-площадку"
+  },
+  "校园广场注册": {
+    "en": "Campus Plaza Registration",
+    "ru": "Регистрация в кампус-площадке"
+  },
+  "登录后进入校园广场。已有校园账号可直接使用。": {
+    "en": "Log in to enter Campus Plaza. Existing campus accounts can be used directly.",
+    "ru": "Войдите в Кампус-площадку. Существующие аккаунты университета можно использовать напрямую."
+  },
+  "填写姓名、性别和账号信息后进入校园广场。已有校园账号可直接使用。": {
+    "en": "Enter Campus Plaza after filling in name, gender, and account information. Existing campus accounts can be used directly.",
+    "ru": "Войдите в Кампус-площадку после заполнения имени, пола и информации об аккаунте. Существующие акка:унты университета можно использовать напрямую."
+  },
+  "登录并进入校园广场": {
+    "en": "Log in and enter Campus Plaza",
+    "ru": "Войдите в Кампус-площадку"
+  },
+  "注册并进入校园广场": {
+    "en": "Register and enter Campus Plaza",
+    "ru": "Регистрация и вход в Кампус-площадку"
+  },
+  "校园跑腿登录": {
+    "en": "Campus Run Login",
+    "ru": "Вход в Кампус-Ран"
+  },
+  "校园跑腿注册": {
+    "en": "Campus Run Registration",
+    "ru": "Регистрация в Кампус-Ран"
+  },
+  "登录后进入校园跑腿。已有校园账号可直接使用。": {
+    "en": "Log in to enter Campus Run. Existing campus accounts can be used directly.",
+    "ru": "Войдите в Кампус-Ран. Существующие аккаунты университета можно использовать напрямую."
+  },
+  "填写姓名、性别和账号信息后进入校园跑腿。已有校园账号可直接使用。": {
+    "en": "Enter Campus Run after filling in name, gender, and account information. Existing campus accounts can be used directly.",
+    "ru": "Войдите в Кампус-Ран после заполнения имени, пола и информации об аккаунте. Существующие аккаунты университета можно использовать напрямую."
+  },
+  "登录并进入校园跑腿": {
+    "en": "Log in and enter Campus Run",
+    "ru": "Войдите в Кампус-Ран"
+  },
+  "注册并进入校园跑腿": {
+    "en": "Register and enter campus delivery",
+    "ru": "Регистрация и вход в кампус-доставку"
+  },
+  "AI 导诊登录": {
+    "en": "AI Consultation Login",
+    "ru": "Вход в AI-консультацию"
+  },
+  "AI 导诊注册": {
+    "en": "AI Consultation Registration",
+    "ru": "Регистрация в AI-консультации"
+  },
+  "登录后进入AI 导诊。已有校园账号可直接使用。": {
+    "en": "Log in to enter AI Consultation. Existing campus accounts can be used directly.",
+    "ru": "Войдите в AI-консультацию. Существующие кампус-аккаунты можно использовать напрямую."
+  },
+  "填写姓名、性别和账号信息后进入AI 导诊。已有校园账号可直接使用。": {
+    "en": "Enter AI Consultation after filling in name, gender, and account information. Existing campus accounts can be used directly.",
+    "ru": "Войдите в AI-конс: заполните имя, пол и учетную информацию. Существующие кампус-аккаунты можно использовать напрямую."
+  },
+  "登录并进入AI 导诊": {
+    "en": "Log in and enter AI Consultation",
+    "ru": "Войдите и перейдите в AI-консультацию"
+  },
+  "注册并进入AI 导诊": {
+    "en": "Register and enter AI Consultation",
+    "ru": "Регистрация и переход в AI-консультацию"
+  },
+  "场地预约登录": {
+    "en": "Field Reservation Login",
+    "ru": "Вход в бронирование площадок"
+  },
+  "场地预约注册": {
+    "en": "Field Reservation Registration",
+    "ru": "Регистрация бронирования площадок"
+  },
+  "登录后进入场地预约。已有校园账号可直接使用。": {
+    "en": "Log in to enter Field Reservation. Existing campus accounts can be used directly.",
+    "ru": "Войдите в бронирование площадок. Существующие кампус-аккаунты можно использовать напрямую."
+  },
+  "填写姓名、性别和账号信息后进入场地预约。已有校园账号可直接使用。": {
+    "en": "Enter Field Reservation after filling in name, gender, and account information. Existing campus accounts can be used directly.",
+    "ru": "Войдите в бронирование площадок после заполнения имени, пола и учетной информации. Существующие кампус-аккаунты можно использовать напрямую."
+  },
+  "登录并进入场地预约": {
+    "en": "Log in and enter Field Reservation",
+    "ru": "Войдите и перейдите в бронирование площадок"
+  },
+  "注册并进入场地预约": {
+    "en": "Register and enter venue booking",
+    "ru": "Регистрация и вход в бронирование места"
+  }
+}

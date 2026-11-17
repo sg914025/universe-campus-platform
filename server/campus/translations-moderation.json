@@ -1,0 +1,12 @@
+{
+  "内容包含违规词，请修改后再发布。": {
+    "en": "This field contains prohibited wording. Please revise it before publishing.",
+    "ru": "В этом поле есть запрещённые выражения. Измените текст перед публикацией.",
+    "ja": "この項目に禁止表現が含まれています。修正してから投稿してください。"
+  },
+  "请文明表达，勿发布辱骂、诈骗招揽、代考或违禁交易内容；提交时将检查文字。": {
+    "en": "Please be respectful. Abusive language, scam solicitation, exam cheating services and prohibited trades are not allowed. Text is checked on submission.",
+    "ru": "Общайтесь уважительно. Оскорбления, мошеннические предложения, услуги сдачи экзаменов за другого и запрещённая торговля не допускаются. Текст проверяется при отправке.",
+    "ja": "相手を尊重して投稿してください。侮辱、詐欺の勧誘、試験代行、禁止物品の取引は投稿できません。送信時に文章を確認します。"
+  }
+}

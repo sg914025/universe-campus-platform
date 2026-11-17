@@ -1,0 +1,1 @@
+<template><image class="ui-icon" :src="'/static/icons/'+name+'.png'" mode="aspectFit" :style="{width:size+'px',height:size+'px'}" /></template><script setup>defineProps({name:{type:String,default:'spark'},size:{type:Number,default:22}})</script><style scoped>.ui-icon{display:inline-block;flex-shrink:0;vertical-align:middle}</style>

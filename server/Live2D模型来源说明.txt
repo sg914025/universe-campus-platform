@@ -1,0 +1,12 @@
+校园主页 Live2D 本地学习演示
+模型：千早爱音，冬季校服，原比例立绘（不是 Q 版、不是自行制作或训练的模型）。
+模型来源：https://github.com/panxuc/live2d-widget-mygo
+固定来源提交：2ee129159f5e75e376adfa997ae1b7de52d677d6
+原仓库说明模型资源源于 BanG Dream / Bestdori，仅供学习交流，禁止商业使用。
+仓库代码的 MIT 许可证不代表角色美术或模型获得商业授权。公开发布或用于比赛展示前请核实相应权利许可。
+播放器：https://github.com/guansss/pixi-live2d-display （0.4.0）
+Pixi.js：6.5.10；随项目保留许可证。
+Cubism 2 核心来自上述示例的 public/live2d.min.js，版权仍归原权利人。
+所有运行资源存于 static/campus/live2d；运行时无需连接模型来源网站。
+角色保留待机、眨眼与物理动画，并按问候切换招手、微笑、思考等动作；新增固定台词语音和嘴型同步，不显示名字，不读取医疗或账号数据。
+非遗功能保持停用，旧 Three.js 模型不再加载。

@@ -1,0 +1,80 @@
+{
+  "name": "寰校通 UniVerse",
+  "appid": "",
+  "description": "多语校园智慧生活服务平台",
+  "versionName": "1.0.2",
+  "versionCode": "10002",
+  "transformPx": false,
+  "vueVersion": "3",
+  "h5": {
+    "title": "寰校通 UniVerse",
+    "router": {
+      "mode": "hash",
+      "base": "/m/"
+    }
+  },
+  "app-plus": {
+    "usingComponents": true,
+    "nvueCompiler": "uni-app",
+    "compilerVersion": 3,
+    "splashscreen": {
+      "alwaysShowBeforeRender": true,
+      "waiting": true,
+      "autoclose": true,
+      "delay": 0
+    },
+    "modules": {
+      "Geolocation": {},
+      "Camera": {}
+    },
+    "distribute": {
+      "android": {
+        "permissions": [
+          "<uses-permission android:name=\"android.permission.INTERNET\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+          "<uses-permission android:name=\"android.permission.CAMERA\"/>"
+        ]
+      },
+      "ios": {
+        "privacyDescription": {
+          "NSLocationWhenInUseUsageDescription": "用于显示附近天气，由你主动触发",
+          "NSCameraUsageDescription": "用于扫描预约签到二维码"
+        }
+      },
+      "icons": {
+        "android": {
+          "mdpi": "static/brand/icon-48.png",
+          "hdpi": "static/brand/icon-72.png",
+          "xhdpi": "static/brand/icon-96.png",
+          "xxhdpi": "static/brand/icon-144.png",
+          "xxxhdpi": "static/brand/icon-192.png"
+        },
+        "ios": {
+          "appstore": "static/brand/icon-1024.png"
+        }
+      }
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": true,
+      "es6": true,
+      "minified": true
+    },
+    "usingComponents": true,
+    "permission": {
+      "scope.userLocation": {
+        "desc": "用于查询附近天气"
+      }
+    },
+    "requiredPrivateInfos": [
+      "getLocation"
+    ]
+  },
+  "uniStatistics": {
+    "enable": false
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "外部接口待配置 API Key，当前继续使用本地 AI。": {
+    "en": "External API key not configured. Local AI remains available.",
+    "ru": "Ключ внешнего API не настроен. Используется локальный ИИ.",
+    "ja": "外部APIキー未設定のため、ローカルAIを使用します。"
+  },
+  "本次仅使用本地 AI。": {
+    "en": "This answer uses local AI only.",
+    "ru": "Этот ответ подготовлен только локальным ИИ.",
+    "ja": "今回はローカルAIのみを使用します。"
+  },
+  "外部 AI 尚未配置，已使用本地回答。": {
+    "en": "External AI is not configured; answered locally.",
+    "ru": "Внешний ИИ не настроен; ответ подготовлен локально.",
+    "ja": "外部AI未設定のためローカルで回答しました。"
+  },
+  "此问题可能涉及个人信息，已保留在本地。": {
+    "en": "This question may contain private information and stays local.",
+    "ru": "Вопрос может содержать личные сведения и остаётся локальным.",
+    "ja": "個人情報を含む可能性があるためローカルで処理しました。"
+  },
+  "本地 AI 判断此问题适合在本地回答。": {
+    "en": "Local AI decided to answer this question locally.",
+    "ru": "Локальный ИИ решил ответить самостоятельно.",
+    "ja": "ローカルAIが自身で回答すると判断しました。"
+  },
+  "路由判断未完成，已使用本地回答。": {
+    "en": "Routing was unavailable; answered locally.",
+    "ru": "Маршрутизация недоступна; ответ подготовлен локально.",
+    "ja": "振り分けに失敗したためローカルで回答しました。"
+  },
+  "外部 AI 暂时不可用，已回退本地回答。": {
+    "en": "External AI is unavailable; fell back to local AI.",
+    "ru": "Внешний ИИ недоступен; ответ подготовлен локально.",
+    "ja": "外部AIが利用できないためローカルで回答しました。"
+  },
+  "允许本地 AI 按需调用 DeepSeek 官方 API（按量计费）": {
+    "en": "Allow local AI to call the official DeepSeek API (usage billed)",
+    "ru": "Разрешить локальному ИИ вызывать официальный API DeepSeek (оплата по использованию)",
+    "ja": "必要に応じてDeepSeek公式APIを利用する（従量課金）"
+  },
+  "开启后，仅当前普通问题会发送至 DeepSeek 官方，不发送聊天历史或账号资料。调用会消耗官方 API 余额。": {
+    "en": "Only the current general question goes directly to DeepSeek. No history or account data is sent. Calls use your official API balance.",
+    "ru": "Только текущий общий вопрос отправляется напрямую DeepSeek. История и данные аккаунта не передаются. Вызовы расходуют баланс API.",
+    "ja": "現在の一般的な質問のみDeepSeek公式に送信します。履歴やアカウント情報は送信しません。公式APIの残高を消費します。"
+  },
+  "已读取 DeepSeek 官方 Key；调用失败时回退本地。": {
+    "en": "Official DeepSeek key loaded; failures fall back locally.",
+    "ru": "Официальный ключ DeepSeek прочитан; при сбое ответит локальный ИИ.",
+    "ja": "DeepSeek公式キーを読み込み済みです。失敗時はローカルAIに戻ります。"
+  },
+  "请配置 DeepSeek 官方 Key，当前继续使用本地 AI。": {
+    "en": "Configure an official DeepSeek key. Using local AI for now.",
+    "ru": "Настройте официальный ключ DeepSeek. Пока используется локальный ИИ.",
+    "ja": "DeepSeek公式キーを設定してください。現在はローカルAIを使用します。"
+  },
+  "天气可联网查询；开启官方协助后，本地 AI 按需调用 DeepSeek，失败时回退本地。官方 API 按量计费。刷新页面会清除聊天上下文。": {
+    "en": "Weather uses online data. With official assistance enabled, local AI may call DeepSeek and falls back locally on failure. Official API calls are billed by usage. Reloading clears context.",
+    "ru": "Погода берётся из сети. При включённой помощи локальный ИИ может вызвать DeepSeek; при сбое ответит сам. Официальный API оплачивается по использованию. Обновление очищает контекст.",
+    "ja": "天気はオンラインで取得します。公式連携を有効にすると必要に応じてDeepSeekを呼び出し、失敗時はローカルに戻ります。公式APIは従量課金です。再読み込みで履歴は消去されます。"
+  },
+  "DeepSeek 官方 AI": {
+    "en": "Official DeepSeek AI",
+    "ru": "Официальный ИИ DeepSeek",
+    "ja": "DeepSeek公式AI"
+  },
+  "本地 AI 已将此普通问题交给 DeepSeek 官方模型。": {
+    "en": "Local AI routed this general question directly to official DeepSeek.",
+    "ru": "Локальный ИИ передал этот общий вопрос напрямую официальному DeepSeek.",
+    "ja": "ローカルAIがこの一般的な質問をDeepSeek公式モデルに依頼しました。"
+  }
+}

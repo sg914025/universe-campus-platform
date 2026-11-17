@@ -1,0 +1,5 @@
+{% load campus_ui %}{% if person.avatar %}
+<img class="avatar" src="{{ person.avatar.url }}" alt="{% ui '5c814f4ff9156b37' %}">
+{% else %}
+<div class="avatar avatar-default" aria-label="{% ui '70747c9ad743f9d8' %}">{{ person.nickname|default:user.username|slice:':1' }}</div>
+{% endif %}

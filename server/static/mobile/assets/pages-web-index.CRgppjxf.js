@@ -1,0 +1,1 @@
+import{r as s,c as t,x as a,K as e,o as r}from"./index-C9VYdiT1.js";import{e as o,w as n}from"./api.BARU9f1S.js";const c={__name:"index",setup(c){const u=s("");return o(s=>{const t=decodeURIComponent(s.path||"");t.startsWith("/")&&!t.startsWith("//")&&(u.value=n()+t)}),(s,o)=>{const n=e;return u.value?(r(),t(n,{key:0,src:u.value},null,8,["src"])):a("",!0)}}};export{c as default};

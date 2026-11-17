@@ -1,0 +1,42 @@
+/* One workspace: plan, conversation and companion. */
+body[data-design="assistant"] main{max-width:1280px;margin:24px auto 48px;padding:0 24px}
+body[data-design="assistant"] main>.intro{background:none;border:0;box-shadow:none;min-height:0;padding:12px 0 22px;margin:0;display:flex;justify-content:space-between;align-items:center;gap:20px;overflow:visible}
+body[data-design="assistant"] main>.intro::before,body[data-design="assistant"] main>.intro::after{display:none}
+body[data-design="assistant"] main>.intro h1{font-size:30px;line-height:1.3;letter-spacing:-.6px;margin:0 0 9px}
+body[data-design="assistant"] main>.intro .eyebrow{font-size:9px;letter-spacing:2px;margin:0 0 9px;color:#8a9a7a}
+body[data-design="assistant"] main>.intro p:last-child{font-size:13px;line-height:1.7;margin:0;color:#7e8e7a}
+.assistant-header-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:flex-end}.assistant-header-actions .quiet{font-size:11px;padding:10px 13px;white-space:normal;max-width:270px;border-radius:12px;background:#ffffff65}.assistant-header-actions #assistant-reset{background:transparent;opacity:.8}
+body[data-design="assistant"] .assistant-layout{grid-template-columns:minmax(0,1fr) 285px;gap:20px}
+body[data-design="assistant"] .assistant-work{border-radius:23px;box-shadow:0 16px 48px #30422c07;background:#fffefbbf}
+body[data-design="assistant"] .assistant-steps{padding:14px 22px;background:transparent;font-size:10px}
+body.has-service-plan .assistant-steps{display:none}
+body[data-design="assistant"] .service-plan-panel{padding:22px 24px 20px;border:0;border-bottom:1px solid #91ab8b30;border-radius:0;margin:0;background:linear-gradient(125deg,#afc29a14,#e7d5a316);box-shadow:none;scroll-margin-top:18px}
+body[data-design="assistant"] .plan-top h2{font-size:16px;font-weight:600;letter-spacing:.2px}.plan-top .plan-progress{font-size:11px;border:1px solid #91ab8b38;padding:4px 9px;border-radius:20px}
+body[data-design="assistant"] .plan-source{font-size:13px;line-height:1.8;margin:10px 0 13px;color:inherit}
+body[data-design="assistant"] .plan-track{height:3px;margin:12px 0 16px}
+body[data-design="assistant"] .plan-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;margin:0 0 14px}
+body[data-design="assistant"] .plan-step{border:1px solid #91ab8b25;border-radius:10px;padding:10px 9px;font-size:12px;gap:8px;min-width:0;line-height:1.6}
+body[data-design="assistant"] .plan-step b{width:21px;height:21px;flex-shrink:0;font-size:10px}
+body[data-design="assistant"] .plan-step.current{border-color:#91ab8b99;background:#91ab8b0d}
+body[data-design="assistant"] .plan-instruction{font-size:12px;line-height:1.7;margin:10px 0}
+body[data-design="assistant"] .plan-controls{gap:9px}.plan-controls p{font-size:12px;margin:0}.plan-controls label{font-size:11px}.plan-controls :is(button,a,select){font-size:12px;padding:9px 12px}
+body[data-design="assistant"] .plan-note{font-size:11px;margin:9px 0 0}
+body[data-design="assistant"] .plan-cancel{margin-top:12px;font-size:10px;opacity:.6}
+body[data-design="assistant"] .service-plan-panel [data-plan-content]>button:not(.plan-cancel){font-size:10px;padding:6px 10px;margin:0 0 9px;background:transparent}
+body[data-design="assistant"] .plan-complete .plan-instruction,body[data-design="assistant"] .plan-complete .plan-note,body[data-design="assistant"] .plan-complete .plan-controls>p{display:none}
+body[data-design="assistant"] .plan-complete [data-plan-content]>button{display:none}
+body[data-design="assistant"] .plan-complete .plan-list{margin-bottom:12px}
+body[data-design="assistant"] .assistant-conversation{min-height:100px;max-height:300px;padding:20px 24px 8px}
+body[data-design="assistant"] .assistant-message{font-size:13px;padding:12px 15px;margin-bottom:12px;max-width:94%;border-radius:14px}
+body[data-design="assistant"] .assistant-message small{font-size:9px;margin-bottom:5px}
+body[data-design="assistant"] .assistant-actions-area{padding:0 24px 18px}
+body[data-design="assistant"] .assistant-choices{gap:7px}.assistant-choices button{font-size:11px;padding:8px 11px;border-radius:20px}
+body[data-design="assistant"] .assistant-chat-form{padding:18px 24px;border-top:1px solid #91ab8b28;background:#91ab8b04}
+.assistant-options{margin:0 0 16px;font-size:12px}.assistant-options>summary{cursor:pointer;color:#7a8e77;font-size:11px;line-height:1.8;list-style:none;display:flex;gap:8px;align-items:center}.assistant-options>summary::before{content:'＋';font-size:14px}.assistant-options[open]>summary::before{content:'−'}.assistant-options[open]>summary{margin-bottom:14px}.assistant-options .assistant-mode-row{display:flex;align-items:center;gap:12px}.assistant-options .assistant-mode-row label{margin:0}.assistant-options .assistant-hybrid{margin:12px 0 0;line-height:1.8}
+body[data-design="assistant"] .assistant-chat-form>label{font-size:12px;margin-bottom:9px}body[data-design="assistant"] .assistant-chat-form #assistant-input{min-height:78px;border-radius:13px}
+body[data-design="assistant"] .assistant-chat-form>small{font-size:10px}
+body[data-design="assistant"] .assistant-side{position:sticky;top:20px;min-width:0}.assistant-stage{border-radius:22px}.assistant-stage>.eyebrow{font-size:8px;letter-spacing:1.8px}.assistant-stage .home-mascot{width:100%}
+body[data-design="assistant"] .assistant-capabilities{margin-top:14px;padding:18px;border-radius:18px}.assistant-capabilities>.button{background:transparent;padding:0;border:0;font-size:12px;box-shadow:none}.assistant-capabilities>p{margin:10px 0;font-size:11px;line-height:1.9}.assistant-help{border-top:1px solid #91ab8b25;padding-top:12px;margin-top:12px}.assistant-help summary{font-size:11px;cursor:pointer;color:#7a8e77}.assistant-help p{font-size:11px;line-height:1.9;color:#7e8e7a}.assistant-help>a{font-size:11px}
+html[data-theme=dark] body[data-design="assistant"] .assistant-work{background:#162b31;border-color:#71949e30}html[data-theme=dark] body[data-design="assistant"] .service-plan-panel{background:linear-gradient(120deg,#91ab8b0c,#b8a2ca0b);color:#dfebe5}html[data-theme=dark] .assistant-header-actions .quiet{background:#8cae8e12}html[data-theme=dark] body[data-design="assistant"] .assistant-chat-form{background:transparent}html[data-theme=dark] .assistant-options>summary,html[data-theme=dark] .assistant-help summary{color:#adbfac}
+@media(max-width:900px){body[data-design="assistant"] .assistant-layout{grid-template-columns:minmax(0,1fr) 245px;gap:14px}.assistant-header-actions{max-width:260px}.assistant-header-actions [data-plan-example]{max-width:100%}}
+@media(max-width:700px){body[data-design="assistant"] main{padding:0 16px;margin-top:12px}body[data-design="assistant"] main>.intro{display:block;padding:8px 0 20px}body[data-design="assistant"] main>.intro h1{font-size:26px}.assistant-header-actions{max-width:none;justify-content:flex-start;margin-top:14px}.assistant-header-actions .quiet{font-size:10px}body[data-design="assistant"] .assistant-layout{grid-template-columns:1fr}body[data-design="assistant"] .assistant-side{position:static;display:grid;grid-template-columns:1fr;gap:12px}body[data-design="assistant"] .plan-list{grid-template-columns:1fr;gap:6px}body[data-design="assistant"] .plan-step{padding:8px 10px}body[data-design="assistant"] .service-plan-panel,body[data-design="assistant"] .assistant-chat-form{padding:18px}body[data-design="assistant"] .assistant-conversation{padding:18px 18px 6px}body[data-design="assistant"] .assistant-actions-area{padding:0 18px 16px}.assistant-options .assistant-hybrid{display:block}.assistant-options .assistant-hybrid small{display:block;margin-top:8px}}

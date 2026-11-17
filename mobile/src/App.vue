@@ -1,0 +1,1 @@
+<script>export default {onLaunch(){},onShow(){},onHide(){}}</script><style>@import './style.css';</style>

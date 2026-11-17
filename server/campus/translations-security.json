@@ -1,0 +1,1292 @@
+{
+  "安全态势中心": {
+    "en": "Security observatory",
+    "ru": "Центр безопасности",
+    "ja": "セキュリティセンター"
+  },
+  "安全总览": {
+    "en": "Security overview",
+    "ru": "Обзор безопасности",
+    "ja": "セキュリティ概要"
+  },
+  "数据孪生": {
+    "en": "Digital twin",
+    "ru": "Цифровой двойник",
+    "ja": "デジタルツイン"
+  },
+  "风险中心": {
+    "en": "Risk register",
+    "ru": "Центр рисков",
+    "ja": "リスク管理"
+  },
+  "数据库与备份": {
+    "en": "Database & backups",
+    "ru": "База данных и копии",
+    "ja": "データベースとバックアップ"
+  },
+  "每日评分": {
+    "en": "Daily score",
+    "ru": "Ежедневная оценка",
+    "ja": "日次スコア"
+  },
+  "总管理员专属": {
+    "en": "Superadmin only",
+    "ru": "Только для главного администратора",
+    "ja": "総管理者専用"
+  },
+  "真实快照 · 最小数据采集": {
+    "en": "Actual snapshots · Minimal data",
+    "ru": "Реальные снимки · Минимум данных",
+    "ja": "実際のスナップショット・最小限の収集"
+  },
+  "仅采集检查结果与聚合统计，不展示密钥、聊天或病情正文。": {
+    "en": "Only check results and aggregate counts. No keys, chats or clinical narratives.",
+    "ru": "Только результаты проверок и общая статистика. Без ключей, переписки и медицинских описаний.",
+    "ja": "検査結果と集計値のみ。鍵、会話、症状の本文は表示しません。"
+  },
+  "返回运营总览": {
+    "en": "Back to operations",
+    "ru": "Назад к обзору работы",
+    "ja": "運営概要に戻る"
+  },
+  "本中心提供配置与本机数据检查，不等同渗透测试或漏洞扫描认证。": {
+    "en": "Configuration and local-data checks; not penetration testing or vulnerability certification.",
+    "ru": "Проверки настроек и локальных данных. Это не пентест и не сертификация безопасности.",
+    "ja": "設定とローカルデータの検査です。侵入テストや脆弱性認証ではありません。"
+  },
+  "最近快照": {
+    "en": "Latest snapshot",
+    "ru": "Последний снимок",
+    "ja": "最新スナップショット"
+  },
+  "尚未检查": {
+    "en": "Not checked yet",
+    "ru": "Ещё не проверено",
+    "ja": "未検査"
+  },
+  "让每一份校园数据，都有安全坐标。": {
+    "en": "A security perspective for every campus service.",
+    "ru": "Безопасность каждого сервиса кампуса.",
+    "ja": "キャンパスのすべてのデータに、安全の視点を。"
+  },
+  "把配置、数据、事件与备份连接起来，用可追溯的证据理解风险。": {
+    "en": "Connect settings, data, events and backups to understand risk through traceable evidence.",
+    "ru": "Свяжите настройки, данные, события и копии, чтобы оценивать риски по проверяемым фактам.",
+    "ja": "設定、データ、イベント、バックアップを結び、追跡可能な証拠でリスクを把握します。"
+  },
+  "更新今日体检": {
+    "en": "Update today’s checks",
+    "ru": "Обновить проверку дня",
+    "ja": "本日の検査を更新"
+  },
+  "进入数据孪生": {
+    "en": "Open digital twin",
+    "ru": "Открыть цифровой двойник",
+    "ja": "デジタルツインを開く"
+  },
+  "今日基线评分": {
+    "en": "Latest baseline score",
+    "ru": "Последняя базовая оценка",
+    "ja": "最新の基準スコア"
+  },
+  "已核验覆盖率": {
+    "en": "Verified coverage",
+    "ru": "Охват проверки",
+    "ja": "検証カバー率"
+  },
+  "通过检查": {
+    "en": "Passed checks",
+    "ru": "Проверки пройдены",
+    "ja": "合格項目"
+  },
+  "来自最近一次快照": {
+    "en": "From the latest snapshot",
+    "ru": "По последнему снимку",
+    "ja": "最新のスナップショットから"
+  },
+  "需跟进风险": {
+    "en": "Risks to follow up",
+    "ru": "Риски для обработки",
+    "ja": "要対応リスク"
+  },
+  "由真实检查结果生成": {
+    "en": "Based on actual checks",
+    "ru": "По реальным проверкам",
+    "ja": "実際の検査結果から生成"
+  },
+  "未核验项目": {
+    "en": "Unverified items",
+    "ru": "Непроверенные пункты",
+    "ja": "未検証項目"
+  },
+  "不计为安全通过": {
+    "en": "Not counted as passed",
+    "ru": "Не считаются пройденными",
+    "ja": "合格には数えません"
+  },
+  "近 24 小时事件": {
+    "en": "Events in last 24 hours",
+    "ru": "События за 24 часа",
+    "ja": "直近24時間のイベント"
+  },
+  "部署后开始采集": {
+    "en": "Collected after activation",
+    "ru": "Сбор после включения",
+    "ja": "導入後に収集開始"
+  },
+  "安全评分轨迹": {
+    "en": "Score history",
+    "ru": "История оценок",
+    "ja": "スコア推移"
+  },
+  "只展示已有检查的日期，空白日期表示没有快照。": {
+    "en": "Only observed dates have scores. Gaps mean no snapshot.",
+    "ru": "Оценки есть только в дни проверки. Пропуски означают отсутствие снимка.",
+    "ja": "検査した日だけ表示します。空白はスナップショットがない日です。"
+  },
+  "检查边界": {
+    "en": "Scope of checks",
+    "ru": "Границы проверки",
+    "ja": "検査の範囲"
+  },
+  "评分只反映已接入的配置与本地检查；未知项目单独列出。": {
+    "en": "The score covers connected configuration and local checks only. Unknowns are listed separately.",
+    "ru": "Оценка отражает только подключённые проверки настроек и локальных данных. Неизвестное показано отдельно.",
+    "ja": "スコアは接続済みの設定・ローカル検査のみを反映し、不明項目は別に表示します。"
+  },
+  "公网防火墙、证书、磁盘加密和依赖漏洞库尚未接入专用扫描。": {
+    "en": "Public firewall, certificates, disk encryption and dependency CVEs are not connected to dedicated scanners.",
+    "ru": "Отдельное сканирование внешнего межсетевого экрана, сертификатов, шифрования диска и CVE зависимостей не подключено.",
+    "ja": "公開ファイアウォール、証明書、ディスク暗号化、依存関係のCVE専用検査は未接続です。"
+  },
+  "查看检查证据": {
+    "en": "View evidence",
+    "ru": "Посмотреть доказательства",
+    "ja": "検査証拠を見る"
+  },
+  "当前风险队列": {
+    "en": "Current risk queue",
+    "ru": "Текущие риски",
+    "ja": "現在のリスク一覧"
+  },
+  "高": {
+    "en": "High",
+    "ru": "Высокий",
+    "ja": "高"
+  },
+  "中": {
+    "en": "Medium",
+    "ru": "Средний",
+    "ja": "中"
+  },
+  "待处理": {
+    "en": "Open",
+    "ru": "Открыто",
+    "ja": "未対応"
+  },
+  "跟进中": {
+    "en": "In progress",
+    "ru": "В работе",
+    "ja": "対応中"
+  },
+  "复查通过": {
+    "en": "Recheck passed",
+    "ru": "Повторная проверка пройдена",
+    "ja": "再検査合格"
+  },
+  "暂无待处理检查项；不代表不存在未知风险。": {
+    "en": "No open findings. Unknown risks may still exist.",
+    "ru": "Открытых замечаний нет. Неизвестные риски могут сохраняться.",
+    "ja": "未対応項目はありませんが、未知のリスクがないことは意味しません。"
+  },
+  "最近十四天安全评分": {
+    "en": "Security score: last 14 days",
+    "ru": "Оценка безопасности за 14 дней",
+    "ja": "直近14日間の安全スコア"
+  },
+  "校园数据孪生": {
+    "en": "Campus data twin",
+    "ru": "Цифровой двойник данных кампуса",
+    "ja": "キャンパスデータツイン"
+  },
+  "逻辑服务拓扑，非物理机房；动画表示关联，不代表实测网络流量。": {
+    "en": "Logical service topology, not a physical data centre. Animation shows relationships, not measured traffic.",
+    "ru": "Логическая схема сервисов, а не физический дата-центр. Анимация показывает связи, а не измеренный трафик.",
+    "ja": "物理的な設備ではなく論理サービス構成です。アニメーションは関連を表し、実測通信量ではありません。"
+  },
+  "拖动旋转 · 点击节点查看证据": {
+    "en": "Drag to rotate · Select a node for evidence",
+    "ru": "Вращайте перетаскиванием · Нажмите узел для деталей",
+    "ja": "ドラッグで回転・ノード選択で証拠を表示"
+  },
+  "暂停动画": {
+    "en": "Pause animation",
+    "ru": "Остановить анимацию",
+    "ja": "アニメーションを停止"
+  },
+  "继续动画": {
+    "en": "Resume animation",
+    "ru": "Продолжить анимацию",
+    "ja": "アニメーションを再開"
+  },
+  "校园应用与数据库逻辑关联模型": {
+    "en": "Logical application and database relationship model",
+    "ru": "Логическая модель приложения и базы данных",
+    "ja": "アプリとデータベースの論理関連モデル"
+  },
+  "服务状态来自最近快照，当前页面本身可达。": {
+    "en": "Service indicators use the latest snapshot; this page is reachable.",
+    "ru": "Показатели сервисов взяты из последнего снимка. Эта страница доступна.",
+    "ja": "サービス状態は最新スナップショットに基づき、現在のページは到達可能です。"
+  },
+  "校园应用": {
+    "en": "Campus application",
+    "ru": "Приложение кампуса",
+    "ja": "キャンパスアプリ"
+  },
+  "本地数据库": {
+    "en": "Local database",
+    "ru": "Локальная база данных",
+    "ja": "ローカルデータベース"
+  },
+  "本地 AI": {
+    "en": "Local AI",
+    "ru": "Локальный ИИ",
+    "ja": "ローカルAI"
+  },
+  "论坛与跑腿": {
+    "en": "Forum & errands",
+    "ru": "Форум и поручения",
+    "ja": "掲示板とおつかい"
+  },
+  "预约服务": {
+    "en": "Booking service",
+    "ru": "Бронирование",
+    "ja": "予約サービス"
+  },
+  "审计事件": {
+    "en": "Audit events",
+    "ru": "События аудита",
+    "ja": "監査イベント"
+  },
+  "本机备份": {
+    "en": "Local backups",
+    "ru": "Локальные копии",
+    "ja": "ローカルバックアップ"
+  },
+  "当前页面请求正常": {
+    "en": "Current request is healthy",
+    "ru": "Текущий запрос выполнен",
+    "ja": "現在のリクエストは正常です"
+  },
+  "只读结构检查": {
+    "en": "Read-only structure check",
+    "ru": "Проверка структуры без записи",
+    "ja": "読み取り専用の構造検査"
+  },
+  "仅检测本机 11434 端口": {
+    "en": "Local port 11434 reachability only",
+    "ru": "Только доступность локального порта 11434",
+    "ja": "ローカル11434番ポートの到達性のみ"
+  },
+  "发布前词表校验": {
+    "en": "Publication word rules",
+    "ru": "Проверка слов перед публикацией",
+    "ja": "投稿前の語句チェック"
+  },
+  "服务逻辑关联": {
+    "en": "Configured service relationship",
+    "ru": "Логическая связь сервисов",
+    "ja": "サービスの論理関連"
+  },
+  "条记录": {
+    "en": "records",
+    "ru": "записей",
+    "ja": "件の記録"
+  },
+  "份受管备份": {
+    "en": "managed backups",
+    "ru": "управляемых копий",
+    "ja": "件の管理対象バックアップ"
+  },
+  "点击模型或下方节点查看对应证据。": {
+    "en": "Select the model or a node below for evidence.",
+    "ru": "Выберите узел модели или кнопку ниже для деталей.",
+    "ja": "モデルまたは下のノードを選ぶと証拠を確認できます。"
+  },
+  "逻辑关联": {
+    "en": "Logical relationship",
+    "ru": "Логическая связь",
+    "ja": "論理関連"
+  },
+  "已核验": {
+    "en": "Verified",
+    "ru": "Проверено",
+    "ja": "検証済み"
+  },
+  "需关注": {
+    "en": "Attention",
+    "ru": "Требует внимания",
+    "ja": "要注意"
+  },
+  "未核验": {
+    "en": "Unverified",
+    "ru": "Не проверено",
+    "ja": "未検証"
+  },
+  "通过": {
+    "en": "Passed",
+    "ru": "Пройдено",
+    "ja": "合格"
+  },
+  "风险": {
+    "en": "Risk",
+    "ru": "Риск",
+    "ja": "リスク"
+  },
+  "风险与检查证据": {
+    "en": "Risks & evidence",
+    "ru": "Риски и результаты проверок",
+    "ja": "リスクと検査証拠"
+  },
+  "跟进状态不改变评分；实际修复并复查通过后，风险自动关闭。": {
+    "en": "Tracking does not change the score. A passing recheck closes the finding.",
+    "ru": "Статус работы не меняет оценку. Замечание закрывается после успешной повторной проверки.",
+    "ja": "対応状況ではスコアは変わりません。修正後の再検査合格で自動的に解決となります。"
+  },
+  "重新检查": {
+    "en": "Recheck",
+    "ru": "Проверить снова",
+    "ja": "再検査"
+  },
+  "风险状态": {
+    "en": "Risk status",
+    "ru": "Статус риска",
+    "ja": "リスク状態"
+  },
+  "证据": {
+    "en": "Evidence",
+    "ru": "Подтверждение",
+    "ja": "証拠"
+  },
+  "建议": {
+    "en": "Recommendation",
+    "ru": "Рекомендация",
+    "ja": "推奨対応"
+  },
+  "首次发现": {
+    "en": "First seen",
+    "ru": "Впервые обнаружено",
+    "ja": "初回検知"
+  },
+  "最近检查": {
+    "en": "Last checked",
+    "ru": "Последняя проверка",
+    "ja": "最終検査"
+  },
+  "跟进备注": {
+    "en": "Follow-up note",
+    "ru": "Заметка о работе",
+    "ja": "対応メモ"
+  },
+  "标记跟进": {
+    "en": "Track finding",
+    "ru": "Взять в работу",
+    "ja": "対応中にする"
+  },
+  "没有符合条件的风险记录。": {
+    "en": "No matching findings.",
+    "ru": "Соответствующих замечаний нет.",
+    "ja": "該当するリスクはありません。"
+  },
+  "全部检查项": {
+    "en": "All checks",
+    "ru": "Все проверки",
+    "ja": "すべての検査項目"
+  },
+  "最近安全事件": {
+    "en": "Recent security events",
+    "ru": "Последние события безопасности",
+    "ja": "最近のセキュリティイベント"
+  },
+  "仅记录事件类别、路由名与状态码；不保存密码、请求正文、原始网址或 IP。": {
+    "en": "Only event type, route name and status are stored. No passwords, bodies, raw URLs or IPs.",
+    "ru": "Сохраняются только тип события, имя маршрута и код ответа. Без паролей, тела запросов, исходных URL и IP.",
+    "ja": "イベント種別、ルート名、状態コードのみ記録し、パスワード、本文、生のURL、IPは保存しません。"
+  },
+  "时间": {
+    "en": "Time",
+    "ru": "Время",
+    "ja": "日時"
+  },
+  "事件类别": {
+    "en": "Event type",
+    "ru": "Тип события",
+    "ja": "イベント種別"
+  },
+  "路由": {
+    "en": "Route",
+    "ru": "Маршрут",
+    "ja": "ルート"
+  },
+  "暂无采集事件。": {
+    "en": "No events recorded yet.",
+    "ru": "Событий пока нет.",
+    "ja": "収集イベントはありません。"
+  },
+  "只展示结构与数量，备份保留在本机私有目录。": {
+    "en": "Structure and counts only. Backups stay in a private local folder.",
+    "ru": "Только структура и количество записей. Копии хранятся в закрытой локальной папке.",
+    "ja": "構造と件数のみ表示し、バックアップはローカルの非公開フォルダーに保存します。"
+  },
+  "创建本机备份": {
+    "en": "Create local backup",
+    "ru": "Создать локальную копию",
+    "ja": "ローカルバックアップ作成"
+  },
+  "数据库引擎": {
+    "en": "Database engine",
+    "ru": "Движок базы",
+    "ja": "DBエンジン"
+  },
+  "数据库体积": {
+    "en": "Database size",
+    "ru": "Размер базы",
+    "ja": "DBサイズ"
+  },
+  "受管备份": {
+    "en": "Managed backups",
+    "ru": "Управляемые копии",
+    "ja": "管理対象バックアップ"
+  },
+  "结构快速检查": {
+    "en": "Quick structure check",
+    "ru": "Быстрая проверка структуры",
+    "ja": "構造の簡易検査"
+  },
+  "待核验": {
+    "en": "Pending verification",
+    "ru": "Ожидает проверки",
+    "ja": "検証待ち"
+  },
+  "数据资产目录": {
+    "en": "Data inventory",
+    "ru": "Каталог данных",
+    "ja": "データ資産一覧"
+  },
+  "数据类别": {
+    "en": "Data category",
+    "ru": "Категория данных",
+    "ja": "データ分類"
+  },
+  "记录数量": {
+    "en": "Record count",
+    "ru": "Количество записей",
+    "ja": "レコード数"
+  },
+  "展示范围": {
+    "en": "Display scope",
+    "ru": "Область отображения",
+    "ja": "表示範囲"
+  },
+  "仅聚合统计": {
+    "en": "Aggregate counts only",
+    "ru": "Только общая статистика",
+    "ja": "集計のみ"
+  },
+  "请先更新体检快照。": {
+    "en": "Update the check snapshot first.",
+    "ru": "Сначала обновите снимок проверки.",
+    "ja": "先に検査スナップショットを更新してください。"
+  },
+  "备份与恢复不同": {
+    "en": "Backup is not a restore test",
+    "ru": "Копия и проверка восстановления различаются",
+    "ja": "バックアップと復元検証は異なります"
+  },
+  "SQLite 在线备份后执行快速结构检查并记录 SHA-256；可再次比对文件完整性。": {
+    "en": "SQLite online backups receive a quick structure check and SHA-256 hash for later verification.",
+    "ru": "После онлайн-копирования SQLite выполняется быстрая проверка и сохраняется SHA-256 для повторной сверки.",
+    "ja": "SQLiteオンラインバックアップ後、簡易構造検査とSHA-256記録を行い、後からファイルを照合できます。"
+  },
+  "快速检查不覆盖全部约束和索引一致性，校验通过不等于已完成恢复演练。": {
+    "en": "Quick checks do not cover all constraints or index consistency. Verification does not prove a restore drill.",
+    "ru": "Быстрая проверка не охватывает все ограничения и индексы. Успешная сверка не означает проверенное восстановление.",
+    "ja": "簡易検査はすべての制約・索引整合性を網羅せず、合格は復元演習の完了を意味しません。"
+  },
+  "本中心不提供原始数据库下载、任意 SQL 或自动恢复覆盖。": {
+    "en": "No raw database downloads, arbitrary SQL or automatic restore overwrites are provided.",
+    "ru": "Скачивание исходной базы, произвольный SQL и автоматическая перезапись при восстановлении не предусмотрены.",
+    "ja": "生のDBダウンロード、任意SQL、復元による自動上書きは提供しません。"
+  },
+  "创建备份后，重新体检即可更新评分。": {
+    "en": "Recheck after creating a backup to refresh the score.",
+    "ru": "После создания копии повторите проверку для обновления оценки.",
+    "ja": "バックアップ後に再検査するとスコアが更新されます。"
+  },
+  "受管备份记录": {
+    "en": "Managed backup history",
+    "ru": "История управляемых копий",
+    "ja": "管理対象バックアップ履歴"
+  },
+  "最近校验": {
+    "en": "Last verified",
+    "ru": "Последняя сверка",
+    "ja": "最終照合"
+  },
+  "再次校验": {
+    "en": "Verify again",
+    "ru": "Проверить копию снова",
+    "ja": "再照合"
+  },
+  "校验通过": {
+    "en": "Verified",
+    "ru": "Проверено",
+    "ja": "照合合格"
+  },
+  "校验失败": {
+    "en": "Verification failed",
+    "ru": "Проверка не пройдена",
+    "ja": "照合失敗"
+  },
+  "暂无受管备份；已有其他本机备份不自动算作本中心已校验备份。": {
+    "en": "No managed backups yet. Other local backups are not automatically treated as verified here.",
+    "ru": "Управляемых копий пока нет. Другие локальные копии не считаются автоматически проверенными этим центром.",
+    "ja": "管理対象バックアップはありません。他のローカルコピーは自動的に検証済みとは扱いません。"
+  },
+  "每日安全评分": {
+    "en": "Daily security score",
+    "ru": "Ежедневная оценка безопасности",
+    "ja": "日次セキュリティスコア"
+  },
+  "每日首次进入本中心自动生成快照；无人访问时不伪造持续监测数据。": {
+    "en": "The first daily visit creates a snapshot. No unattended monitoring history is fabricated.",
+    "ru": "При первом посещении за день создаётся снимок. История непрерывного мониторинга без посещений не выдумывается.",
+    "ja": "毎日の初回アクセスで記録を作成し、無アクセス期間の継続監視データは生成しません。"
+  },
+  "天有实际快照": {
+    "en": "days with actual snapshots",
+    "ru": "дней с реальными снимками",
+    "ja": "日分の実際の記録"
+  },
+  "评分如何计算": {
+    "en": "How scoring works",
+    "ru": "Как рассчитывается оценка",
+    "ja": "スコアの計算方法"
+  },
+  "已核验项目按权重计算：通过不扣分，需关注扣半权重，风险扣全权重；未核验项目不进入分母。": {
+    "en": "Verified items are weighted: pass loses nothing, attention loses half weight, risk loses full weight. Unknowns are excluded.",
+    "ru": "Проверки взвешены: успех — без вычета, внимание — половина веса, риск — полный вес. Непроверенное исключено.",
+    "ja": "検証済み項目を重み付けし、合格は減点なし、要注意は半分、リスクは全重みを減点。不明は分母に含めません。"
+  },
+  "覆盖率表示已核验项目数占全部接入项目数，必须与分数一起阅读。": {
+    "en": "Coverage is the verified share of all connected checks. Read it alongside the score.",
+    "ru": "Охват — доля проверенных пунктов среди подключённых. Рассматривайте его вместе с оценкой.",
+    "ja": "カバー率は接続済み項目に占める検証済みの割合です。スコアと合わせて確認してください。"
+  },
+  "同一天多次检查，趋势取最后一次；下方保留每次实际检查记录。": {
+    "en": "The chart uses the last check each day; every actual check is retained below.",
+    "ru": "График использует последнюю проверку дня; ниже сохранены все реальные проверки.",
+    "ja": "グラフは各日の最終検査を使用し、すべての実際の検査履歴を下に保持します。"
+  },
+  "检查历史": {
+    "en": "Check history",
+    "ru": "История проверок",
+    "ja": "検査履歴"
+  },
+  "安全评分": {
+    "en": "Security score",
+    "ru": "Оценка безопасности",
+    "ja": "セキュリティスコア"
+  },
+  "覆盖率": {
+    "en": "Coverage",
+    "ru": "Охват",
+    "ja": "カバー率"
+  },
+  "检查项": {
+    "en": "Checks",
+    "ru": "Пункты проверки",
+    "ja": "検査項目"
+  },
+  "正在生成今日安全快照…": {
+    "en": "Creating today’s security snapshot…",
+    "ru": "Создаётся снимок безопасности за сегодня…",
+    "ja": "本日の安全スナップショットを作成中…"
+  },
+  "安全检查未完成，请稍后重试。": {
+    "en": "Security checks did not complete. Please retry.",
+    "ru": "Проверка не завершена. Повторите позже.",
+    "ja": "安全検査を完了できませんでした。再試行してください。"
+  },
+  "今日安全体检已更新。": {
+    "en": "Today’s security checks have been updated.",
+    "ru": "Проверка безопасности за сегодня обновлена.",
+    "ja": "本日の安全検査を更新しました。"
+  },
+  "本机备份已创建并通过快速检查。": {
+    "en": "Local backup created and quick check passed.",
+    "ru": "Локальная копия создана, быстрая проверка пройдена.",
+    "ja": "ローカルコピーを作成し、簡易検査に合格しました。"
+  },
+  "备份未完成，请检查本机存储与权限。": {
+    "en": "Backup incomplete. Check local storage and permissions.",
+    "ru": "Копирование не завершено. Проверьте хранилище и права.",
+    "ja": "バックアップ未完了。保存先と権限を確認してください。"
+  },
+  "备份内容与哈希校验通过。": {
+    "en": "Backup structure and hash verified.",
+    "ru": "Структура и хэш копии проверены.",
+    "ja": "バックアップ構造とハッシュを照合しました。"
+  },
+  "备份校验失败，请保留现场并排查。": {
+    "en": "Backup verification failed. Preserve the file and investigate.",
+    "ru": "Проверка копии не пройдена. Сохраните файл и выясните причину.",
+    "ja": "照合に失敗しました。ファイルを保持して調査してください。"
+  },
+  "已标记跟进；修复后重新检查才会自动关闭风险。": {
+    "en": "Tracked. Only a passing recheck closes the finding.",
+    "ru": "Взято в работу. Замечание закроется только после успешной повторной проверки.",
+    "ja": "対応中にしました。修正後の再検査合格で解決となります。"
+  },
+  "账号": {
+    "en": "Accounts",
+    "ru": "Аккаунты",
+    "ja": "アカウント"
+  },
+  "论坛帖子": {
+    "en": "Forum posts",
+    "ru": "Публикации форума",
+    "ja": "掲示板投稿"
+  },
+  "导诊记录": {
+    "en": "Health guidance records",
+    "ru": "Записи медицинского сопровождения",
+    "ja": "受診案内記録"
+  },
+  "操作审计": {
+    "en": "Staff audit",
+    "ru": "Аудит действий",
+    "ja": "操作監査"
+  },
+  "调试信息暴露": {
+    "en": "Debug information exposure",
+    "ru": "Отладочная информация",
+    "ja": "デバッグ情報の公開"
+  },
+  "访问主机限制": {
+    "en": "Host restrictions",
+    "ru": "Ограничения хоста",
+    "ja": "ホスト制限"
+  },
+  "请求伪造防护": {
+    "en": "CSRF protection",
+    "ru": "Защита CSRF",
+    "ja": "CSRF保護"
+  },
+  "会话 Cookie 保护": {
+    "en": "Session cookie protection",
+    "ru": "Защита cookie сессии",
+    "ja": "セッションCookie保護"
+  },
+  "HTTPS 部署基线": {
+    "en": "HTTPS baseline",
+    "ru": "Базовая защита HTTPS",
+    "ja": "HTTPS基準"
+  },
+  "页面嵌入保护": {
+    "en": "Frame protection",
+    "ru": "Защита от встраивания",
+    "ja": "フレーム埋込保護"
+  },
+  "应用密钥配置": {
+    "en": "Application key configuration",
+    "ru": "Настройка ключа приложения",
+    "ja": "アプリ鍵設定"
+  },
+  "启用的总管理员": {
+    "en": "Active superadmins",
+    "ru": "Активные главные администраторы",
+    "ja": "有効な総管理者"
+  },
+  "数据库结构快速检查": {
+    "en": "Database quick check",
+    "ru": "Быстрая проверка базы",
+    "ja": "DB簡易構造検査"
+  },
+  "数据库静态目录隔离": {
+    "en": "Database web-root isolation",
+    "ru": "Изоляция базы от веб-каталогов",
+    "ja": "DBの公開フォルダー分離"
+  },
+  "备份目录隔离": {
+    "en": "Backup directory isolation",
+    "ru": "Изоляция папки копий",
+    "ja": "バックアップ保存先分離"
+  },
+  "最近一次受管备份": {
+    "en": "Recent managed backup",
+    "ru": "Последняя управляемая копия",
+    "ja": "最近の管理対象バックアップ"
+  },
+  "登录失败事件": {
+    "en": "Failed login events",
+    "ru": "Неудачные входы",
+    "ja": "ログイン失敗イベント"
+  },
+  "应用错误事件": {
+    "en": "Application errors",
+    "ru": "Ошибки приложения",
+    "ja": "アプリエラー"
+  },
+  "管理操作审计": {
+    "en": "Management audit",
+    "ru": "Аудит управления",
+    "ja": "管理操作監査"
+  },
+  "主机防火墙策略": {
+    "en": "Host firewall policy",
+    "ru": "Политика межсетевого экрана",
+    "ja": "ホスト防火壁ポリシー"
+  },
+  "磁盘加密与文件 ACL": {
+    "en": "Disk encryption & file ACLs",
+    "ru": "Шифрование диска и ACL",
+    "ja": "ディスク暗号化とACL"
+  },
+  "依赖漏洞库扫描": {
+    "en": "Dependency CVE scan",
+    "ru": "Проверка CVE зависимостей",
+    "ja": "依存関係CVEスキャン"
+  },
+  "备份恢复演练": {
+    "en": "Backup restore drill",
+    "ru": "Проверка восстановления",
+    "ja": "バックアップ復元演習"
+  },
+  "公网证书与端口暴露": {
+    "en": "Public certificates & exposed ports",
+    "ru": "Внешние сертификаты и порты",
+    "ja": "公開証明書と公開ポート"
+  },
+  "开发模式开启": {
+    "en": "Debug mode enabled",
+    "ru": "Режим отладки включён",
+    "ja": "デバッグモード有効"
+  },
+  "开发模式关闭": {
+    "en": "Debug mode disabled",
+    "ru": "Режим отладки выключен",
+    "ja": "デバッグモード無効"
+  },
+  "对外部署前关闭 DEBUG；本机演示可保留。": {
+    "en": "Disable DEBUG before public deployment; local demos may keep it.",
+    "ru": "Отключите DEBUG перед публикацией; для локального показа допустимо оставить.",
+    "ja": "公開前にDEBUGを無効化してください。ローカルデモでは維持できます。"
+  },
+  "存在通配主机": {
+    "en": "Wildcard host configured",
+    "ru": "Настроен шаблон хоста",
+    "ja": "ワイルドカードホストあり"
+  },
+  "已配置明确的访问主机": {
+    "en": "Explicit host list configured",
+    "ru": "Задан список хостов",
+    "ja": "明示的なホストリストあり"
+  },
+  "使用明确的域名或本机地址，避免通配主机。": {
+    "en": "Use explicit domains or loopback hosts, not wildcards.",
+    "ru": "Укажите конкретные домены или локальные адреса, без шаблона.",
+    "ja": "明示的なドメインかローカルアドレスを使用してください。"
+  },
+  "检测 Django CSRF 中间件配置": {
+    "en": "Django CSRF middleware configuration checked",
+    "ru": "Проверена настройка CSRF middleware Django",
+    "ja": "DjangoのCSRFミドルウェア設定を確認"
+  },
+  "保持 CSRF 中间件启用，写操作使用 POST 与令牌。": {
+    "en": "Keep CSRF middleware; use POST and tokens for writes.",
+    "ru": "Сохраняйте защиту CSRF; используйте POST и токены для записи.",
+    "ja": "CSRFを有効にし、書き込みはPOSTとトークンを使用してください。"
+  },
+  "检查 HttpOnly 与 SameSite 标志": {
+    "en": "HttpOnly and SameSite flags checked",
+    "ru": "Проверены флаги HttpOnly и SameSite",
+    "ja": "HttpOnly・SameSiteを確認"
+  },
+  "启用 HttpOnly 及合适的 SameSite。": {
+    "en": "Enable HttpOnly and a suitable SameSite policy.",
+    "ru": "Включите HttpOnly и подходящую политику SameSite.",
+    "ja": "HttpOnlyと適切なSameSiteを有効にしてください。"
+  },
+  "检查 HTTPS 跳转和 Secure Cookie 配置": {
+    "en": "HTTPS redirect and Secure Cookie settings checked",
+    "ru": "Проверены HTTPS-переадресация и Secure Cookie",
+    "ja": "HTTPS転送とSecure Cookie設定を確認"
+  },
+  "公网部署配置 TLS、HTTPS 跳转及 Secure Cookie；本机 HTTP 为演示状态。": {
+    "en": "For public deployment enable TLS, HTTPS redirects and Secure Cookies. Local HTTP is demo mode.",
+    "ru": "Для публикации включите TLS, HTTPS и Secure Cookie. Локальный HTTP — режим демонстрации.",
+    "ja": "公開時はTLS、HTTPS転送、Secure Cookieを設定してください。ローカルHTTPはデモ状態です。"
+  },
+  "检测防点击劫持中间件": {
+    "en": "Frame-protection middleware checked",
+    "ru": "Проверено middleware защиты от встраивания",
+    "ja": "クリックジャッキング対策ミドルウェアを確認"
+  },
+  "保持页面嵌入保护启用。": {
+    "en": "Keep frame protection enabled.",
+    "ru": "Сохраняйте защиту от встраивания.",
+    "ja": "フレーム埋込保護を有効にしてください。"
+  },
+  "仅检查密钥长度与开发前缀，不读取展示内容": {
+    "en": "Only key length and development prefix checked; value is never displayed",
+    "ru": "Проверены только длина и отладочный префикс ключа; значение не показывается",
+    "ja": "鍵の長さと開発用接頭辞のみを確認し、値は表示しません"
+  },
+  "使用足够长的独立密钥，切勿公开或提交到代码仓库。": {
+    "en": "Use a long independent key. Never publish or commit it.",
+    "ru": "Используйте длинный отдельный ключ. Не публикуйте его и не сохраняйте в репозитории.",
+    "ja": "十分な長さの独立した鍵を使用し、公開やリポジトリへの登録を避けてください。"
+  },
+  "按最小权限保留必要的总管理员账号。": {
+    "en": "Retain only necessary superadmin accounts.",
+    "ru": "Оставляйте только необходимые аккаунты главных администраторов.",
+    "ja": "必要な総管理者アカウントだけを維持してください。"
+  },
+  "只读执行 SQLite quick_check；不等同完整约束与索引核验": {
+    "en": "Read-only SQLite quick_check; not a complete constraints/index audit",
+    "ru": "SQLite quick_check только для чтения; это не полная проверка ограничений и индексов",
+    "ja": "SQLite quick_checkを読み取り専用で実行。すべての制約・索引検査ではありません"
+  },
+  "检查失败时先备份，再由管理员离线排查，勿直接修改业务数据。": {
+    "en": "If checks fail, back up first and investigate offline before changing data.",
+    "ru": "При ошибке сначала создайте копию и проведите проверку офлайн, не меняя рабочие данные.",
+    "ja": "検査失敗時は先にバックアップし、業務データを直接変更せずオフラインで調査してください。"
+  },
+  "检查数据库是否位于配置的静态／媒体目录内": {
+    "en": "Checked database location against configured static/media directories",
+    "ru": "Проверено расположение базы относительно static/media",
+    "ja": "DBの保存先がstatic/media配下かを確認"
+  },
+  "把数据库保存在非公开目录，并复核反向代理规则。": {
+    "en": "Keep the database outside public directories and review reverse-proxy rules.",
+    "ru": "Храните базу вне публичных папок и проверьте правила обратного прокси.",
+    "ja": "DBを非公開ディレクトリに保管し、リバースプロキシ設定も確認してください。"
+  },
+  "备份仅保存在本机项目私有运行目录，不提供数据库下载接口": {
+    "en": "Backups stay in the local private runtime directory; no database download endpoint",
+    "ru": "Копии хранятся в закрытой папке проекта; интерфейса скачивания базы нет",
+    "ja": "バックアップはローカルの非公開実行フォルダーに保存し、DBダウンロードAPIはありません"
+  },
+  "避免把备份放在 static、media 或公开网盘。": {
+    "en": "Keep backups out of static/media and public cloud shares.",
+    "ru": "Не храните копии в static/media или публичном облачном доступе.",
+    "ja": "static、media、公開クラウドにバックアップを置かないでください。"
+  },
+  "未能完成本地 SQLite 只读检查": {
+    "en": "Local read-only SQLite check was unavailable",
+    "ru": "Локальная проверка SQLite без записи недоступна",
+    "ja": "ローカルSQLite読み取り検査を完了できませんでした"
+  },
+  "检查运行环境与文件权限后重试。": {
+    "en": "Check runtime and file access, then retry.",
+    "ru": "Проверьте среду и права на файл, затем повторите.",
+    "ja": "実行環境とファイル権限を確認して再試行してください。"
+  },
+  "24 小时内有已校验备份": {
+    "en": "Verified managed backup exists within 24 hours",
+    "ru": "За последние 24 часа есть проверенная управляемая копия",
+    "ja": "24時間以内の検証済みバックアップあり"
+  },
+  "24 小时内没有安全中心已校验的备份": {
+    "en": "No verified managed backup within 24 hours",
+    "ru": "За 24 часа нет проверенной этим центром копии",
+    "ja": "24時間以内に本センターで検証したバックアップはありません"
+  },
+  "在数据库与备份页创建本机备份并定期校验。": {
+    "en": "Create and regularly verify a backup on the database page.",
+    "ru": "Создайте копию на странице базы и регулярно проверяйте её.",
+    "ja": "DBページでバックアップを作成し、定期的に照合してください。"
+  },
+  "集中失败时检查账号来源，必要时接入网关限速与登录保护。": {
+    "en": "Investigate concentrated failures; consider gateway rate limits and login protections.",
+    "ru": "При серии ошибок проверьте источники и настройте ограничение частоты и защиту входа.",
+    "ja": "失敗が集中したら原因を調べ、必要に応じてレート制限とログイン保護を導入してください。"
+  },
+  "查看服务日志定位原因；不要把异常正文或令牌展示给普通用户。": {
+    "en": "Investigate service logs; do not expose exception bodies or tokens to regular users.",
+    "ru": "Проверяйте журналы сервиса; не показывайте обычным пользователям текст исключений и токены.",
+    "ja": "サービスログで原因を特定し、例外本文やトークンを一般ユーザーに表示しないでください。"
+  },
+  "已接入角色管理与后台状态变更审计": {
+    "en": "Role-management and staff state-change audits are connected",
+    "ru": "Подключён аудит ролей и изменений состояния в панели",
+    "ja": "ロール管理と管理状態変更の監査を接続済み"
+  },
+  "定期复核总管理员及业务管理员的操作记录。": {
+    "en": "Review superadmin and business-administrator audit trails regularly.",
+    "ru": "Регулярно проверяйте действия главных и профильных администраторов.",
+    "ja": "総管理者・業務管理者の操作記録を定期的に確認してください。"
+  },
+  "尚未接入专用检测或完成验证": {
+    "en": "Dedicated detection or verification is not connected",
+    "ru": "Специализированная проверка или подтверждение не подключены",
+    "ja": "専用検査または検証が未接続です"
+  },
+  "由系统管理员使用专用工具核验，此项不计为通过。": {
+    "en": "Have a system administrator verify with dedicated tools. Not counted as passed.",
+    "ru": "Системный администратор должен проверить специализированными средствами. Не считается пройденным.",
+    "ja": "システム管理者が専用ツールで検証してください。合格には数えません。"
+  },
+  "启用的总管理员数量：{count}": {
+    "en": "Active superadmins: {count}",
+    "ru": "Активных главных администраторов: {count}",
+    "ja": "有効な総管理者数：{count}"
+  },
+  "近 24 小时记录 {count} 次登录失败；上线后开始采集": {
+    "en": "{count} failed logins recorded in 24 hours; collection began on activation",
+    "ru": "За 24 часа записано неудачных входов: {count}; сбор с момента включения",
+    "ja": "直近24時間のログイン失敗：{count}件。導入後に収集開始"
+  },
+  "近 24 小时记录 {count} 次服务器错误": {
+    "en": "{count} server errors recorded in 24 hours",
+    "ru": "Ошибок сервера за 24 часа: {count}",
+    "ja": "直近24時間のサーバーエラー：{count}件"
+  },
+  "执行安全体检": {
+    "en": "Run security checks",
+    "ru": "Запуск проверки безопасности",
+    "ja": "安全検査の実行"
+  },
+  "创建安全备份": {
+    "en": "Create security backup",
+    "ru": "Создание защищённой копии",
+    "ja": "安全バックアップ作成"
+  },
+  "校验安全备份": {
+    "en": "Verify security backup",
+    "ru": "Проверка защищённой копии",
+    "ja": "安全バックアップ照合"
+  },
+  "跟进安全风险": {
+    "en": "Track security risk",
+    "ru": "Обработка риска",
+    "ja": "セキュリティリスク対応"
+  },
+  "运营与安全工作台": {
+    "en": "Operations & security workspace",
+    "ru": "Центр управления и безопасности",
+    "ja": "運営・セキュリティワークスペース"
+  },
+  "运营与安全": {
+    "en": "Operations & security",
+    "ru": "Управление и безопасность",
+    "ja": "運営とセキュリティ"
+  },
+  "从服务待办到数据风险，在同一个工作台掌握校园运行。": {
+    "en": "Manage campus services and data risks in one workspace.",
+    "ru": "Сервисы кампуса и риски данных в едином рабочем пространстве.",
+    "ja": "サービスの対応事項とデータリスクを、一つの画面で把握。"
+  },
+  "处理业务待办": {
+    "en": "Manage service tasks",
+    "ru": "Обработать задачи",
+    "ja": "サービスの対応事項"
+  },
+  "页面导航": {
+    "en": "Page navigation",
+    "ru": "Навигация по страницам",
+    "ja": "ページナビゲーション"
+  },
+  "返回校园主页": {
+    "en": "Back to campus home",
+    "ru": "На главную кампуса",
+    "ja": "キャンパスホームへ"
+  },
+  "返回总管理工作台": {
+    "en": "Back to control center",
+    "ru": "В центр управления",
+    "ja": "総管理ワークスペースへ"
+  },
+  "返回管理入口": {
+    "en": "Back to staff portal",
+    "ru": "К выбору роли",
+    "ja": "管理ポータルへ"
+  },
+  "返回帖子": {
+    "en": "Back to post",
+    "ru": "К публикации",
+    "ja": "投稿へ戻る"
+  },
+  "返回广场": {
+    "en": "Back to forum",
+    "ru": "На форум",
+    "ja": "広場へ戻る"
+  },
+  "返回个人信息": {
+    "en": "Back to profile",
+    "ru": "В профиль",
+    "ja": "プロフィールへ戻る"
+  },
+  "返回充值记录": {
+    "en": "Back to top-ups",
+    "ru": "К пополнениям",
+    "ja": "チャージ履歴へ"
+  },
+  "返回消息列表": {
+    "en": "Back to messages",
+    "ru": "К сообщениям",
+    "ja": "メッセージ一覧へ"
+  },
+  "返回跑腿广场": {
+    "en": "Back to task board",
+    "ru": "К поручениям",
+    "ja": "依頼広場へ戻る"
+  },
+  "返回咨询列表": {
+    "en": "Back to enquiries",
+    "ru": "К обращениям",
+    "ja": "相談一覧へ戻る"
+  },
+  "返回场地列表": {
+    "en": "Back to spaces",
+    "ru": "К площадкам",
+    "ja": "施設一覧へ戻る"
+  },
+  "返回预约管理": {
+    "en": "Back to booking management",
+    "ru": "К управлению бронированиями",
+    "ja": "予約管理へ戻る"
+  },
+  "返回订单列表": {
+    "en": "Back to orders",
+    "ru": "К заказам",
+    "ja": "注文一覧へ戻る"
+  },
+  "返回充值审核": {
+    "en": "Back to top-up reviews",
+    "ru": "К проверке пополнений",
+    "ja": "チャージ審査へ戻る"
+  },
+  "返回风险列表": {
+    "en": "Back to risks",
+    "ru": "К списку рисков",
+    "ja": "リスク一覧へ戻る"
+  },
+  "返回管理工作台": {
+    "en": "Back to workspace",
+    "ru": "В панель управления",
+    "ja": "管理ワークスペースへ"
+  },
+  "返回药品列表": {
+    "en": "Back to medicines",
+    "ru": "К списку лекарств",
+    "ja": "薬品一覧へ戻る"
+  },
+  "返回医生工作台": {
+    "en": "Back to doctor workspace",
+    "ru": "В раздел врача",
+    "ja": "医師ワークスペースへ"
+  },
+  "返回导诊首页": {
+    "en": "Back to health guide",
+    "ru": "К помощнику по здоровью",
+    "ja": "受診案内ホームへ"
+  },
+  "数据库健康检查": {
+    "en": "Database health",
+    "ru": "Состояние базы данных",
+    "ja": "データベースの状態"
+  },
+  "完整检查结构、索引与外键关联，仅记录汇总结果。": {
+    "en": "Inspect structures, indexes and foreign keys; store aggregate results only.",
+    "ru": "Проверка структуры, индексов и внешних ключей. Сохраняются только сводные результаты.",
+    "ja": "構造・索引・外部キーを検査し、集計結果のみ記録します。"
+  },
+  "执行完整检查": {
+    "en": "Run full check",
+    "ru": "Полная проверка",
+    "ja": "完全検査を実行"
+  },
+  "检查通过": {
+    "en": "Check passed",
+    "ru": "Проверка пройдена",
+    "ja": "検査合格"
+  },
+  "需复查": {
+    "en": "Review required",
+    "ru": "Нужна проверка",
+    "ja": "再確認が必要"
+  },
+  "未完成": {
+    "en": "Incomplete",
+    "ru": "Не завершено",
+    "ja": "未完了"
+  },
+  "完整性检查": {
+    "en": "Integrity check",
+    "ru": "Проверка целостности",
+    "ja": "整合性検査"
+  },
+  "外键异常": {
+    "en": "Foreign key violations",
+    "ru": "Нарушения внешних ключей",
+    "ja": "外部キー違反"
+  },
+  "数据表 / 索引": {
+    "en": "Tables / indexes",
+    "ru": "Таблицы / индексы",
+    "ja": "テーブル / 索引"
+  },
+  "日志模式": {
+    "en": "Journal mode",
+    "ru": "Режим журнала",
+    "ja": "ジャーナルモード"
+  },
+  "数据库 / WAL": {
+    "en": "Database / WAL",
+    "ru": "База данных / WAL",
+    "ja": "データベース / WAL"
+  },
+  "可复用空闲页": {
+    "en": "Reusable pages",
+    "ru": "Повторно используемые страницы",
+    "ja": "再利用可能なページ"
+  },
+  "最近检查记录": {
+    "en": "Recent checks",
+    "ru": "Последние проверки",
+    "ja": "最近の検査履歴"
+  },
+  "尚未执行完整检查，点击按钮生成真实检查记录。": {
+    "en": "No full check yet. Run a check to record actual results.",
+    "ru": "Полная проверка ещё не выполнена. Нажмите кнопку для получения результатов.",
+    "ja": "完全検査は未実施です。ボタンで検査結果を記録できます。"
+  },
+  "结果是检查时的快照；空闲页可由后续写入复用，无需立即清理。": {
+    "en": "Results are a snapshot. Free pages can be reused by future writes.",
+    "ru": "Результаты отражают момент проверки. Свободные страницы используются при последующей записи.",
+    "ja": "検査時点の結果です。空きページは今後の書き込みで再利用できます。"
+  },
+  "SQLite 在线备份后执行完整性与外键检查，并记录 SHA-256。": {
+    "en": "Online SQLite backups are checked for integrity and foreign keys, with a SHA-256 digest.",
+    "ru": "После резервного копирования SQLite проверяются целостность и внешние ключи, сохраняется SHA-256.",
+    "ja": "SQLiteのオンラインバックアップ後に整合性と外部キーを検査し、SHA-256を記録します。"
+  },
+  "隔离恢复演练将备份还原到临时私有副本，核对哈希并读取全部表，不覆盖线上数据库。": {
+    "en": "The drill restores to a private temporary copy, verifies its hash and reads every table. The live database is preserved.",
+    "ru": "Тестовое восстановление создаёт временную закрытую копию, сверяет хеш и читает все таблицы. Рабочая база не заменяется.",
+    "ja": "隔離テストでは非公開の一時コピーに復元し、ハッシュと全テーブルを検証します。本番DBは上書きしません。"
+  },
+  "演练不包含服务切换、上传文件或外部 AI 配置恢复。": {
+    "en": "The drill does not cover service failover, uploaded files or external AI configuration.",
+    "ru": "Тест не охватывает переключение сервиса, загруженные файлы и настройки внешнего ИИ.",
+    "ja": "サービス切替、アップロード済みファイル、外部AI設定の復元は対象外です。"
+  },
+  "隔离恢复演练": {
+    "en": "Isolated restore drill",
+    "ru": "Тест восстановления",
+    "ja": "隔離復元テスト"
+  },
+  "未演练": {
+    "en": "Not tested",
+    "ru": "Не проверено",
+    "ja": "未実施"
+  },
+  "演练通过": {
+    "en": "Drill passed",
+    "ru": "Тест пройден",
+    "ja": "テスト合格"
+  },
+  "演练失败": {
+    "en": "Drill failed",
+    "ru": "Тест не пройден",
+    "ja": "テスト失敗"
+  },
+  "已读取数据表": {
+    "en": "Tables read",
+    "ru": "Прочитано таблиц",
+    "ja": "読み取り済みテーブル"
+  },
+  "本机备份已创建，完整性与外键校验通过。": {
+    "en": "Backup created; integrity and foreign key checks passed.",
+    "ru": "Копия создана; целостность и внешние ключи проверены.",
+    "ja": "バックアップを作成し、整合性と外部キーの検査に合格しました。"
+  },
+  "数据库完整检查通过。": {
+    "en": "Full database check passed.",
+    "ru": "Полная проверка базы пройдена.",
+    "ja": "データベースの完全検査に合格しました。"
+  },
+  "数据库检查存在异常或未完成，请查看检查记录。": {
+    "en": "Check failed or incomplete. Review the check history.",
+    "ru": "Проверка выявила ошибки или не завершена. См. историю проверок.",
+    "ja": "検査に異常があるか未完了です。履歴を確認してください。"
+  },
+  "数据库检查未完成，请稍后重试。": {
+    "en": "Check incomplete. Please retry later.",
+    "ru": "Проверка не завершена. Повторите позже.",
+    "ja": "検査が未完了です。後でもう一度お試しください。"
+  },
+  "隔离恢复演练通过，线上数据库未被覆盖。": {
+    "en": "Isolated restore passed. The live database was preserved.",
+    "ru": "Тест восстановления пройден. Рабочая база не заменена.",
+    "ja": "隔離復元テストに合格しました。本番DBは上書きされていません。"
+  },
+  "隔离恢复演练失败，请保留备份并排查。": {
+    "en": "Restore drill failed. Preserve the backup for investigation.",
+    "ru": "Тест восстановления не пройден. Сохраните копию для проверки.",
+    "ja": "復元テストに失敗しました。バックアップを保持して調査してください。"
+  },
+  "隔离恢复演练未完成，请稍后重试。": {
+    "en": "Restore drill incomplete. Please retry later.",
+    "ru": "Тест восстановления не завершён. Повторите позже.",
+    "ja": "復元テストが未完了です。後でもう一度お試しください。"
+  },
+  "数据库关联完整性": {
+    "en": "Database relationship integrity",
+    "ru": "Целостность связей базы данных",
+    "ja": "データベースの参照整合性"
+  },
+  "检查账号、预约和业务记录之间的外键关联": {
+    "en": "Check foreign keys linking accounts, bookings and business records.",
+    "ru": "Проверка внешних ключей аккаунтов, бронирований и служебных записей.",
+    "ja": "アカウント・予約・業務記録の外部キーを検査します。"
+  },
+  "关联异常时保留备份并人工核查，不自动删除记录。": {
+    "en": "Preserve backups and review relationship errors manually; records are not deleted automatically.",
+    "ru": "При ошибках связей сохраните копии и проверьте записи вручную. Автоматического удаления нет.",
+    "ja": "参照異常はバックアップを保持して手動で確認します。自動削除は行いません。"
+  },
+  "备份隔离恢复演练": {
+    "en": "Isolated backup restore drill",
+    "ru": "Тест восстановления резервной копии",
+    "ja": "バックアップの隔離復元テスト"
+  },
+  "最近 7 天已在隔离副本验证备份": {
+    "en": "Backup verified in an isolated copy within the last 7 days.",
+    "ru": "Копия проверена в изолированной среде за последние 7 дней.",
+    "ja": "過去7日以内に隔離コピーでバックアップを検証済みです。"
+  },
+  "暂无最近 7 天通过的隔离恢复演练": {
+    "en": "No passing isolated restore drill in the last 7 days.",
+    "ru": "За последние 7 дней нет успешного тестового восстановления.",
+    "ja": "過去7日以内に合格した隔離復元テストはありません。"
+  },
+  "在数据库与备份页执行隔离演练；不代表已验证服务切换。": {
+    "en": "Run a drill on Database and backups; this does not verify service failover.",
+    "ru": "Выполните тест в разделе базы и копий; переключение сервиса не проверяется.",
+    "ja": "DBとバックアップ画面で隔離テストを実行してください。サービス切替の検証は含みません。"
+  },
+  "执行数据库完整检查": {
+    "en": "Run full database check",
+    "ru": "Полная проверка базы",
+    "ja": "データベースの完全検査を実行"
+  },
+  "执行备份隔离恢复演练": {
+    "en": "Run isolated restore drill",
+    "ru": "Выполнить тест восстановления",
+    "ja": "隔離復元テストを実行"
+  }
+}

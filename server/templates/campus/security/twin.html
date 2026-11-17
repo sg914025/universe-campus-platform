@@ -1,0 +1,2 @@
+{% extends 'campus/security/base.html' %}{% load campus_ui %}{% block content %}<section class="security-page-heading"><div><p class="eyebrow">DIGITAL TWIN / LOGICAL TOPOLOGY</p><h1>{% tr '校园数据孪生' %}</h1><p>{% tr '逻辑服务拓扑，非物理机房；动画表示关联，不代表实测网络流量。' %}</p></div><a class="security-button" href="{% url 'campus:campus-map' %}">{% tr '校园空间模型' %} ↗</a><a class="security-button" href="{% url 'security-overview' %}">{% tr '安全总览' %} ↗</a></section>
+{% include 'campus/security/twin_model.html' %}{% endblock %}

@@ -1,0 +1,72 @@
+{
+  "home_morning": {
+    "zh": "早上好呀！今天想做点什么？先逛逛校园，还是找同学聊聊天？",
+    "en": "Good morning! What shall we do today? Explore campus, or chat with someone?",
+    "ja": "おはよう！今日は何しよう？キャンパスを見て回る？それとも誰かとおしゃべり？"
+  },
+  "home_noon": {
+    "zh": "中午好！吃饭了吗？稍微休息一下，再一起看看有什么新鲜事吧！",
+    "en": "Hello! Have you had lunch? Take a little break, then let us see what is new!",
+    "ja": "こんにちは！お昼ご飯は食べた？ちょっと休んで、新しいことを探してみよう！"
+  },
+  "home_afternoon": {
+    "zh": "下午好呀！今天过得怎么样？有什么想做的事，我陪你一起看看！",
+    "en": "Good afternoon! How is your day going? Let us find something fun to do!",
+    "ja": "こんにちは！今日はどんな一日？やりたいこと、一緒に探してみよう！"
+  },
+  "home_evening": {
+    "zh": "晚上好！今天也辛苦啦。想聊聊今天的趣事，还是安排一下明天？",
+    "en": "Good evening! You worked hard today. Want to share a fun story, or plan tomorrow?",
+    "ja": "こんばんは！今日もお疲れさま！今日の楽しかったことを話す？それとも明日の予定を立てる？"
+  },
+  "home_night": {
+    "zh": "这么晚还没休息呀？事情慢慢来，记得早点睡哦。明天也要精神满满！",
+    "en": "Still awake? Take things slowly, and get some rest. Tomorrow is a new day!",
+    "ja": "まだ起きてるの？焦らなくていいから、早めに休んでね。明日も元気にいこう！"
+  },
+  "forum_hello": {
+    "zh": "来逛广场啦！想看些什么？有没有好玩的事情，想和大家分享一下？",
+    "en": "Welcome to the square! What would you like to see? Any fun stories to share?",
+    "ja": "広場に来たんだね！何を見ようか？みんなに話したい楽しいこと、ある？"
+  },
+  "forum_extra": {
+    "zh": "嘿，今天的新鲜事可别藏着！写一条动态吧，说不定能遇见聊得来的同学呢。",
+    "en": "Do not keep all the fun to yourself! Share a post. You might meet someone you click with!",
+    "ja": "ねえ、今日の楽しいこと、ひとりじめしないで！投稿してみようよ。気の合う子に会えるかも！"
+  },
+  "errands_hello": {
+    "zh": "买了什么好东西吗？还是要去拿快递？顺路的话，今天也帮同学一个小忙吧！",
+    "en": "Bought something nice, or picking up a parcel? Maybe lend someone a hand on the way!",
+    "ja": "何かいいものを買ったの？それとも荷物の受け取り？ついでに誰かを手伝ってみよう！"
+  },
+  "errands_extra": {
+    "zh": "今天也要帮助别人吗？真不错！先看清任务和地点，路上注意安全哦。",
+    "en": "Helping someone today? Nice! Check the task and location first, and stay safe on the way.",
+    "ja": "今日も誰かのお手伝い？いいね！内容と場所を確認して、気をつけて行ってきてね。"
+  },
+  "guide_hello": {
+    "zh": "哪里不舒服吗？先别着急，慢慢告诉我。希望你快点好起来，下次见面就能一起聊开心的事情啦。",
+    "en": "Not feeling well? Take your time and tell us what is bothering you. Hope you feel better soon!",
+    "ja": "どこか具合が悪いの？焦らず、ゆっくり教えてね。早く元気になって、また楽しい話ができたらいいな。"
+  },
+  "guide_extra": {
+    "zh": "能帮到你我很开心，不过更希望你一直健健康康的！我们先把情况说清楚，再让医生帮你确认吧。",
+    "en": "I am glad to help, and I hope you stay healthy! Let us explain things clearly so a doctor can check.",
+    "ja": "役に立てたらうれしいけど、ずっと元気でいてほしいな！まず状況を整理して、お医者さんに確認してもらおう。"
+  },
+  "booking_hello": {
+    "zh": "今天要运动吗？打球还是去自习？先留好位置，计划就能轻轻松松开始啦！",
+    "en": "Sports today, or a study session? Reserve a spot, and you are ready to go!",
+    "ja": "今日は運動する？それとも自習？先に場所を予約して、気軽に始めよう！"
+  },
+  "booking_extra": {
+    "zh": "想好今天的安排了吗？别忘了看看空闲时段哦。学习和运动，都给自己留一点时间吧！",
+    "en": "Made your plans? Check the available times. Leave some room for both study and exercise!",
+    "ja": "今日の予定は決まった？空いている時間も見てみてね。勉強にも運動にも、時間を作ろう！"
+  },
+  "home_plan": {
+    "zh": "今天想看点新鲜事，帮同学跑个腿，还是约一场球？选一个，我们这就出发！",
+    "en": "Want to catch up on campus news, help a friend, or book a game? Pick one, and let us go!",
+    "ja": "新しい話を探す？誰かを手伝う？それともスポーツ？ひとつ選んで、さっそく行こう！"
+  }
+}

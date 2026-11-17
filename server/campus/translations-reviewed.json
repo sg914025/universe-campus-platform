@@ -1,0 +1,2486 @@
+{
+  "预约记录": {
+    "en": "Booking records",
+    "ru": "Записи бронирования"
+  },
+  "按日期查询": {
+    "en": "Filter by date",
+    "ru": "Поиск по дате"
+  },
+  "查询": {
+    "en": "Search",
+    "ru": "Найти"
+  },
+  "编号": {
+    "en": "ID",
+    "ru": "Номер"
+  },
+  "预约账号": {
+    "en": "Booked by",
+    "ru": "Учётная запись"
+  },
+  "场地": {
+    "en": "Space",
+    "ru": "Площадка"
+  },
+  "日期／时段": {
+    "en": "Date / time slot",
+    "ru": "Дата / время"
+  },
+  "状态": {
+    "en": "Status",
+    "ru": "Статус"
+  },
+  "暂无预约记录": {
+    "en": "No booking records",
+    "ru": "Нет бронирований"
+  },
+  "安排好自己的时间": {
+    "en": "Make time for what matters",
+    "ru": "Планируйте своё время"
+  },
+  "这里只显示你自己的预约记录。": {
+    "en": "Only your own bookings are shown here.",
+    "ru": "Здесь показаны только ваши бронирования."
+  },
+  "再看看其他场地 ↗": {
+    "en": "Explore other spaces ↗",
+    "ru": "Посмотреть другие площадки ↗"
+  },
+  "预约单 #": {
+    "en": "Booking #",
+    "ru": "Бронирование №"
+  },
+  "取消预约": {
+    "en": "Cancel booking",
+    "ru": "Отменить запись"
+  },
+  "还没有预约": {
+    "en": "No bookings yet",
+    "ru": "Пока нет бронирований"
+  },
+  "给自习或运动留一个时间吧。": {
+    "en": "Make time for study or sport.",
+    "ru": "Выделите время для учёбы или спорта."
+  },
+  "选择场地 →": {
+    "en": "Choose a space →",
+    "ru": "Выбрать площадку →"
+  },
+  "上一页": {
+    "en": "Previous",
+    "ru": "Назад"
+  },
+  "下一页": {
+    "en": "Next",
+    "ru": "Далее"
+  },
+  "ai 校园数据舱 · 校园论坛": {
+    "en": "Campus analytics · Campus forum",
+    "ru": "Аналитика кампуса · Форум"
+  },
+  "← 返回个人信息": {
+    "en": "← Back to profile",
+    "ru": "← Вернуться в профиль"
+  },
+  "校园数据分析舱": {
+    "en": "Campus analytics",
+    "ru": "Аналитика кампуса"
+  },
+  "把你的阅读、互动与跑腿记录，变成看得见的校园生活轨迹。": {
+    "en": "Explore your reading, interactions and errands in one place.",
+    "ru": "Просматривайте историю чтения, общения и поручений в одном месте."
+  },
+  "阅读帖子": {
+    "en": "Posts read",
+    "ru": "Прочитанные публикации"
+  },
+  "次 · 近 30 天": {
+    "en": "times · last 30 days",
+    "ru": "раз · за последние 30 дней"
+  },
+  "打开跑腿": {
+    "en": "Open errands",
+    "ru": "Открыть поручения"
+  },
+  "发布 / 接单": {
+    "en": "Posted / accepted",
+    "ru": "Создано / принято"
+  },
+  "完成": {
+    "en": "Completed",
+    "ru": "Выполнено"
+  },
+  "单": {
+    "en": "orders",
+    "ru": "заказов"
+  },
+  "点赞 / 收藏": {
+    "en": "Likes / bookmarks",
+    "ru": "Лайки / закладки"
+  },
+  "近 30 天": {
+    "en": "Last 30 days",
+    "ru": "Последние 30 дней"
+  },
+  "兴趣类型扫描": {
+    "en": "Your interests",
+    "ru": "Ваши интересы"
+  },
+  "鼻子": {
+    "en": "Nose",
+    "ru": "Нос"
+  },
+  "脸": {
+    "en": "Face",
+    "ru": "Лицо"
+  },
+  "前颈": {
+    "en": "Front of neck",
+    "ru": "Передняя часть шеи"
+  },
+  "后颈": {
+    "en": "Back of neck",
+    "ru": "Задняя часть шеи"
+  },
+  "咽喉": {
+    "en": "Throat",
+    "ru": "Глотка"
+  },
+  "脖子": {
+    "en": "Neck",
+    "ru": "Шея"
+  },
+  "颈": {
+    "en": "Neck",
+    "ru": "Шея"
+  },
+  "嗓子": {
+    "en": "Throat",
+    "ru": "Горло"
+  },
+  "左胸": {
+    "en": "Left chest",
+    "ru": "Левая сторона груди"
+  },
+  "右胸": {
+    "en": "Right chest",
+    "ru": "Правая сторона груди"
+  },
+  "胸部中间": {
+    "en": "Centre of chest",
+    "ru": "Центр груди"
+  },
+  "胸": {
+    "en": "Chest",
+    "ru": "Грудь"
+  },
+  "咳嗽": {
+    "en": "Cough",
+    "ru": "Кашель"
+  },
+  "呼吸": {
+    "en": "Breathing",
+    "ru": "Дыхание"
+  },
+  "喘": {
+    "en": "Shortness of breath",
+    "ru": "Одышка"
+  },
+  "肺": {
+    "en": "Lungs",
+    "ru": "Лёгкие"
+  },
+  "心脏": {
+    "en": "Heart",
+    "ru": "Сердце"
+  },
+  "肋骨": {
+    "en": "Ribs",
+    "ru": "Рёбра"
+  },
+  "上腹": {
+    "en": "Upper abdomen",
+    "ru": "Верхняя часть живота"
+  },
+  "下腹": {
+    "en": "Lower abdomen",
+    "ru": "Нижняя часть живота"
+  },
+  "肚脐周围": {
+    "en": "Around the navel",
+    "ru": "Вокруг пупка"
+  },
+  "肚子": {
+    "en": "Abdomen",
+    "ru": "Живот"
+  },
+  "腹": {
+    "en": "Abdomen",
+    "ru": "Живот"
+  },
+  "胃": {
+    "en": "Stomach",
+    "ru": "Желудок"
+  },
+  "肠": {
+    "en": "Intestines",
+    "ru": "Кишечник"
+  },
+  "腹泻": {
+    "en": "Diarrhoea",
+    "ru": "Диарея"
+  },
+  "拉肚": {
+    "en": "Diarrhoea",
+    "ru": "Диарея"
+  },
+  "恶心": {
+    "en": "Nausea",
+    "ru": "Тошнота"
+  },
+  "肝": {
+    "en": "Liver",
+    "ru": "Печень"
+  },
+  "上背": {
+    "en": "Upper back",
+    "ru": "Верхняя часть спины"
+  },
+  "下背": {
+    "en": "Lower back",
+    "ru": "Нижняя часть спины"
+  },
+  "腰部": {
+    "en": "Lower back",
+    "ru": "Поясница"
+  },
+  "腰": {
+    "en": "Lower back",
+    "ru": "Поясница"
+  },
+  "背": {
+    "en": "Back",
+    "ru": "Спина"
+  },
+  "脊柱": {
+    "en": "Spine",
+    "ru": "Позвоночник"
+  },
+  "脊椎": {
+    "en": "Spine",
+    "ru": "Позвоночник"
+  },
+  "肾": {
+    "en": "Kidneys",
+    "ru": "Почки"
+  },
+  "骨盆": {
+    "en": "Pelvis",
+    "ru": "Таз"
+  },
+  "臀部": {
+    "en": "Buttocks",
+    "ru": "Ягодицы"
+  },
+  "髋部": {
+    "en": "Hip",
+    "ru": "Тазобедренная область"
+  },
+  "臀": {
+    "en": "Buttocks",
+    "ru": "Ягодицы"
+  },
+  "胯": {
+    "en": "Hip region",
+    "ru": "Область таза"
+  },
+  "髋": {
+    "en": "Hip",
+    "ru": "Тазобедренный сустав"
+  },
+  "肩部": {
+    "en": "Shoulder",
+    "ru": "Плечо"
+  },
+  "上臂": {
+    "en": "Upper arm",
+    "ru": "Плечо (верхняя часть руки)"
+  },
+  "肘部": {
+    "en": "Elbow",
+    "ru": "Локоть"
+  },
+  "前臂": {
+    "en": "Forearm",
+    "ru": "Предплечье"
+  },
+  "左肩": {
+    "en": "Left shoulder",
+    "ru": "Левое плечо"
+  },
+  "左胳膊": {
+    "en": "Left arm",
+    "ru": "Левая рука"
+  },
+  "左臂": {
+    "en": "Left arm",
+    "ru": "Левая рука"
+  },
+  "左肘": {
+    "en": "Left elbow",
+    "ru": "Левый локоть"
+  },
+  "右肩": {
+    "en": "Right shoulder",
+    "ru": "Правое плечо"
+  },
+  "右胳膊": {
+    "en": "Right arm",
+    "ru": "Правая рука"
+  },
+  "右臂": {
+    "en": "Right arm",
+    "ru": "Правая рука"
+  },
+  "右肘": {
+    "en": "Right elbow",
+    "ru": "Правый локоть"
+  },
+  "手腕": {
+    "en": "Wrist",
+    "ru": "Запястье"
+  },
+  "手掌": {
+    "en": "Palm",
+    "ru": "Ладонь"
+  },
+  "手指": {
+    "en": "Fingers",
+    "ru": "Пальцы руки"
+  },
+  "大腿": {
+    "en": "Thigh",
+    "ru": "Бедро"
+  },
+  "膝盖": {
+    "en": "Knee",
+    "ru": "Колено"
+  },
+  "小腿": {
+    "en": "Lower leg",
+    "ru": "Голень"
+  },
+  "脚踝 / 足部": {
+    "en": "Ankle / foot",
+    "ru": "Лодыжка / стопа"
+  },
+  "左腿": {
+    "en": "Left leg",
+    "ru": "Левая нога"
+  },
+  "左膝": {
+    "en": "Left knee",
+    "ru": "Левое колено"
+  },
+  "最近有些头痛，挂什么科？": {
+    "en": "I've had headaches recently. Which department should I visit?",
+    "ru": "В последнее время болит голова. К какому специалисту обратиться?"
+  },
+  "吃完饭肚子不舒服，想了解就诊方向。": {
+    "en": "My stomach feels uncomfortable after eating. Which department should I visit?",
+    "ru": "После еды беспокоит живот. К какому специалисту обратиться?"
+  },
+  "正在放大": {
+    "en": "Zooming into",
+    "ru": "Увеличение"
+  },
+  "· 请选择具体位置": {
+    "en": "· Choose a precise location",
+    "ru": "· Укажите точное место"
+  },
+  "全身视图 ·": {
+    "en": "Full body ·",
+    "ru": "Всё тело ·"
+  },
+  "逐步补充 · 已回答": {
+    "en": "Step by step · Answered",
+    "ru": "Шаг за шагом · Ответов:"
+  },
+  "本地 AI ·": {
+    "en": "Local AI ·",
+    "ru": "Локальный ИИ ·"
+  },
+  "· 知识库": {
+    "en": "· Knowledge library",
+    "ru": "· База знаний"
+  },
+  "条摘要": {
+    "en": "summaries",
+    "ru": "сводок"
+  },
+  "正在提交…": {
+    "en": "Submitting…",
+    "ru": "Отправка…"
+  },
+  "本地 AI 正在整理，请稍候…": {
+    "en": "Local AI is preparing a summary. Please wait…",
+    "ru": "Локальный ИИ готовит сводку. Подождите…"
+  },
+  "安心导诊 ·": {
+    "en": "Health guide ·",
+    "ru": "Медицинский помощник ·"
+  },
+  "· 示例": {
+    "en": "· Example",
+    "ru": "· Пример"
+  },
+  "· 示例　↗": {
+    "en": "· Example ↗",
+    "ru": "· Пример ↗"
+  },
+  "位置示例：": {
+    "en": "Example location:",
+    "ru": "Пример расположения:"
+  },
+  "门诊时间示例：08:00–12:00 / 14:00–17:00": {
+    "en": "Example clinic hours: 08:00–12:00 / 14:00–17:00",
+    "ru": "Пример часов приёма: 08:00–12:00 / 14:00–17:00"
+  },
+  "条常用药标签 · 查看资料 →": {
+    "en": "medicine labels · View references →",
+    "ru": "инструкций к лекарствам · Открыть справочник →"
+  },
+  "条健康与疾病资料 · 查看来源 →": {
+    "en": "health and condition references · View sources →",
+    "ru": "материалов о здоровье и заболеваниях · Источники →"
+  },
+  "条官方人用药标签。中文药名检索，原文供医生核对。": {
+    "en": "official human medicine labels. Search using Chinese medicine names; original texts are provided for doctors to verify.",
+    "ru": "официальных инструкций к лекарствам для человека. Поиск по китайским названиям; оригиналы предназначены для проверки врачом."
+  },
+  "条。资料为部分常用西药的美国标签，不代表国内上市或适用于患者；处方以医生评估及当地批准说明书为准。": {
+    "en": "entries. These US labels cover selected medicines and do not imply local approval or suitability for a patient. Prescribing depends on the doctor's assessment and locally approved instructions.",
+    "ru": "записей. Здесь представлены инструкции США к некоторым лекарствам; это не означает местного одобрения или пригодности для пациента. Назначение зависит от оценки врача и местной утверждённой инструкции."
+  },
+  "条健康主题 +": {
+    "en": "health topics +",
+    "ru": "тем о здоровье +"
+  },
+  "条遗传病描述及遗传模式，共": {
+    "en": "genetic condition descriptions and inheritance patterns; total",
+    "ru": "описаний наследственных заболеваний и типов наследования; всего"
+  },
+  "内科": {
+    "en": "Internal medicine",
+    "ru": "Терапия"
+  },
+  "外科": {
+    "en": "Surgery",
+    "ru": "Хирургия"
+  },
+  "专科": {
+    "en": "Specialties",
+    "ru": "Специализированная помощь"
+  },
+  "其他专科": {
+    "en": "Other specialties",
+    "ru": "Другие специальности"
+  },
+  "自习室": {
+    "en": "Study room",
+    "ru": "Читальный зал"
+  },
+  "篮球场": {
+    "en": "Basketball court",
+    "ru": "Баскетбольная площадка"
+  },
+  "羽毛球场": {
+    "en": "Badminton court",
+    "ru": "Площадка для бадминтона"
+  },
+  "待接单": {
+    "en": "Available",
+    "ru": "Ожидает исполнителя"
+  },
+  "已接单": {
+    "en": "Accepted",
+    "ru": "Принято"
+  },
+  "待确认": {
+    "en": "Awaiting confirmation",
+    "ru": "Ожидает подтверждения"
+  },
+  "已完成": {
+    "en": "Completed",
+    "ru": "Выполнено"
+  },
+  "已取消": {
+    "en": "Cancelled",
+    "ru": "Отменено"
+  },
+  "已预约": {
+    "en": "Booked",
+    "ru": "Записано"
+  },
+  "已回复": {
+    "en": "Replied",
+    "ru": "Есть ответ"
+  },
+  "待医生回答": {
+    "en": "Awaiting doctor reply",
+    "ru": "Ожидает ответа врача"
+  },
+  "姓名": {
+    "en": "Full name",
+    "ru": "Имя"
+  },
+  "男": {
+    "en": "Male",
+    "ru": "Мужской"
+  },
+  "女": {
+    "en": "Female",
+    "ru": "Женский"
+  },
+  "其他 / 不便透露": {
+    "en": "Other / Prefer not to say",
+    "ru": "Другой / Предпочитаю не указывать"
+  },
+  "校园账号": {
+    "en": "Campus account",
+    "ru": "Учётная запись кампуса"
+  },
+  "校园生活，": {
+    "en": "Campus life,",
+    "ru": "Жизнь в кампусе —"
+  },
+  "从这里连接。": {
+    "en": "connected from here.",
+    "ru": "начинается здесь."
+  },
+  "分享日常，找到帮手，照顾健康，安排时光。": {
+    "en": "Share your day, find help, look after your health and plan your time.",
+    "ru": "Делитесь новостями, находите помощь, заботьтесь о здоровье и планируйте время."
+  },
+  "一个账号，四种校园体验": {
+    "en": "One account, four campus services",
+    "ru": "Одна учётная запись — четыре сервиса"
+  },
+  "选一个入口，开始今天": {
+    "en": "Choose a space to start your day",
+    "ru": "Выберите раздел и начните день"
+  },
+  "选择校园服务": {
+    "en": "Choose a campus service",
+    "ru": "Выберите сервис кампуса"
+  },
+  "开始校园日常": {
+    "en": "Enjoy campus life",
+    "ru": "Начните жизнь в кампусе"
+  },
+  "校园广场、跑腿、AI 导诊和场地预约共用一个账号。": {
+    "en": "Forum, errands, health guidance and bookings share one account.",
+    "ru": "Форум, поручения, медицинский помощник и бронирования используют одну учётную запись."
+  },
+  "姓名、性别和账号资料用于本系统账号识别与资料管理，密码以哈希形式保存。各模块按照对应功能保存使用记录。": {
+    "en": "Your name, gender and account details identify your account in this system. Passwords are stored as hashes. Each service stores its relevant usage records.",
+    "ru": "Имя, пол и данные учётной записи используются для идентификации в системе. Пароли хранятся в виде хешей. Каждый сервис сохраняет соответствующую историю использования."
+  },
+  "校园账号登录": {
+    "en": "Campus account sign-in",
+    "ru": "Вход: Учётная запись кампуса"
+  },
+  "校园账号注册": {
+    "en": "Campus account registration",
+    "ru": "Регистрация: Учётная запись кампуса"
+  },
+  "登录后进入校园账号。已有校园账号可直接使用。": {
+    "en": "Sign in to Campus account. Existing campus accounts can be used.",
+    "ru": "Войдите в раздел «Учётная запись кампуса». Можно использовать существующую учётную запись кампуса."
+  },
+  "填写姓名、性别和账号信息后进入校园账号。已有校园账号可直接使用。": {
+    "en": "Enter your name, gender and account details to access Campus account. Existing campus accounts can be used.",
+    "ru": "Укажите имя, пол и данные учётной записи для доступа к разделу «Учётная запись кампуса». Можно использовать существующую учётную запись."
+  },
+  "登录并进入校园账号": {
+    "en": "Sign in to Campus account",
+    "ru": "Войти: Учётная запись кампуса"
+  },
+  "注册并进入校园账号": {
+    "en": "Create an account for Campus account",
+    "ru": "Зарегистрироваться: Учётная запись кампуса"
+  },
+  "校园广场": {
+    "en": "Campus forum",
+    "ru": "Форум кампуса"
+  },
+  "遇见同学，": {
+    "en": "Meet classmates,",
+    "ru": "Знакомьтесь со студентами,"
+  },
+  "聊聊新鲜事。": {
+    "en": "share something new.",
+    "ru": "делитесь новостями."
+  },
+  "分享日常、交流学习，也发现校园里的同好。": {
+    "en": "Share daily life and study tips, and find people with similar interests.",
+    "ru": "Делитесь новостями и учебным опытом, находите людей с общими интересами."
+  },
+  "分享你的校园日常": {
+    "en": "Share your campus day",
+    "ru": "Поделитесь своим днём"
+  },
+  "让有趣的想法被看见": {
+    "en": "Let interesting ideas be seen",
+    "ru": "Пусть интересные идеи заметят"
+  },
+  "发现校园动态": {
+    "en": "Discover campus updates",
+    "ru": "Читайте новости кампуса"
+  },
+  "发帖与交流": {
+    "en": "Post and chat",
+    "ru": "Публикуйте и общайтесь"
+  },
+  "交流时尊重同学，请勿公开他人的联系方式或个人隐私。": {
+    "en": "Respect other students. Do not publish their contact information or private details.",
+    "ru": "Уважайте других студентов. Не публикуйте их контакты и личные сведения."
+  },
+  "账号资料用于本系统身份识别。发帖、评论及校园昵称会按论坛功能展示，请避免公开私人信息。密码以哈希形式保存。": {
+    "en": "Account details identify you in this system. Posts, comments and nicknames are displayed through the forum. Avoid sharing private information. Passwords are stored as hashes.",
+    "ru": "Данные учётной записи используются для идентификации. Публикации, комментарии и псевдонимы отображаются на форуме. Не раскрывайте личные сведения. Пароли хранятся в виде хешей."
+  },
+  "校园广场登录": {
+    "en": "Campus forum sign-in",
+    "ru": "Вход: Форум кампуса"
+  },
+  "校园广场注册": {
+    "en": "Campus forum registration",
+    "ru": "Регистрация: Форум кампуса"
+  },
+  "登录后进入校园广场。已有校园账号可直接使用。": {
+    "en": "Sign in to Campus forum. Existing campus accounts can be used.",
+    "ru": "Войдите в раздел «Форум кампуса». Можно использовать существующую учётную запись кампуса."
+  },
+  "填写姓名、性别和账号信息后进入校园广场。已有校园账号可直接使用。": {
+    "en": "Enter your name, gender and account details to access Campus forum. Existing campus accounts can be used.",
+    "ru": "Укажите имя, пол и данные учётной записи для доступа к разделу «Форум кампуса». Можно использовать существующую учётную запись."
+  },
+  "登录并进入校园广场": {
+    "en": "Sign in to Campus forum",
+    "ru": "Войти: Форум кампуса"
+  },
+  "注册并进入校园广场": {
+    "en": "Create an account for Campus forum",
+    "ru": "Зарегистрироваться: Форум кампуса"
+  },
+  "校园跑腿": {
+    "en": "Campus errands",
+    "ru": "Поручения кампуса"
+  },
+  "顺路帮个忙，": {
+    "en": "Lend a hand on the way,",
+    "ru": "Помогайте по пути,"
+  },
+  "让小事更轻松。": {
+    "en": "make small tasks easier.",
+    "ru": "упрощайте повседневные дела."
+  },
+  "取快递、代买、送东西，把需求交给顺路的同学。": {
+    "en": "Parcel pickups, shopping and deliveries, with help from students nearby.",
+    "ru": "Получение посылок, покупки и доставка с помощью студентов поблизости."
+  },
+  "发布需求，等待同学接单": {
+    "en": "Post a task and wait for a helper",
+    "ru": "Создайте поручение и найдите помощника"
+  },
+  "送达确认，完成互助": {
+    "en": "Confirm delivery to complete the task",
+    "ru": "Подтвердите доставку и завершите поручение"
+  },
+  "发布或接取任务": {
+    "en": "Post or accept a task",
+    "ru": "Создайте или примите поручение"
+  },
+  "送达并确认": {
+    "en": "Deliver and confirm",
+    "ru": "Доставьте и подтвердите"
+  },
+  "接单前核对任务要求；送达后确认订单，详细地址与手机号按订单权限展示。": {
+    "en": "Check the task before accepting it. Confirm delivery when it arrives. Addresses and phone numbers are shown only to authorized participants.",
+    "ru": "Проверьте условия перед принятием поручения. Подтвердите доставку после получения. Адрес и телефон доступны только уполномоченным участникам."
+  },
+  "账号用于订单识别。任务、地址和联系方式按跑腿功能保存，详细地址及手机号仅向有权限的订单参与者展示。密码以哈希形式保存。": {
+    "en": "Accounts identify order participants. Task details, addresses and contacts are stored for the errand service. Private addresses and phone numbers are visible only to authorized participants. Passwords are stored as hashes.",
+    "ru": "Учётные записи идентифицируют участников заказа. Сервис сохраняет условия поручения, адреса и контакты. Точный адрес и телефон видны только уполномоченным участникам. Пароли хранятся в виде хешей."
+  },
+  "校园跑腿登录": {
+    "en": "Campus errands sign-in",
+    "ru": "Вход: Поручения кампуса"
+  },
+  "校园跑腿注册": {
+    "en": "Campus errands registration",
+    "ru": "Регистрация: Поручения кампуса"
+  },
+  "登录后进入校园跑腿。已有校园账号可直接使用。": {
+    "en": "Sign in to Campus errands. Existing campus accounts can be used.",
+    "ru": "Войдите в раздел «Поручения кампуса». Можно использовать существующую учётную запись кампуса."
+  },
+  "填写姓名、性别和账号信息后进入校园跑腿。已有校园账号可直接使用。": {
+    "en": "Enter your name, gender and account details to access Campus errands. Existing campus accounts can be used.",
+    "ru": "Укажите имя, пол и данные учётной записи для доступа к разделу «Поручения кампуса». Можно использовать существующую учётную запись."
+  },
+  "登录并进入校园跑腿": {
+    "en": "Sign in to Campus errands",
+    "ru": "Войти: Поручения кампуса"
+  },
+  "注册并进入校园跑腿": {
+    "en": "Create an account for Campus errands",
+    "ru": "Зарегистрироваться: Поручения кампуса"
+  },
+  "AI 导诊": {
+    "en": "AI health guide",
+    "ru": "ИИ-помощник по здоровью"
+  },
+  "说说不舒服，": {
+    "en": "Tell us what feels wrong,",
+    "ru": "Расскажите, что беспокоит,"
+  },
+  "一起梳理方向。": {
+    "en": "find your next step together.",
+    "ru": "найдём следующий шаг вместе."
+  },
+  "描述症状与既往病史，逐步了解可能的就诊方向。": {
+    "en": "Describe your symptoms and medical history to explore a suitable direction for care.",
+    "ru": "Опишите симптомы и историю заболеваний, чтобы определить направление обращения за помощью."
+  },
+  "从你的描述开始": {
+    "en": "Start with your description",
+    "ru": "Начните с описания"
+  },
+  "AI 整理，医生核实": {
+    "en": "AI summarizes, doctors verify",
+    "ru": "ИИ обобщает, врач проверяет"
+  },
+  "描述你的症状": {
+    "en": "Describe your symptoms",
+    "ru": "Опишите симптомы"
+  },
+  "了解就诊方向": {
+    "en": "Explore care options",
+    "ru": "Определите направление обращения"
+  },
+  "简单导诊为规则演示，高级导诊可使用本地 AI 追问；均不能代替医生诊断。": {
+    "en": "Basic guidance is a rules demonstration. Advanced guidance can use local AI for follow-up questions. Neither replaces a medical diagnosis.",
+    "ru": "Базовый помощник демонстрирует правила. Расширенный может использовать локальный ИИ для уточнений. Оба не заменяют врачебную диагностику."
+  },
+  "姓名、性别和账号资料用于账号识别与资料管理，密码以哈希形式保存。简单导诊内容不保存；高级导诊提交后台的内容用于医护回复并保存在数据库。": {
+    "en": "Your name, gender and account details identify your account. Passwords are stored as hashes. Basic guidance conversations are not saved. Advanced cases submitted to doctors are stored in the database for replies.",
+    "ru": "Имя, пол и данные учётной записи используются для идентификации. Пароли хранятся в виде хешей. Базовый диалог не сохраняется. Расширенные обращения, отправленные врачам, сохраняются в базе для ответа."
+  },
+  "AI 导诊登录": {
+    "en": "AI health guide sign-in",
+    "ru": "Вход: ИИ-помощник по здоровью"
+  },
+  "AI 导诊注册": {
+    "en": "AI health guide registration",
+    "ru": "Регистрация: ИИ-помощник по здоровью"
+  },
+  "登录后进入AI 导诊。已有校园账号可直接使用。": {
+    "en": "Sign in to AI health guide. Existing campus accounts can be used.",
+    "ru": "Войдите в раздел «ИИ-помощник по здоровью». Можно использовать существующую учётную запись кампуса."
+  },
+  "填写姓名、性别和账号信息后进入AI 导诊。已有校园账号可直接使用。": {
+    "en": "Enter your name, gender and account details to access AI health guide. Existing campus accounts can be used.",
+    "ru": "Укажите имя, пол и данные учётной записи для доступа к разделу «ИИ-помощник по здоровью». Можно использовать существующую учётную запись."
+  },
+  "登录并进入AI 导诊": {
+    "en": "Sign in to AI health guide",
+    "ru": "Войти: ИИ-помощник по здоровью"
+  },
+  "注册并进入AI 导诊": {
+    "en": "Create an account for AI health guide",
+    "ru": "Зарегистрироваться: ИИ-помощник по здоровью"
+  },
+  "场地预约": {
+    "en": "Space booking",
+    "ru": "Бронирование площадок"
+  },
+  "留一个位置，": {
+    "en": "Save a spot,",
+    "ru": "Забронируйте место,"
+  },
+  "安排你的好时光。": {
+    "en": "make time for your plans.",
+    "ru": "найдите время для своих планов."
+  },
+  "预约自习室座位和运动场地，让学习与运动各有时间。": {
+    "en": "Book study seats and sports courts, and make room for learning and exercise.",
+    "ru": "Бронируйте места для самостоятельной учёбы и спортивные площадки."
+  },
+  "选择场地与空闲时段": {
+    "en": "Choose a space and available time",
+    "ru": "Выберите место и свободное время"
+  },
+  "我的预约，一目了然": {
+    "en": "All your bookings in one place",
+    "ru": "Все ваши бронирования в одном месте"
+  },
+  "选择场地与时间": {
+    "en": "Choose a space and time",
+    "ru": "Выберите место и время"
+  },
+  "确认并查看预约": {
+    "en": "Confirm and check your booking",
+    "ru": "Подтвердите и проверьте бронирование"
+  },
+  "预约记录保存在本系统，目前尚未对接学校预约系统，请以学校实际安排为准。": {
+    "en": "Bookings are stored in this project system, which is not connected to the school booking system. Follow actual school arrangements.",
+    "ru": "Бронирования хранятся в системе проекта, которая не подключена к системе учебного заведения. Следуйте фактическим правилам вашего кампуса."
+  },
+  "账号用于预约身份识别，场地、日期、时段和预约状态保存在本系统。个人预约页面只显示本人的记录，管理人员可管理场地预约。密码以哈希形式保存。": {
+    "en": "Your account identifies your bookings. Space, date, time and status are stored in this system. Personal booking pages show only your own records. Booking administrators can manage booking records. Passwords are stored as hashes.",
+    "ru": "Учётная запись используется для идентификации бронирований. Система сохраняет место, дату, время и статус. Личная страница показывает только ваши записи. Администраторы могут управлять бронированиями. Пароли хранятся в виде хешей."
+  },
+  "场地预约登录": {
+    "en": "Space booking sign-in",
+    "ru": "Вход: Бронирование площадок"
+  },
+  "场地预约注册": {
+    "en": "Space booking registration",
+    "ru": "Регистрация: Бронирование площадок"
+  },
+  "登录后进入场地预约。已有校园账号可直接使用。": {
+    "en": "Sign in to Space booking. Existing campus accounts can be used.",
+    "ru": "Войдите в раздел «Бронирование площадок». Можно использовать существующую учётную запись кампуса."
+  },
+  "填写姓名、性别和账号信息后进入场地预约。已有校园账号可直接使用。": {
+    "en": "Enter your name, gender and account details to access Space booking. Existing campus accounts can be used.",
+    "ru": "Укажите имя, пол и данные учётной записи для доступа к разделу «Бронирование площадок». Можно использовать существующую учётную запись."
+  },
+  "登录并进入场地预约": {
+    "en": "Sign in to Space booking",
+    "ru": "Войти: Бронирование площадок"
+  },
+  "注册并进入场地预约": {
+    "en": "Create an account for Space booking",
+    "ru": "Зарегистрироваться: Бронирование площадок"
+  },
+  "全科医学科": {
+    "en": "General practice",
+    "ru": "Общая врачебная практика"
+  },
+  "神经内科": {
+    "en": "Neurology",
+    "ru": "Неврология"
+  },
+  "呼吸内科": {
+    "en": "Respiratory medicine",
+    "ru": "Пульмонология"
+  },
+  "消化内科": {
+    "en": "Gastroenterology",
+    "ru": "Гастроэнтерология"
+  },
+  "皮肤科": {
+    "en": "Dermatology",
+    "ru": "Дерматология"
+  },
+  "骨科": {
+    "en": "Orthopaedics",
+    "ru": "Ортопедия"
+  },
+  "耳鼻喉科": {
+    "en": "ENT",
+    "ru": "Оториноларингология"
+  },
+  "眼科": {
+    "en": "Ophthalmology",
+    "ru": "Офтальмология"
+  },
+  "儿科": {
+    "en": "Paediatrics",
+    "ru": "Педиатрия"
+  },
+  "急诊科": {
+    "en": "Emergency department",
+    "ru": "Неотложная помощь"
+  },
+  "日常": {
+    "en": "Daily life",
+    "ru": "Повседневная жизнь"
+  },
+  "求助": {
+    "en": "Help",
+    "ru": "Помощь"
+  },
+  "交友": {
+    "en": "Meet friends",
+    "ru": "Знакомства"
+  },
+  "校园生活": {
+    "en": "Campus life",
+    "ru": "Жизнь кампуса"
+  },
+  "学习交流": {
+    "en": "Study discussions",
+    "ru": "Учёба и обсуждения"
+  },
+  "失物招领": {
+    "en": "Lost and found",
+    "ru": "Бюро находок"
+  },
+  "男生": {
+    "en": "Male",
+    "ru": "Мужской"
+  },
+  "女生": {
+    "en": "Female",
+    "ru": "Женский"
+  },
+  "取快递": {
+    "en": "Parcel pickup",
+    "ru": "Получение посылок"
+  },
+  "代买": {
+    "en": "Shopping",
+    "ru": "Покупки"
+  },
+  "送东西": {
+    "en": "Delivery",
+    "ru": "Доставка"
+  },
+  "其他": {
+    "en": "Other",
+    "ru": "Другое"
+  },
+  "在显示角色": {
+    "en": "Character visible",
+    "ru": "Персонаж виден"
+  },
+  "寰校通 UniVerse / 多语校园智慧生活服务平台": {
+    "en": "寰校通 UniVerse / Multilingual Smart Campus Life Platform",
+    "ru": "寰校通 UniVerse / Многоязычную платформу для умной жизни в кампусе"
+  },
+  "在这里，遇见校园里的你。": {
+    "en": "Meet your campus community here.",
+    "ru": "Здесь встречаются люди кампуса."
+  },
+  "分享学习经验，聊聊校园生活，让每一个问题都有人回应。": {
+    "en": "Share study tips, chat about campus life and find a response to your questions.",
+    "ru": "Делитесь учебным опытом, общайтесь о жизни кампуса и находите ответы."
+  },
+  "记录校园里的小日常。": {
+    "en": "Capture everyday campus moments.",
+    "ru": "Делитесь повседневной жизнью кампуса."
+  },
+  "聊聊食堂、课堂和课余生活，分享今天发生的小事。": {
+    "en": "Talk about food, classes and free time, and share your day.",
+    "ru": "Обсуждайте столовую, занятия и досуг, делитесь событиями дня."
+  },
+  "遇到问题，一起想办法。": {
+    "en": "Facing a problem? Find a solution together.",
+    "ru": "Есть проблема? Найдём решение вместе."
+  },
+  "学习问题、失物寻找和校园疑问，都可以在这里问问。": {
+    "en": "Ask about studies, lost items or anything on campus.",
+    "ru": "Задавайте вопросы об учёбе, потерянных вещах и кампусе."
+  },
+  "认识一起学习和玩耍的朋友。": {
+    "en": "Meet friends to study and have fun with.",
+    "ru": "Знакомьтесь с друзьями для учёбы и отдыха."
+  },
+  "找学习搭子、运动伙伴，认识兴趣相同的同学。": {
+    "en": "Find study buddies, sports partners and people with shared interests.",
+    "ru": "Находите партнёров для учёбы, спорта и общения по интересам."
+  },
+  "示例自习区域": {
+    "en": "Example study area",
+    "ru": "Пример учебной зоны"
+  },
+  "示例运动区域": {
+    "en": "Example sports area",
+    "ru": "Пример спортивной зоны"
+  },
+  "适合安静自习，每次预约一个座位，按两小时时段使用。": {
+    "en": "For quiet study. Reserve one seat for a two-hour slot.",
+    "ru": "Для спокойной самостоятельной учёбы. Одно место на двухчасовой интервал."
+  },
+  "按半场预约，同一时段只保留一条预约。": {
+    "en": "Book a half court. One reservation per time slot.",
+    "ru": "Бронируется половина площадки. Одна бронь на интервал."
+  },
+  "按场地预约，同一时段只保留一条预约。": {
+    "en": "Book the court. One reservation per time slot.",
+    "ru": "Бронируется вся площадка. Одна бронь на интервал."
+  },
+  "篮球场 · 示例半场": {
+    "en": "Basketball · Example half court",
+    "ru": "Баскетбол · Пример половины площадки"
+  },
+  "羽毛球场 · 示例 1 号场": {
+    "en": "Badminton · Example court 1",
+    "ru": "Бадминтон · Пример площадки 1"
+  },
+  "✳ 寰校通 UniVerse": {
+    "en": "✳ 寰校通 UniVerse",
+    "ru": "✳ 寰校通 UniVerse"
+  },
+  "自习室 · 01 号座位": {
+    "en": "Study room · Seat 01",
+    "ru": "Читальный зал · Место 01"
+  },
+  "自习室 · 02 号座位": {
+    "en": "Study room · Seat 02",
+    "ru": "Читальный зал · Место 02"
+  },
+  "自习室 · 03 号座位": {
+    "en": "Study room · Seat 03",
+    "ru": "Читальный зал · Место 03"
+  },
+  "自习室 · 04 号座位": {
+    "en": "Study room · Seat 04",
+    "ru": "Читальный зал · Место 04"
+  },
+  "安心导诊": {
+    "en": "Health guidance",
+    "ru": "Медицинский помощник"
+  },
+  "AI简单导诊": {
+    "en": "Basic AI guide",
+    "ru": "Базовый ИИ-помощник"
+  },
+  "高级导诊": {
+    "en": "Advanced health guide",
+    "ru": "Расширенный помощник"
+  },
+  "AI 导诊助手": {
+    "en": "AI health guide",
+    "ru": "ИИ-помощник по здоровью"
+  },
+  "安心 · 导诊助手": {
+    "en": "Your health guide",
+    "ru": "Ваш медицинский помощник"
+  },
+  "不知道挂什么科？从一次简单的对话开始。": {
+    "en": "Not sure which specialist to see? Start with a simple conversation.",
+    "ru": "Не знаете, к какому специалисту обратиться? Начните с простого диалога."
+  },
+  "选择不适部位，进一步描述你的感受。": {
+    "en": "Select the affected area and describe how you feel.",
+    "ru": "Выберите область дискомфорта и опишите ощущения."
+  },
+  "我的信箱": {
+    "en": "My inbox",
+    "ru": "Мои сообщения"
+  },
+  "科室导航": {
+    "en": "Departments",
+    "ru": "Отделения"
+  },
+  "就诊指南": {
+    "en": "Visit guide",
+    "ru": "Как подготовиться к приёму"
+  },
+  "常见问题": {
+    "en": "Frequently asked questions",
+    "ru": "Частые вопросы"
+  },
+  "新用户注册": {
+    "en": "New user registration",
+    "ru": "Регистрация"
+  },
+  "注册与登录": {
+    "en": "Register and sign in",
+    "ru": "Регистрация и вход"
+  },
+  "AI初步推测": {
+    "en": "Preliminary AI suggestions",
+    "ru": "Предварительные предположения ИИ"
+  },
+  "AI 初步推测 · 待医生核实": {
+    "en": "Preliminary AI suggestions · Doctor review required",
+    "ru": "Предположения ИИ · Требуется проверка врачом"
+  },
+  "AI 推测不是确诊，需由医生核实。": {
+    "en": "AI suggestions are not a diagnosis and require a doctor's review.",
+    "ru": "Предположения ИИ не являются диагнозом и требуют проверки врачом."
+  },
+  "简单导诊对话仅在本页内存中处理": {
+    "en": "Basic guidance conversations are processed only in this page's memory.",
+    "ru": "Базовый диалог обрабатывается только в памяти этой страницы."
+  },
+  "选择就诊入口": {
+    "en": "Choose a clinic room",
+    "ru": "Выберите кабинет"
+  },
+  "三个普通诊室、两个急诊入口，按需要选择。": {
+    "en": "Choose from three clinic rooms and two emergency rooms.",
+    "ru": "Выберите один из трёх обычных кабинетов или двух кабинетов неотложной помощи."
+  },
+  "正在确认开放状态…": {
+    "en": "Checking opening status…",
+    "ru": "Проверяем время работы…"
+  },
+  "搜索诊室": {
+    "en": "Search rooms",
+    "ru": "Поиск кабинета"
+  },
+  "普通诊室": {
+    "en": "Clinic rooms",
+    "ru": "Обычные кабинеты"
+  },
+  "急诊": {
+    "en": "Emergency",
+    "ru": "Неотложная помощь"
+  },
+  "特殊通道": {
+    "en": "Assistance channel",
+    "ru": "Канал помощи"
+  },
+  "此处提供现场就诊指引，不代表已挂号或预约成功。": {
+    "en": "These are directions for an in-person visit, not a confirmed registration or booking.",
+    "ru": "Это информация для очного обращения, а не подтверждение записи."
+  },
+  "日常不适与一般健康咨询。": {
+    "en": "Everyday symptoms and general health enquiries.",
+    "ru": "Повседневные жалобы и общие вопросы о здоровье."
+  },
+  "夜间及紧急情况，请联系现场值班医护。": {
+    "en": "For night-time or urgent care, contact the on-site duty team.",
+    "ru": "Ночью и при срочных жалобах обратитесь к дежурным медикам на месте."
+  },
+  "行动不便或需要协助时，请联系现场值班人员。": {
+    "en": "Contact on-site staff if you have limited mobility or need assistance.",
+    "ru": "При ограниченной подвижности или необходимости помощи обратитесь к сотрудникам на месте."
+  },
+  "当前为夜间时段：17:00起仅开放急诊1、急诊2。特殊协助请联系急诊值班人员。": {
+    "en": "Evening service: from 17:00 only Emergency 1 and 2 are open. Ask the emergency duty team for assistance.",
+    "ru": "Вечерний режим: с 17:00 открыты только Неотложная помощь 1 и 2. За помощью обращайтесь к дежурным медикам."
+  },
+  "普通诊室17:00关闭；17:00起仅开放急诊1、急诊2。": {
+    "en": "Clinic rooms close at 17:00; only Emergency 1 and 2 remain open.",
+    "ru": "Обычные кабинеты закрываются в 17:00; далее работают только Неотложная помощь 1 и 2."
+  },
+  "全天值班 · 查看指引 ↗": {
+    "en": "24-hour duty · Directions ↗",
+    "ru": "Дежурство круглосуточно · Информация ↗"
+  },
+  "17:00前开放 · 查看指引 ↗": {
+    "en": "Open before 17:00 · Directions ↗",
+    "ru": "Открыто до 17:00 · Информация ↗"
+  },
+  "当前已关闭 · 请选择急诊": {
+    "en": "Closed · Choose emergency care",
+    "ru": "Закрыто · Выберите неотложную помощь"
+  },
+  "没有找到相关诊室。": {
+    "en": "No matching rooms.",
+    "ru": "Кабинеты не найдены."
+  },
+  "该入口当前关闭。17:00起请前往急诊1或急诊2；需要特殊协助也请联系急诊值班人员。": {
+    "en": "This entrance is closed. From 17:00 use Emergency 1 or 2; contact the duty team for assistance.",
+    "ru": "Этот вход закрыт. С 17:00 обращайтесь в Неотложную помощь 1 или 2; за содействием — к дежурным."
+  },
+  "请到现场导诊台说明协助需求，由值班人员安排。此入口不自动加号或改变就诊顺序。": {
+    "en": "Explain your assistance needs at the on-site information desk. Staff will arrange help; this does not book or prioritise an appointment.",
+    "ru": "Объясните потребность в помощи на стойке информации. Сотрудники помогут; это не запись и не изменение очереди."
+  },
+  "请前往现场急诊值班区域。遇到紧急情况请拨打120，不要等待线上回复。": {
+    "en": "Go to the on-site emergency area. In an emergency call 120; do not wait for an online reply.",
+    "ru": "Обратитесь в отделение неотложной помощи. При экстренной ситуации звоните 120, не ждите ответа онлайн."
+  },
+  "请到现场导诊台确认诊室位置与接诊情况。17:00起停止普通诊室接待。": {
+    "en": "Confirm the room location and availability at the on-site desk. Clinic rooms stop receiving patients at 17:00.",
+    "ru": "Уточните расположение и приём на стойке информации. Обычный приём заканчивается в 17:00."
+  },
+  "当前已关闭": {
+    "en": "Currently closed",
+    "ru": "Сейчас закрыто"
+  },
+  "知道了，联系现场人员": {
+    "en": "Understood, contact on-site staff",
+    "ru": "Понятно, обращусь к сотрудникам"
+  },
+  "继续描述不适": {
+    "en": "Continue describing symptoms",
+    "ru": "Продолжить описание жалоб"
+  },
+  "暂时无法确认开放状态，请刷新重试或联系现场值班人员。": {
+    "en": "Unable to confirm opening status. Refresh or contact on-site staff.",
+    "ru": "Не удалось проверить время работы. Обновите страницу или обратитесь к дежурным."
+  },
+  "诊室1": {
+    "en": "Clinic room 1",
+    "ru": "Кабинет 1"
+  },
+  "诊室2": {
+    "en": "Clinic room 2",
+    "ru": "Кабинет 2"
+  },
+  "诊室3": {
+    "en": "Clinic room 3",
+    "ru": "Кабинет 3"
+  },
+  "急诊1": {
+    "en": "Emergency 1",
+    "ru": "Неотложная помощь 1"
+  },
+  "急诊2": {
+    "en": "Emergency 2",
+    "ru": "Неотложная помощь 2"
+  },
+  "建议先进行导诊": {
+    "en": "We recommend triage first",
+    "ru": "Рекомендуем сначала пройти опрос"
+  },
+  "先描述不适，了解就诊建议，再选择线上咨询或现场诊室。已经完成导诊，也可以直接继续选择。": {
+    "en": "Describe your symptoms first, then choose online care or a clinic room. If you have already completed triage, you may continue directly.",
+    "ru": "Сначала опишите жалобы, затем выберите онлайн-консультацию или кабинет. Если опрос уже пройден, можно продолжить выбор."
+  },
+  "先进行导诊": {
+    "en": "Start triage first",
+    "ru": "Сначала пройти опрос"
+  },
+  "继续选择诊室": {
+    "en": "Continue to rooms",
+    "ru": "Продолжить выбор кабинета"
+  },
+  "线上咨询": {
+    "en": "Online consultation",
+    "ru": "Онлайн-консультация"
+  },
+  "选择诊室": {
+    "en": "Choose a clinic room",
+    "ru": "Выбрать кабинет"
+  },
+  "导诊完成 · 选择就诊方式": {
+    "en": "Triage complete · Choose care",
+    "ru": "Опрос завершён · Выберите способ обращения"
+  },
+  "导诊信息已整理，请选择线上咨询或到诊室就诊。": {
+    "en": "Your triage summary is ready. Choose online care or an in-person clinic visit.",
+    "ru": "Результаты опроса готовы. Выберите онлайн-консультацию или очный приём."
+  },
+  "确认并查看导诊结果 →": {
+    "en": "Confirm and view triage results →",
+    "ru": "Подтвердить и посмотреть результат →"
+  },
+  "AI 正在整理导诊结果…": {
+    "en": "Preparing your triage summary…",
+    "ru": "Подготовка результатов опроса…"
+  },
+  "导诊完成后可选择线上咨询或现场诊室。选择线上咨询时，症状、既往病史、所选部位、注册资料与AI整理结果才会提交给医生。导诊结果会在本机临时缓存15分钟，医生回复后请留意": {
+    "en": "After triage, choose online care or an in-person room. Only choosing online care sends symptoms, medical history, selected area, profile and AI summary to a doctor. Results are cached locally for 15 minutes. Replies appear in your ",
+    "ru": "После опроса выберите онлайн-консультацию или кабинет. Только при выборе онлайн-консультации жалобы, анамнез, выбранная область, данные профиля и сводка ИИ передаются врачу. Результат временно хранится локально 15 минут. Ответ врача появится в разделе "
+  },
+  "诊室预约": {
+    "en": "Clinic appointments",
+    "ru": "Запись в кабинет"
+  },
+  "选择日期和时段，提前安排就诊。": {
+    "en": "Choose a date and time for your visit.",
+    "ru": "Выберите дату и время приёма."
+  },
+  "选择诊室与就诊时间": {
+    "en": "Choose a room and time",
+    "ru": "Выберите кабинет и время"
+  },
+  "普通门诊按时段预约，急诊无需预约。": {
+    "en": "Book a clinic time slot. No booking is needed for emergency care.",
+    "ru": "Обычный приём — по записи. Неотложная помощь без записи."
+  },
+  "就诊日期": {
+    "en": "Visit date",
+    "ru": "Дата приёма"
+  },
+  "最多提前3天": {
+    "en": "Up to 3 days ahead",
+    "ru": "Не более чем за 3 дня"
+  },
+  "可预约今天及未来3天。普通诊室08:00–12:00、14:00–17:00；17:00后仅急诊。": {
+    "en": "Book today or up to 3 days ahead. Clinics: 08:00–12:00, 14:00–17:00. After 17:00: emergency care only.",
+    "ru": "Запись на сегодня и на 3 дня вперёд. Обычный приём: 08:00–12:00, 14:00–17:00. После 17:00 — только неотложная помощь."
+  },
+  "急诊无需预约。普通门诊每个时段5个号源，以北京时间为准。": {
+    "en": "Emergency care needs no booking. Each clinic slot has 5 places. Times are Beijing time.",
+    "ru": "Неотложная помощь без записи. На обычный приём — 5 мест в каждом интервале. Время пекинское."
+  },
+  "今天": {
+    "en": "Today",
+    "ru": "Сегодня"
+  },
+  "联系值班人员 ↗": {
+    "en": "Contact duty staff ↗",
+    "ru": "К дежурным сотрудникам ↗"
+  },
+  "无需预约，直接前往 ↗": {
+    "en": "No booking · Go directly ↗",
+    "ru": "Без записи · Обращайтесь напрямую ↗"
+  },
+  "选择预约时段 ↗": {
+    "en": "Choose a time slot ↗",
+    "ru": "Выбрать время ↗"
+  },
+  "当日暂无可预约时段": {
+    "en": "No slots available on this date",
+    "ru": "На эту дату нет доступного времени"
+  },
+  "剩余号源": {
+    "en": "Places left",
+    "ru": "Осталось мест"
+  },
+  "预约时间段": {
+    "en": "Appointment time slots",
+    "ru": "Время записи"
+  },
+  "特殊通道由现场值班人员安排，不在线占用号源。17:00后需要协助请联系急诊值班人员。": {
+    "en": "On-site staff arrange assistance without reserving a place online. After 17:00, ask the emergency duty team.",
+    "ru": "Помощь организуют сотрудники на месте, без онлайн-записи. После 17:00 обратитесь к дежурным неотложной помощи."
+  },
+  "急诊无需预约，请直接前往诊室等待大厅内等候，听从现场医护安排。如病情紧急，请立即告知医护人员。": {
+    "en": "No booking is needed for emergency care. Go to the clinic waiting hall and follow staff instructions. If urgent, tell medical staff immediately.",
+    "ru": "Неотложная помощь без записи. Ожидайте в холле у кабинетов и следуйте указаниям медиков. При срочном состоянии сразу сообщите персоналу."
+  },
+  "知道了，前往急诊": {
+    "en": "Understood · Go to emergency care",
+    "ru": "Понятно · Обратиться за неотложной помощью"
+  },
+  "请选择时间段，确认后占用1个号源。到场后请出示预约编号，并在诊室等待大厅内等候。": {
+    "en": "Choose a time slot. Confirming reserves one place. Show your booking number and wait in the clinic waiting hall.",
+    "ru": "Выберите время. Подтверждение занимает одно место. Покажите номер записи и ожидайте в холле у кабинетов."
+  },
+  "上午": {
+    "en": "Morning",
+    "ru": "Утро"
+  },
+  "下午": {
+    "en": "Afternoon",
+    "ru": "День"
+  },
+  "夜间 / 凌晨": {
+    "en": "Night / Early morning",
+    "ru": "Ночь / Раннее утро"
+  },
+  "余号": {
+    "en": "Left",
+    "ru": "Мест"
+  },
+  "已约满": {
+    "en": "Full",
+    "ru": "Мест нет"
+  },
+  "当天时段已结束，请选择其他日期或急诊。": {
+    "en": "Today’s clinic slots have ended. Choose another date or emergency care.",
+    "ru": "Время обычного приёма на сегодня закончилось. Выберите другую дату или неотложную помощь."
+  },
+  "正在预约…": {
+    "en": "Booking…",
+    "ru": "Запись…"
+  },
+  "确认预约": {
+    "en": "Confirm booking",
+    "ru": "Подтвердить бронирование"
+  },
+  "预约成功": {
+    "en": "Booking confirmed",
+    "ru": "Бронирование подтверждено"
+  },
+  "请按预约时间到场，在诊室等待大厅内等候。": {
+    "en": "Arrive at your booked time and wait in the clinic waiting hall.",
+    "ru": "Приходите к назначенному времени и ожидайте в холле у кабинетов."
+  },
+  "暂无诊室预约。": {
+    "en": "No clinic bookings yet.",
+    "ru": "Записей в кабинеты пока нет."
+  },
+  "预约编号": {
+    "en": "Booking reference",
+    "ru": "Номер бронирования"
+  },
+  "序号": {
+    "en": "Queue number",
+    "ru": "Номер очереди"
+  },
+  "预约已取消，号源已释放。": {
+    "en": "Booking cancelled. The place is available again.",
+    "ru": "Запись отменена, место освобождено."
+  },
+  "预约门诊后或前往急诊时，请在诊室等待大厅内等候，听从现场医护安排。": {
+    "en": "After booking a clinic visit or arriving for emergency care, wait in the clinic waiting hall and follow staff instructions.",
+    "ru": "После записи на обычный приём или при обращении за неотложной помощью ожидайте в холле у кабинетов и следуйте указаниям медиков."
+  },
+  "急诊无需预约。如病情紧急，请立即告知医护人员，不要等待预约或线上回复。": {
+    "en": "Emergency care needs no booking. If urgent, tell medical staff immediately; do not wait for a booking or online reply.",
+    "ru": "Неотложная помощь без записи. При срочном состоянии немедленно сообщите медикам, не ждите записи или ответа онлайн."
+  },
+  "我的诊室预约": {
+    "en": "My clinic bookings",
+    "ru": "Мои записи в кабинеты"
+  },
+  "刷新预约": {
+    "en": "Refresh bookings",
+    "ru": "Обновить записи"
+  },
+  "预约记录保存在本系统，未对接医院挂号系统。": {
+    "en": "Bookings are stored in this campus system; it is not connected to a hospital registration system.",
+    "ru": "Записи хранятся в этой системе кампуса; подключения к больничной системе нет."
+  },
+  "取消这次预约？": {
+    "en": "Cancel this booking?",
+    "ru": "Отменить эту запись?"
+  },
+  "取消后将释放号源，需要时可以重新预约。": {
+    "en": "Cancelling releases the place. You can book again if needed.",
+    "ru": "После отмены место освободится. При необходимости можно записаться снова."
+  },
+  "保留预约": {
+    "en": "Keep booking",
+    "ru": "Сохранить запись"
+  },
+  "确认取消": {
+    "en": "Confirm cancellation",
+    "ru": "Подтвердить отмену"
+  },
+  "请选择正确的预约日期。": {
+    "en": "Select a valid booking date.",
+    "ru": "Выберите корректную дату записи."
+  },
+  "最多提前3天预约，不能预约过去的日期。": {
+    "en": "Book no more than 3 days ahead; past dates are unavailable.",
+    "ru": "Запись доступна не более чем на 3 дня вперёд. Прошлые даты недоступны."
+  },
+  "预约信息不正确，请重新选择。": {
+    "en": "Invalid booking details. Please select again.",
+    "ru": "Неверные данные записи. Выберите заново."
+  },
+  "预约信息已变化，请重新选择时段。": {
+    "en": "Booking details changed. Select a time slot again.",
+    "ru": "Данные записи изменились. Выберите время заново."
+  },
+  "急诊无需预约，请直接前往诊室等待大厅。": {
+    "en": "No booking is needed for emergency care. Go directly to the clinic waiting hall.",
+    "ru": "Неотложная помощь без записи. Пройдите в холл у кабинетов."
+  },
+  "该时段不可预约，17:00后仅开放急诊。": {
+    "en": "This slot is unavailable. After 17:00 only emergency care is open.",
+    "ru": "Это время недоступно. После 17:00 работает только неотложная помощь."
+  },
+  "你已预约同一时间段，请先取消原预约。": {
+    "en": "You already have a booking at this time. Cancel it first.",
+    "ru": "У вас уже есть запись на это время. Сначала отмените её."
+  },
+  "预约人数较多，请刷新后重试。": {
+    "en": "The booking service is busy. Refresh and retry.",
+    "ru": "Система записи занята. Обновите страницу и повторите."
+  },
+  "该时段号源已满，请选择其他时段。": {
+    "en": "This time slot is full. Choose another.",
+    "ru": "На это время мест нет. Выберите другое время."
+  },
+  "该预约已经开始，无法取消。": {
+    "en": "This appointment has started and cannot be cancelled.",
+    "ru": "Время приёма уже наступило, отмена недоступна."
+  },
+  "暂时无法加载预约信息，请稍后重试。": {
+    "en": "Unable to load bookings. Please try again later.",
+    "ru": "Не удалось загрузить записи. Повторите позже."
+  },
+  "连接中断，请重试；已提交的预约不会重复创建。": {
+    "en": "Connection interrupted. Retry; submitted bookings will not be duplicated.",
+    "ru": "Соединение прервано. Повторите — созданная запись не продублируется."
+  },
+  "查看原文": {
+    "en": "View original",
+    "ru": "Показать оригинал"
+  },
+  "正在翻译 AI 分析…": {
+    "en": "Translating AI analysis…",
+    "ru": "Перевод анализа ИИ…"
+  },
+  "AI 自动译文 · 请结合原文核对": {
+    "en": "AI translation · Check against the original",
+    "ru": "Автоперевод ИИ · Сверяйте с оригиналом"
+  },
+  "AI分析暂时无法翻译，请查看原文或稍后重试。": {
+    "en": "AI analysis cannot be translated right now. View the original or try again later.",
+    "ru": "Сейчас не удалось перевести анализ ИИ. Откройте оригинал или повторите позже."
+  },
+  "重试翻译": {
+    "en": "Retry translation",
+    "ru": "Повторить перевод"
+  },
+  "翻译请求不正确。": {
+    "en": "Invalid translation request.",
+    "ru": "Некорректный запрос перевода."
+  },
+  "导诊预览已过期，请重新生成结果。": {
+    "en": "The triage preview expired. Generate the result again.",
+    "ru": "Предварительный результат устарел. Сформируйте его заново."
+  },
+  "病情描述（原文）": {
+    "en": "Symptoms (original)",
+    "ru": "Описание жалоб (оригинал)"
+  },
+  "补充回答（原文）": {
+    "en": "Additional answers (original)",
+    "ru": "Дополнительные ответы (оригинал)"
+  },
+  "医生回复（原文）": {
+    "en": "Doctor reply (original)",
+    "ru": "Ответ врача (оригинал)"
+  },
+  "待分诊": {
+    "en": "Awaiting triage",
+    "ru": "Ожидает распределения"
+  },
+  "颈部": {
+    "en": "Neck",
+    "ru": "Шея"
+  },
+  "头部": {
+    "en": "Head",
+    "ru": "Голова"
+  },
+  "寰校通 UniVerse": {
+    "en": "寰校通 UniVerse",
+    "ru": "寰校通 UniVerse"
+  },
+  "多语校园智慧生活服务平台": {
+    "en": "Multilingual Smart Campus Life Platform",
+    "ru": "Многоязычную платформу для умной жизни в кампусе"
+  },
+  "我的服务": {
+    "en": "My services",
+    "ru": "Мои сервисы"
+  },
+  "我的服务 / 统一通知": {
+    "en": "My services / Notifications",
+    "ru": "Мои сервисы / Уведомления"
+  },
+  "未读通知": {
+    "en": "Unread notifications",
+    "ru": "Непрочитанные уведомления"
+  },
+  "消息、订单和预约，在这里接着处理。": {
+    "en": "Pick up your messages, tasks and bookings here.",
+    "ru": "Сообщения, заказы и бронирования — всё здесь."
+  },
+  "刷新状态": {
+    "en": "Refresh status",
+    "ru": "Обновить статус"
+  },
+  "服务概览": {
+    "en": "Service overview",
+    "ru": "Обзор сервисов"
+  },
+  "未读私信": {
+    "en": "Unread private messages",
+    "ru": "Непрочитанные личные сообщения"
+  },
+  "进行中的订单": {
+    "en": "Active orders",
+    "ru": "Текущие заказы"
+  },
+  "预约安排": {
+    "en": "Booking schedule",
+    "ru": "Планы бронирований"
+  },
+  "待赴约或正在使用": {
+    "en": "Upcoming or in progress",
+    "ru": "Предстоящие или текущие"
+  },
+  "统一通知": {
+    "en": "Notifications",
+    "ru": "Уведомления"
+  },
+  "显示最近 20 条未读通知": {
+    "en": "Showing the latest 20 unread notifications",
+    "ru": "Последние 20 непрочитанных уведомлений"
+  },
+  "收到一条校园私信": {
+    "en": "You have a campus private message",
+    "ru": "Вам пришло личное сообщение"
+  },
+  "医生已回复你的咨询": {
+    "en": "A doctor has replied to your enquiry",
+    "ru": "Врач ответил на ваше обращение"
+  },
+  "跑腿咨询收到管理员回复": {
+    "en": "An administrator replied to your errand enquiry",
+    "ru": "Администратор ответил на вопрос о поручении"
+  },
+  "标为已读": {
+    "en": "Mark as read",
+    "ru": "Отметить прочитанным"
+  },
+  "消息都看完啦": {
+    "en": "You are all caught up",
+    "ru": "Все сообщения прочитаны"
+  },
+  "新的私信、医生回复和跑腿咨询回复会显示在这里。": {
+    "en": "New private messages, doctor replies and errand enquiry replies appear here.",
+    "ru": "Здесь появятся новые личные сообщения, ответы врачей и ответы по поручениям."
+  },
+  "通知仅展示消息类型，具体内容请进入对应服务查看。": {
+    "en": "Notifications show only the message type. Open the service to read its contents.",
+    "ru": "Уведомления показывают только тип сообщения. Содержание доступно в соответствующем сервисе."
+  },
+  "我的跑腿订单": {
+    "en": "My errand orders",
+    "ru": "Мои заказы поручений"
+  },
+  "查看全部": {
+    "en": "View all",
+    "ru": "Посмотреть все"
+  },
+  "我发布的": {
+    "en": "Posted by me",
+    "ru": "Мои заявки"
+  },
+  "我接下的": {
+    "en": "Accepted by me",
+    "ru": "Принятые мной"
+  },
+  "还没有跑腿订单": {
+    "en": "No errand orders yet",
+    "ru": "Пока нет заказов поручений"
+  },
+  "我的预约安排": {
+    "en": "My upcoming bookings",
+    "ru": "Мои бронирования"
+  },
+  "门诊预约": {
+    "en": "Clinic appointments",
+    "ru": "Запись на приём"
+  },
+  "暂无待赴约的安排": {
+    "en": "No upcoming bookings",
+    "ru": "Нет предстоящих бронирований"
+  },
+  "我的导诊信箱": {
+    "en": "My health inbox",
+    "ru": "Медицинские сообщения"
+  },
+  "还没有提交导诊咨询": {
+    "en": "No health enquiries submitted yet",
+    "ru": "Медицинских обращений пока нет"
+  },
+  "我的校园动态": {
+    "en": "My campus posts",
+    "ru": "Мои публикации"
+  },
+  "还没有发布校园动态": {
+    "en": "No campus posts yet",
+    "ru": "Публикаций пока нет"
+  },
+  "待办提醒": {
+    "en": "To-do reminders",
+    "ru": "Напоминания о делах"
+  },
+  "跑腿已送达，待我确认": {
+    "en": "Delivered orders awaiting my confirmation",
+    "ru": "Доставлено, ожидает моего подтверждения"
+  },
+  "我已接单，等待送达": {
+    "en": "Orders I accepted and need to deliver",
+    "ru": "Принятые мной заказы к доставке"
+  },
+  "待办会随订单和预约状态更新，标记消息已读不会完成待办。": {
+    "en": "Reminders follow order and booking status. Marking a message as read does not complete a task.",
+    "ru": "Дела обновляются по статусу заказов и бронирований. Прочтение сообщения не завершает дело."
+  },
+  "快速前往": {
+    "en": "Quick links",
+    "ru": "Быстрые ссылки"
+  },
+  "论坛消息": {
+    "en": "Forum messages",
+    "ru": "Сообщения форума"
+  },
+  "跑腿咨询": {
+    "en": "Errand enquiries",
+    "ru": "Вопросы по поручениям"
+  },
+  "运营总览": {
+    "en": "Operations overview",
+    "ru": "Обзор работы"
+  },
+  "操作记录": {
+    "en": "Activity log",
+    "ru": "Журнал действий"
+  },
+  "从待办发现问题，进入业务处理，再通过操作记录核对结果。": {
+    "en": "Review pending work, open the relevant service and verify the outcome in the activity log.",
+    "ru": "Проверяйте задачи, переходите к обработке и сверяйте результат в журнале."
+  },
+  "需要关注": {
+    "en": "Needs attention",
+    "ru": "Требует внимания"
+  },
+  "超过 24 小时未回复的导诊咨询": {
+    "en": "Health enquiries unanswered for over 24 hours",
+    "ru": "Медицинские обращения без ответа более 24 часов"
+  },
+  "超过 24 小时未回复的跑腿咨询": {
+    "en": "Errand enquiries unanswered for over 24 hours",
+    "ru": "Вопросы по поручениям без ответа более 24 часов"
+  },
+  "这是服务处理提醒，不代表医疗紧急程度。医疗记录仍按医生科室权限查看。": {
+    "en": "This is an administrative reminder, not a measure of medical urgency. Clinical records remain restricted by doctor and department permissions.",
+    "ru": "Это напоминание об обработке, а не оценка медицинской срочности. Доступ к медицинским записям ограничен правами врачей и отделений."
+  },
+  "举报待审核": {
+    "en": "Reports awaiting review",
+    "ru": "Жалобы на проверке"
+  },
+  "风险待复核": {
+    "en": "Risks awaiting review",
+    "ru": "Риски на проверке"
+  },
+  "跑腿咨询待回复": {
+    "en": "Errand enquiries awaiting reply",
+    "ru": "Вопросы по поручениям без ответа"
+  },
+  "充值待审核": {
+    "en": "Top-ups awaiting review",
+    "ru": "Пополнения на проверке"
+  },
+  "医生待回复": {
+    "en": "Health enquiries awaiting reply",
+    "ru": "Обращения, ожидающие ответа врача"
+  },
+  "会诊待接受": {
+    "en": "Consultation invitations pending",
+    "ru": "Приглашения на консилиум"
+  },
+  "今日场地预约": {
+    "en": "Space bookings today",
+    "ru": "Бронирования площадок на сегодня"
+  },
+  "进行中的跑腿": {
+    "en": "Active errands",
+    "ru": "Текущие поручения"
+  },
+  "去处理": {
+    "en": "Open workspace",
+    "ru": "Перейти к обработке"
+  },
+  "由有权限的医生在医生工作台处理": {
+    "en": "Handled by authorised doctors in their workspace",
+    "ru": "Обрабатывается уполномоченными врачами"
+  },
+  "最近操作记录": {
+    "en": "Recent activity",
+    "ru": "Последние действия"
+  },
+  "启用账号": {
+    "en": "Active accounts",
+    "ru": "Активные учётные записи"
+  },
+  "开放场地": {
+    "en": "Open spaces",
+    "ru": "Доступные площадки"
+  },
+  "操作人": {
+    "en": "Performed by",
+    "ru": "Исполнитель"
+  },
+  "操作事项": {
+    "en": "Action",
+    "ru": "Действие"
+  },
+  "事项编号": {
+    "en": "Record reference",
+    "ru": "Номер записи"
+  },
+  "状态变化": {
+    "en": "Status change",
+    "ru": "Изменение статуса"
+  },
+  "已记录": {
+    "en": "Recorded",
+    "ru": "Записано"
+  },
+  "暂无操作记录，部署后的关键处理操作会记录在此。": {
+    "en": "No activity yet. Key staff actions after deployment will appear here.",
+    "ru": "Записей пока нет. Ключевые действия после внедрения появятся здесь."
+  },
+  "仅记录操作身份、事项编号和状态，不保存密码、聊天或病情正文。": {
+    "en": "Only the actor, record reference and status are logged. Passwords, chat and medical text are not stored here.",
+    "ru": "Записываются исполнитель, номер записи и статус. Пароли, переписка и медицинские тексты здесь не сохраняются."
+  },
+  "新增场地": {
+    "en": "Create a space",
+    "ru": "Добавить площадку"
+  },
+  "更新场地设置": {
+    "en": "Update space settings",
+    "ru": "Обновить настройки площадки"
+  },
+  "审核举报": {
+    "en": "Review a report",
+    "ru": "Проверить жалобу"
+  },
+  "复核风险": {
+    "en": "Review a risk alert",
+    "ru": "Проверить предупреждение о риске"
+  },
+  "审核充值": {
+    "en": "Review a top-up",
+    "ru": "Проверить пополнение"
+  },
+  "回复跑腿咨询": {
+    "en": "Reply to an errand enquiry",
+    "ru": "Ответить на вопрос о поручении"
+  },
+  "回复导诊咨询": {
+    "en": "Reply to a health enquiry",
+    "ru": "Ответить на медицинское обращение"
+  },
+  "处理会诊邀请": {
+    "en": "Respond to a consultation invitation",
+    "ru": "Ответить на приглашение на консилиум"
+  },
+  "撤回会诊邀请": {
+    "en": "Revoke a consultation invitation",
+    "ru": "Отозвать приглашение на консилиум"
+  },
+  "申请会诊": {
+    "en": "Request a consultation",
+    "ru": "Запросить консилиум"
+  },
+  "待处理": {
+    "en": "Pending",
+    "ru": "Ожидает обработки"
+  },
+  "已通过": {
+    "en": "Approved",
+    "ru": "Одобрено"
+  },
+  "已拒绝": {
+    "en": "Declined",
+    "ru": "Отклонено"
+  },
+  "已保留": {
+    "en": "Kept",
+    "ru": "Сохранено"
+  },
+  "已隐藏": {
+    "en": "Hidden",
+    "ru": "Скрыто"
+  },
+  "已撤回": {
+    "en": "Revoked",
+    "ru": "Отозвано"
+  },
+  "已接受": {
+    "en": "Accepted",
+    "ru": "Принято"
+  },
+  "新生校园向导": {
+    "en": "New student guide",
+    "ru": "Путеводитель первокурсника"
+  },
+  "初来校园，": {
+    "en": "New to campus?",
+    "ru": "Впервые в кампусе?"
+  },
+  "我们一起熟悉这里。": {
+    "en": "Let us find our way together.",
+    "ru": "Освоимся здесь вместе."
+  },
+  "五个小步骤，连接同学、互助、空间与健康。": {
+    "en": "Five small steps to people, help, spaces and health services.",
+    "ru": "Пять шагов к общению, взаимопомощи, площадкам и здоровью."
+  },
+  "已了解步骤": {
+    "en": "Steps explored",
+    "ru": "Изучено шагов"
+  },
+  "重新浏览": {
+    "en": "Start again",
+    "ru": "Начать заново"
+  },
+  "新生服务步骤": {
+    "en": "New student steps",
+    "ru": "Шаги для первокурсника"
+  },
+  "已了解，下一步": {
+    "en": "Got it, next step",
+    "ru": "Понятно, далее"
+  },
+  "导诊不替代医生诊断；情况紧急请直接联系现场医护或拨打 120。": {
+    "en": "This guide does not replace a doctor’s diagnosis. In an emergency, contact on-site medical staff or call 120.",
+    "ru": "Гид не заменяет диагноз врача. В экстренной ситуации обратитесь к медперсоналу или звоните 120."
+  },
+  "五步都了解啦！接下来去“我的服务”管理你的校园日常。": {
+    "en": "All five steps explored! Continue in My services to manage campus life.",
+    "ru": "Все пять шагов изучены! Управляйте делами кампуса в разделе «Мои сервисы»."
+  },
+  "进度仅表示已浏览引导，不代表已下单、预约或提交咨询；保存在当前浏览器。": {
+    "en": "Progress means you have explored the guide, not placed an order, booked or submitted an enquiry. It is saved in this browser.",
+    "ru": "Прогресс означает просмотр гида, а не оформление заказа, бронирования или обращения. Он сохраняется в этом браузере."
+  },
+  "登录校园账号，使用完整服务": {
+    "en": "Sign in for full campus services",
+    "ru": "Войдите для доступа ко всем сервисам"
+  },
+  "选择你的语言": {
+    "en": "Choose your language",
+    "ru": "Выберите язык"
+  },
+  "用熟悉的语言，开始校园生活。": {
+    "en": "Start campus life in a language you know.",
+    "ru": "Начните жизнь в кампусе на знакомом языке."
+  },
+  "在右上角选择中文、English、Русский或日本語，界面和伙伴提示会随之切换。": {
+    "en": "Choose Chinese, English, Russian or Japanese at the top right. The interface and companion prompts will follow.",
+    "ru": "Выберите китайский, английский, русский или японский справа вверху. Интерфейс и подсказки помощника сменят язык."
+  },
+  "先选好语言，我们就可以一起出发啦！": {
+    "en": "Choose your language and let us get started!",
+    "ru": "Выбирайте язык — и отправимся вместе!"
+  },
+  "选择页面语言": {
+    "en": "Choose page language",
+    "ru": "Выбрать язык страницы"
+  },
+  "认识校园同学": {
+    "en": "Meet fellow students",
+    "ru": "Познакомьтесь со студентами"
+  },
+  "先打个招呼，找到聊得来的伙伴。": {
+    "en": "Say hello and find someone to connect with.",
+    "ru": "Поздоровайтесь и найдите близких по духу друзей."
+  },
+  "进入交友广场看看同学的分享；双方互相关注后，可以私信交流。": {
+    "en": "Explore student posts in the friends forum. Follow each other to exchange private messages.",
+    "ru": "Посмотрите публикации в разделе знакомств. После взаимной подписки можно переписываться лично."
+  },
+  "想认识新同学吗？我带你去交友广场看看。": {
+    "en": "Want to meet new friends? Let me show you the friends forum.",
+    "ru": "Хотите новых знакомств? Покажу раздел общения."
+  },
+  "去认识同学": {
+    "en": "Meet students",
+    "ru": "Познакомиться со студентами"
+  },
+  "请求或提供帮助": {
+    "en": "Ask for or offer help",
+    "ru": "Попросите или предложите помощь"
+  },
+  "校园里的小事，可以一起解决。": {
+    "en": "Small campus tasks are easier together.",
+    "ru": "Мелкие дела кампуса проще решать вместе."
+  },
+  "发布取快递、代买或送物需求，也可以到接单广场帮助别人。订单进度在“我的服务”查看。": {
+    "en": "Post a pickup, shopping or delivery request, or help others on the task board. Track orders in My services.",
+    "ru": "Опубликуйте просьбу забрать посылку, купить или доставить вещи, либо помогите другим. Следите за заказами в «Моих сервисах»."
+  },
+  "需要帮忙，还是想帮助别人？从这里开始吧。": {
+    "en": "Need a hand, or want to help someone? Start here.",
+    "ru": "Нужна помощь или хотите помочь? Начните здесь."
+  },
+  "去发布需求": {
+    "en": "Post a request",
+    "ru": "Опубликовать просьбу"
+  },
+  "安排学习与运动": {
+    "en": "Plan study and exercise",
+    "ru": "Планируйте учёбу и спорт"
+  },
+  "给今天的计划，留一个位置。": {
+    "en": "Save a space for today’s plans.",
+    "ru": "Найдите место для сегодняшних планов."
+  },
+  "选择自习室或球场，确认日期和时段；预约成功后，在“我的服务”查看安排。": {
+    "en": "Choose a study space or court and confirm the date and time. Find successful bookings in My services.",
+    "ru": "Выберите читальный зал или спортплощадку, дату и время. Успешные бронирования доступны в «Моих сервисах»."
+  },
+  "今天想安静学习，还是去运动？一起看看空位吧。": {
+    "en": "Quiet study or exercise today? Let us find an available space.",
+    "ru": "Сегодня учёба в тишине или спорт? Посмотрим свободные места."
+  },
+  "去选择场地": {
+    "en": "Find a space",
+    "ru": "Выбрать площадку"
+  },
+  "了解就医方向": {
+    "en": "Find the next step toward care",
+    "ru": "Узнайте, куда обратиться за помощью"
+  },
+  "需要照顾身体时，也知道下一步。": {
+    "en": "Know your next step when you need care.",
+    "ru": "Знайте следующий шаг, когда нужна забота о здоровье."
+  },
+  "不清楚就医方向时，可以先描述不适进行导诊，再选择线上咨询或门诊预约；急诊不需要预约。": {
+    "en": "Describe your symptoms for guidance, then choose an online enquiry or clinic appointment. Emergency care does not require booking.",
+    "ru": "Опишите симптомы для ориентира, затем выберите онлайн-обращение или запись на приём. Экстренная помощь не требует записи."
+  },
+  "如果身体不舒服，就先看看就医方向吧。希望你每天都健健康康的。": {
+    "en": "If you feel unwell, let us find the next step toward care. I hope you stay well every day.",
+    "ru": "Если нездоровится, разберёмся, куда обратиться. Желаю вам здоровья каждый день."
+  },
+  "了解导诊服务": {
+    "en": "Explore health guidance",
+    "ru": "Узнать о медицинском гиде"
+  },
+  "初来校园，跟着伙伴一起出发。": {
+    "en": "New to campus? Start with your companion.",
+    "ru": "Впервые в кампусе? Начните с помощником."
+  },
+  "五步熟悉多语校园服务，让第一次更从容。": {
+    "en": "Explore multilingual campus services in five easy steps.",
+    "ru": "Освойте многоязычные сервисы кампуса за пять шагов."
+  },
+  "开启新生引导": {
+    "en": "Start the new student guide",
+    "ru": "Открыть гид первокурсника"
+  },
+  "时间": {
+    "en": "Time",
+    "ru": "Время"
+  },
+  "全部": {
+    "en": "All",
+    "ru": "Все"
+  },
+  "校园办事向导": {
+    "en": "Campus task companion",
+    "ru": "Помощник по делам кампуса"
+  },
+  "让伙伴帮我办事": {
+    "en": "Ask my companion for help",
+    "ru": "Попросить помощника"
+  },
+  "说说你的计划，我陪你一步步完成。": {
+    "en": "Tell me your plan. We will work through it together.",
+    "ru": "Расскажите о планах — пройдём все шаги вместе."
+  },
+  "重新开始办事": {
+    "en": "Start a new task",
+    "ru": "Начать новое дело"
+  },
+  "办事流程": {
+    "en": "Task progress",
+    "ru": "Этапы выполнения"
+  },
+  "整理需求": {
+    "en": "Your request",
+    "ru": "Запрос"
+  },
+  "查询空位": {
+    "en": "Availability",
+    "ru": "Свободные места"
+  },
+  "核对确认": {
+    "en": "Review & confirm",
+    "ru": "Проверка"
+  },
+  "查看结果": {
+    "en": "Result",
+    "ru": "Результат"
+  },
+  "选择这个日期": {
+    "en": "Use this date",
+    "ru": "Выбрать эту дату"
+  },
+  "核对预约信息": {
+    "en": "Review your booking",
+    "ru": "Проверьте бронирование"
+  },
+  "确认后将创建一条真实预约；同一时段只能预约一个场地。": {
+    "en": "Confirmation creates an actual booking. You can book only one space per time slot.",
+    "ru": "После подтверждения будет создано реальное бронирование. На один период можно забронировать только одно место."
+  },
+  "返回选择": {
+    "en": "Back to selection",
+    "ru": "Вернуться к выбору"
+  },
+  "用熟悉的语言描述需求": {
+    "en": "Describe your request in your language",
+    "ru": "Опишите запрос на удобном языке"
+  },
+  "例如：我想明天下午找个地方自习": {
+    "en": "For example: I want a place to study tomorrow afternoon",
+    "ru": "Например: хочу завтра после обеда найти место для учёбы"
+  },
+  "支持中文、English、Русский、日本語；时间按上海时区计算。": {
+    "en": "Chinese, English, Russian and Japanese supported. Times use Shanghai time (UTC+8).",
+    "ru": "Поддерживаются китайский, английский, русский и японский. Время — шанхайское (UTC+8)."
+  },
+  "我能帮你做什么": {
+    "en": "How I can help",
+    "ru": "Чем я могу помочь"
+  },
+  "场地预约可以在这里查空位并确认提交；交友、跑腿和导诊会带你进入对应服务。": {
+    "en": "Check availability and confirm space bookings here. For friends, errands and health guidance, I will take you to the right service.",
+    "ru": "Здесь можно проверить места и подтвердить бронирование. Для знакомств, поручений и медицинского гида я открою нужный сервис."
+  },
+  "确认按钮点下之前，只整理信息和查询，不会创建预约或扣款。": {
+    "en": "Before you press Confirm, I only collect details and search. No booking or payment is made.",
+    "ru": "До нажатия кнопки подтверждения я только уточняю детали и ищу места. Бронирований и списаний нет."
+  },
+  "请先登录校园账号，再使用办事向导。": {
+    "en": "Sign in to use the campus task companion.",
+    "ru": "Войдите в аккаунт, чтобы пользоваться помощником."
+  },
+  "双方互相关注后就能私信交流，我带你去交友广场。": {
+    "en": "Follow each other to exchange private messages. Let me take you to the friends forum.",
+    "ru": "После взаимной подписки можно переписываться. Открою раздел знакомств."
+  },
+  "可以发布跑腿需求或帮助同学。涉及付款的订单，请在发布页面核对并提交。": {
+    "en": "Post an errand or help a student. Review and submit any paid order on the posting page.",
+    "ru": "Можно опубликовать поручение или помочь студенту. Платный заказ проверьте и отправьте на странице публикации."
+  },
+  "我可以带你进入导诊，先整理不适，再选择线上咨询或门诊预约。急诊无需预约。": {
+    "en": "I can open health guidance to organise your symptoms, then you can choose an online enquiry or clinic appointment. Emergency care needs no booking.",
+    "ru": "Открою медицинский гид: опишите симптомы, затем выберите онлайн-обращение или запись на приём. Экстренная помощь не требует записи."
+  },
+  "你的订单、预约和回复都可以在“我的服务”查看。": {
+    "en": "Find your orders, bookings and replies in My services.",
+    "ru": "Заказы, бронирования и ответы доступны в «Моих сервисах»."
+  },
+  "查看已有预约后，可以在“我的预约”页面取消。这里不会自动取消预约。": {
+    "en": "Review existing bookings and cancel them in My bookings. I will not cancel anything automatically.",
+    "ru": "Посмотрите записи и отмените нужную в «Моих бронированиях». Здесь ничего не отменяется автоматически."
+  },
+  "预约已保存，可以到“我的服务”查看或取消。": {
+    "en": "Your booking is saved. View or cancel it in My services.",
+    "ru": "Бронирование сохранено. Посмотреть или отменить его можно в «Моих сервисах»."
+  },
+  "你好！我能帮你查询和预约校园场地。你想找自习室、篮球场，还是羽毛球场？": {
+    "en": "Hello! I can find and book campus spaces. Would you like a study space, basketball court or badminton court?",
+    "ru": "Здравствуйте! Помогу найти и забронировать место. Нужен читальный зал, баскетбольная или бадминтонная площадка?"
+  },
+  "想预约哪一天？可以说“明天”，也可以直接选择日期。": {
+    "en": "Which day? You can say “tomorrow” or choose a date.",
+    "ru": "На какой день? Можно написать «завтра» или выбрать дату."
+  },
+  "请选择具体时段。场地按固定两小时时段预约，我不会替你默认选择。": {
+    "en": "Choose an exact time slot. Spaces use fixed two-hour slots; I will not choose one for you.",
+    "ru": "Выберите точный период. Бронирование идёт фиксированными двухчасовыми интервалами; я не выбираю их за вас."
+  },
+  "找到以下空位。请选择场地并核对信息，点击确认后才会预约。": {
+    "en": "These spaces are available. Choose one and review the details. Booking happens only after confirmation.",
+    "ru": "Найдены свободные места. Выберите место и проверьте данные. Бронирование создаётся только после подтверждения."
+  },
+  "这个时段没有空位，或你已有同时段预约。可以换日期或时段。": {
+    "en": "No space is available, or you already have a booking at this time. Choose another date or slot.",
+    "ru": "Свободных мест нет либо у вас уже есть запись на это время. Выберите другую дату или период."
+  },
+  "请求不正确，请重新选择。": {
+    "en": "Invalid request. Please select again.",
+    "ru": "Некорректный запрос. Выберите заново."
+  },
+  "请选择今天至未来 14 天内的有效日期。": {
+    "en": "Choose a valid date from today through the next 14 days.",
+    "ru": "Выберите дату от сегодня до следующих 14 дней."
+  },
+  "这个时间不对应开放时段，请从可选时段中选择。": {
+    "en": "That time is not an available starting time. Choose one of the listed slots.",
+    "ru": "Это время не совпадает с началом доступного периода. Выберите период из списка."
+  },
+  "我还没确定你的需求。可以说想预约什么场地，也可以点击下方选项。": {
+    "en": "I have not identified your request yet. Say which space you want or use the options below.",
+    "ru": "Я пока не определил запрос. Напишите, какое место нужно, или выберите вариант ниже."
+  },
+  "请核对下方信息，预约需要点击确认按钮提交。": {
+    "en": "Review the details below and press the confirmation button to submit your booking.",
+    "ru": "Проверьте данные ниже и нажмите кнопку подтверждения для бронирования."
+  },
+  "这份预约草稿已过期或已更改，请重新查询。": {
+    "en": "This booking draft has expired or changed. Search again.",
+    "ru": "Черновик устарел или изменён. Выполните поиск заново."
+  },
+  "预约信息不完整或时段已开始，请重新查询。": {
+    "en": "The booking is incomplete or the slot has already started. Search again.",
+    "ru": "Данные неполные либо период уже начался. Выполните поиск заново."
+  },
+  "该场地已暂停预约或与当前需求不符，请重新查询。": {
+    "en": "This space is closed for booking or does not match your request. Search again.",
+    "ru": "Площадка закрыта для записи или не соответствует запросу. Выполните поиск заново."
+  },
+  "这份预约草稿已经使用，请重新查询。": {
+    "en": "This draft has already been used. Start a new search.",
+    "ru": "Этот черновик уже использован. Начните новый поиск."
+  },
+  "空位刚被预约，或你已有同时段预约。请重新查询。": {
+    "en": "The space was just booked, or you already have a booking at this time. Search again.",
+    "ru": "Место только что заняли либо у вас уже есть запись на это время. Выполните поиск заново."
+  },
+  "当前请求较多，请稍后重试。": {
+    "en": "The service is busy. Please try again shortly.",
+    "ru": "Сервис занят. Повторите попытку немного позже."
+  },
+  "我的需求": {
+    "en": "My request",
+    "ru": "Мой запрос"
+  },
+  "场地原名": {
+    "en": "Original space name",
+    "ru": "Исходное название"
+  },
+  "选择这个场地": {
+    "en": "Choose this space",
+    "ru": "Выбрать это место"
+  },
+  "查看办事卡片": {
+    "en": "View task details",
+    "ru": "Посмотреть детали"
+  },
+  "办事请求未完成，请重试。": {
+    "en": "The task request did not complete. Please try again.",
+    "ru": "Запрос не выполнен. Повторите попытку."
+  },
+  "正在理解需求和查询，请稍候…": {
+    "en": "Understanding your request and checking availability…",
+    "ru": "Уточняю запрос и проверяю свободные места…"
+  },
+  "请求超时，请重试或直接选择下方选项。": {
+    "en": "The request timed out. Retry or use the options below.",
+    "ru": "Время ожидания истекло. Повторите запрос или выберите вариант ниже."
+  },
+  "正在提交预约，请勿重复点击。": {
+    "en": "Submitting your booking. Please do not click again.",
+    "ru": "Отправляю бронирование. Не нажимайте повторно."
+  },
+  "暂未收到提交结果，可重试或到“我的预约”核对。": {
+    "en": "No submission result received yet. Retry or check My bookings.",
+    "ru": "Результат пока не получен. Повторите попытку или проверьте «Мои бронирования»."
+  },
+  "有问题就问我，校园里的事也能一起办。": {
+    "en": "Ask me a question, or let us get a campus task done.",
+    "ru": "Задайте вопрос — или давайте вместе решим дело в кампусе."
+  },
+  "你好！学习、翻译、写作和日常问题都可以问我，也可以一起办理校园场地预约。": {
+    "en": "Hi! Ask me about studying, translation, writing or everyday questions. I can also help you book campus spaces.",
+    "ru": "Привет! Помогу с учёбой, переводом, текстами и повседневными вопросами, а также с бронированием мест в кампусе."
+  },
+  "对话模式": {
+    "en": "Conversation mode",
+    "ru": "Режим диалога"
+  },
+  "自动识别": {
+    "en": "Automatic",
+    "ru": "Автоматически"
+  },
+  "日常问答": {
+    "en": "Everyday chat",
+    "ru": "Обычный диалог"
+  },
+  "校园办事": {
+    "en": "Campus tasks",
+    "ru": "Дела кампуса"
+  },
+  "例如：解释一下递归，或帮我预约明天的自习室": {
+    "en": "For example: explain recursion, or help me book a study room tomorrow",
+    "ru": "Например: объясни рекурсию или помоги забронировать читальный зал на завтра"
+  },
+  "支持知识问答、学习辅导、写作、翻译和日常聊天，可结合前文继续追问。": {
+    "en": "Ask questions, study, write, translate or chat. Follow-up questions can use the recent conversation.",
+    "ru": "Задавайте вопросы, учитесь, пишите, переводите и общайтесь. Можно задавать уточняющие вопросы по предыдущим ответам."
+  },
+  "日常回答由本地模型生成，未连接实时网络搜索。刷新页面会清除聊天上下文。": {
+    "en": "Everyday answers are generated locally, without live web search. Reloading clears the conversation context.",
+    "ru": "Ответы создаёт локальная модель без поиска в интернете. При обновлении страницы контекст диалога очищается."
+  },
+  "本地 AI 正在思考，请稍候…": {
+    "en": "The local AI is thinking. Please wait…",
+    "ru": "Локальный ИИ готовит ответ. Подождите…"
+  },
+  "本地 AI 暂时不可用或正在忙，请稍后重试。校园办事仍可使用下方选项。": {
+    "en": "The local AI is unavailable or busy. Please retry shortly. Campus tasks are still available through the options below.",
+    "ru": "Локальный ИИ недоступен или занят. Попробуйте позже. Дела кампуса доступны через кнопки ниже."
+  },
+  "回答在左侧，可以继续追问我。": {
+    "en": "Your answer is on the left. Feel free to ask a follow-up.",
+    "ru": "Ответ слева. Можно задать уточняющий вопрос."
+  },
+  "继续聊天": {
+    "en": "Continue chatting",
+    "ru": "Продолжить диалог"
+  },
+  "想查询哪个城市的天气？告诉我城市名就可以，不需要详细地址。": {
+    "en": "Which city would you like to check? A city name is enough; no detailed address is needed.",
+    "ru": "Погоду в каком городе показать? Достаточно названия города, точный адрес не нужен."
+  },
+  "目前支持今天、明天和后天的天气，请指定其中一天。": {
+    "en": "I can check today, tomorrow or the day after tomorrow. Please choose one.",
+    "ru": "Можно узнать погоду на сегодня, завтра или послезавтра. Выберите день."
+  },
+  "没有找到这个城市，请换用更完整的城市名或英文名。": {
+    "en": "City not found. Try its full name or English name.",
+    "ru": "Город не найден. Укажите полное название или название на английском."
+  },
+  "请选择你要查询的城市，避免同名地点混淆。": {
+    "en": "Please select the right city to avoid mixing up places with the same name.",
+    "ru": "Выберите нужный город, чтобы не перепутать одноимённые места."
+  },
+  "暂时没有取到天气数据，请稍后重试；我不会猜测天气。": {
+    "en": "Weather data is unavailable right now. Please retry later; I will not guess.",
+    "ru": "Не удалось получить данные о погоде. Попробуйте позже — я не буду угадывать."
+  },
+  "城市选择已过期或无效，请重新询问天气。": {
+    "en": "This city selection expired or is invalid. Please ask about the weather again.",
+    "ru": "Выбор города устарел или недействителен. Запросите погоду ещё раз."
+  },
+  "预报日期": {
+    "en": "Forecast date",
+    "ru": "Дата прогноза"
+  },
+  "当前天气": {
+    "en": "Current conditions",
+    "ru": "Текущая погода"
+  },
+  "体感温度": {
+    "en": "Feels like",
+    "ru": "Ощущается как"
+  },
+  "湿度": {
+    "en": "Humidity",
+    "ru": "Влажность"
+  },
+  "风速": {
+    "en": "Wind speed",
+    "ru": "Скорость ветра"
+  },
+  "数据时间": {
+    "en": "Data time",
+    "ru": "Время данных"
+  },
+  "当日预报": {
+    "en": "Daily forecast",
+    "ru": "Прогноз на день"
+  },
+  "最高降水概率": {
+    "en": "Maximum precipitation probability",
+    "ru": "Максимальная вероятность осадков"
+  },
+  "天气数据为模型估算与预报，供出行参考。": {
+    "en": "Weather data consists of model estimates and forecasts, for travel planning.",
+    "ru": "Данные — модельные оценки и прогнозы для планирования поездок."
+  },
+  "晴": {
+    "en": "Clear",
+    "ru": "Ясно"
+  },
+  "晴间多云": {
+    "en": "Partly cloudy",
+    "ru": "Переменная облачность"
+  },
+  "阴": {
+    "en": "Overcast",
+    "ru": "Пасмурно"
+  },
+  "雾": {
+    "en": "Fog",
+    "ru": "Туман"
+  },
+  "毛毛雨": {
+    "en": "Drizzle",
+    "ru": "Морось"
+  },
+  "雨": {
+    "en": "Rain",
+    "ru": "Дождь"
+  },
+  "雪": {
+    "en": "Snow",
+    "ru": "Снег"
+  },
+  "阵雨": {
+    "en": "Rain showers",
+    "ru": "Ливневый дождь"
+  },
+  "阵雪": {
+    "en": "Snow showers",
+    "ru": "Снежные заряды"
+  },
+  "雷暴": {
+    "en": "Thunderstorm",
+    "ru": "Гроза"
+  },
+  "天气状况未知": {
+    "en": "Unknown conditions",
+    "ru": "Состояние погоды неизвестно"
+  },
+  "天气查询": {
+    "en": "Weather lookup",
+    "ru": "Погода"
+  },
+  "天气数据来源": {
+    "en": "Weather data source",
+    "ru": "Источник погодных данных"
+  },
+  "正在处理，请稍候…": {
+    "en": "Processing. Please wait…",
+    "ru": "Обрабатываю запрос. Подождите…"
+  },
+  "天气可联网查询，其他日常问答由本地模型生成。刷新页面会清除聊天上下文。": {
+    "en": "Weather uses online data; other everyday answers come from the local model. Reloading clears conversation context.",
+    "ru": "Погода загружается из интернета; другие ответы создаёт локальная модель. Обновление страницы очищает контекст."
+  },
+  "当地天气": {
+    "en": "Local weather",
+    "ru": "Местная погода"
+  },
+  "刷新天气": {
+    "en": "Refresh weather",
+    "ru": "Обновить погоду"
+  },
+  "选择城市，看看当地天气。": {
+    "en": "Choose a city to see local weather.",
+    "ru": "Выберите город, чтобы узнать погоду."
+  },
+  "切换城市": {
+    "en": "Change city",
+    "ru": "Изменить город"
+  },
+  "城市名称": {
+    "en": "City name",
+    "ru": "Название города"
+  },
+  "输入城市，如大连": {
+    "en": "City, e.g. Dalian",
+    "ru": "Город, например Далянь"
+  },
+  "IP 定位": {
+    "en": "Locate by IP",
+    "ru": "Город по IP"
+  },
+  "点击后通过 GeoJS 查询网络所在城市；VPN 或校园网可能影响准确度。": {
+    "en": "Click to look up your network city via GeoJS. VPNs or campus networks may affect accuracy.",
+    "ru": "По нажатию GeoJS определит город сети. VPN и сеть кампуса могут повлиять на точность."
+  },
+  "天气查询失败，请稍后重试。": {
+    "en": "Weather lookup failed. Please try later.",
+    "ru": "Не удалось узнать погоду. Попробуйте позже."
+  },
+  "正在查询天气…": {
+    "en": "Looking up weather…",
+    "ru": "Загружаю погоду…"
+  },
+  "天气查询超时，请稍后重试。": {
+    "en": "Weather lookup timed out. Please try later.",
+    "ru": "Истекло время ожидания погоды. Попробуйте позже."
+  },
+  "正在识别网络所在城市…": {
+    "en": "Identifying your network city…",
+    "ru": "Определяю город сети…"
+  },
+  "网络位置无法识别，请手动选择城市。": {
+    "en": "Network location unavailable. Please choose a city manually.",
+    "ru": "Не удалось определить город сети. Выберите его вручную."
+  },
+  "按网络位置查询，可手动更正城市。": {
+    "en": "Based on network location. You can correct the city manually.",
+    "ru": "По местоположению сети. Город можно изменить вручную."
+  },
+  "已保存的城市已过期，请重新选择。": {
+    "en": "Saved city expired. Please choose again.",
+    "ru": "Сохранённый город устарел. Выберите его снова."
+  }
+}

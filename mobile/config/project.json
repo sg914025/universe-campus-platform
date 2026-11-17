@@ -1,0 +1,13 @@
+{
+  "author": "UniVerse Team",
+  "name": "寰校通 UniVerse",
+  "version": "1.0.2",
+  "apiBase": "http://127.0.0.1:8000",
+  "backendPath": "../server",
+  "wechatAppId": "",
+  "dcloudAppId": "",
+  "webBase": "/m/",
+  "description": "多语校园智慧生活服务平台",
+  "androidServerOrigin": "",
+  "androidAccessOrigin": ""
+}

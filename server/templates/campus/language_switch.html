@@ -1,0 +1,5 @@
+{% load campus_ui %}
+<form class="campus-language" method="post" action="{% url 'ui-language' %}" aria-label="Language / 语言 / Язык / 日本語">
+{% csrf_token %}<input type="hidden" name="next" value="{{ request.get_full_path }}">
+<label><span aria-hidden="true">◎</span><select name="language" aria-label="Language / 语言 / Язык / 日本語" onchange="this.form.requestSubmit()">{% for code,name in ui_languages.items %}<option value="{{ code }}"{% if ui_language == code %} selected{% endif %}>{{ name }}</option>{% endfor %}</select></label><noscript><button type="submit">OK</button></noscript>
+</form>

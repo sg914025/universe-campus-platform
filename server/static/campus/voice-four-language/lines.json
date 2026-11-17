@@ -1,0 +1,206 @@
+{
+  "home_morning": {
+    "zh": "早上好呀！今天想做点什么？先逛逛校园，还是找同学聊聊天？",
+    "en": "Good morning! What shall we do today? Explore campus, or chat with someone?",
+    "ja": "おはよう！今日は何しよう？キャンパスを見て回る？それとも誰かとおしゃべり？",
+    "ru": "Доброе утро! Чем займёмся сегодня? Посмотрим новости кампуса или поболтаем с друзьями?"
+  },
+  "home_noon": {
+    "zh": "中午好！吃饭了吗？稍微休息一下，再一起看看有什么新鲜事吧！",
+    "en": "Hello! Have you had lunch? Take a little break, then let us see what is new!",
+    "ja": "こんにちは！お昼ご飯は食べた？ちょっと休んで、新しいことを探してみよう！",
+    "ru": "Добрый день! Уже пообедал? Давай немного отдохнём и посмотрим, что нового!"
+  },
+  "home_afternoon": {
+    "zh": "下午好呀！今天过得怎么样？有什么想做的事，我陪你一起看看！",
+    "en": "Good afternoon! How is your day going? Let us find something fun to do!",
+    "ja": "こんにちは！今日はどんな一日？やりたいこと、一緒に探してみよう！",
+    "ru": "Привет! Как проходит день? Давай вместе найдём что-нибудь интересное!"
+  },
+  "home_evening": {
+    "zh": "晚上好！今天也辛苦啦。想聊聊今天的趣事，还是安排一下明天？",
+    "en": "Good evening! You worked hard today. Want to share a fun story, or plan tomorrow?",
+    "ja": "こんばんは！今日もお疲れさま！今日の楽しかったことを話す？それとも明日の予定を立てる？",
+    "ru": "Добрый вечер! Сегодня ты хорошо потрудился. Хочешь поделиться новостями или составить планы на завтра?"
+  },
+  "home_night": {
+    "zh": "这么晚还没休息呀？事情慢慢来，记得早点睡哦。明天也要精神满满！",
+    "en": "Still awake? Take things slowly, and get some rest. Tomorrow is a new day!",
+    "ja": "まだ起きてるの？焦らなくていいから、早めに休んでね。明日も元気にいこう！",
+    "ru": "Ты ещё не спишь? Не торопись и постарайся отдохнуть. Завтра будет новый день!"
+  },
+  "forum_hello": {
+    "zh": "来逛广场啦！想看些什么？有没有好玩的事情，想和大家分享一下？",
+    "en": "Welcome to the square! What would you like to see? Any fun stories to share?",
+    "ja": "広場に来たんだね！何を見ようか？みんなに話したい楽しいこと、ある？",
+    "ru": "Добро пожаловать на форум! Что хочешь посмотреть? Есть интересная история, которой хочется поделиться?"
+  },
+  "forum_extra": {
+    "zh": "嘿，今天的新鲜事可别藏着！写一条动态吧，说不定能遇见聊得来的同学呢。",
+    "en": "Do not keep all the fun to yourself! Share a post. You might meet someone you click with!",
+    "ja": "ねえ、今日の楽しいこと、ひとりじめしないで！投稿してみようよ。気の合う子に会えるかも！",
+    "ru": "Не держи всё интересное при себе! Напиши пост. Может быть, найдёшь новых друзей!"
+  },
+  "errands_hello": {
+    "zh": "买了什么好东西吗？还是要去拿快递？顺路的话，今天也帮同学一个小忙吧！",
+    "en": "Bought something nice, or picking up a parcel? Maybe lend someone a hand on the way!",
+    "ja": "何かいいものを買ったの？それとも荷物の受け取り？ついでに誰かを手伝ってみよう！",
+    "ru": "Купил что-нибудь интересное или идёшь за посылкой? Может, по пути поможем кому-нибудь?"
+  },
+  "errands_extra": {
+    "zh": "今天也要帮助别人吗？真不错！先看清任务和地点，路上注意安全哦。",
+    "en": "Helping someone today? Nice! Check the task and location first, and stay safe on the way.",
+    "ja": "今日も誰かのお手伝い？いいね！内容と場所を確認して、気をつけて行ってきてね。",
+    "ru": "Сегодня тоже помогаешь другим? Здорово! Проверь задание и адрес. Будь осторожен в дороге."
+  },
+  "guide_hello": {
+    "zh": "哪里不舒服吗？先别着急，慢慢告诉我。希望你快点好起来，下次见面就能一起聊开心的事情啦。",
+    "en": "Not feeling well? Take your time and tell us what is bothering you. Hope you feel better soon!",
+    "ja": "どこか具合が悪いの？焦らず、ゆっくり教えてね。早く元気になって、また楽しい話ができたらいいな。",
+    "ru": "Плохо себя чувствуешь? Не спеши, расскажи, что беспокоит. Надеюсь, тебе скоро станет лучше!"
+  },
+  "guide_extra": {
+    "zh": "能帮到你我很开心，不过更希望你一直健健康康的！我们先把情况说清楚，再让医生帮你确认吧。",
+    "en": "I am glad to help, and I hope you stay healthy! Let us explain things clearly so a doctor can check.",
+    "ja": "役に立てたらうれしいけど、ずっと元気でいてほしいな！まず状況を整理して、お医者さんに確認してもらおう。",
+    "ru": "Рада помочь, но ещё больше хочу, чтобы ты был здоров! Давай всё объясним, а врач проверит."
+  },
+  "booking_hello": {
+    "zh": "今天要运动吗？打球还是去自习？先留好位置，计划就能轻轻松松开始啦！",
+    "en": "Sports today, or a study session? Reserve a spot, and you are ready to go!",
+    "ja": "今日は運動する？それとも自習？先に場所を予約して、気軽に始めよう！",
+    "ru": "Сегодня спорт или учёба? Забронируй место, и можно начинать!"
+  },
+  "booking_extra": {
+    "zh": "想好今天的安排了吗？别忘了看看空闲时段哦。学习和运动，都给自己留一点时间吧！",
+    "en": "Made your plans? Check the available times. Leave some room for both study and exercise!",
+    "ja": "今日の予定は決まった？空いている時間も見てみてね。勉強にも運動にも、時間を作ろう！",
+    "ru": "Уже составил планы? Посмотри свободное время. Оставь немного времени и для учёбы, и для спорта!"
+  },
+  "home_plan": {
+    "zh": "今天想看点新鲜事，帮同学跑个腿，还是约一场球？选一个，我们这就出发！",
+    "en": "Want to catch up on campus news, help a friend, or book a game? Pick one, and let us go!",
+    "ja": "新しい話を探す？誰かを手伝う？それともスポーツ？ひとつ選んで、さっそく行こう！",
+    "ru": "Почитаем новости, поможем другу или забронируем площадку? Выбирай, и начнём!"
+  },
+  "home_morning_extra": {
+    "zh": "早上好！带上今天的好心情，我们一起出发吧！",
+    "en": "Good morning! Bring your best smile. Let us start the day together!",
+    "ja": "おはよう！今日も笑顔で、一緒に出発しよう！",
+    "ru": "Доброе утро! Улыбнись новому дню. Давай начнём его вместе!"
+  },
+  "home_noon_extra": {
+    "zh": "午饭时间到啦！再忙也要好好吃饭，休息一下再继续吧。",
+    "en": "Time for lunch! Even on a busy day, eat well and take a little break.",
+    "ja": "お昼の時間だよ！忙しくても、ちゃんと食べてひと休みしよう。",
+    "ru": "Время обеда! Даже в самый занятый день не забывай поесть и немного отдохнуть."
+  },
+  "home_afternoon_extra": {
+    "zh": "下午也要打起精神！先做一件小事，今天就又前进了一点。",
+    "en": "Keep your spirits up this afternoon! One small step is still progress.",
+    "ja": "午後も元気にいこう！小さなことを一つできたら、それも立派な一歩だよ。",
+    "ru": "Не теряй бодрости! Даже одно маленькое дело сегодня — уже шаг вперёд."
+  },
+  "home_evening_extra": {
+    "zh": "傍晚好！今天有什么值得开心的小事？说出来一起分享吧！",
+    "en": "Good evening! What made you smile today? Let us share the little joys!",
+    "ja": "こんばんは！今日は何かうれしいことあった？小さな幸せも聞かせてね！",
+    "ru": "Добрый вечер! Что тебя сегодня порадовало? Давай поделимся маленькими радостями!"
+  },
+  "home_night_extra": {
+    "zh": "夜深啦，今天已经很努力了。剩下的事情，明天再一起完成吧。",
+    "en": "It is getting late. You did your best today. We can finish the rest tomorrow.",
+    "ja": "もう遅いね。今日はよく頑張ったよ。残りは明日、一緒にやろう。",
+    "ru": "Уже поздно. Сегодня ты хорошо постарался. Остальное мы сделаем завтра."
+  },
+  "home_plan_extra": {
+    "zh": "不知道从哪里开始？把想做的事告诉我，我们一步一步来。",
+    "en": "Not sure where to start? Tell me what you want to do. We will take it step by step.",
+    "ja": "何から始めるか迷ってる？やりたいことを教えて。一つずつ進めよう。",
+    "ru": "Не знаешь, с чего начать? Расскажи, что хочешь сделать. Будем двигаться шаг за шагом."
+  },
+  "forum_share": {
+    "zh": "有趣的照片、好吃的食堂，都可以分享！你的日常，也许就是别人的小惊喜。",
+    "en": "A fun photo or a great campus meal? Share it! Your everyday story could brighten someone else’s day.",
+    "ja": "楽しい写真も、おいしい学食もシェアしよう！いつもの日常が、誰かの楽しみになるかも。",
+    "ru": "Интересное фото или вкусный обед в столовой? Поделись! Твоя история может поднять кому-то настроение."
+  },
+  "forum_welcome": {
+    "zh": "刚来到校园也没关系，先打个招呼吧！说不定马上就能遇到聊得来的同学。",
+    "en": "New to campus? Start with a hello! Your next friend might be just one message away.",
+    "ja": "キャンパスに来たばかりでも大丈夫。まずは挨拶してみよう！気の合う友達に会えるかも。",
+    "ru": "Ты недавно в кампусе? Начни с приветствия! Возможно, новый друг уже совсем рядом."
+  },
+  "forum_kind": {
+    "zh": "认真听听不同的想法，也温柔地表达自己。友好的交流，才更容易交到朋友呀。",
+    "en": "Listen to different views and share your own kindly. A friendly conversation can lead to a new friendship.",
+    "ja": "違う考えにも耳を傾けて、優しく自分の気持ちを伝えよう。そこから友達になれるかもね。",
+    "ru": "Слушай разные мнения и делись своим доброжелательно. Так легче найти новых друзей."
+  },
+  "forum_discover": {
+    "zh": "来看看大家发现了什么！社团活动、学习搭子，也许就有你感兴趣的。",
+    "en": "Let us see what is happening! A club event or a study partner might catch your eye.",
+    "ja": "みんなの発見を見てみよう！サークルのイベントや勉強仲間、気になるものがあるかも。",
+    "ru": "Посмотрим, что нового! Может быть, тебя заинтересует кружок или компания для учёбы."
+  },
+  "errands_pickup": {
+    "zh": "要拿快递吗？把取件要求写清楚，别把取件码发到公开的地方哦。",
+    "en": "Picking up a parcel? Explain what is needed, and keep your pickup code out of public posts.",
+    "ja": "荷物の受け取りかな？お願いしたいことを詳しく書いて、受取コードは公開しないでね。",
+    "ru": "Нужно забрать посылку? Опиши задание и не публикуй код получения в открытом доступе."
+  },
+  "errands_check": {
+    "zh": "出发前再检查一下任务和目的地。把细节对清楚，帮忙也会更顺利！",
+    "en": "Before heading out, check the task and destination. A little care makes helping much easier!",
+    "ja": "出発前に、お願いの内容と行き先を確認しよう。細かいところを確かめると安心だよ！",
+    "ru": "Перед выходом проверь задание и место назначения. Внимание к деталям поможет всё сделать спокойно!"
+  },
+  "errands_thanks": {
+    "zh": "谢谢你愿意帮忙！顺路的一小步，也能让同学的一天轻松很多。",
+    "en": "Thank you for helping! One small stop along your way can make someone else’s day much easier.",
+    "ja": "手伝ってくれてありがとう！ついでの小さなお手伝いが、誰かの一日を楽にするんだね。",
+    "ru": "Спасибо за помощь! Даже небольшое дело по пути может заметно облегчить чей-то день."
+  },
+  "errands_safety": {
+    "zh": "下雨天慢一点，东西拿稳，安全第一。帮完别人，也要照顾好自己呀。",
+    "en": "Take it slowly in the rain, and carry things carefully. Your safety matters too!",
+    "ja": "雨の日は急がず、荷物もしっかり持ってね。人を助けるときも、自分の安全を大切に！",
+    "ru": "В дождь не спеши и береги вещи. Помогая другим, не забывай о собственной безопасности!"
+  },
+  "guide_prepare": {
+    "zh": "先慢慢说，哪里不舒服、持续了多久。我帮你整理清楚，再交给医生判断。",
+    "en": "Take your time. Tell me what feels wrong and how long it has lasted. I can organize the details for a doctor to review.",
+    "ja": "ゆっくりで大丈夫。どこがつらいか、いつからか教えてね。医師に確認してもらえるよう整理するよ。",
+    "ru": "Не спеши. Расскажи, что беспокоит и как давно. Я помогу собрать информацию для врача."
+  },
+  "guide_wait": {
+    "zh": "如果已经来到诊室，请在候诊大厅等候。急诊不用预约，紧急情况要及时求助医护人员。",
+    "en": "At the clinic, please wait in the waiting area. Emergency care needs no appointment. If it is urgent, seek medical staff right away.",
+    "ja": "診療室に着いたら、待合ホールで待ってね。救急は予約不要だよ。緊急の場合は、すぐに医療スタッフへ。",
+    "ru": "В клинике оставайся в зале ожидания. Для экстренной помощи запись не нужна. В срочной ситуации сразу обратись к медикам."
+  },
+  "guide_care": {
+    "zh": "希望你快点好起来。我会陪你整理信息，具体怎么处理，还是要听医生的建议。",
+    "en": "I hope you feel better soon. I can help organize your information. Please follow a doctor’s advice about your care.",
+    "ja": "早く元気になりますように。情報の整理は手伝うね。具体的な対応は、医師のアドバイスを聞こう。",
+    "ru": "Надеюсь, тебе скоро станет лучше. Я помогу собрать информацию, а о лечении лучше посоветоваться с врачом."
+  },
+  "booking_study": {
+    "zh": "想找个安静的位置学习？先选日期和时段，再看看哪里还有空位吧。",
+    "en": "Need a quiet place to study? Pick a date and time, then let us check the available seats.",
+    "ja": "静かな場所で勉強したい？日付と時間を選んで、空いている席を探そう。",
+    "ru": "Нужно тихое место для учёбы? Выбери дату и время, а потом посмотрим свободные места."
+  },
+  "booking_sport": {
+    "zh": "今天也要动一动吗？约上同学一起吧，运动之前记得热身哦！",
+    "en": "Ready to get moving today? Invite a friend, and remember to warm up first!",
+    "ja": "今日は体を動かす？友達も誘ってみよう！運動の前に準備体操を忘れずにね。",
+    "ru": "Хочешь сегодня потренироваться? Позови друзей и не забудь сначала размяться!"
+  },
+  "booking_check": {
+    "zh": "确认之前，再看看场地、日期和时间。计划有变化，也记得及时取消预约。",
+    "en": "Before confirming, check the venue, date, and time. If plans change, remember to cancel your booking.",
+    "ja": "確定する前に、場所と日付と時間をもう一度確認しよう。予定が変わったら、予約のキャンセルも忘れずにね。",
+    "ru": "Перед подтверждением проверь место, дату и время. Если планы изменятся, не забудь отменить бронирование."
+  }
+}

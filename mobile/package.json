@@ -1,0 +1,33 @@
+{
+  "name": "universe-campus",
+  "version": "1.0.0",
+  "private": true,
+  "author": "UniVerse Team",
+  "type": "module",
+  "scripts": {
+    "dev:web": "uni --host 127.0.0.1",
+    "build:web": "node scripts/build.mjs web",
+    "build:weixin": "node scripts/build.mjs weixin",
+    "build:app": "node scripts/build.mjs app",
+    "build:all": "node scripts/build.mjs all",
+    "update:all": "node scripts/build.mjs all --deploy",
+    "check:release": "node scripts/check-release.mjs"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "3.0.0-5020620260917001",
+    "@dcloudio/uni-app-plus": "3.0.0-5020620260917001",
+    "@dcloudio/uni-components": "3.0.0-5020620260917001",
+    "@dcloudio/uni-h5": "3.0.0-5020620260917001",
+    "@dcloudio/uni-mp-weixin": "3.0.0-5020620260917001",
+    "vue": "^3.4.21",
+    "vue-i18n": "^9.1.9"
+  },
+  "devDependencies": {
+    "@dcloudio/types": "^3.4.8",
+    "@dcloudio/uni-cli-shared": "3.0.0-5020620260917001",
+    "@dcloudio/vite-plugin-uni": "3.0.0-5020620260917001",
+    "@vue/runtime-core": "^3.4.21",
+    "rollup": "4.14.3",
+    "vite": "5.2.8"
+  }
+}

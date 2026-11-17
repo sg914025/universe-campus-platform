@@ -1,0 +1,13 @@
+{% load static campus_ui %}
+<section class="home-mascot{% if mascot_module != 'home' %} module-mascot{% endif %}" aria-label="{% tr '小安' %}" data-module="{{ mascot_module }}"{% if assistant_enabled %} data-assistant="true"{% endif %}>
+<canvas id="anon-canvas" width="300" height="500" role="img" aria-label="{% ui '7ea8aa2604288e89' %}" data-mesh-rig="{% static 'campus/supplied-anon/rig.json' %}"></canvas>
+<div class="mascot-dialog" aria-live="polite"><p id="mascot-line">{% ui 'c2f3d199d2eba274' %}</p><div class="mascot-controls"><button type="button" id="mascot-speak">{% ui '327a4c224678b61c' %}</button><button type="button" id="mascot-next" aria-label="{% ui 'd7b4ab3d10168509' %}">{% ui '933eeb893dc0fe1b' %}</button><select id="mascot-language" aria-label="{% ui 'cd95e16779e89c4a' %}"><option value="zh">{% ui '72726d8818f69306' %}</option><option value="en">English</option><option value="ja">{% ui '77710aedc74ecfa3' %}</option><option value="ru">Русский</option></select><button type="button" id="mascot-hide" aria-label="{% ui 'd10d409466141e91' %}">−</button></div><label class="mascot-auto"><input type="checkbox" id="mascot-auto"> {% ui '52643b725c31bb5e' %}</label>{% if journey_enabled %}<p id="mascot-guide-instruction" class="mascot-guide-instruction" hidden></p><a id="mascot-guide-link" class="mascot-guide-link" hidden></a>{% endif %}{% if not assistant_enabled %}<a class="mascot-task-entry" href="{% url 'task-assistant' %}">{% tr '让小安帮我办事' %} ↗</a>{% endif %}<small id="mascot-voice-status" role="status"></small></div>
+<button type="button" class="mascot-restore" hidden>{% ui '4ec7024c82e60ef0' %}</button>
+<audio id="mascot-audio" preload="none"></audio>
+</section>
+<link rel="stylesheet" href="{% static 'campus/anon-mascot.css' %}?v=four1">
+<link rel="stylesheet" href="{% static 'campus/supplied-anon.css' %}?v=chest2">
+<link rel="stylesheet" href="{% static 'campus/task-entry.css' %}?v=1">
+<script defer src="{% static 'campus/live2d/vendor/pixi.min.js' %}"></script>
+<script defer src="{% static 'campus/supplied-anon.js' %}?v=ruclarity1"></script>
+<script defer src="{% static 'campus/mascot-talk.js' %}?v=original-ru2-plans1-ruclarity1" data-lines="{% static 'campus/voice-four-language/lines.json' %}?v=ruclarity1" data-voice="{% static 'campus/voice-four-language/' %}"></script>

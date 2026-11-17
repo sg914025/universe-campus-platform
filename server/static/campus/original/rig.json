@@ -1,0 +1,421 @@
+{
+  "name": "校园原创角色",
+  "renderer": "original-layered-pixi-rig",
+  "atlas": "parts-atlas.png",
+  "width": 600,
+  "height": 1000,
+  "headPivot": [
+    300,
+    250
+  ],
+  "anchorY": 900,
+  "parts": [
+    {
+      "id": "legs",
+      "name": "腿与鞋",
+      "frame": [
+        18,
+        18,
+        125,
+        335
+      ],
+      "x": 300,
+      "y": 578,
+      "width": 110,
+      "height": 290,
+      "parent": "body",
+      "anchor": [
+        0.5,
+        0
+      ],
+      "visible": true
+    },
+    {
+      "id": "back_hair",
+      "name": "长后发",
+      "frame": [
+        530,
+        18,
+        374,
+        369
+      ],
+      "x": 300,
+      "y": 140,
+      "width": 255,
+      "height": 430,
+      "parent": "body",
+      "anchor": [
+        0.5,
+        0
+      ],
+      "visible": true
+    },
+    {
+      "id": "arm_left",
+      "name": "左臂",
+      "frame": [
+        1042,
+        18,
+        185,
+        403
+      ],
+      "x": 242,
+      "y": 333,
+      "width": 105,
+      "height": 210,
+      "parent": "body",
+      "anchor": [
+        0.8,
+        0
+      ],
+      "visible": true
+    },
+    {
+      "id": "arm_right",
+      "name": "右臂",
+      "frame": [
+        1554,
+        18,
+        201,
+        397
+      ],
+      "x": 358,
+      "y": 333,
+      "width": 105,
+      "height": 210,
+      "parent": "body",
+      "anchor": [
+        0.2,
+        0
+      ],
+      "visible": false
+    },
+    {
+      "id": "arm_wave",
+      "name": "右臂_轻抬手",
+      "frame": [
+        18,
+        530,
+        233,
+        291
+      ],
+      "x": 358,
+      "y": 333,
+      "width": 122,
+      "height": 148,
+      "parent": "body",
+      "anchor": [
+        0.25,
+        0.25
+      ],
+      "visible": true
+    },
+    {
+      "id": "body",
+      "name": "灰色上衣与裙摆",
+      "frame": [
+        530,
+        530,
+        323,
+        387
+      ],
+      "x": 300,
+      "y": 314,
+      "width": 235,
+      "height": 280,
+      "parent": "body",
+      "anchor": [
+        0.5,
+        0
+      ],
+      "visible": true
+    },
+    {
+      "id": "head",
+      "name": "头部与前发",
+      "frame": [
+        1042,
+        530,
+        427,
+        453
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 220,
+      "height": 235,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": true
+    },
+    {
+      "id": "hair_left",
+      "name": "左前发束",
+      "frame": [
+        1554,
+        530,
+        191,
+        353
+      ],
+      "x": -82,
+      "y": -5,
+      "width": 65,
+      "height": 260,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0
+      ],
+      "visible": true
+    },
+    {
+      "id": "hair_right",
+      "name": "右前发束",
+      "frame": [
+        18,
+        1042,
+        186,
+        354
+      ],
+      "x": 82,
+      "y": -5,
+      "width": 65,
+      "height": 260,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0
+      ],
+      "visible": true
+    },
+    {
+      "id": "brow_left",
+      "name": "左眉",
+      "frame": [
+        530,
+        1042,
+        186,
+        39
+      ],
+      "x": -20,
+      "y": -8,
+      "width": 35,
+      "height": 8,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": true
+    },
+    {
+      "id": "brow_right",
+      "name": "右眉",
+      "frame": [
+        1042,
+        1042,
+        198,
+        40
+      ],
+      "x": 30,
+      "y": -8,
+      "width": 35,
+      "height": 8,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": true
+    },
+    {
+      "id": "eye_left",
+      "name": "左眼_睁开",
+      "frame": [
+        1554,
+        1042,
+        200,
+        115
+      ],
+      "x": -20,
+      "y": 12,
+      "width": 35,
+      "height": 23,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": true
+    },
+    {
+      "id": "eye_right",
+      "name": "右眼_睁开",
+      "frame": [
+        18,
+        1554,
+        196,
+        116
+      ],
+      "x": 30,
+      "y": 12,
+      "width": 35,
+      "height": 23,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": true
+    },
+    {
+      "id": "eye_closed_left",
+      "name": "左眼_闭合",
+      "frame": [
+        530,
+        1554,
+        210,
+        62
+      ],
+      "x": -20,
+      "y": 12,
+      "width": 35,
+      "height": 8,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": false
+    },
+    {
+      "id": "eye_closed_right",
+      "name": "右眼_闭合",
+      "frame": [
+        1042,
+        1554,
+        208,
+        63
+      ],
+      "x": 30,
+      "y": 12,
+      "width": 35,
+      "height": 8,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": false
+    },
+    {
+      "id": "brow_closed_left",
+      "name": "左眉_备用",
+      "frame": [
+        1554,
+        1554,
+        197,
+        42
+      ],
+      "x": -20,
+      "y": -8,
+      "width": 35,
+      "height": 8,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": false
+    },
+    {
+      "id": "brow_closed_right",
+      "name": "右眉_备用",
+      "frame": [
+        18,
+        2066,
+        200,
+        43
+      ],
+      "x": 30,
+      "y": -8,
+      "width": 35,
+      "height": 8,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": false
+    },
+    {
+      "id": "mouth_closed",
+      "name": "嘴_闭合",
+      "frame": [
+        530,
+        2066,
+        173,
+        52
+      ],
+      "x": 6,
+      "y": 30,
+      "width": 17,
+      "height": 5,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": true
+    },
+    {
+      "id": "mouth_small",
+      "name": "嘴_小开口",
+      "frame": [
+        1042,
+        2066,
+        116,
+        78
+      ],
+      "x": 6,
+      "y": 30,
+      "width": 15,
+      "height": 10,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": false
+    },
+    {
+      "id": "mouth_open",
+      "name": "嘴_大开口",
+      "frame": [
+        1554,
+        2066,
+        156,
+        98
+      ],
+      "x": 6,
+      "y": 30,
+      "width": 20,
+      "height": 13,
+      "parent": "head",
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "visible": false
+    }
+  ],
+  "parameters": {
+    "blink": "open/closed eye layers",
+    "mouth": "3 phoneme opening layers driven by audio RMS",
+    "headAngle": "head parent rotation",
+    "bodyBreath": "torso scale",
+    "wave": "alternate arm and shoulder rotation"
+  }
+}

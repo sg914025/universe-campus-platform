@@ -1,0 +1,22 @@
+{% load campus_ui %}
+<aside class="home-agenda" aria-label="{% tr '我的校园日程' %}" {% if user.is_authenticated %}data-agenda-url="{% url 'campus:home-agenda' %}"{% endif %} data-language="{{ ui_language }}">
+  <section class="agenda-panel home-friends" data-friends-roster="{% if user.is_authenticated %}{% url 'campus:friend-roster' %}{% endif %}">
+    <p class="agenda-kicker">FRIENDS / TOGETHER</p><div class="agenda-heading"><h2>{% tr '我的好友' %}</h2><a href="{% url 'campus:friend-hub' %}">↗</a></div>
+    <p class="agenda-hint">{% tr '分享日常，也分享下一场相遇。' %}</p><div data-friends-list><p class="agenda-hint">{% if user.is_authenticated %}{% tr '正在加载好友…' %}{% else %}{% tr '登录后和好友分享校园生活' %}{% endif %}</p></div>
+    <a class="friend-primary" href="{% url 'campus:friend-hub' %}">{% tr '分享日常 / 办事卡' %} ↗</a><a class="agenda-link" href="{% url 'campus:user_search' %}">{% tr '添加好友' %} +</a>
+  </section>
+  {% if user.is_authenticated %}<section class="agenda-panel" data-home-plan hidden><p class="agenda-kicker">CONTINUE / JOURNEY</p><h2>{% tr '我的办事计划' %}</h2><p class="agenda-hint" data-home-plan-source></p><strong data-home-plan-step></strong><p class="agenda-hint" data-home-plan-progress></p><a class="friend-primary" href="{% url 'task-assistant' %}#service-plan-panel">{% tr '继续办事计划' %} ↗</a></section>{% endif %}
+  <section class="agenda-panel">
+    <p class="agenda-kicker">MY CAMPUS / PLAN</p><h2>{% tr '我的日历' %}</h2>
+    {% if user.is_authenticated %}
+    <div class="agenda-month"><button type="button" data-month-step="-1" aria-label="{% tr '上个月' %}">‹</button><strong data-month-title></strong><button type="button" data-month-step="1" aria-label="{% tr '下个月' %}">›</button></div>
+    <div class="agenda-days" data-calendar-grid aria-label="{% tr '选择日期查看详情' %}"></div>
+    <p class="agenda-hint">● {% tr '有预约，点击日期查看详情' %}</p>
+    <dialog class="agenda-dialog" data-agenda-dialog><div class="agenda-heading"><h3 data-selected-title></h3><button type="button" data-close-agenda aria-label="{% tr '关闭详情' %}">×</button></div><div data-day-events></div></dialog>
+    <button type="button" class="agenda-today" data-go-today>{% tr '回到今天' %}</button>
+    {% else %}<p>{% tr '登录后查看自己的日程和办事卡' %}</p><a class="agenda-link" href="{% url 'login' %}?next=/">{% tr '校园账号登录' %} →</a>{% endif %}
+  </section>
+  {% if user.is_authenticated %}<section class="agenda-panel"><div class="agenda-heading"><h2>{% tr '我的办事卡' %}</h2><a href="{% url 'campus:booking-mine' %}">{% tr '全部' %} ↗</a></div><p class="agenda-hint">{% tr '点击卡片查看详细双语信息' %}</p><div data-agenda-cards></div></section><p data-agenda-status role="status"></p>{% endif %}
+  <a class="agenda-map-entry" href="{% url 'campus:campus-map' %}"><span aria-hidden="true">◇</span><strong>{% tr '3D 校园地图' %}</strong><span aria-hidden="true">↗</span></a>
+  <span hidden data-agenda-copy data-empty="{% tr '当天暂无预约' %}" data-no-cards="{% tr '暂无待办卡片，预约成功后会显示在这里' %}" data-detail="{% tr '查看详细办事卡' %}" data-calendar="{% tr '加入日历' %}" data-load-error="{% tr '日程加载失败，请刷新页面重试' %}" data-login="{% tr '登录已过期，请重新登录' %}"></span>
+</aside>

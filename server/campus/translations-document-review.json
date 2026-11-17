@@ -1,0 +1,2359 @@
+{
+  "发布的帖子": {
+    "en": "Posts"
+  },
+  "学院": {
+    "en": "College"
+  },
+  "个人资料": {
+    "en": "Bio"
+  },
+  "个人简介": {
+    "en": "Bio"
+  },
+  "不引用帖子": {
+    "en": "Do not quote posts"
+  },
+  "代买东西": {
+    "en": "Buy items on your behalf"
+  },
+  "订单标题": {
+    "en": "Order title"
+  },
+  "跑腿类型": {
+    "en": "Task type"
+  },
+  "详细地址（接单后可见）": {
+    "en": "Detailed address (visible after taking order)"
+  },
+  "手机号（接单后可见）": {
+    "en": "Phone number (visible after taking order)"
+  },
+  "跑腿/create.html": {
+    "en": "Delivery photos cannot be submitted again for the current order."
+  },
+  "跑腿/detail.html": {
+    "en": "Delivery photos cannot be submitted again for the current order."
+  },
+  "跑腿/mine.html": {
+    "en": "Delivery photos cannot be submitted again for the current order."
+  },
+  "跑腿/questions.html": {
+    "en": "Delivery photos cannot be submitted again for the current order."
+  },
+  "跑腿/question.html": {
+    "en": "Delivery photos cannot be submitted again for the current order."
+  },
+  "当前订单不能重复提交送达照片": {
+    "en": "Delivery photos cannot be submitted again for the current order."
+  },
+  "无权查看送达照片": {
+    "en": "You do not have permission to view this delivery photo."
+  },
+  "发布订单并预付悬赏": {
+    "en": "Order published and reward prepaid"
+  },
+  "接单成功": {
+    "en": "Order accepted successfully"
+  },
+  "上传送达照片，等待发布者确认": {
+    "en": "Delivery photo uploaded, waiting for publisher's confirmation"
+  },
+  "订单已完成，悬赏已结算": {
+    "en": "Order completed and reward settled"
+  },
+  "发布者确认完成，悬赏已结算给接单者": {
+    "en": "Publisher confirmed completion, reward has been settled to the order taker"
+  },
+  "管理员帮你解答": {
+    "en": "Admin support",
+    "ru": "Отправьте вопрос и ожидайте ответа"
+  },
+  "我们再靠近一点：不舒服的位置更接近哪里？": {
+    "en": "Let's get a little closer: Where exactly is the location of your discomfort?"
+  },
+  "刺痛": {
+    "en": "Sharp pain"
+  },
+  "还能正常活动": {
+    "en": "Can still do normal activities"
+  },
+  "活动或睡眠受到影响": {
+    "en": "Activities or sleep are affected"
+  },
+  "没有已知既往病史": {
+    "en": "No known past medical history"
+  },
+  "待医生回答": {
+    "en": "Waiting for doctor's reply"
+  },
+  "确认学号": {
+    "en": "Confirm your student ID"
+  },
+  "确认姓名": {
+    "en": "Confirm your name"
+  },
+  "任务说明（公开）": {
+    "en": "Task description (public)"
+  },
+  "跑腿价格（元）": {
+    "en": "Task price (yuan)",
+    "ru": "(юани)"
+  },
+  "暂未填写": {
+    "en": "Not yet filled"
+  },
+  "这个同学还没有填写简介": {
+    "en": "This student has not yet filled out a bio"
+  },
+  "学院未填写": {
+    "en": "College not filled"
+  },
+  "专业未填写": {
+    "en": "Major not filled"
+  },
+  "暂无简介": {
+    "en": "No bio available"
+  },
+  "资料已保存": {
+    "en": "Information saved"
+  },
+  "发布帖子": {
+    "en": "Create a post"
+  },
+  "接单广场": {
+    "en": "Task Board"
+  },
+  "疑惑解答": {
+    "en": "Help"
+  },
+  "照片已提交，等待发布者确认完成": {
+    "en": "Delivery photo uploaded, waiting for publisher's confirmation"
+  },
+  "订单已取消，预付款已退回余额": {
+    "en": "Order cancelled and prepayment refunded"
+  },
+  "取消未接单订单，已原路退回余额": {
+    "en": "Unaccepted order cancelled and balance refunded"
+  },
+  "提交送达，等待确认": {
+    "en": "Submit delivery for confirmation"
+  },
+  "送达说明（可选）": {
+    "en": "Delivery note (optional)"
+  },
+  "本地 AI 尚未启动，可继续使用基础追问": {
+    "en": "Local AI has not been started yet; you can continue using the basic follow-up questions"
+  },
+  "多语校园智慧生活服务平台": {
+    "ru": "Многоязычная платформа для умной жизни в кампусе"
+  },
+  "校园账号登录": {
+    "ru": "Вход в учётную запись кампуса"
+  },
+  "室内篮球场 · 示例01号": {
+    "en": "Indoor basketball court · Example No. 01"
+  },
+  "体育馆 · 示例区域": {
+    "en": "Gymnasium · Example area",
+    "ru": "Спортивный зал · Пример зоны"
+  },
+  "校园模型展示用示例资源，按时段预约，以学校实际安排为准": {
+    "en": "Example resources for campus model display; reservations are made by time slot, subject to the school's actual arrangements."
+  },
+  "室外足球场 · 示例 01 号": {
+    "en": "Outdoor football pitch · Example No. 01",
+    "ru": "Футбольное поле на открытом воздухе · Пример № 01"
+  },
+  "室外运动区 · 示例区域": {
+    "en": "Outdoor sports area · Example area",
+    "ru": "Уличная спортивная зона · Пример зоны"
+  },
+  "乒乓球台 · 示例 01 号": {
+    "en": "Table tennis table · Example No. 01",
+    "ru": "Стол для настольного тенниса · Пример № 01"
+  },
+  "A楼·示例01号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "Building A · A 楼·示例自习区域": {
+    "en": "Building A · Example Study Area"
+  },
+  "示例自习座位，按两小时时段预约；请以学校实际开放安排为准": {
+    "en": "Example study seats; reservations are made in two-hour time slots; please refer to the school's actual opening arrangements."
+  },
+  "图书馆·示例01号座位": {
+    "en": "Library · Example Seat No. 01"
+  },
+  "Library · 图书馆·示例自习区域": {
+    "en": "Library · Example Study Area"
+  },
+  "任务说明(公开)": {
+    "en": "Task description (public)"
+  },
+  "跑腿价格（元)": {
+    "en": "Task price (yuan)"
+  },
+  "还没有消息。高级导诊中提交给后台的咨询，会显示在这里": {
+    "en": "No messages yet. Consultations submitted to the backend in the Advanced Triage will be displayed here."
+  },
+  "不确定可以选择'说不清'，也可以用自己的话回答": {
+    "en": "If you are unsure, you can select 'Cannot specify', or you can answer in your own words."
+  },
+  "感受轻重不能单独判断病情是否危险": {
+    "en": "The severity of the symptoms alone cannot determine whether the condition is dangerous."
+  },
+  "请用自己的话说明医生诊断过的病症、长期用药或药物过敏，不要填写姓名或证件号码。": {
+    "en": "Please describe in your own words any conditions diagnosed by a doctor, long-term medications, or drug allergies. Do not fill in your name or ID number."
+  },
+  "信息已整理，请确认后继续。定位是你描述的位置，不代表病灶或诊断": {
+    "en": "Information has been compiled, please confirm to continue. The localization is based on your description and does not represent the actual lesion or diagnosis."
+  },
+  "已自动分诊到对应科室医生待答列表。医生回复后，请留意站内信箱": {
+    "en": "Automatically triaged to the relevant department's doctor pending list. After the doctor replies, please check your internal inbox."
+  },
+  "A楼 · 示例 01 号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A楼 · 示例01号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A楼·示例02号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A楼 · 示例 02 号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A楼 · 示例02号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A楼·示例03号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A楼 · 示例 03 号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A楼 · 示例03号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A楼·示例04号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A楼 · 示例 04 号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A楼 · 示例04号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A楼·示例05号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A楼 · 示例 05 号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A楼 · 示例05号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A楼·示例06号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A楼 · 示例 06 号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A楼 · 示例06号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A楼·示例07号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A楼 · 示例 07 号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A楼 · 示例07号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A楼·示例08号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A楼 · 示例 08 号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A楼 · 示例08号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A楼·示例09号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A楼 · 示例 09 号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A楼 · 示例09号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A楼·示例10号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A楼 · 示例 10 号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A楼 · 示例10号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A楼·示例11号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A楼 · 示例 11 号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A楼 · 示例11号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A楼·示例12号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A楼 · 示例 12 号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A楼 · 示例12号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A楼·示例13号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A楼 · 示例 13 号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A楼 · 示例13号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A楼·示例14号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A楼 · 示例 14 号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A楼 · 示例14号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A楼·示例15号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A楼 · 示例 15 号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A楼 · 示例15号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A楼·示例16号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A楼 · 示例 16 号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A楼 · 示例16号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A楼·示例17号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A楼 · 示例 17 号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A楼 · 示例17号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A楼·示例18号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A楼 · 示例 18 号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A楼 · 示例18号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A楼·示例19号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A楼 · 示例 19 号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A楼 · 示例19号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A楼·示例20号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A楼 · 示例 20 号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A楼 · 示例20号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A楼·示例自习区域": {
+    "en": "Building A · Example Study Area"
+  },
+  "A楼 · 示例自习区域": {
+    "en": "Building A · Example Study Area"
+  },
+  "A 楼·示例01号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A 楼 · 示例 01 号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A 楼 · 示例01号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A 楼·示例02号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A 楼 · 示例 02 号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A 楼 · 示例02号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A 楼·示例03号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A 楼 · 示例 03 号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A 楼 · 示例03号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A 楼·示例04号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A 楼 · 示例 04 号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A 楼 · 示例04号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A 楼·示例05号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A 楼 · 示例 05 号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A 楼 · 示例05号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A 楼·示例06号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A 楼 · 示例 06 号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A 楼 · 示例06号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A 楼·示例07号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A 楼 · 示例 07 号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A 楼 · 示例07号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A 楼·示例08号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A 楼 · 示例 08 号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A 楼 · 示例08号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A 楼·示例09号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A 楼 · 示例 09 号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A 楼 · 示例09号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A 楼·示例10号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A 楼 · 示例 10 号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A 楼 · 示例10号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A 楼·示例11号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A 楼 · 示例 11 号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A 楼 · 示例11号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A 楼·示例12号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A 楼 · 示例 12 号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A 楼 · 示例12号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A 楼·示例13号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A 楼 · 示例 13 号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A 楼 · 示例13号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A 楼·示例14号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A 楼 · 示例 14 号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A 楼 · 示例14号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A 楼·示例15号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A 楼 · 示例 15 号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A 楼 · 示例15号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A 楼·示例16号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A 楼 · 示例 16 号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A 楼 · 示例16号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A 楼·示例17号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A 楼 · 示例 17 号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A 楼 · 示例17号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A 楼·示例18号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A 楼 · 示例 18 号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A 楼 · 示例18号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A 楼·示例19号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A 楼 · 示例 19 号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A 楼 · 示例19号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A 楼·示例20号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A 楼 · 示例 20 号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A 楼 · 示例20号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A 楼·示例自习区域": {
+    "en": "Building A · Example Study Area"
+  },
+  "A 楼 · 示例自习区域": {
+    "en": "Building A · Example Study Area"
+  },
+  "A·示例01号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A · 示例 01 号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A · 示例01号座位": {
+    "en": "Building A · Example Seat No. 01"
+  },
+  "A·示例02号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A · 示例 02 号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A · 示例02号座位": {
+    "en": "Building A · Example Seat No. 02"
+  },
+  "A·示例03号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A · 示例 03 号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A · 示例03号座位": {
+    "en": "Building A · Example Seat No. 03"
+  },
+  "A·示例04号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A · 示例 04 号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A · 示例04号座位": {
+    "en": "Building A · Example Seat No. 04"
+  },
+  "A·示例05号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A · 示例 05 号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A · 示例05号座位": {
+    "en": "Building A · Example Seat No. 05"
+  },
+  "A·示例06号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A · 示例 06 号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A · 示例06号座位": {
+    "en": "Building A · Example Seat No. 06"
+  },
+  "A·示例07号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A · 示例 07 号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A · 示例07号座位": {
+    "en": "Building A · Example Seat No. 07"
+  },
+  "A·示例08号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A · 示例 08 号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A · 示例08号座位": {
+    "en": "Building A · Example Seat No. 08"
+  },
+  "A·示例09号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A · 示例 09 号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A · 示例09号座位": {
+    "en": "Building A · Example Seat No. 09"
+  },
+  "A·示例10号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A · 示例 10 号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A · 示例10号座位": {
+    "en": "Building A · Example Seat No. 10"
+  },
+  "A·示例11号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A · 示例 11 号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A · 示例11号座位": {
+    "en": "Building A · Example Seat No. 11"
+  },
+  "A·示例12号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A · 示例 12 号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A · 示例12号座位": {
+    "en": "Building A · Example Seat No. 12"
+  },
+  "A·示例13号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A · 示例 13 号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A · 示例13号座位": {
+    "en": "Building A · Example Seat No. 13"
+  },
+  "A·示例14号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A · 示例 14 号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A · 示例14号座位": {
+    "en": "Building A · Example Seat No. 14"
+  },
+  "A·示例15号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A · 示例 15 号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A · 示例15号座位": {
+    "en": "Building A · Example Seat No. 15"
+  },
+  "A·示例16号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A · 示例 16 号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A · 示例16号座位": {
+    "en": "Building A · Example Seat No. 16"
+  },
+  "A·示例17号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A · 示例 17 号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A · 示例17号座位": {
+    "en": "Building A · Example Seat No. 17"
+  },
+  "A·示例18号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A · 示例 18 号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A · 示例18号座位": {
+    "en": "Building A · Example Seat No. 18"
+  },
+  "A·示例19号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A · 示例 19 号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A · 示例19号座位": {
+    "en": "Building A · Example Seat No. 19"
+  },
+  "A·示例20号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A · 示例 20 号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A · 示例20号座位": {
+    "en": "Building A · Example Seat No. 20"
+  },
+  "A·示例自习区域": {
+    "en": "Building A · Example Study Area"
+  },
+  "A · 示例自习区域": {
+    "en": "Building A · Example Study Area"
+  },
+  "B楼·示例01号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B楼 · 示例 01 号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B楼 · 示例01号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B楼·示例02号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B楼 · 示例 02 号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B楼 · 示例02号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B楼·示例03号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B楼 · 示例 03 号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B楼 · 示例03号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B楼·示例04号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B楼 · 示例 04 号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B楼 · 示例04号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B楼·示例05号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B楼 · 示例 05 号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B楼 · 示例05号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B楼·示例06号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B楼 · 示例 06 号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B楼 · 示例06号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B楼·示例07号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B楼 · 示例 07 号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B楼 · 示例07号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B楼·示例08号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B楼 · 示例 08 号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B楼 · 示例08号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B楼·示例09号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B楼 · 示例 09 号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B楼 · 示例09号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B楼·示例10号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B楼 · 示例 10 号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B楼 · 示例10号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B楼·示例11号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B楼 · 示例 11 号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B楼 · 示例11号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B楼·示例12号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B楼 · 示例 12 号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B楼 · 示例12号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B楼·示例13号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B楼 · 示例 13 号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B楼 · 示例13号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B楼·示例14号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B楼 · 示例 14 号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B楼 · 示例14号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B楼·示例15号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B楼 · 示例 15 号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B楼 · 示例15号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B楼·示例16号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B楼 · 示例 16 号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B楼 · 示例16号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B楼·示例17号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B楼 · 示例 17 号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B楼 · 示例17号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B楼·示例18号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B楼 · 示例 18 号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B楼 · 示例18号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B楼·示例19号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B楼 · 示例 19 号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B楼 · 示例19号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B楼·示例20号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B楼 · 示例 20 号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B楼 · 示例20号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B楼·示例自习区域": {
+    "en": "Building B · Example Study Area"
+  },
+  "B楼 · 示例自习区域": {
+    "en": "Building B · Example Study Area"
+  },
+  "B 楼·示例01号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B 楼 · 示例 01 号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B 楼 · 示例01号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B 楼·示例02号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B 楼 · 示例 02 号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B 楼 · 示例02号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B 楼·示例03号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B 楼 · 示例 03 号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B 楼 · 示例03号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B 楼·示例04号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B 楼 · 示例 04 号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B 楼 · 示例04号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B 楼·示例05号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B 楼 · 示例 05 号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B 楼 · 示例05号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B 楼·示例06号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B 楼 · 示例 06 号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B 楼 · 示例06号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B 楼·示例07号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B 楼 · 示例 07 号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B 楼 · 示例07号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B 楼·示例08号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B 楼 · 示例 08 号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B 楼 · 示例08号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B 楼·示例09号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B 楼 · 示例 09 号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B 楼 · 示例09号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B 楼·示例10号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B 楼 · 示例 10 号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B 楼 · 示例10号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B 楼·示例11号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B 楼 · 示例 11 号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B 楼 · 示例11号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B 楼·示例12号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B 楼 · 示例 12 号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B 楼 · 示例12号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B 楼·示例13号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B 楼 · 示例 13 号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B 楼 · 示例13号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B 楼·示例14号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B 楼 · 示例 14 号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B 楼 · 示例14号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B 楼·示例15号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B 楼 · 示例 15 号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B 楼 · 示例15号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B 楼·示例16号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B 楼 · 示例 16 号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B 楼 · 示例16号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B 楼·示例17号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B 楼 · 示例 17 号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B 楼 · 示例17号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B 楼·示例18号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B 楼 · 示例 18 号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B 楼 · 示例18号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B 楼·示例19号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B 楼 · 示例 19 号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B 楼 · 示例19号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B 楼·示例20号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B 楼 · 示例 20 号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B 楼 · 示例20号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B 楼·示例自习区域": {
+    "en": "Building B · Example Study Area"
+  },
+  "B 楼 · 示例自习区域": {
+    "en": "Building B · Example Study Area"
+  },
+  "B·示例01号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B · 示例 01 号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B · 示例01号座位": {
+    "en": "Building B · Example Seat No. 01"
+  },
+  "B·示例02号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B · 示例 02 号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B · 示例02号座位": {
+    "en": "Building B · Example Seat No. 02"
+  },
+  "B·示例03号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B · 示例 03 号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B · 示例03号座位": {
+    "en": "Building B · Example Seat No. 03"
+  },
+  "B·示例04号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B · 示例 04 号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B · 示例04号座位": {
+    "en": "Building B · Example Seat No. 04"
+  },
+  "B·示例05号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B · 示例 05 号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B · 示例05号座位": {
+    "en": "Building B · Example Seat No. 05"
+  },
+  "B·示例06号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B · 示例 06 号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B · 示例06号座位": {
+    "en": "Building B · Example Seat No. 06"
+  },
+  "B·示例07号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B · 示例 07 号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B · 示例07号座位": {
+    "en": "Building B · Example Seat No. 07"
+  },
+  "B·示例08号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B · 示例 08 号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B · 示例08号座位": {
+    "en": "Building B · Example Seat No. 08"
+  },
+  "B·示例09号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B · 示例 09 号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B · 示例09号座位": {
+    "en": "Building B · Example Seat No. 09"
+  },
+  "B·示例10号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B · 示例 10 号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B · 示例10号座位": {
+    "en": "Building B · Example Seat No. 10"
+  },
+  "B·示例11号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B · 示例 11 号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B · 示例11号座位": {
+    "en": "Building B · Example Seat No. 11"
+  },
+  "B·示例12号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B · 示例 12 号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B · 示例12号座位": {
+    "en": "Building B · Example Seat No. 12"
+  },
+  "B·示例13号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B · 示例 13 号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B · 示例13号座位": {
+    "en": "Building B · Example Seat No. 13"
+  },
+  "B·示例14号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B · 示例 14 号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B · 示例14号座位": {
+    "en": "Building B · Example Seat No. 14"
+  },
+  "B·示例15号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B · 示例 15 号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B · 示例15号座位": {
+    "en": "Building B · Example Seat No. 15"
+  },
+  "B·示例16号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B · 示例 16 号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B · 示例16号座位": {
+    "en": "Building B · Example Seat No. 16"
+  },
+  "B·示例17号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B · 示例 17 号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B · 示例17号座位": {
+    "en": "Building B · Example Seat No. 17"
+  },
+  "B·示例18号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B · 示例 18 号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B · 示例18号座位": {
+    "en": "Building B · Example Seat No. 18"
+  },
+  "B·示例19号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B · 示例 19 号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B · 示例19号座位": {
+    "en": "Building B · Example Seat No. 19"
+  },
+  "B·示例20号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B · 示例 20 号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B · 示例20号座位": {
+    "en": "Building B · Example Seat No. 20"
+  },
+  "B·示例自习区域": {
+    "en": "Building B · Example Study Area"
+  },
+  "B · 示例自习区域": {
+    "en": "Building B · Example Study Area"
+  },
+  "C楼·示例01号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C楼 · 示例 01 号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C楼 · 示例01号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C楼·示例02号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C楼 · 示例 02 号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C楼 · 示例02号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C楼·示例03号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C楼 · 示例 03 号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C楼 · 示例03号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C楼·示例04号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C楼 · 示例 04 号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C楼 · 示例04号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C楼·示例05号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C楼 · 示例 05 号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C楼 · 示例05号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C楼·示例06号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C楼 · 示例 06 号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C楼 · 示例06号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C楼·示例07号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C楼 · 示例 07 号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C楼 · 示例07号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C楼·示例08号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C楼 · 示例 08 号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C楼 · 示例08号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C楼·示例09号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C楼 · 示例 09 号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C楼 · 示例09号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C楼·示例10号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C楼 · 示例 10 号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C楼 · 示例10号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C楼·示例11号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C楼 · 示例 11 号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C楼 · 示例11号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C楼·示例12号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C楼 · 示例 12 号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C楼 · 示例12号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C楼·示例13号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C楼 · 示例 13 号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C楼 · 示例13号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C楼·示例14号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C楼 · 示例 14 号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C楼 · 示例14号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C楼·示例15号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C楼 · 示例 15 号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C楼 · 示例15号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C楼·示例16号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C楼 · 示例 16 号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C楼 · 示例16号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C楼·示例17号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C楼 · 示例 17 号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C楼 · 示例17号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C楼·示例18号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C楼 · 示例 18 号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C楼 · 示例18号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C楼·示例19号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C楼 · 示例 19 号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C楼 · 示例19号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C楼·示例20号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C楼 · 示例 20 号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C楼 · 示例20号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C楼·示例自习区域": {
+    "en": "Building C · Example Study Area"
+  },
+  "C楼 · 示例自习区域": {
+    "en": "Building C · Example Study Area"
+  },
+  "C 楼·示例01号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C 楼 · 示例 01 号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C 楼 · 示例01号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C 楼·示例02号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C 楼 · 示例 02 号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C 楼 · 示例02号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C 楼·示例03号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C 楼 · 示例 03 号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C 楼 · 示例03号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C 楼·示例04号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C 楼 · 示例 04 号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C 楼 · 示例04号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C 楼·示例05号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C 楼 · 示例 05 号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C 楼 · 示例05号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C 楼·示例06号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C 楼 · 示例 06 号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C 楼 · 示例06号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C 楼·示例07号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C 楼 · 示例 07 号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C 楼 · 示例07号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C 楼·示例08号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C 楼 · 示例 08 号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C 楼 · 示例08号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C 楼·示例09号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C 楼 · 示例 09 号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C 楼 · 示例09号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C 楼·示例10号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C 楼 · 示例 10 号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C 楼 · 示例10号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C 楼·示例11号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C 楼 · 示例 11 号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C 楼 · 示例11号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C 楼·示例12号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C 楼 · 示例 12 号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C 楼 · 示例12号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C 楼·示例13号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C 楼 · 示例 13 号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C 楼 · 示例13号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C 楼·示例14号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C 楼 · 示例 14 号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C 楼 · 示例14号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C 楼·示例15号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C 楼 · 示例 15 号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C 楼 · 示例15号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C 楼·示例16号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C 楼 · 示例 16 号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C 楼 · 示例16号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C 楼·示例17号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C 楼 · 示例 17 号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C 楼 · 示例17号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C 楼·示例18号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C 楼 · 示例 18 号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C 楼 · 示例18号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C 楼·示例19号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C 楼 · 示例 19 号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C 楼 · 示例19号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C 楼·示例20号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C 楼 · 示例 20 号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C 楼 · 示例20号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C 楼·示例自习区域": {
+    "en": "Building C · Example Study Area"
+  },
+  "C 楼 · 示例自习区域": {
+    "en": "Building C · Example Study Area"
+  },
+  "C·示例01号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C · 示例 01 号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C · 示例01号座位": {
+    "en": "Building C · Example Seat No. 01"
+  },
+  "C·示例02号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C · 示例 02 号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C · 示例02号座位": {
+    "en": "Building C · Example Seat No. 02"
+  },
+  "C·示例03号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C · 示例 03 号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C · 示例03号座位": {
+    "en": "Building C · Example Seat No. 03"
+  },
+  "C·示例04号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C · 示例 04 号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C · 示例04号座位": {
+    "en": "Building C · Example Seat No. 04"
+  },
+  "C·示例05号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C · 示例 05 号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C · 示例05号座位": {
+    "en": "Building C · Example Seat No. 05"
+  },
+  "C·示例06号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C · 示例 06 号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C · 示例06号座位": {
+    "en": "Building C · Example Seat No. 06"
+  },
+  "C·示例07号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C · 示例 07 号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C · 示例07号座位": {
+    "en": "Building C · Example Seat No. 07"
+  },
+  "C·示例08号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C · 示例 08 号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C · 示例08号座位": {
+    "en": "Building C · Example Seat No. 08"
+  },
+  "C·示例09号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C · 示例 09 号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C · 示例09号座位": {
+    "en": "Building C · Example Seat No. 09"
+  },
+  "C·示例10号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C · 示例 10 号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C · 示例10号座位": {
+    "en": "Building C · Example Seat No. 10"
+  },
+  "C·示例11号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C · 示例 11 号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C · 示例11号座位": {
+    "en": "Building C · Example Seat No. 11"
+  },
+  "C·示例12号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C · 示例 12 号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C · 示例12号座位": {
+    "en": "Building C · Example Seat No. 12"
+  },
+  "C·示例13号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C · 示例 13 号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C · 示例13号座位": {
+    "en": "Building C · Example Seat No. 13"
+  },
+  "C·示例14号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C · 示例 14 号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C · 示例14号座位": {
+    "en": "Building C · Example Seat No. 14"
+  },
+  "C·示例15号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C · 示例 15 号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C · 示例15号座位": {
+    "en": "Building C · Example Seat No. 15"
+  },
+  "C·示例16号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C · 示例 16 号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C · 示例16号座位": {
+    "en": "Building C · Example Seat No. 16"
+  },
+  "C·示例17号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C · 示例 17 号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C · 示例17号座位": {
+    "en": "Building C · Example Seat No. 17"
+  },
+  "C·示例18号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C · 示例 18 号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C · 示例18号座位": {
+    "en": "Building C · Example Seat No. 18"
+  },
+  "C·示例19号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C · 示例 19 号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C · 示例19号座位": {
+    "en": "Building C · Example Seat No. 19"
+  },
+  "C·示例20号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C · 示例 20 号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C · 示例20号座位": {
+    "en": "Building C · Example Seat No. 20"
+  },
+  "C·示例自习区域": {
+    "en": "Building C · Example Study Area"
+  },
+  "C · 示例自习区域": {
+    "en": "Building C · Example Study Area"
+  },
+  "图书馆 · 示例 01 号座位": {
+    "en": "Library · Example Seat No. 01"
+  },
+  "图书馆 · 示例01号座位": {
+    "en": "Library · Example Seat No. 01"
+  },
+  "图书馆·示例02号座位": {
+    "en": "Library · Example Seat No. 02"
+  },
+  "图书馆 · 示例 02 号座位": {
+    "en": "Library · Example Seat No. 02"
+  },
+  "图书馆 · 示例02号座位": {
+    "en": "Library · Example Seat No. 02"
+  },
+  "图书馆·示例03号座位": {
+    "en": "Library · Example Seat No. 03"
+  },
+  "图书馆 · 示例 03 号座位": {
+    "en": "Library · Example Seat No. 03"
+  },
+  "图书馆 · 示例03号座位": {
+    "en": "Library · Example Seat No. 03"
+  },
+  "图书馆·示例04号座位": {
+    "en": "Library · Example Seat No. 04"
+  },
+  "图书馆 · 示例 04 号座位": {
+    "en": "Library · Example Seat No. 04"
+  },
+  "图书馆 · 示例04号座位": {
+    "en": "Library · Example Seat No. 04"
+  },
+  "图书馆·示例05号座位": {
+    "en": "Library · Example Seat No. 05"
+  },
+  "图书馆 · 示例 05 号座位": {
+    "en": "Library · Example Seat No. 05"
+  },
+  "图书馆 · 示例05号座位": {
+    "en": "Library · Example Seat No. 05"
+  },
+  "图书馆·示例06号座位": {
+    "en": "Library · Example Seat No. 06"
+  },
+  "图书馆 · 示例 06 号座位": {
+    "en": "Library · Example Seat No. 06"
+  },
+  "图书馆 · 示例06号座位": {
+    "en": "Library · Example Seat No. 06"
+  },
+  "图书馆·示例07号座位": {
+    "en": "Library · Example Seat No. 07"
+  },
+  "图书馆 · 示例 07 号座位": {
+    "en": "Library · Example Seat No. 07"
+  },
+  "图书馆 · 示例07号座位": {
+    "en": "Library · Example Seat No. 07"
+  },
+  "图书馆·示例08号座位": {
+    "en": "Library · Example Seat No. 08"
+  },
+  "图书馆 · 示例 08 号座位": {
+    "en": "Library · Example Seat No. 08"
+  },
+  "图书馆 · 示例08号座位": {
+    "en": "Library · Example Seat No. 08"
+  },
+  "图书馆·示例09号座位": {
+    "en": "Library · Example Seat No. 09"
+  },
+  "图书馆 · 示例 09 号座位": {
+    "en": "Library · Example Seat No. 09"
+  },
+  "图书馆 · 示例09号座位": {
+    "en": "Library · Example Seat No. 09"
+  },
+  "图书馆·示例10号座位": {
+    "en": "Library · Example Seat No. 10"
+  },
+  "图书馆 · 示例 10 号座位": {
+    "en": "Library · Example Seat No. 10"
+  },
+  "图书馆 · 示例10号座位": {
+    "en": "Library · Example Seat No. 10"
+  },
+  "图书馆·示例11号座位": {
+    "en": "Library · Example Seat No. 11"
+  },
+  "图书馆 · 示例 11 号座位": {
+    "en": "Library · Example Seat No. 11"
+  },
+  "图书馆 · 示例11号座位": {
+    "en": "Library · Example Seat No. 11"
+  },
+  "图书馆·示例12号座位": {
+    "en": "Library · Example Seat No. 12"
+  },
+  "图书馆 · 示例 12 号座位": {
+    "en": "Library · Example Seat No. 12"
+  },
+  "图书馆 · 示例12号座位": {
+    "en": "Library · Example Seat No. 12"
+  },
+  "图书馆·示例13号座位": {
+    "en": "Library · Example Seat No. 13"
+  },
+  "图书馆 · 示例 13 号座位": {
+    "en": "Library · Example Seat No. 13"
+  },
+  "图书馆 · 示例13号座位": {
+    "en": "Library · Example Seat No. 13"
+  },
+  "图书馆·示例14号座位": {
+    "en": "Library · Example Seat No. 14"
+  },
+  "图书馆 · 示例 14 号座位": {
+    "en": "Library · Example Seat No. 14"
+  },
+  "图书馆 · 示例14号座位": {
+    "en": "Library · Example Seat No. 14"
+  },
+  "图书馆·示例15号座位": {
+    "en": "Library · Example Seat No. 15"
+  },
+  "图书馆 · 示例 15 号座位": {
+    "en": "Library · Example Seat No. 15"
+  },
+  "图书馆 · 示例15号座位": {
+    "en": "Library · Example Seat No. 15"
+  },
+  "图书馆·示例16号座位": {
+    "en": "Library · Example Seat No. 16"
+  },
+  "图书馆 · 示例 16 号座位": {
+    "en": "Library · Example Seat No. 16"
+  },
+  "图书馆 · 示例16号座位": {
+    "en": "Library · Example Seat No. 16"
+  },
+  "图书馆·示例17号座位": {
+    "en": "Library · Example Seat No. 17"
+  },
+  "图书馆 · 示例 17 号座位": {
+    "en": "Library · Example Seat No. 17"
+  },
+  "图书馆 · 示例17号座位": {
+    "en": "Library · Example Seat No. 17"
+  },
+  "图书馆·示例18号座位": {
+    "en": "Library · Example Seat No. 18"
+  },
+  "图书馆 · 示例 18 号座位": {
+    "en": "Library · Example Seat No. 18"
+  },
+  "图书馆 · 示例18号座位": {
+    "en": "Library · Example Seat No. 18"
+  },
+  "图书馆·示例19号座位": {
+    "en": "Library · Example Seat No. 19"
+  },
+  "图书馆 · 示例 19 号座位": {
+    "en": "Library · Example Seat No. 19"
+  },
+  "图书馆 · 示例19号座位": {
+    "en": "Library · Example Seat No. 19"
+  },
+  "图书馆·示例20号座位": {
+    "en": "Library · Example Seat No. 20"
+  },
+  "图书馆 · 示例 20 号座位": {
+    "en": "Library · Example Seat No. 20"
+  },
+  "图书馆 · 示例20号座位": {
+    "en": "Library · Example Seat No. 20"
+  },
+  "图书馆·示例自习区域": {
+    "en": "Library · Example Study Area"
+  },
+  "图书馆 · 示例自习区域": {
+    "en": "Library · Example Study Area"
+  },
+  "室内篮球场 · 示例 01 号": {
+    "en": "Indoor basketball court · Example No. 01",
+    "ru": "Баскетбольная площадка в зале · Пример № 01"
+  },
+  "室内篮球场·示例01号": {
+    "en": "Indoor basketball court · Example No. 01"
+  },
+  "室内篮球场 · 示例 02 号": {
+    "en": "Indoor basketball court · Example No. 02",
+    "ru": "Баскетбольная площадка в зале · Пример № 02"
+  },
+  "室内篮球场 · 示例02号": {
+    "en": "Indoor basketball court · Example No. 02"
+  },
+  "室内篮球场·示例02号": {
+    "en": "Indoor basketball court · Example No. 02"
+  },
+  "室外足球场 · 示例01号": {
+    "en": "Outdoor football pitch · Example No. 01"
+  },
+  "室外足球场·示例01号": {
+    "en": "Outdoor football pitch · Example No. 01"
+  },
+  "乒乓球台 · 示例01号": {
+    "en": "Table tennis table · Example No. 01"
+  },
+  "乒乓球台·示例01号": {
+    "en": "Table tennis table · Example No. 01"
+  },
+  "乒乓球台 · 示例 02 号": {
+    "en": "Table tennis table · Example No. 02",
+    "ru": "Стол для настольного тенниса · Пример № 02"
+  },
+  "乒乓球台 · 示例02号": {
+    "en": "Table tennis table · Example No. 02"
+  },
+  "乒乓球台·示例02号": {
+    "en": "Table tennis table · Example No. 02"
+  },
+  "乒乓球台 · 示例 03 号": {
+    "en": "Table tennis table · Example No. 03",
+    "ru": "Стол для настольного тенниса · Пример № 03"
+  },
+  "乒乓球台 · 示例03号": {
+    "en": "Table tennis table · Example No. 03"
+  },
+  "乒乓球台·示例03号": {
+    "en": "Table tennis table · Example No. 03"
+  },
+  "乒乓球台 · 示例 04 号": {
+    "en": "Table tennis table · Example No. 04",
+    "ru": "Стол для настольного тенниса · Пример № 04"
+  },
+  "乒乓球台 · 示例04号": {
+    "en": "Table tennis table · Example No. 04"
+  },
+  "乒乓球台·示例04号": {
+    "en": "Table tennis table · Example No. 04"
+  },
+  "乒乓球台 · 示例 05 号": {
+    "en": "Table tennis table · Example No. 05",
+    "ru": "Стол для настольного тенниса · Пример № 05"
+  },
+  "乒乓球台 · 示例05号": {
+    "en": "Table tennis table · Example No. 05"
+  },
+  "乒乓球台·示例05号": {
+    "en": "Table tennis table · Example No. 05"
+  },
+  "乒乓球台 · 示例 06 号": {
+    "en": "Table tennis table · Example No. 06",
+    "ru": "Стол для настольного тенниса · Пример № 06"
+  },
+  "乒乓球台 · 示例06号": {
+    "en": "Table tennis table · Example No. 06"
+  },
+  "乒乓球台·示例06号": {
+    "en": "Table tennis table · Example No. 06"
+  },
+  "乒乓球台 · 示例 07 号": {
+    "en": "Table tennis table · Example No. 07",
+    "ru": "Стол для настольного тенниса · Пример № 07"
+  },
+  "乒乓球台 · 示例07号": {
+    "en": "Table tennis table · Example No. 07"
+  },
+  "乒乓球台·示例07号": {
+    "en": "Table tennis table · Example No. 07"
+  },
+  "乒乓球台 · 示例 08 号": {
+    "en": "Table tennis table · Example No. 08",
+    "ru": "Стол для настольного тенниса · Пример № 08"
+  },
+  "乒乓球台 · 示例08号": {
+    "en": "Table tennis table · Example No. 08"
+  },
+  "乒乓球台·示例08号": {
+    "en": "Table tennis table · Example No. 08"
+  },
+  "示例自习座位，按两小时时段预约；请以学校实际开放安排为准。": {
+    "en": "Example study seats; reservations are made in two-hour time slots; please refer to the school's actual opening arrangements."
+  },
+  "校园模型展示用示例资源，按时段预约，以学校实际安排为准。": {
+    "en": "Example resources for campus model display; reservations are made by time slot, subject to the school's actual arrangements.",
+    "ru": "Пример ресурса для демонстрации модели кампуса. Бронирование по временным интервалам; действуют фактические правила учебного заведения."
+  },
+  "取快递": {
+    "en": "Pick up a package"
+  },
+  "送物品": {
+    "en": "Deliver an item",
+    "ru": "Доставка посылок"
+  },
+  "代买物品": {
+    "en": "Buy items on your behalf"
+  },
+  "第": {
+    "en": "Page"
+  },
+  "页": {
+    "en": ""
+  },
+  "与好友对话": {
+    "en": "Chat with"
+  },
+  "还没有消息。先从好友列表找一位同学聊聊吧。": {
+    "en": "No messages yet. Start a chat with someone from your friends list."
+  },
+  "小事交给伙伴，": {
+    "en": "Your small things,"
+  },
+  "一路顺路同行。": {
+    "en": "Our Ride-Along Journey"
+  },
+  "为下一次好时光，": {
+    "en": "Save a spot"
+  },
+  "留一个位置。": {
+    "en": "for the next great time"
+  },
+  "遇到问题？在这里问": {
+    "ru": "Вопросы или проблемы? Напишите здесь"
+  },
+  "提交问题，等待解答": {
+    "ru": "Отправьте вопрос и ожидайте ответа"
+  },
+  "你的小事，": {
+    "ru": "Ваши мелочи,"
+  },
+  "余额不足？去充值": {
+    "ru": "Недостаточно средств? Пополнить"
+  },
+  "显示 AI 助手": {
+    "ru": "Показать ИИ-помощника"
+  },
+  "先了解科室范围；拿不准时，可向医院人工导诊台咨询。": {
+    "ru": "Прежде всего, определите, что входит в сферу деятельности отделения; если сомневаетесь — обратитесь в справочное бюро больницы."
+  },
+  "关于智能导诊与就医准备的常见问题。": {
+    "ru": "частых вопросах об умном распределении и медицинской помощи"
+  },
+  "导诊建议能代替医生诊断吗？": {
+    "ru": "Может ли умный помощник заменить диагноз врача?"
+  },
+  "不能。高级导诊会显示可能原因，不作确诊，也不提供药物或治疗方案。症状可能由多种原因引起，实际科室选择请咨询医院导诊人员，就医与诊断请以医生意见为准。": {
+    "ru": "Нет. Умный помощник показывает лишь возможные причины недомогания, но не ставит окончательный диагноз, не назначает лекарства и не составляет план лечения. Одни и те же симптомы могут быть вызваны совершенно разными причинами. Чтобы точно выбрать нужное отделение, пожалуйста, обратитесь к дежурному сотруднику на стойке информации в больнице и получите медицинскую консультацию у врача."
+  },
+  "怎样描述症状更清楚？": {
+    "ru": "Как лучше описать симптомы?"
+  },
+  "姓名、性别、账号及选填年龄存入本系统数据库，密码以哈希形式保存。AI简单导诊的演示咨询仅在浏览器页面内存中处理。高级导诊追问期间不入库，确认后会将描述、既往病史和 AI 初步推测自动保存并分诊。仅对应科室和接受该条会诊邀请的医生可查看；内部讨论不显示给患者，正式回复进入患者信箱。": {
+    "ru": "Имя, пол, имя пользователя и возраст (если указан) хранятся в базе данных системы; пароли хранятся в виде хэша. Запросы в простом режиме умного помощника обрабатываются только в памяти браузера. Вопросы в продвинутом режиме умного помощника не сохраняются во время сессии; после подтверждения описания медицинская история и предварительные рекомендации ИИ сохраняются и направляются в соответствующее отделение. Только соответствующее отделение и врачи, которые принимают консультацию, могут видеть эту информацию; внутренние обсуждения не отображаются пациентам, а официальные ответы поступают в почтовый ящик пациента."
+  },
+  "能直接在这里挂号吗？": {
+    "ru": "Можно ли здесь забронировать прием?"
+  },
+  "当前页面没有对接医院预约系统。请通过实际医院的官网、公众号、官方应用或挂号窗口预约。科室、位置及门诊时间均为示例，不能作为真实到院指引。": {
+    "ru": "Этот раздел не интегрирован с системой бронирования больницы. Пожалуйста, запишитесь через официальный сайт больницы, официальный WeChat-аккаунт, официальное приложение или лично в регистратуре. Отделение, расположение и время приема являются примерами и не могут использоваться для реальных посещений больницы."
+  },
+  "遇到紧急情况怎么办？": {
+    "ru": "Что делать в случае экстренных ситуаций?"
+  },
+  "若出现胸痛、呼吸困难、意识异常等紧急表现，请及时拨打 120 或寻求急诊帮助，不要等待 AI 分析或信箱回复。": {
+    "ru": "Если возникает боль в груди, трудность дыхания, нарушение сознания, или внезапное искривление лица, нарушение речи, слабость в конечностях, немедленно звоните 120 или ищите экстренную помощь. Не ждите ответа от умного помощника."
+  },
+  "若出现胸痛、呼吸困难、意识异常，或突然口角歪斜、说话不清、肢体无力等危险表现，请及时拨打 120 或寻求急诊帮助，不要等待在线导诊回复。": {
+    "ru": "Если возникает боль в груди, трудность дыхания, нарушение сознания, или внезапное искривление лица, нарушение речи, слабость в конечностях, немедленно звоните 120 или ищите экстренную помощь. Не ждите ответа от умного помощника."
+  },
+  "顺路之旅。": {
+    "en": "Our Ride-Along Journey",
+    "ru": "наше путешествие по пути"
+  },
+  "校园，在眼前展开。": {
+    "en": "Your campus in a new dimension"
+  },
+  "留一个位置，": {
+    "en": "Save a spot",
+    "ru": "Забронируйте место для следующего времяпрепровождения"
+  },
+  "好时光。": {
+    "en": "for the next great time",
+    "ru": ""
+  },
+  "管理员回复后会在顶部消息中提醒。只有你和管理员可以查看问题。": {
+    "ru": "После ответа администратора вы получите уведомление вверху страницы. Ваше обращение скрыто от других пользователей: видеть проблему можете только вы и администратор."
+  },
+  "还没有消息，打个招呼吧。": {
+    "ru": "Сообщений нет. Начните чат с кем-то из списка друзей."
+  },
+  "已完成订单自动离开广场": {
+    "ru": "Завершённые заказы автоматически пропадают из окна"
+  },
+  "你的身边 ●": {
+    "ru": "Ваше окружение"
+  },
+  "找位同学帮个忙": {
+    "ru": "Найти одногруппника для помощи"
+  },
+  "送东西": {
+    "ru": "Доставка посылок"
+  },
+  "显示助手": {
+    "ru": "Показать ИИ-помощника"
+  },
+  "展开伙伴": {
+    "ru": "Показать ИИ-помощника"
+  },
+  "按预约要求到院报到，留意叫号信息，并准备好病历资料。": {
+    "ru": "Когда прибудете в больницу согласно записи. Проверьте номер запроса и подготовьте медицинские документы."
+  },
+  "你可能想了解": {
+    "ru": "Здесь вы найдёте ответы на самые популярные вопросы."
+  },
+  "首次使用为什么要注册？": {
+    "ru": "Почему при первом входе нужна регистрация?"
+  },
+  "可以说明年龄、主要不适部位、持续时间、变化情况，以及是否伴有其他不适。不要在页面里输入姓名、身份证号、联系方式等个人身份信息。": {
+    "ru": "Укажите ваш возраст, где именно вы чувствуете дискомфорт, как долго это продолжается, меняется ли состояние со временем и есть ли другие жалобы. Не вводите персональную информацию, например, имя, номер ID или контактные данные."
+  },
+  "我的账号资料与咨询内容会被保存吗？": {
+    "ru": "Сохраняются ли мои данные аккаунта и содержание консультации?"
+  },
+  "多语言校园智慧生活服务平台": {
+    "ru": "Многоязычная платформа для умной жизни в кампусе"
+  },
+  "发布需求": {
+    "ru": "Опубликуй запрос"
+  },
+  "同学接单": {
+    "ru": "Одногруппник поможет забрать заказ"
+  },
+  "送达确认": {
+    "ru": "Подтверди получение посылки"
+  },
+  "我们的": {
+    "ru": ""
+  },
+  "支付悬赏并发布": {
+    "ru": "Оплатить и опубликовать"
+  },
+  "例如：我 28 岁，最近两天经常头痛，想知道应该挂什么科…": {
+    "ru": "…в какое отделение обратиться"
+  },
+  "你的校园生活，今天也有新可能。": {
+    "ru": "Твоя жизнь в кампусе – новые возможности каждый день"
+  },
+  "管理员标记重要帖子": {
+    "ru": "Администратор отметил"
+  },
+  "管理员置顶 ·": {
+    "ru": "Администратор отметил"
+  },
+  "管理员标记了 1 篇重要帖子": {
+    "ru": "Администратор отметил 1 пост как важный"
+  },
+  "条": {
+    "ru": "пост как важный"
+  },
+  "一步步梳理就医方向。": {
+    "ru": "Сделайте первый шаг к решению проблемы."
+  },
+  "物品送达": {
+    "ru": "Доставка посылок"
+  },
+  "暂无消息，可以从好友栏开始聊天。": {
+    "ru": "Сообщений нет. Начните чат с кем-то из списка друзей."
+  },
+  "欢迎来到多语校园智慧生活服务平台": {
+    "ru": "Добро пожаловать в многоязычную платформу для умной жизни в кампусе"
+  }
+}

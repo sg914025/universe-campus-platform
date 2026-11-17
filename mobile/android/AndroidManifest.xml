@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Author: UniVerse Team. Android test client for the shared UniVerse website. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="cn.universe.campus.preview" android:versionCode="10002" android:versionName="1.0.2">
+ <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="35" />
+ <uses-permission android:name="android.permission.INTERNET" />
+ <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+ <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+ <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+ <uses-feature android:name="android.hardware.location" android:required="false" />
+ <application android:label="寰校通 UniVerse" android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher" android:theme="@style/AppTheme" android:allowBackup="false" android:usesCleartextTraffic="true" android:networkSecurityConfig="@xml/network_security_config" android:supportsRtl="true" android:debuggable="false" android:enableOnBackInvokedCallback="false">
+  <meta-data android:name="author" android:value="UniVerse Team" />
+  <activity android:name=".MainActivity" android:exported="true" android:windowSoftInputMode="adjustResize" android:configChanges="keyboardHidden|orientation|screenSize">
+   <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
+  </activity>
+ </application>
+</manifest>
+

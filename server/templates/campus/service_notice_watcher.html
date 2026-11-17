@@ -1,0 +1,1 @@
+{% load static campus_ui %}{% if user.is_authenticated %}<span hidden id="service-notice-watch" data-count-url="{% url 'service-unread' %}" data-notices-url="{% url 'my-services' %}#notifications" data-label="{% tr '你有新的服务通知，点击查看' %}"></span><script defer src="{% static 'campus/service-notice-watch.js' %}?v=1"></script>{% endif %}

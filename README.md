@@ -2,6 +2,8 @@
 
 面向中外师生的四语校园生活服务一体化平台。中文、英语、日语、俄语共用校园广场、校园跑腿、场地预约和健康导诊；数字伙伴提供问候、语音入口与办事引导。
 
+评审技术文档：[PDF（28 页）](docs/UniVerse_technical_report.pdf) · [可编辑 Word](docs/UniVerse_technical_report.docx)。文档含模型方案、页面截图、测试与部署说明。
+
 ## 结构与架构
 
 ```text
